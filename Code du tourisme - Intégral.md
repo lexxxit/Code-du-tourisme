@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -4766,10 +4766,9 @@ l'échéancier des recettes et des dépenses.
 
 ###### Article L342-3
 
-La durée de ces contrats est modulée en fonction de la nature et de l'importance des investissements consentis par
-l'aménageur ou l'exploitant. Elle ne peut excéder dix-huit ans que si elle est justifiée par la durée d'amortissement
-technique ou lorsque le contrat porte sur des équipements échelonnés dans le temps. Elle ne peut, en aucun cas, être
-supérieure à trente ans.
+Conformément aux dispositions de l'article L. 1411-2 du code général des collectivités territoriales, la durée de ces
+contrats est modulée en fonction de la nature et de l'importance des investissements consentis par l'aménageur ou
+l'exploitant.
 
 **Liens relatifs à cet article**
 
@@ -4781,6 +4780,14 @@ supérieure à trente ans.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 179 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1411-2 (M)
 
 
 ###### Article L342-4
@@ -5245,10 +5252,10 @@ l'approbation de la modification ou de la révision de ce plan.
 
 Les propriétés privées ou faisant partie du domaine privé d'une collectivité publique peuvent être grevées au profit de la
 commune ou du groupement de communes concerné d'une servitude destinée à assurer le passage, l'aménagement et l'équipement
-des pistes de ski, le survol des terrains où doivent être implantées des remontées mécaniques, l'implantation des supports de
-lignes dont l'emprise au sol est inférieure à quatre mètres carrés, le passage des pistes de montée, les accès nécessaires à
-l'implantation, l'entretien et la protection des pistes et des installations de remontée mécanique ainsi que les accès aux
-voies d'alpinisme et d'escalade en zone de montagne.
+des pistes de ski et des sites nordiques, le survol des terrains où doivent être implantées des remontées mécaniques,
+l'implantation des supports de lignes dont l'emprise au sol est inférieure à quatre mètres carrés, le passage des pistes de
+montée, les accès nécessaires à l'implantation, l'entretien et la protection des pistes et des installations de remontée
+mécanique ainsi que les accès aux voies d'alpinisme et d'escalade en zone de montagne.
 
 **Liens relatifs à cet article**
 
@@ -5274,6 +5281,10 @@ voies d'alpinisme et d'escalade en zone de montagne.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 179 () JORF 24 février 2005
 
 
 ###### Article L342-21
@@ -5318,11 +5329,18 @@ l'enneigement et du cours des travaux agricoles, la servitude s'applique partiel
 
 ###### Article L342-23
 
-Sauf dans le cas où l'institution de la servitude est le seul moyen d'assurer la réalisation des pistes, des équipements ou
-des accès mentionnés à l'article L. 342-20 la servitude ne peut grever les terrains situés à moins de vingt mètres des
-bâtiments à usage d'habitation ou professionnels édifiés ou dont la construction a été autorisée avant la date de
-délimitation des zones et secteurs prévus au troisième alinéa de l'article L. 123-1 du code de l'urbanisme, ni les terrains
-attenant à des maisons d'habitation et clos de murs à la date de cette délimitation.
+La servitude ne peut grever les terrains situés à moins de vingt mètres des bâtiments à usage d'habitation ou professionnel
+édifiés ou dont la construction a été autorisée avant la date de délimitation des zones et secteurs prévus au 6° de l'article
+L. 123-1 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de cette
+délimitation sauf :
+
+- dans le cas où la construction desdits bâtiments est postérieure à l'existence effective de la piste ou des équipements ;
+
+- dans le cas où l'existence effective de la piste ou des équipements est antérieure à l'entrée en vigueur de la loi n°
+2005-157 du 23 février 2005 relative au développement des territoires ruraux ;
+
+- dans le cas où l'institution de la servitude est le seul moyen d'assurer la réalisation des pistes, des équipements ou des
+accès visés à l'article L. 342-20 du présent code.
 
 Le bénéficiaire de la servitude est subrogé au propriétaire du fonds dans l'accomplissement de toutes les formalités
 nécessaires à l'aménagement des pistes et équipements auxquels celui-ci pourrait être tenu en application d'une autre
@@ -5341,8 +5359,14 @@ législation.
 
 	**Cite**:
 
+	  - Loi n°2005-157 2005-02-23
 	  - Code du tourisme. - art. L342-20 (M)
 	  - Code de l'urbanisme - art. L123-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 179 () JORF 24 février 2005
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 
 ###### Article L342-24
@@ -6753,10 +6777,10 @@ Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire
 2333-32, L. 2333-34 à L. 2333-37, L. 2333-39 à L. 2333-44, L. 2333-46 et L. 2333-46-1 du code général des collectivités
 territoriales, ci-après reproduits :
 
-" Art. L. 2333-26 du code général des collectivités territoriales.
+Art. L. 2333-26 du code général des collectivités territoriales.
 
 Dans les stations classées, dans les communes qui bénéficient de la dotation supplémentaire aux communes et groupements
-touristiques ou thermaux et de la dotation particulière aux communes touristiques, dans les conditions fixées au second
+touristiques ou thermaux et de la dotation particulière aux communes touristiques, dans les conditions fixées au deuxième
 alinéa de l'article L. 2333-27, dans les communes littorales au sens de l'article L. 321-2 du code de l'environnement, dans
 les communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la
 montagne, dans les communes qui réalisent des actions de promotion en faveur du tourisme et dans celles qui réalisent des
@@ -6780,6 +6804,10 @@ fins touristiques. Lorsque ces communes sont situées dans leur intégralité ou
 ou d'un parc naturel régional géré par un établissement public administratif, le produit de la taxe peut être reversé par la
 commune ou l'établissement public de coopération intercommunale à l'organisme gestionnaire du parc dans le cadre d'une
 convention.
+
+Les communes de montagne mentionnées à l'article L. 2333-26, membres d'un établissement public de coopération intercommunale
+doté d'une compétence en matière de développement économique, peuvent reverser à cet établissement public tout ou partie de
+la taxe qu'elles perçoivent.
 
 Art. L. 2333-28 du code général des collectivités territoriales.
 
@@ -6811,63 +6839,9 @@ Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiq
 
 1° Les personnes qui sont exclusivement attachées aux malades ;
 
-2° Les mutilés, les blessés et les malades du fait de la guerre. "
+2° Les mutilés, les blessés et les malades du fait de la guerre.
 
-" Art. L. 2333-34 du code général des collectivités territoriales.
-
-Le conseil municipal peut, par délibération, prévoir l'exemption des personnes :
-
-1° Qui, par leur travail ou leur profession, participent au fonctionnement et au développement de la station ;
-
-2° Qui occupent des locaux dont le loyer est inférieur à un montant qu'il détermine.
-
-Art. L. 2333-35 du code général des collectivités territoriales.
-
-Le décret qui fixe le barème détermine, s'il y a lieu, les catégories d'établissements dans lesquels la taxe de séjour n'est
-pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes.
-
-Art. L. 2333-36 du code général des collectivités territoriales.
-
-Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-30, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29.
-
-Art. L. 2333-37 du code général des collectivités territoriales.
-
-La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres intermédiaires qui versent, aux dates fixées
-par délibération du conseil municipal, sous leur responsabilité, au receveur municipal, le montant de la taxe calculé
-conformément aux dispositions des articles L. 2333-29 à L. 2333-36. "
-
-" Art. L. 2333-39 du code général des collectivités territoriales.
-
-Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres intermédiaires
-et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour.
-
-Ce décret fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-37 dans la
-limite du triple du droit dont la commune a été privée.
-
-Art. L. 2333-40 du code général des collectivités territoriales.
-
-Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
-de séjour.
-
-Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret sur la base du classement
-officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29.
-
-Le tarif ne peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par personne et par nuitée.
-
-Art. L. 2333-31 du code général des collectivités territoriales.
-
-Sont exemptés de la taxe de séjour les enfants de moins de treize ans.
-
-Art. L. 2333-32 du code général des collectivités territoriales.
-
-Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiques et uvales :
-
-1° Les personnes qui sont exclusivement attachées aux malades ;
-
-2° Les mutilés, les blessés et les malades du fait de la guerre. "
-
-" Art. L. 2333-34 du code général des collectivités territoriales.
+Art. L. 2333-34 du code général des collectivités territoriales.
 
 Le conseil municipal peut, par délibération, prévoir l'exemption des personnes :
 
@@ -6889,9 +6863,9 @@ Art. L. 2333-37 du code général des collectivités territoriales.
 
 La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres intermédiaires qui versent, aux dates fixées
 par délibération du conseil municipal, sous leur responsabilité, au receveur municipal, le montant de la taxe calculé
-conformément aux dispositions des articles L. 2333-29 à L. 2333-36. "
+conformément aux dispositions des articles L. 2333-29 à L. 2333-36.
 
-" Art. L. 2333-39 du code général des collectivités territoriales.
+Art. L. 2333-39 du code général des collectivités territoriales.
 
 Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres intermédiaires
 et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour.
@@ -6900,6 +6874,54 @@ Ce décret fixe les pénalités pour infraction à ces dispositions et aux oblig
 limite du triple du droit dont la commune a été privée.
 
 Art. L. 2333-40 du code général des collectivités territoriales.
+
+Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont exercées les poursuites auxquelles il y a lieu de
+procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi que les conditions dans
+lesquelles sont jugées les réclamations.
+
+Art. L. 2333-41 du code général des collectivités territoriales.
+
+La taxe de séjour forfaitaire est établie sur les logeurs, hôteliers et propriétaires qui hébergent les personnes visées à
+l'article L. 2333-29. Elle est assise sur la capacité d'accueil et le nombre de nuitées comprises à la fois dans la période
+d'ouverture de l'établissement et la période de perception mentionnée à l'article L. 2333-28.
+
+La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat.
+
+Art. L. 2333-41-1 du code général des collectivités territoriales.
+
+Sont exemptés de la taxe de séjour forfaitaire les établissements exploités depuis moins de deux ans.
+
+Art. L. 2333-42 du code général des collectivités territoriales.
+
+Le tarif de la taxe de séjour forfaitaire est fixé avant le début de la période de perception, par délibération du conseil
+municipal, conformément à un barème établi par décret pour chaque nature et pour chaque catégorie d'hébergement sur la base
+du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. Le tarif ne
+peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par unité de capacité d'accueil et par nuitée.
+
+Le montant total de la taxe peut être réduit par application d'un coefficient destiné à tenir compte de la fréquentation
+habituelle des établissements d'hébergement pendant la période de perception. Le conseil municipal fixe le coefficient par
+nature d'hébergement et pour tout le territoire de la commune au plus tard deux mois avant le premier jour de la période de
+perception.
+
+Art. L. 2333-43 du code général des collectivités territoriales.
+
+Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-42, les villas, locaux et autres
+installations accueillant les personnes visées à l'article L. 2333-29.
+
+Art. L. 2333-44 du code général des collectivités territoriales.
+
+La taxe de séjour forfaitaire est versée au receveur municipal par les logeurs, hôteliers et propriétaires aux dates fixées
+par délibération du conseil municipal.
+
+Art. L. 2333-46 du code général des collectivités territoriales.
+
+Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers et propriétaires ainsi que les
+justificatifs qu'ils doivent fournir au moment du versement de la taxe.
+
+Il fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-44 dans la limite du
+triple du droit dont la commune a été privée et détermine les modalités suivant lesquelles sont exercées les poursuites
+auxquelles il y a lieu de procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi
+que les conditions dans lesquelles sont jugées les réclamations.
 
 Art. L. 2333-46-1 du code général des collectivités territoriales.
 
@@ -6909,7 +6931,7 @@ inférieure à leur capacité d'accueil, le conseil municipal peut autoriser le 
 séjour forfaitaire aux établissements qui en font la demande.
 
 Pour pouvoir bénéficier de ces dégrèvements, les logeurs, hôteliers, propriétaires doivent justifier que les circonstances
-visées au premier alinéa ont entraîné une baisse importante de leur chiffre d'affaires. "
+visées au premier alinéa ont entraîné une baisse importante de leur chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
@@ -6927,9 +6949,13 @@ visées au premier alinéa ont entraîné une baisse importante de leur chiffre 
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 184 () JORF 24 février 2005
+
 	**Cité par**:
 
-	  - Code du tourisme. - art. L443-1 (V)
+	  - Code du tourisme. - art. L443-1 (VD)
 
 
 ###### Article L422-4
@@ -7007,66 +7033,73 @@ protection et de gestion de leurs espaces naturels. "
 ###### Article L422-6
 
 Les règles relatives à l'assujettissement à une taxe communale des entreprises exploitant des engins de remontée mécanique
-sont fixées par les articles L. 2333-49 à L. 2333-53 du code général des collectivités territoriales ci-après reproduits :
+sont fixées par les articles L. 2333-49 à L. 2333-53 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art. L. 2333-49 du code général des collectivités territoriales.
+" Art.L. 2333-49 du code général des collectivités territoriales. 
 
 Les entreprises exploitant des engins de remontée mécanique peuvent être assujetties en zone de montagne à une taxe communale
 portant sur les recettes brutes provenant de la vente des titres de transport et dont le produit est versé au budget
-communal.
+communal. 
 
 Le montant de la taxe est inclus dans le prix du titre de transport et perçu sur l'usager.
 
-L'assiette de la taxe ne comprend ni le montant de celle-ci, ni celui de la taxe départementale prévue à l'article L. 3333-4.
+L'assiette de la taxe ne comprend ni le montant de celle-ci, ni celui de la taxe départementale prévue à l'article L.
+3333-4. 
 
 Elle est recouvrée par la commune comme en matière de taxe sur le chiffre d'affaires dans les conditions fixées par décret en
-Conseil d'Etat.
+Conseil d'Etat. "
 
-Art. L. 2333-50 du code général des collectivités territoriales.
+" Art.L. 2333-50 du code général des collectivités territoriales. 
 
 La taxe communale est instituée par délibération du conseil municipal qui en fixe le taux dans la limite de 3 % des recettes
-brutes provenant de la vente des titres de transport.
+brutes provenant de la vente des titres de transport. "
 
-Art. L. 2333-51 du code général des collectivités territoriales.
+" Art.L. 2333-51 du code général des collectivités territoriales. 
 
 Si l'exploitation des remontées mécaniques s'étend sur plusieurs communes ou plusieurs départements, la répartition de
 l'assiette de la taxe visée à l'article L. 2333-49 entre lesdites communes ou lesdits départements est fixée, à défaut
-d'accord entre eux, par le représentant de l'Etat dans des conditions fixées par décret en Conseil d'Etat.
+d'accord entre eux, par le représentant de l'Etat dans des conditions fixées par décret en Conseil d'Etat. " 
 
-Art. L. 2333-52 du code général des collectivités territoriales.
+" Art.L. 2333-52 du code général des collectivités territoriales. 
 
 Les communes ou les établissements publics de coopération intercommunale qui percevaient à la date du 31 décembre 1983 la
 taxe spéciale portant sur les recettes brutes provenant de la vente des titres de transport par les entreprises exploitant
 des engins de remontées mécaniques sur la base d'un taux supérieur à 3 % se voient attribuer par le département, lorsque
 celui-ci perçoit la taxe visée à l'article L. 3333-4, une dotation égale à la différence entre le produit de la taxe au taux
 de 3 % et celui de la taxe au taux antérieurement fixé. Toutefois, il n'en est ainsi que si les communes concernées
-appliquent le taux de 3 % pour la taxe créée par l'article L. 2333-49. Cette dotation est versée trimestriellement.
+appliquent le taux de 3 % pour la taxe créée par l'article L. 2333-49. Cette dotation est versée trimestriellement. 
 
 Lorsque les communes ou les établissements publics de coopération intercommunale, qui percevaient, à la date du 31 décembre
 1983, la taxe spéciale visée au premier alinéa au taux de 5 %, appliquent au taux de 3 % la taxe créée par l'article L.
 2333-49, le département peut, s'il a lui-même voté la même taxe au taux de 2 %, plutôt que de verser la dotation prévue à
-l'alinéa précédent, subroger le groupement de communes ou la commune pour percevoir ladite taxe qui lui revient de droit.
+l'alinéa précédent, subroger le groupement de communes ou la commune pour percevoir ladite taxe qui lui revient de droit. 
 
 Lorsque le département ne perçoit pas la taxe ci-dessus, ces communes ou établissements publics de coopération intercommunale
 peuvent percevoir la taxe au taux qu'ils avaient fixé pour la taxe spéciale visée au premier alinéa au titre de l'exercice
-budgétaire 1983.
+budgétaire 1983. "
 
-Art. L. 2333-53 du code général des collectivités territoriales.
+" Art.L. 2333-53 du code général des collectivités territoriales. 
 
 Le produit annuel de la taxe communale est affecté, sous réserve des dispositions prévues au premier alinéa de l'article L.
-2333-52 :
+2333-52 : 
 
-1° A des interventions favorisant le développement agricole en montagne ;
+1° A des interventions favorisant le développement agricole et forestier en montagne ; 
 
 2° Aux dépenses d'équipement, de services, de promotion et de formation induites par le développement du tourisme en montagne
-et les besoins des divers types de clientèle ainsi qu'à l'amélioration des accès ferroviaires et routiers ;
+et les besoins des divers types de clientèle ainsi qu'à l'amélioration des accès ferroviaires et routiers ; 
 
-3° Aux dépenses de développement d'un tourisme d'initiative locale en montagne et des activités qui y contribuent ;
+3° Aux dépenses de développement d'un tourisme d'initiative locale en montagne et des activités qui y contribuent ; 
 
-4° A des charges engagées par les clubs locaux de ski pour la formation technique de leurs jeunes adhérents ;
+4° A des charges engagées par les clubs locaux de ski pour la formation technique de leurs jeunes adhérents ; 
 
 5° Au financement d'actions de prévention des accidents en montagne conduites par des organismes compétents en la matière, et
-notamment par les sociétés de secours en montagne. "
+notamment par les sociétés de secours en montagne ; 
+
+6° Aux dépenses d'équipement et de mise en valeur touristique des espaces forestiers présentant l'une des garanties de
+gestion durable mentionnées à l'article L. 8 du code forestier ; 
+
+7° Aux travaux de protection contre l'érosion naturelle des sols, la prévention des avalanches ou la défense des forêts
+contre les incendies qui incombent à la commune en application du 5° de l'article L. 2212-2. "
 
 **Liens relatifs à cet article**
 
@@ -7074,10 +7107,21 @@ notamment par les sociétés de secours en montagne. "
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 183 () JORF 24 février 2005
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-49 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-50 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-51 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-52 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-53 (V)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales L2333-49 à L2333-53
-	  - Code du tourisme L3333-4, L2333-49, L2333-52
+	  - Code forestier - art. L8 (M)
 
 
 ###### Article L422-7
