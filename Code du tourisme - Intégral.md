@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-02-25
 
 # Partie législative
 
