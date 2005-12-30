@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2005-02-25
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -5576,8 +5576,8 @@ Les règles relatives aux parcs nationaux sont fixées par l'article L. 331-1 du
 
 ###### Article L343-2
 
-Les règles relatives à la mise en valeur des zones périphériques des parcs nationaux sont fixées par l'article L. 331-15 du
-code de l'environnement.
+Les règles relatives au coeur et à l'aire d'adhésion d'un parc national sont fixées par la réglementation et la charte
+prévues aux articles L. 331-2 et L. 331-3 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -5585,7 +5585,7 @@ code de l'environnement.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
@@ -5593,9 +5593,34 @@ code de l'environnement.
 
 	  - Code du tourisme. - art. L343-1 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du tourisme. - art. L343-3 (T)
+	  - Code du tourisme. - art. L363-1 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-2 (V)
+
+
+###### Article L343-3
+
+Les règles relatives à la circulation des véhicules à moteur sur les voies et chemins de chaque commune comprise en tout ou
+partie dans le coeur d'un parc national ou adhérente à la charte du parc sont fixées par l'article L. 362-1 du code de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. L343-2 (T)
 
 	**Cité par**:
 
@@ -5603,12 +5628,12 @@ code de l'environnement.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L331-15 (M)
+	  - Code de l'environnement - art. L362-1 (V)
 
 
 ##### Sous-section 2 : Parcs naturels régionaux.
 
-###### Article L343-3
+###### Article L343-4
 
 Les règles relatives aux parcs naturels régionaux sont fixées par les articles L. 333-2 à L. 333-4 du code de
 l'environnement.
@@ -5619,28 +5644,20 @@ l'environnement.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
 	**Anciens textes**:
 
-	  - Code du tourisme. - art. L343-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L343-4 (T)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L363-1 (M)
+	  - Code du tourisme. - art. L343-3 (T)
 
 	**Cite**:
 
-	  - Code de l'environnement L333-2 à L333-4
+	  - Code de l'environnement - art. L333-2 (V)
 
 
-###### Article L343-4
+###### Article L343-5
 
 Les règles relatives à la circulation des véhicules à moteur sur les voies et chemins de chaque commune adhérente du parc
 sont fixées par l'article L. 362-1 du code de l'environnement.
@@ -5651,26 +5668,26 @@ sont fixées par l'article L. 362-1 du code de l'environnement.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
 	**Anciens textes**:
 
-	  - Code du tourisme. - art. L343-3 (T)
+	  - Code du tourisme. - art. L343-4 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du tourisme. - art. L343-5 (T)
+	  - Code du tourisme. - art. L363-1 (M)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L362-1 (M)
+	  - Code de l'environnement - art. L362-1 (V)
 
 
 ##### Section 3 : Itinéraires de randonnée.
 
-###### Article L343-5
+###### Article L343-6
 
 Les règles relatives aux itinéraires de randonnée sont fixées par les articles L. 361-1 et L. 361-2 du code de
 l'environnement.
@@ -5681,42 +5698,7 @@ l'environnement.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. L343-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L343-6 (T)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L363-1 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L361-1 (M)
-	  - Code de l'environnement - art. L361-2 (V)
-
-
-##### Section 5 : Circulation sur les cours d'eau.
-
-###### Article L343-6
-
-Les règles relatives à la circulation sur les cours d'eau des engins nautiques de loisir non motorisés sont fixées par les
-articles L. 214-12 et L. 214-13 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
@@ -5726,18 +5708,51 @@ articles L. 214-12 et L. 214-13 du code de l'environnement.
 
 	**Nouveaux textes**:
 
-	  - Code du tourisme. - art. L343-7 (T)
 	  - Code du tourisme. - art. L343-7 (V)
 
 	**Cite**:
 
+	  - Code de l'environnement - art. L361-1 (V)
+
+
+##### Section 5 : Circulation sur les cours d'eau.
+
+###### Article L343-7
+
+Les règles relatives à la circulation sur les cours d'eau des engins nautiques sont fixées par les articles L. 214-12 et L.
+214-13 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 27 () JORF 15 avril 2006
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. L343-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. L343-8 (M)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L361-2 (M)
+
+	**Cite**:
+
 	  - Code de l'environnement - art. L214-12 (V)
-	  - Code de l'environnement - art. L214-13 (V)
 
 
 ##### Section 6 : Accueil du public en forêt.
 
-###### Article L343-7
+###### Article L343-8
 
 Les règles relatives à l'accueil du public en forêt sont fixées par l'article L. 380-1 du code forestier.
 
@@ -5747,7 +5762,7 @@ Les règles relatives à l'accueil du public en forêt sont fixées par l'articl
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
@@ -5757,19 +5772,14 @@ Les règles relatives à l'accueil du public en forêt sont fixées par l'articl
 
 	**Anciens textes**:
 
-	  - Code du tourisme. - art. L343-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L343-8 (M)
-	  - Code du tourisme. - art. L343-8 (T)
+	  - Code du tourisme. - art. L343-7 (T)
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L361-2 (M)
+	  - Code du tourisme. - art. L361-2 (V)
 
 
-###### Article L343-8
+###### Article L343-9
 
 Les règles relatives aux conventions entre collectivités locales et leurs groupements et propriétaires de bois, parcs et
 espaces naturels situés sur leur territoire tendant à l'ouverture au public desdits bois, parcs et espaces naturels sont
@@ -5781,25 +5791,17 @@ fixées par l'article L. 130-5 du code de l'urbanisme.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
 	**Anciens textes**:
 
-	  - Code du tourisme. - art. L343-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L343-9 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L361-2 (V)
+	  - Code du tourisme. - art. L343-8 (T)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-5 (M)
+	  - Code de l'urbanisme - art. L130-5 (V)
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
@@ -6805,9 +6807,9 @@ ou d'un parc naturel régional géré par un établissement public administratif
 commune ou l'établissement public de coopération intercommunale à l'organisme gestionnaire du parc dans le cadre d'une
 convention.
 
-Les communes de montagne mentionnées à l'article L. 2333-26, membres d'un établissement public de coopération intercommunale
-doté d'une compétence en matière de développement économique, peuvent reverser à cet établissement public tout ou partie de
-la taxe qu'elles perçoivent.
+Lorsqu'un établissement public de coopération intercommunale doté d'une compétence en matière de développement économique est
+composé d'au moins une commune de montagne mentionnée à l'article L. 2333-26, l'ensemble des communes membres peuvent
+reverser à cet établissement public tout ou partie de la taxe qu'elles perçoivent.
 
 Art. L. 2333-28 du code général des collectivités territoriales.
 
@@ -6945,17 +6947,13 @@ visées au premier alinéa ont entraîné une baisse importante de leur chiffre 
 	  - Code du tourisme L2333-27, L2333-30 à L2333-40, L2563-7, L2333-41 à L2333-46, L2333-29, L2333-30, L2333-29 à L2333-36, L2333-37, L2333-28, L2333-42, L2333-44
 	  - Code de l'environnement - art. L321-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 184 () JORF 24 février 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 123
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L443-1 (VD)
+	  - Code du tourisme. - art. L443-1 (V)
 
 
 ###### Article L422-4
