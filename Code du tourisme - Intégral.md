@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2006-02-24
+Version Consolidée au 2006-04-15
 
 # Partie législative
 
@@ -1179,17 +1179,27 @@ d'activité touristique, sont définies à l'article L. 5214-16 du code généra
 	  - Code du tourisme. - art. L163-10 (Ab)
 
 
-##### Section 2 : Stations classées intercommunales.
+##### Section 2 : Groupements de communes touristiques et de stations classées de tourisme.
 
 ###### Article L134-3
 
-Les dispositions des articles L. 133-11 à L. 133-13 et L. 133-15 sont applicables aux groupements de communes.
+Les dispositions des articles L. 133-11 et L. 133-12 sont applicables aux groupements de communes ou aux fractions de
+groupements de communes constituant un territoire d'un seul tenant et sans enclave. 
+
+Les dispositions des articles L. 133-13 à L. 133-15 sont applicables aux groupements de communes ou aux fractions de
+groupements de communes constituant un territoire d'un seul tenant et sans enclave lorsque le territoire est équipé pour la
+pratique des sports d'hiver et d'alpinisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 2006-04-14 art. 7 I 3°, 4° JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -1202,8 +1212,8 @@ Les dispositions des articles L. 133-11 à L. 133-13 et L. 133-15 sont applicabl
 
 	**Cite**:
 
-	  - Code du tourisme L133-11 à L133-13, L133-15
-	  - Code du tourisme. - art. L133-15 (V)
+	  - Code du tourisme. - art. L133-11 (V)
+	  - Code du tourisme. - art. L133-13 (V)
 
 
 ###### Article L134-4
@@ -1212,6 +1222,14 @@ Les dispositions de la présente section sont applicables aux communes qui ont �
 communes en vue d'obtenir la création d'une station intercommunale.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -1223,17 +1241,18 @@ communes en vue d'obtenir la création d'une station intercommunale.
 	  - Code général des collectivités territoriales - art. L2231-4 (MMN)
 	  - Code général des collectivités territoriales art. L2231-4
 
-	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+##### Section 3 : Offices de tourisme de groupements de collectivités territoriales
 
-
-##### Section 3 : Offices de tourisme intercommunaux.
+##### Sous-section 1 : Dispositions communes
 
 ###### Article L134-5
 
 Un groupement de communes peut, par délibération de l'organe délibérant, instituer un organisme chargé de la promotion du
 tourisme, dénommé office de tourisme, dans les conditions prévues aux articles L. 133-2 à L. 133-10.
+
+Dans les mêmes conditions, plusieurs groupements de communes désirant s'associer pour la promotion du tourisme peuvent créer
+un syndicat mixte en vue d'instituer un office de tourisme sous forme d'un établissement public, industriel et commercial.
 
 **Liens relatifs à cet article**
 
@@ -1244,6 +1263,11 @@ tourisme, dénommé office de tourisme, dans les conditions prévues aux article
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 8 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -1258,9 +1282,11 @@ tourisme, dénommé office de tourisme, dans les conditions prévues aux article
 	  - Code du tourisme L133-2 à L133-10
 
 
+##### Sous-section 2 : Dispositions particulières applicables aux offices de tourisme intercommunaux constitués sous la forme d'un établissement public industriel et commercial.
+
 ###### Article L134-6
 
-Le budget de l'office de tourisme intercommunal comprend en recettes notamment le produit :
+Le budget de l'office de tourisme comprend en recettes notamment le produit :
 
 1° Des subventions ;
 
@@ -1279,6 +1305,15 @@ du groupement de communes.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 8 () JORF 15 avril 2006
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2333-26 (M)
@@ -1287,10 +1322,6 @@ du groupement de communes.
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales art. L2231-14, ecqc les offices de tourisme intercommunaux
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 
 ### TITRE IV : GROUPEMENTS D'INTÉRÊT PUBLIC.
@@ -1330,31 +1361,29 @@ code de la recherche en vue de contribuer à des activités de développement ou
 ###### Article L151-1
 
 Les règles relatives aux compétences de la collectivité territoriale de Corse dans le domaine du tourisme sont fixées par
-l'article L. 4424-31 du code général des collectivités territoriales ci-après reproduit :
+l'article L. 4424-31 du code général des collectivités territoriales ci-après reproduit : 
 
-"Art. L. 4424-31 du code général des collectivités territoriales.
+" Art. L. 4424-31 du code général des collectivités territoriales. 
 
 La collectivité territoriale de Corse détermine et met en oeuvre, dans le cadre du plan d'aménagement et de développement
-durable, les orientations du développement touristique de l'île.
+durable, les orientations du développement touristique de l'île. 
 
 Elle définit, met en oeuvre et évalue la politique du tourisme de la Corse et les actions de promotion qu'elle entend mener.
-Elle assure le recueil, le traitement et la diffusion des données relatives à l'activité touristique en Corse.
+Elle assure le recueil, le traitement et la diffusion des données relatives à l'activité touristique en Corse. 
 
 Elle coordonne les initiatives publiques et privées dans les domaines du développement, de la promotion et de l'information
-touristiques en Corse.
+touristiques en Corse. 
 
 Par dérogation aux articles L. 131-3, L. 131-4 et L. 131-6 à L. 131-10 du code du tourisme, une institution spécialisée est
 chargée, dans le cadre des orientations définies par la collectivité territoriale de Corse, de la coordination de l'ensemble
-des actions de développement du tourisme en Corse.
-
-Cette institution assure notamment la promotion touristique de l'île et met en oeuvre la politique d'aide à la modernisation
-et au développement des structures d'accueil et d'hébergement.
+des actions de développement du tourisme en Corse. Cette institution assure notamment la promotion touristique de l'île et
+met en oeuvre la politique d'aide à la modernisation et au développement des structures d'accueil et d'hébergement. 
 
 Cette institution spécialisée, sur laquelle la collectivité territoriale de Corse exerce un pouvoir de tutelle, est présidée
 par un conseiller exécutif désigné par le président du conseil exécutif. Son conseil d'administration est composé à titre
-majoritaire de représentants élus de l'Assemblée de Corse.
+majoritaire de représentants élus de l'Assemblée de Corse. 
 
-L'institution spécialisée cesse d'exister lorsque la collectivité territoriale de Corse reprend l'exercice de ses missions."
+L'institution spécialisée cesse d'exister lorsque la collectivité territoriale de Corse reprend l'exercice de ses missions. "
 
 **Liens relatifs à cet article**
 
@@ -1362,9 +1391,18 @@ L'institution spécialisée cesse d'exister lorsque la collectivité territorial
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-31 (Ab)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-31 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L131-3 (V)
+	  - Code du tourisme. - art. L131-6 (V)
 
 
 ###### Article L151-2
@@ -1413,15 +1451,18 @@ Les offices et l'agence sont dissous au terme de l'apurement définitif de leurs
 
 ###### Article L151-3
 
-Les règles relatives au classement des stations en Corse sont fixées au I de l'article L. 4424-32 du code général des
-collectivités territoriales ci-après reproduit :
+Les règles relatives à la dénomination des communes touristiques et au classement des stations de tourisme en Corse sont
+fixées aux I A et I de l'article L. 4424-32 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art. L. 4424-32 du code général des collectivités territoriales.
+" I A.-La dénomination des communes touristiques mentionnées aux articles L. 133-11 et L. 134-3 du code du tourisme est
+accordée, par arrêté du président du conseil exécutif de Corse pris pour une durée de cinq ans, à la demande de la commune ou
+de l'établissement public de coopération intercommunale compétent en matière de tourisme et après consultation du conseil des
+sites et de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques.
 
-I. - Le classement des stations mentionnées aux articles L. 133-11, L. 133-13 et L. 134-3 du code du tourisme est prononcé
-par délibération de l'Assemblée de Corse à la demande ou sur avis conforme de la commune ou de l'établissement public de
-coopération intercommunale compétent en matière de tourisme et après consultation du conseil départemental d'hygiène et du
-conseil des sites et après enquête publique. "
+I.-Le classement des stations mentionnées aux articles L. 133-13 et L. 134-3 du même code est prononcé par délibération de
+l'Assemblée de Corse à la demande de la commune ou de l'établissement public de coopération intercommunale compétent en
+matière de tourisme et après consultation du conseil départemental d'hygiène et du conseil des sites et après enquête
+publique. La durée de validité du classement est de douze ans. "
 
 **Liens relatifs à cet article**
 
@@ -1437,9 +1478,19 @@ conseil des sites et après enquête publique. "
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4424-32 (Ab)
+	  - Code du tourisme. - art. L133-13 (V)
+	  - Code du tourisme. - art. L134-3 (M)
+
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-32 (Ab)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-32 (V)
 
 
 ###### Article L151-4
@@ -1620,8 +1671,9 @@ collectivités territoriales.
 
 ###### Article L161-5
 
-Les dispositions applicables à l'ensemble des communes classées stations balnéaires, thermales ou climatiques sont étendues
-aux villes ou stations classées de tourisme de plus de 15 000 habitants du département de la Guyane.
+Les dispositions applicables à l'ensemble des communes classées stations de tourisme au sens de la sous-section 2 de la
+section 2 du chapitre III du titre III du présent livre sont étendues aux villes ou stations classées de tourisme de plus de
+15 000 habitants du département de la Guyane.
 
 **Liens relatifs à cet article**
 
@@ -1634,6 +1686,10 @@ aux villes ou stations classées de tourisme de plus de 15 000 habitants du dép
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L321-1 (VD)
@@ -1645,7 +1701,7 @@ aux villes ou stations classées de tourisme de plus de 15 000 habitants du dép
 ###### Article L162-1
 
 Le conseil général de Saint-Pierre-et-Miquelon exerce les compétences attribuées aux conseils régionaux et aux conseils
-généraux par les chapitres 2 et 3 du titre II du présent livre.
+généraux par les chapitres 1er et 2 du titre III du présent livre.
 
 Dans ces articles, les mots : " région " et " département " sont remplacés par les mots : " collectivité territoriale ".
 
@@ -1655,10 +1711,14 @@ Dans ces articles, les mots : " région " et " département " sont remplacés pa
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+
 
 ###### Article L162-2
 
-Les dispositions des articles L. 133-1 à L. 133-21, L. 134-2, L. 134-3 et L. 141-1 sont remplacées, s'il y a lieu, par les
+Les dispositions des articles L. 133-1 à L. 133-18, L. 134-2, L. 134-3 et L. 141-1 sont remplacées, s'il y a lieu, par les
 dispositions du code des communes applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
@@ -1667,9 +1727,13 @@ dispositions du code des communes applicables localement ayant le même objet.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code du tourisme L133-1 à L133-21, L134-2, L134-3, L141-1
+	  - Code du tourisme L133-1 à L133-18, L134-2, L134-3, L141-1
 	  - Code du tourisme. - art. L134-2 (V)
 	  - Code du tourisme. - art. L134-3 (M)
 	  - Code du tourisme. - art. L141-1 (V)
@@ -1695,8 +1759,7 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 ###### Article L163-1
 
-Sont applicables à Mayotte, sous les réserves énoncées aux articles L. 163-2 à L. 163-4, les articles L. 133-1 à L. 133-13 et
-L. 133-15, à l'exclusion du 5° de l'article L. 133-7 ainsi que les articles L. 133-17 à L. 133-21, L. 134-3 et L. 134-4.
+Les titres Ier et II du présent livre sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -1704,18 +1767,24 @@ L. 133-15, à l'exclusion du 5° de l'article L. 133-7 ainsi que les articles L.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme L163-2 à L163-4, L133-1 à L133-13, L133-15, L133-7, L133-17 à L133-21, L134-3, L134-4
-	  - Code du tourisme. - art. L133-15 (V)
-	  - Code du tourisme. - art. L133-7 (V)
-	  - Code du tourisme. - art. L134-3 (M)
-	  - Code du tourisme. - art. L134-4 (M)
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 4
 
 
 ###### Article L163-2
 
-A l'article L. 133-21, le mot : " région " est remplacé par les mots : " collectivité départementale ".
+La collectivité départementale définit les actions qu'elle entend mener en matière de tourisme et de loisirs, après avis ou
+sur proposition des communes et du conseil économique et social. La mise en oeuvre de ces actions peut être confiée à une
+agence, créée à cet effet, ayant le statut d'établissement public. Cette agence exerce les compétences dévolues aux comités
+régionaux et départementaux du tourisme.
+
+Le conseil d'administration de l'agence, dont la composition est fixée par délibération du conseil général, est composé, pour
+moitié au moins, de conseillers généraux et comprend des représentants des organisations professionnelles intéressées.
 
 **Liens relatifs à cet article**
 
@@ -1723,9 +1792,9 @@ A l'article L. 133-21, le mot : " région " est remplacé par les mots : " colle
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. L133-21 (V)
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -1735,9 +1804,10 @@ A l'article L. 133-21, le mot : " région " est remplacé par les mots : " colle
 
 ###### Article L163-3
 
-Pour l'application de l'article L. 134-1, le 1° du I de l'article L. 5215-20 du code général des collectivités territoriales
-n'est pas applicable à Mayotte et l'article L. 5216-5 du code général des collectivités territoriales est applicable à
-Mayotte dans les conditions prévues à l'article L. 5832-21 du code général des collectivités territoriales.
+Dans le cadre des compétences qui lui sont dévolues par l'article L. 163-2, le conseil général définit les objectifs à moyen
+terme du développement touristique de Mayotte. 
+
+Il établit un schéma d'aménagement touristique de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -1745,63 +1815,92 @@ Mayotte dans les conditions prévues à l'article L. 5832-21 du code général d
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5215-20 (M)
-	  - Code général des collectivités territoriales - art. L5216-5 (Ab)
-	  - Code général des collectivités territoriales - art. L5832-21 (M)
-	  - Code du tourisme. - art. L134-1 (V)
+	  - Code du tourisme. - art. L163-2 (V)
 
 
 ###### Article L163-4
 
-Pour l'application de l'article L. 134-2, l'article L. 5214-16 du code général des collectivités territoriales est applicable
-à compter de la date d'entrée en vigueur à Mayotte du code général des impôts prévue par l'article 68 de la loi n° 2001-616
-du 11 juillet 2001.
+Le conseil général assure le recueil, le traitement et la diffusion des données relatives à l'activité touristique à Mayotte.
 
-Toutefois, le 2° du I de l'article L. 5214-16 du code général des collectivités territoriales est applicable à Mayotte à
-compter du renouvellement des conseils municipaux en 2007.
+Il coordonne les initiatives des autres collectivités territoriales ainsi que les initiatives publiques et privées dans les
+domaines du développement, de la promotion et de l'information touristiques.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 68 (Ab)
-	  - Code général des collectivités territoriales - art. L5214-16 (M)
-	  - Code général des collectivités territoriales L5214-16, L134-2
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
 
 
 ###### Article L163-5
 
-La collectivité départementale définit les actions qu'elle entend mener en matière de tourisme et de loisirs, après avis ou
-sur proposition des communes et du conseil économique et social. La mise en oeuvre de ces actions peut être confiée à une
-agence, créée à cet effet, ayant le statut d'établissement public. Cette agence exerce les compétences dévolues aux comités
-régionaux et départementaux du tourisme.
+Si l'agence prévue au premier alinéa de l'article L. 163-2 n'est pas créée :
 
-Le conseil d'administration de l'agence, dont la composition est fixée par délibération du conseil général, est composé, pour
-moitié au moins, de conseillers généraux et comprend notamment des représentants des organisations professionnelles
-intéressées.
+1° Le conseil général fixe le statut, les principes d'organisation et la composition du comité du tourisme de Mayotte.
+
+Il comprend des délégués du conseil général ainsi que des membres représentant :
+
+a) Les organismes consulaires et, le cas échéant, les comités d'expansion économique ;
+
+b) Les offices de tourisme et les syndicats d'initiative ;
+
+c) Les professions du tourisme et des loisirs ;
+
+d) Les associations de tourisme et de loisirs ;
+
+e) Les communes touristiques ou leurs groupements ;
+
+2° Le comité du tourisme de Mayotte prépare la politique touristique de la collectivité départementale. Le conseil général
+peut lui confier l'élaboration du schéma d'aménagement touristique qui est ensuite soumis à l'approbation du conseil général,
+après consultation du conseil économique et social de la collectivité départementale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales art. L3551-26
-	  - Code général des collectivités territoriales - art. L3551-26 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L163-2 (M)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L3551-26 (Ab)
+	  - Code général des collectivités territoriales art. L3551-26
 
 
 ###### Article L163-6
 
-Les règles relatives au plan d'aménagement et de développement durable de Mayotte sont fixées aux articles L. 3551-31 à L.
-3551-35 du code général des collectivités territoriales.
+Le conseil général confie tout ou partie de la mise en oeuvre de la politique du tourisme de la collectivité départementale
+au comité du tourisme de Mayotte, notamment dans les domaines :
+
+- des études, de la planification, de l'aménagement et de l'équipement ;
+
+- des aides aux hébergements ;
+
+- de l'élaboration, de la promotion et de la commercialisation de produits touristiques, en collaboration avec les
+professionnels, les organismes et toute structure locale intéressés à l'échelon du territoire et intercommunal ;
+
+- de l'assistance technique à la commercialisation ainsi que de la formation professionnelle ;
+
+- de la réalisation des actions de promotion en France et sur les marchés étrangers.
+
+Le comité du tourisme de Mayotte assure le suivi des actions ainsi engagées.
 
 **Liens relatifs à cet article**
 
@@ -1809,15 +1908,15 @@ Les règles relatives au plan d'aménagement et de développement durable de May
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales L3551-31 à L3551-35
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
 
 
 ###### Article L163-7
 
-Les règles relatives aux attributions du conseil de la culture, de l'éducation et de l'environnement sont fixées aux articles
-L. 3533-1 et L. 3533-4 du code général des collectivités territoriales.
+Le comité du tourisme de Mayotte peut s'associer avec des comités régionaux du tourisme pour entreprendre des actions
+touristiques d'intérêt interrégional, national ou international.
 
 **Liens relatifs à cet article**
 
@@ -1825,22 +1924,84 @@ L. 3533-1 et L. 3533-4 du code général des collectivités territoriales.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L3533-1 (V)
-	  - Code général des collectivités territoriales - art. L3533-4 (V)
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
 
 
 ###### Article L163-8
 
-Les références faites, par des dispositions du présent livre applicables à Mayotte, à des dispositions qui n'y sont pas
-applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+Les ressources du comité du tourisme de Mayotte peuvent comprendre :
+
+1° Des subventions et contributions de toute nature de l'Etat, de la collectivité départementale, des communes et de leurs
+groupements ;
+
+2° Des participations de tous autres organismes intéressés ainsi que des personnes privées ;
+
+3° Des redevances pour services rendus ;
+
+4° Des dons et legs.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+
+###### Article L163-9
+
+Le comité du tourisme de Mayotte soumet annuellement son rapport financier au conseil général siégeant en séance plénière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+
+###### Article L163-10
+
+Les articles L. 133-1 à L. 141-1 sont applicables à Mayotte dans les conditions suivantes : 
+
+1° Pour l'application de l'article L. 134-1, la référence à l'article L. 5215-20-1 du code général des collectivités
+territoriales n'est pas applicable à Mayotte et l'article L. 5216-5 du même code est applicable à Mayotte dans les conditions
+prévues à l'article L. 5832-21 du même code ; 
+
+2° Pour l'application de l'article L. 134-2, le 2° du I de l'article L. 5214-16 du code général des collectivités
+territoriales est applicable à compter de la date d'entrée en vigueur à Mayotte du code général des impôts prévue par
+l'article 68 de la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 68
+	  - Code général des collectivités territoriales - art. L5214-16
+	  - Code général des collectivités territoriales - art. L5216-5
+	  - Code du tourisme. - art. L133-1
+	  - Code du tourisme. - art. L134-1
+	  - Code du tourisme. - art. L134-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 4
 
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME
@@ -1868,6 +2029,13 @@ Les dispositions du présent titre s'appliquent également aux opérations de pr
 tels que ceux-ci sont définis à l'article L. 211-2, ainsi qu'aux opérations liées à l'organisation de congrès ou de
 manifestations apparentées dès lors que celle-ci inclut tout ou partie des prestations prévues aux a, b et c du présent
 article.
+
+Les titulaires des licence, agrément, autorisation et habilitation prévus par le présent titre peuvent réaliser sous forme
+électronique les opérations mentionnées aux alinéas précédents dans les conditions prévues par le présent titre et par les
+articles 1369-1 et 1369-3 du code civil ainsi que par les articles L. 121-15-1 à L. 121-15-3 du code de la consommation, par
+la section 2 du chapitre Ier du titre II du livre Ier et par l'article L. 134-2 du même code.
+
+Les modalités d'application du présent titre sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1937,8 +2105,17 @@ article.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 19 () JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 9 () JORF 15 avril 2006
+
 	**Cite**:
 
+	  - Code de la consommation - art. L134-2 (V)
+	  - Code de la consommation L121-15-1 à L121-15-3, L134-2
+	  - Code civil - art. 1369-1 (M)
+	  - Code civil - art. 1369-3 (M)
 	  - Code du tourisme. - art. L211-2 (V)
 
 
@@ -2183,8 +2360,8 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 ###### Article L211-8
 
-Les dispositions du présent titre s'appliquent aux opérations énumérées aux articles L. 211-1, au dernier alinéa de l'article
-L. 211-3 et à l'article L. 211-4.
+Les dispositions de la présente section s'appliquent aux opérations énumérées aux articles L. 211-1, au dernier alinéa de
+l'article L. 211-3 et à l'article L. 211-4.
 
 Toutefois, elles ne sont pas applicables lorsque ces prestations n'entrent pas dans un forfait touristique, tel que défini à
 l'article L. 211-2 :
@@ -2194,6 +2371,12 @@ a) A la réservation et à la vente de titres de transport aérien ou à celle d
 b) A la location de meublés saisonniers, qui demeurent régis par la loi n° 70-9 du 2 janvier 1970 réglementant les conditions
 d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce et par les
 textes pris pour son application.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret a été publié au JO du 7octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -2216,7 +2399,11 @@ textes pris pour son application.
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 2006-04-14 art. 17 3° JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -3574,6 +3761,39 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 
+#### Chapitre 3 : Dispositions relatives à Mayotte
+
+###### Article L243-1
+
+Le présent livre est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+
+###### Article L243-2
+
+Les références faites dans le présent livre à des dispositions qui ne sont pas applicables à Mayotte sont remplacées par des
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+
+
 ## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS
 
 ### TITRE Ier : HÔTELS, RESTAURANTS, CAFÉS ET DÉBITS DE BOISSONS
@@ -4185,13 +4405,13 @@ fixées par décret.
 	  - Code du tourisme. - art. D323-5 (V)
 
 
-#### Chapitre 4 : Meublés de tourisme et gîtes.
+#### Chapitre 4 : Meublés de tourisme et chambres d'hôtes
+
+##### Section 1 : Meublés de tourisme
 
 ###### Article L324-1
 
-Les villas, appartements et chambres meublés, qui sont loués à la semaine et pour un nombre de semaines n'excédant pas douze,
-à l'occasion des vacances, peuvent être classés en catégories, selon des normes et une procédure arrêtées par l'autorité
-administrative.
+L'Etat détermine et met en oeuvre les procédures de classement des meublés de tourisme selon des modalités fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -4202,6 +4422,12 @@ administrative.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 2006-04-14 art. 21 I, II JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
 
 	**Cité par**:
 
@@ -4242,6 +4468,78 @@ qu'un état descriptif des lieux.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 2006-04-14 art. 21 I, II JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+
+
+##### Section 2 : Chambres d'hôtes
+
+###### Article L324-3
+
+Les chambres d'hôtes sont des chambres meublées situées chez l'habitant en vue d'accueillir des touristes, à titre onéreux,
+pour une ou plusieurs nuitées, assorties de prestations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R3332-4-1 (VD)
+	  - Code de la sécurité sociale. - art. L613-1 (VD)
+	  - Code de la sécurité sociale. - art. L622-4 (VT)
+	  - Code du tourisme. - art. D324-13 (V)
+	  - Code général des impôts, CGI. - art. 1383 E bis (V)
+	  - Code général des impôts, CGI. - art. 1407 (V)
+
+
+###### Article L324-4
+
+Toute personne qui offre à la location une ou plusieurs chambres d'hôtes doit en avoir préalablement fait la déclaration
+auprès du maire du lieu de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 2 (V)
+	  - Décret n°2013-191 du 4 mars 2013 (V)
+	  - Code de la santé publique - art. L3332-1-1 (VD)
+	  - Code de la santé publique - art. R3332-4-1 (VD)
+	  - Code du tourisme. - art. D324-15 (VD)
+	  - Code du tourisme. - art. R324-16 (V)
+
+
+###### Article L324-5
+
+Les conditions d'application de la présente section sont définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+
 
 #### Chapitre 5 : Villages et maisons familiales de vacances
 
@@ -4269,6 +4567,31 @@ décret.
 	  - Arrêté du 6 juillet 2010 - art. 2 (VD)
 	  - Code de l'urbanisme - art. *R421-19 (V)
 	  - Code du tourisme. - art. D325-5 (VD)
+
+
+#### Chapitre 6 : Refuges de montagne
+
+###### Article L326-1
+
+Un refuge est un établissement recevant du public, en site isolé de montagne, gardé ou non gardé. Ses caractéristiques sont
+définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 22 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
+	  - Code de l'environnement - art. R362-1-1 (V)
+	  - Code de l'urbanisme - art. R122-7 (VD)
+	  - Code de l'urbanisme - art. R145-3 (VT)
 
 
 ### TITRE III : TERRAINS DE CAMPING, CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS
@@ -4740,7 +5063,8 @@ prévoient à peine de nullité :
 1° L'objet du contrat, sa durée et les conditions dans lesquelles il peut éventuellement être prorogé ou révisé ;
 
 2° Les conditions de résiliation, de déchéance et de dévolution, le cas échéant, des biens en fin de contrat ainsi que les
-conditions d'indemnisation du cocontractant ;
+conditions d'indemnisation du cocontractant. Dans le cas des conventions de remontées mécaniques, l'indemnisation pour les
+biens matériels est préalable à la résiliation du contrat ;
 
 3° Les obligations de chacune des parties et, le cas échéant, le montant de leurs participations financières ;
 
@@ -4763,12 +5087,24 @@ l'échéancier des recettes et des dépenses.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
 
 ###### Article L342-3
 
 Conformément aux dispositions de l'article L. 1411-2 du code général des collectivités territoriales, la durée de ces
 contrats est modulée en fonction de la nature et de l'importance des investissements consentis par l'aménageur ou
 l'exploitant.
+
+Lorsque la durée résiduelle d'un contrat portant sur le service des remontées mécaniques défini à l'article L. 342-9 est
+insuffisante pour permettre l'amortissement normal d'investissements supplémentaires demandés par la personne publique
+délégante pour moderniser les infrastructures existantes, y compris lorsque cette durée peut être prolongée en application
+des deuxième à cinquième alinéas de l'article L. 1411-2 du code général des collectivités territoriales, les parties peuvent
+convenir, par voie d'avenant, des conditions d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas
+amortis au terme du contrat. La personne publique peut se faire rembourser tout ou partie du montant de cette indemnisation
+par le nouveau cocontractant désigné pour poursuivre l'exploitation du service.
 
 **Liens relatifs à cet article**
 
@@ -4783,11 +5119,12 @@ l'exploitant.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 179 () JORF 24 février 2005
+	  - Loi n°2006-437 du 14 avril 2006 - art. 24 () JORF 15 avril 2006
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1411-2 (M)
+	  - Code du tourisme. - art. L342-9 (M)
 
 
 ###### Article L342-4
@@ -4976,18 +5313,23 @@ Sont dénommés " remontées mécaniques " tous les appareils de transports publ
 
 ###### Article L342-8
 
-Sont applicables aux remontées mécaniques les dispositions du premier alinéa de l'article 1er, des articles 5 et 6, du
-paragraphe III de l'article 7, des articles 9, 14, 16 et 17 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des
-transports intérieurs ainsi que les prescriptions prévues aux articles L. 342-1 à L. 342-5, L. 342-9 à L. 342-15 et L. 342-17
-du présent chapitre.
+Sont applicables aux remontées mécaniques les dispositions du premier alinéa de l'article 1er, des articles 5 et 6, du III de
+l'article 7, des articles 9, 14, 16 et 17 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs,
+les dispositions du titre III de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes de
+transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques, les
+prescriptions prévues aux articles L. 342-1 à L. 342-5 du présent code ainsi que, le cas échéant, les dispositions du titre
+Ier de l'ordonnance n° 2004-1198 du 12 novembre 2004 portant diverses dispositions d'adaptation au droit communautaire dans
+le domaine des installations à câbles transportant des personnes et relatives aux remontées mécaniques en montagne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°82-1153 1982-12-30 art. 9, art. 14, art. 16, art. 17
+	  - Loi n°82-1153 1982-12-30 art. 9, art. 14, art. 16, art. 17, art. 1, art. 5, art. 6, art. 7
 	  - Loi n°82-1153 du 30 décembre 1982 - art. 17 (M)
-	  - Code du tourisme 1, 7
+	  - Loi n°2002-3 2002-01-03
+	  - Ordonnance 2004-1198 2004-11-12
+	  - Code du tourisme L342-1 à L342-5
 
 	**Anciens textes**:
 
@@ -4998,12 +5340,17 @@ du présent chapitre.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 23 () JORF 15 avril 2006
+
 
 ###### Article L342-9
 
-Le service des remontées mécaniques est organisé par les communes sur le territoire desquelles elles sont situées ou par
-leurs groupements ou par le département auquel elles peuvent confier par convention, dans les limites d'un périmètre
-géographique défini, l'organisation et la mise en oeuvre du service.
+Le service des remontées mécaniques, le cas échéant étendu aux installations nécessaires à l'exploitation des pistes de ski,
+est organisé par les communes sur le territoire desquelles elles sont situées ou par leurs groupements ou par le département
+auquel elles peuvent confier par convention, dans les limites d'un périmètre géographique défini, l'organisation et la mise
+en oeuvre du service.
 
 Les communes ou leurs groupements peuvent s'associer, à leur demande, au département pour organiser ce service.
 
@@ -5018,6 +5365,10 @@ Les communes ou leurs groupements peuvent s'associer, à leur demande, au dépar
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 24 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -5221,14 +5572,74 @@ III, sont fixées par décret en Conseil d'Etat.
 	  - Code du tourisme. - art. R342-18 (VD)
 
 
+###### Article L342-17-1
+
+Les dispositions de l'article L. 342-17 s'appliquent aux tapis roulants assurant un transport à vocation touristique ou
+sportive dans les stations de montagne. En outre, ces équipements sont soumis, avant mise en exploitation, à l'autorisation
+prévue par l'article L. 445-1 du code de l'urbanisme. 
+
+Les conditions d'application du présent article sont précisées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2001-714 du 31 juillet 2001 - art. 2 (VT)
+	  - Décret n°2003-426 du 9 mai 2003 - art. 16 (V)
+	  - Décret n°2003-426 du 9 mai 2003 - art. 18 (V)
+	  - Arrêté du 7 août 2009 (V)
+	  - Arrêté du 25 février 2010 (Ab)
+	  - Arrêté du 20 mai 2010 (V)
+	  - Arrêté du 26 juillet 2010 (V)
+	  - Arrêté du 26 juillet 2010 - art. 1 (V)
+	  - Arrêté du 29 septembre 2010 (V)
+	  - Arrêté du 29 septembre 2010 - art. 1 (V)
+	  - Décret n°2010-1580 du 17 décembre 2010 - art. 2 (VD)
+	  - Arrêté du 9 août 2011 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Arrêté du 3 mars 2016 (V)
+	  - Arrêté du 12 avril 2016 (V)
+	  - Décret n°2016-1110 du 11 août 2016 - art.
+	  - Arrêté du 30 décembre 2016 (V)
+	  - Arrêté du 17 janvier 2017 (V)
+	  - Arrêté du 10 avril 2017 - art. 1 (VD)
+	  - Code de l'environnement - art. Annexe à l'article R122-2 (VD)
+	  - Code des transports - art. R1612-2 (V)
+	  - Code des transports - art. R1613-2 (V)
+	  - Code des transports - art. R1614-1 (V)
+	  - Code du tourisme. - art. D342-2 (VT)
+	  - Code du tourisme. - art. R342-28 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 16 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-17 (V)
+	  - Code de l'urbanisme - art. L445-1 (V)
+
+
 ###### Article L342-18
 
 La servitude prévue aux articles L. 342-20 à L. 342-23 ne peut être établie qu'à l'intérieur des zones et des secteurs
 délimités dans les plans locaux d'urbanisme ou dans les plans d'occupation des sols en application du 6° de l'article L.
 123-1 du code de l'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de faciliter la
-pratique du ski de fond ou l'accès aux voies d'alpinisme et d'escalade.
+pratique du ski de fond ou l'accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de nature au sens de
+l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et
+sportives ainsi que l'accès aux refuges de montagne.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 50-1 (Ab)
+	  - Code du tourisme L342-20 à L342-23
+	  - Code de l'urbanisme - art. L123-1 (M)
 
 	**Anciens textes**:
 
@@ -5238,10 +5649,10 @@ pratique du ski de fond ou l'accès aux voies d'alpinisme et d'escalade.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme L342-20 à L342-23
-	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Loi n°2006-437 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Cité par**:
 
@@ -5271,18 +5682,27 @@ l'approbation de la modification ou de la révision de ce plan.
 
 ###### Article L342-20
 
-Les propriétés privées ou faisant partie du domaine privé d'une collectivité publique peuvent être grevées au profit de la
-commune ou du groupement de communes concerné d'une servitude destinée à assurer le passage, l'aménagement et l'équipement
-des pistes de ski et des sites nordiques, le survol des terrains où doivent être implantées des remontées mécaniques,
-l'implantation des supports de lignes dont l'emprise au sol est inférieure à quatre mètres carrés, le passage des pistes de
-montée, les accès nécessaires à l'implantation, l'entretien et la protection des pistes et des installations de remontée
-mécanique ainsi que les accès aux voies d'alpinisme et d'escalade en zone de montagne.
+Les propriétés privées ou faisant partie du domaine privé d'une collectivité publique peuvent être grevées, au profit de la
+commune, du groupement de communes, du département ou du syndicat mixte concerné, d'une servitude destinée à assurer le
+passage, l'aménagement et l'équipement des pistes de ski et des sites nordiques destinés à accueillir des loisirs de neige
+non motorisés organisés, le survol des terrains où doivent être implantées des remontées mécaniques, l'implantation des
+supports de lignes dont l'emprise au sol est inférieure à quatre mètres carrés, le passage des pistes de montée, les accès
+nécessaires à l'implantation, l'entretien et la protection des pistes et des installations de remontée mécanique, et, lorsque
+la situation géographique le nécessite, les accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de
+nature au sens de l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 précitée ainsi que les accès aux refuges de
+montagne. 
+
+Une servitude peut être instituée pour assurer, dans le périmètre d'un site nordique, le passage, l'aménagement et
+l'équipement de pistes de loisirs non motorisés en dehors des périodes d'enneigement.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 50-1 (Ab)
+
 	**Anciens textes**:
 
-	  - 1
 	  - Loi n°85-30 1985-01-09 art. 53, al
 
 	**Cité par**:
@@ -5305,16 +5725,16 @@ mécanique ainsi que les accès aux voies d'alpinisme et d'escalade en zone de m
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 179 () JORF 24 février 2005
+	  - Loi n°2006-437 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 
 ###### Article L342-21
 
-La servitude est créée par décision motivée de l'autorité administrative compétente sur proposition du conseil municipal de
-la commune ou de l'organe délibérant du groupement de communes intéressées, après enquête parcellaire effectuée comme en
-matière d'expropriation. En cas d'opposition du conseil municipal d'une commune intéressée, elle est créée par décret en
-Conseil d'Etat. Le dossier de la servitude est tenu à la disposition du public pendant un mois à la mairie de la commune
-concernée.
+La servitude est créée par décision motivée de l'autorité administrative compétente sur proposition de l'organe délibérant de
+la commune, du groupement de communes, du département ou du syndicat mixte intéressé, après enquête parcellaire effectuée
+comme en matière d'expropriation. En cas d'opposition du conseil municipal d'une commune intéressée, elle est créée par
+décret en Conseil d'Etat. Le dossier de la servitude est tenu à la disposition du public pendant un mois à la mairie de la
+commune concernée.
 
 **Liens relatifs à cet article**
 
@@ -5326,6 +5746,10 @@ concernée.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 
 ###### Article L342-22
@@ -5394,23 +5818,27 @@ législation.
 
 La servitude instituée en vertu des articles L. 342-20 à L. 342-23 ouvre droit à indemnité s'il en résulte pour le
 propriétaire du terrain ou l'exploitant un préjudice direct, matériel et certain. Cette indemnité est à la charge du
-bénéficiaire de la servitude. La demande d'indemnité doit, sous peine de forclusion, parvenir à la commune ou au groupement
-de communes bénéficiaires de la servitude dans un délai d'un an à compter de la date où le dommage a été causé ou révélé.
+bénéficiaire de la servitude. La demande d'indemnité doit, sous peine de forclusion, parvenir à la commune, au groupement de
+communes, au département ou au syndicat mixte bénéficiaire de la servitude dans un délai d'un an à compter de la date où le
+dommage a été causé ou révélé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - 1
 	  - Loi n°85-30 1985-01-09 art. 54, al
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code du tourisme L342-20 à L342-23
+	  - Code du tourisme. - art. L342-20 (V)
 
 
 ###### Article L342-25
@@ -5564,13 +5992,32 @@ aérodromes dont la liste est fixée par l'autorité administrative. "
 
 #### Chapitre 3 : Espace rural et naturel.
 
-##### Section 2 : Parcs nationaux et régionaux.
-
-##### Sous-section 1 : Parcs nationaux.
+##### Section 1 : Activités touristiques en milieu rural.
 
 ###### Article L343-1
 
-Les règles relatives aux parcs nationaux sont fixées par l'article L. 331-1 du code de l'environnement.
+I.-Les règles relatives aux activités exercées par un exploitant agricole qui sont dans le prolongement de l'acte de
+production ou qui ont pour support l'exploitation sont fixées par l'article L. 311-1 du code rural ci-après reproduit : 
+
+" Art.L. 311-1 : Sont réputées agricoles toutes les activités correspondant à la maîtrise et à l'exploitation d'un cycle
+biologique de caractère végétal ou animal et constituant une ou plusieurs étapes nécessaires au déroulement de ce cycle ainsi
+que les activités exercées par un exploitant agricole qui sont dans le prolongement de l'acte de production ou qui ont pour
+support l'exploitation. Les activités de cultures marines sont réputées agricoles, nonobstant le statut social dont relèvent
+ceux qui les pratiquent. Il en est de même des activités de préparation et d'entraînement des équidés domestiques en vue de
+leur exploitation, à l'exclusion des activités de spectacle. 
+
+Les activités agricoles ainsi définies ont un caractère civil. 
+
+Toutefois, pour la détermination des critères d'affiliation aux régimes de protection sociale des non-salariés et des
+salariés des professions agricoles, sont considérées comme agricoles les activités mentionnées respectivement aux articles L.
+722-1 et L. 722-20. " 
+
+II.-Les règles relatives au régime de protection sociale des non-salariés des professions agricoles applicables aux personnes
+exerçant une activité dans des structures d'accueil touristique situées sur l'exploitation ou dans les locaux de celles-ci
+sont fixées par les deux premiers alinéas de l'article L. 722-1 du code rural. 
+
+III.-Les règles relatives aux activités économiques exercées par les sociétés d'investissement pour le développement rural
+dans les zones de revitalisation rurale sont fixées par l'article L. 112-18 du même code.
 
 **Liens relatifs à cet article**
 
@@ -5578,22 +6025,22 @@ Les règles relatives aux parcs nationaux sont fixées par l'article L. 331-1 du
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Code du tourisme. - art. L343-2 (T)
+	  - PILOTE_SUIVEUR: Code rural - art. L311-1 (V)
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. L363-1 (M)
 
-	**Cite**:
 
-	  - Code de l'environnement - art. L331-1 (M)
+##### Section 2 : Parcs nationaux et régionaux.
 
+##### Sous-section 1 : Parcs nationaux.
 
 ###### Article L343-2
 
@@ -5869,7 +6316,7 @@ La Réunion.
 
 ###### Article L361-2
 
-L'article L. 343-7 n'est pas applicable à la Guyane.
+L'article L. 343-8 n'est pas applicable à la Guyane.
 
 **Liens relatifs à cet article**
 
@@ -5877,9 +6324,13 @@ L'article L. 343-7 n'est pas applicable à la Guyane.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L343-7 (T)
+	  - Code du tourisme. - art. L343-8 (V)
 
 
 ###### Article L361-3
@@ -5936,33 +6387,17 @@ ayant le même objet.
 
 ###### Article L363-1
 
-Sont applicables à Mayotte, sous la réserve citée ci-dessous, les articles L. 341-14, L. 343-1, L. 343-2, L. 343-3 et L.
-343-5.
+Les dispositions des titres Ier à III du présent livre sont applicables dans les conditions suivantes : 
 
-Les articles L. 333-2 et L. 333-4 du code de l'environnement mentionnés à l'article L. 343-3 ne sont pas applicables à
-Mayotte.
+1° Pour l'application de l'article L. 313-1, les articles L. 3331-1, L. 3331-2, L. 3332-11, L. 3335-3 et L. 3335-4 du code de
+la santé publique sont respectivement remplacés par les articles L. 3813-12, L. 3813-13, 
+L. 3813-26, L. 3813-35 et L. 3813-36 du même code ; 
 
-**Liens relatifs à cet article**
+2° Les articles du code de l'environnement mentionnés dans le présent livre sont applicables dans les conditions prévues par
+le droit applicable à Mayotte ; 
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L341-14 (M)
-	  - Code du tourisme. - art. L343-1 (T)
-	  - Code du tourisme. - art. L343-2 (T)
-	  - Code du tourisme. - art. L343-3 (T)
-	  - Code du tourisme. - art. L343-5 (T)
-	  - Code de l'environnement - art. L333-2 (V)
-	  - Code de l'environnement - art. L333-4 (M)
-
-
-###### Article L363-2
-
-Les règles relatives à la fabrication, la mise en vente et la consommation de boissons sont fixées aux articles L. 3813-2, L.
-3813-12 à L. 3813-24 et L. 3813-33 à L. 3813-37 du code de la santé publique.
+3° Les articles du code de l'urbanisme mentionnés dans le présent livre sont applicables dans les conditions prévues par le
+droit applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -5970,33 +6405,16 @@ Les règles relatives à la fabrication, la mise en vente et la consommation de 
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L3813-2 (M)
-	  - Code de la santé publique L3813-2, L3813-12 à L3813-24, L3813-33 à L3813-37
-
-
-###### Article L363-3
-
-L'article L. 311-10 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L311-10 (V)
+	  - Code de la santé publique - art. L3813-12 (V)
+	  - Code de la santé publique - art. L3813-26 (V)
+	  - Code de la santé publique - art. L3813-35 (V)
+	  - Code du tourisme. - art. L313-1 (V)
 
 
 ## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.
@@ -6073,12 +6491,12 @@ l'établissement public institué par l'article L. 411-13.
 
 ###### Article L411-3
 
-Les collectivités publiques et les prestataires de services agréés peuvent, en particulier dans le secteur des transports,
-consentir aux bénéficiaires de chèques-vacances des réductions de tarifs et des bonifications modulées suivant les périodes
-de l'année.
+Les collectivités publiques et les prestataires de services conventionnés peuvent, en particulier dans le secteur des
+transports, consentir aux bénéficiaires de chèques-vacances des réductions de tarifs et des bonifications modulées suivant
+les périodes de l'année.
 
-Les agréments sont délivrés aux prestataires compte tenu des engagements qu'ils prennent en ce qui concerne les prix et la
-qualité de leurs services.
+Les conventions sont signées avec les prestataires compte tenu des engagements qu'ils prennent en ce qui concerne les prix et
+la qualité de leurs services.
 
 **Liens relatifs à cet article**
 
@@ -6091,6 +6509,10 @@ qualité de leurs services.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 11 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -6365,9 +6787,12 @@ l'achat de ces titres.
 ###### Article L411-13
 
 Un établissement public de l'Etat à caractère industriel et commercial doté de l'autonomie financière, prenant le nom
-d'Agence nationale pour les chèques-vacances, est chargé notamment d'émettre les chèques-vacances dans les conditions fixées
-à l'article L. 411-11, et de les rembourser aux collectivités publiques et aux prestataires de services mentionnés aux
-articles L. 411-1 à L. 411-3.
+d'Agence nationale pour les chèques-vacances, est seul chargé d'émettre les chèques-vacances dans les conditions fixées à
+l'article L. 411-11, et de les rembourser aux collectivités publiques et aux prestataires de services mentionnés aux articles
+L. 411-2 et L. 411-3.
+
+Il est placé sous la tutelle du ministre de l'économie et des finances et du ministre chargé du tourisme et soumis au
+contrôle économique et financier de l'Etat. 
 
 Cet établissement est habilité à financer des opérations de nature à faciliter les activités de loisirs des bénéficiaires,
 notamment par des aides destinées aux équipements de tourisme et de loisirs à vocation sociale.
@@ -6376,8 +6801,6 @@ notamment par des aides destinées aux équipements de tourisme et de loisirs à
 
 	**Anciens textes**:
 
-	  - 1
-	  - 1 et 3
 	  - Ordonnance 82-283 1982-03-26 art. 5, al
 	  - Ordonnance n°82-283 du 26 mars 1982 - art. 5, v. init.
 	  - Décret n°82-719 1982-08-16 art. 1, al
@@ -6386,13 +6809,15 @@ notamment par des aides destinées aux équipements de tourisme et de loisirs à
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme L411-11, L411-1 à L411-3
-	  - Code du tourisme. - art. L411-11 (V)
+	  - Loi n°2006-437 2006-04-14 art. 6 I, art. 12, art. 17 4° JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 6 () JORF 15 avril 2006
 
 	**Cité par**:
 
+	  - Code du tourisme. - art. L411-11 (V)
 	  - Code du tourisme. - art. L411-2 (V)
 	  - Code du tourisme. - art. L411-21 (V)
 	  - Code du tourisme. - art. R411-15 (V)
@@ -6405,10 +6830,10 @@ notamment par des aides destinées aux équipements de tourisme et de loisirs à
 
 ###### Article L411-14
 
-L'agence a pour mission de gérer et de développer le dispositif des chèques-vacances. Conformément aux orientations définies
-par son conseil d'administration, elle attribue des aides en faveur des actions relatives aux équipements de tourisme et de
-loisirs à vocation sociale ainsi qu'en faveur des actions contribuant à l'application des politiques sociales du tourisme et
-des vacances.
+L'agence a pour mission essentielle de gérer et de développer le dispositif des chèques-vacances. Conformément aux
+orientations définies par son conseil d'administration, elle attribue des aides en faveur des actions relatives aux
+équipements de tourisme et de loisirs à vocation sociale ainsi qu'en faveur des actions contribuant à l'application des
+politiques sociales du tourisme et des vacances.
 
 **Liens relatifs à cet article**
 
@@ -6420,6 +6845,10 @@ des vacances.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 6 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -6434,18 +6863,29 @@ des vacances.
 
 L'Agence nationale pour les chèques-vacances est administrée par un conseil d'administration comprenant des représentants des
 bénéficiaires de chèques-vacances, désignés sur proposition des organisations syndicales intéressées, des représentants des
-employeurs et organismes habilités à distribuer des chèques-vacances, des représentants des prestataires de services, des
-personnalités qualifiées, compétentes dans le domaine du tourisme et des loisirs et dans le domaine social, et des
-représentants des personnels de l'agence élus par ceux-ci.
+employeurs, des représentants de l'Etat et des collectivités territoriales, des personnalités qualifiées, compétentes dans le
+domaine du tourisme et des loisirs et dans le domaine social, et des représentants des personnels de l'agence élus par ceux-
+ci. 
 
-Elle est dirigée par un directeur général.
+Elle est dirigée par un directeur général. 
+
+Une commission d'attribution est chargée de proposer au directeur général l'affectation des aides mentionnées à l'article L.
+411-14. Elle comprend, en nombre égal : 
+
+1° Des représentants des bénéficiaires de chèques-vacances, désignés sur proposition des organisations syndicales
+intéressées ; 
+
+2° Des représentants de l'Etat ; 
+
+3° Des personnalités qualifiées, compétentes dans le domaine du tourisme et des loisirs et dans le domaine social. 
+
+La qualité de membre de cette commission est incompatible avec celle de membre du conseil d'administration de l'agence et
+avec celle de gestionnaire d'un organisme bénéficiaire d'une aide mentionnée à l'article L. 411-14.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - 1
-	  - 2
 	  - Ordonnance 82-283 1982-03-26 art. 5, al
 	  - Ordonnance n°82-283 du 26 mars 1982 - art. 5, v. init.
 	  - Décret n°82-719 1982-08-16 art. 3 s'agissant des dispositions de nature législatives et art. 10, al
@@ -6453,6 +6893,15 @@ Elle est dirigée par un directeur général.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 13 () JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 14 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L411-14 (V)
 
 	**Cité par**:
 
@@ -6628,7 +7077,9 @@ organisation, de son fonctionnement et de son contrôle ainsi que les conditions
 	  - Code du tourisme. - art. L411-13 (V)
 
 
-#### Chapitre 2 : Agrément d'organismes concourant au tourisme social.
+#### Chapitre 2 : Agrément d'organismes ou de personnes physiques concourant au tourisme social.
+
+##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.
 
 ###### Article L412-1
 
@@ -6646,9 +7097,69 @@ fixées par décret.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 15 () JORF 15 avril 2006
+
 	**Cité par**:
 
 	  - Code du tourisme. - art. L443-1 (V)
+
+
+##### Section 2 : Agrément vacances adaptées organisées.
+
+###### Article L412-2
+
+I. - Toute personne physique ou morale qui organise, en les réalisant ou en les faisant réaliser, des activités de vacances
+avec hébergement d'une durée supérieure à cinq jours destinées spécifiquement à des groupes constitués de personnes
+handicapées majeures doit bénéficier d'un agrément "Vacances adaptées organisées". Cet agrément, dont les conditions et les
+modalités d'attribution et de retrait sont fixées par décret en Conseil d'Etat, est accordé par le représentant de l'Etat
+dans la région.
+
+Si ces activités relèvent du champ d'application des articles L. 211-1 et L. 211-2, cette personne doit en outre être
+titulaire de l'autorisation administrative dans les conditions définies par les chapitres II et III du titre Ier du livre II.
+
+Sont dispensés d'agrément les établissements et services soumis à l'autorisation prévue à l'article L. 313-1 du code de
+l'action sociale et des familles qui organisent des séjours de vacances pour leurs usagers dans le cadre de leur activité.
+
+II. - Le représentant de l'Etat dans le département dans le ressort duquel sont réalisées les activités définies au I peut,
+dans des conditions fixées par décret en Conseil d'Etat, en ordonner la cessation immédiate ou dans le délai nécessaire pour
+organiser le retour des personnes accueillies, lorsque ces activités sont effectuées sans agrément ou lorsque les conditions
+exigées par l'agrément ne sont pas respectées. Le contrôle est confié aux inspecteurs des affaires sanitaires et sociales et
+aux médecins de santé publique de ce département.
+
+III. - Le fait de se livrer aux activités mentionnées au I sans agrément ou de poursuivre l'organisation d'un séjour auquel
+il a été mis fin en application du II est puni de 3 750 euros d'amende. Les personnes morales peuvent être déclarées
+responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de l'infraction définie au présent
+article.
+
+Les peines encourues par les personnes morales sont l'amende, suivant les modalités définies par l'article 131-38 du code
+pénal, ainsi que les peines prévues aux 2°, 4° et 9° de l'article 131-39 du même code, suivant les modalités prévues par ce
+même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 15 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 204 (V)
+	  - Code du tourisme. - art. R412-8 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-2 (V)
 
 
 ### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.
@@ -6696,26 +7207,57 @@ des parcs à décors animés, qui illustrent un thème culturel, sont fixées pa
 	  - Code général des impôts, CGI. - art. 279 (V)
 
 
-##### Section 2 : Dispositions particulières aux résidences de tourisme.
+##### Section 2 : Dispositions particulières à l'investissement dans l'immobilier de loisirs.
 
 ###### Article L421-3
 
-Les règles applicables aux réductions d'impôts accordées au titre des investissements immobiliers locatifs réalisés dans des
-résidences de tourisme classées dans les zones rurales sont fixées par l'article 199 decies E du code général des impôts.
+Les règles applicables aux réductions d'impôt accordées au titre de l'acquisition et, le cas échéant, de la réhabilitation de
+certains logements faisant partie d'une résidence de tourisme classée sont fixées par les articles 199 decies E, 199 decies
+EA et 199 decies G du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 decies E
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 28 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 decies E (V)
+	  - Code général des impôts, CGI. - art. 199 decies G (V)
+
 	**Cité par**:
 
 	  - Code du tourisme. - art. D421-2 (V)
+
+
+###### Article L421-3-1
+
+Les règles applicables aux réductions d'impôt accordées au titre des travaux réalisés dans certains logements faisant partie
+d'une résidence de tourisme classée ou d'un village résidentiel de tourisme classé ou destinés à la location en qualité de
+meublés de tourisme sont fixées par l'article 199 decies F du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 28 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 decies F (V)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D421-3 (V)
 
 
 ##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.
@@ -6750,8 +7292,8 @@ bis et 263 du code général des impôts, le e du 1 de l'article 266 et le 2° d
 
 ###### Article L422-1
 
-Les règles applicables aux exploitants d'hôtels de tourisme saisonniers relatives à la taxe professionnelle sont fixées au V
-de l'article 1478 du code général des impôts.
+Les règles relatives à l'établissement de la taxe professionnelle applicables aux exploitants d'établissements exerçant une
+activité à caractère saisonnier sont fixées au V de l'article 1478 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -6762,6 +7304,10 @@ de l'article 1478 du code général des impôts.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 29 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -7165,42 +7711,41 @@ peut être instituée et perçue directement par cet établissement avec l'accor
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L5211-22 (V)
 
 
-##### Sous-section 3 : Redevance d'accès aux pistes de ski de fond balisées et damées.
+##### Sous-section 3 : Redevance d'accès aux sites nordiques aménagés pour les loisirs de neige non motorisés.
 
 ###### Article L422-8
 
 Les règles relatives à la redevance pour l'accès aux pistes de ski de fond sont fixées par les articles L. 2333-81 à L.
-2333-83 du code général des collectivités territoriales ci-après reproduits :
+2333-83 du code général des collectivités territoriales ci-après reproduits : 
 
-"Art. L. 2333-81 du code général des collectivités territoriales.
+" Art. L. 2333-81 du code général des collectivités territoriales. 
 
-Une redevance pour l'accès aux pistes de ski de fond balisées et régulièrement damées et aux installations collectives
-destinées à favoriser la pratique du ski de fond peut être instituée sur délibération du conseil municipal de la commune dont
-le territoire supporte de tels équipements. Le conseil municipal fixe annuellement le montant de la redevance et les
-conditions de sa perception.
+Une redevance pour l'accès aux installations et aux services collectifs d'un site nordique dédié à la pratique du ski de fond
+et aux loisirs de neige non motorisés autres que le ski alpin et destinés à favoriser la pratique de ces activités peut être
+instituée par délibération du conseil municipal de la commune dont le territoire supporte un tel site, ou de l'établissement
+de coopération intercommunal compétent, dès lors que le site comporte un ou plusieurs itinéraires balisés et des équipements
+d'accueil ainsi que, le cas échéant, d'autres aménagements spécifiques, et qu'il fait l'objet d'une maintenance régulière,
+notamment d'un damage adapté des itinéraires. Chaque année, une délibération fixe le montant de la redevance et les
+conditions de sa perception. 
 
 Dans le cas d'installations s'étendant sur plusieurs communes, le montant et les conditions de perception de la redevance
-sont fixés sur délibérations conjointes des conseils municipaux concernés."
+sont fixés sur délibérations conjointes des conseils municipaux concernés. 
 
-"Art. L. 2333-82 du code général des collectivités territoriales.
+L'accès libre et gratuit au milieu naturel est maintenu sur tout site nordique comportant des itinéraires de ski de fond ou
+de loisirs de neige non motorisés soumis à redevance d'accès, dans le respect des droits des propriétaires, des règlements de
+police en vigueur ainsi que des aménagements et du damage des itinéraires. " 
+
+" Art. L. 2333-82 du code général des collectivités territoriales. 
 
 Le produit de la redevance instituée par l'article L. 2333-81 est affecté à l'entretien et à l'extension des pistes ainsi
-qu'aux opérations tendant à assurer le développement et la promotion du ski de fond."
+qu'aux opérations tendant à assurer le développement et la promotion du ski de fond et des loisirs de neige non motorisés
+pratiqués sur le site nordique. " 
 
-"Art. L. 2333-83 du code général des collectivités territoriales.
+" Art. L. 2333-83 du code général des collectivités territoriales. 
 
-L'association départementale, interdépartementale ou régionale créée en application des articles L. 342-30 à L. 342-32 du
+L'association départementale, interdépartementale ou régionale créée en application des articles L. 342-27 à L. 342-29 du
 code du tourisme peut percevoir, pour le compte et à la demande des communes concernées, la redevance prévue à l'article L.
-2333-81."
-
-**Nota:**
-
-NOTA : L'ordonnance n° 2004-1391 du 20 décembre 2004, relative à la partie législative du code du tourisme, telle que publiée
-au Journal officiel du 24 décembre 2004, comporte des erreurs matérielles de rédaction.
-
-La reproduction, par l'article L. 422-8 du code du tourisme, des dispositions de l'article L. 2333-83 du code général des
-collectivités territoriales est inexacte : il convient donc de se reporter à la version en vigueur de ce dernier article tel
-que modifié par l'ordonnance n° 2004-1391.
+2333-81. "
 
 **Liens relatifs à cet article**
 
@@ -7208,25 +7753,36 @@ que modifié par l'ordonnance n° 2004-1391.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 33 () JORF 15 avril 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-81 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-82 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-83 (V)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales L2333-81 à L2333-83, L342-30 à L342-32
-	  - Code du tourisme L2333-81
+	  - Code du tourisme. - art. L342-27 (VT)
 
 
 ###### Article L422-9
 
 Les règles relatives à la détermination, par l'assemblée délibérante d'un syndicat mixte ayant reçu compétence pour la
-création et la gestion de pistes de ski de fond, de la redevance pour l'accès aux pistes de ski de fond balisées et
-régulièrement damées et aux installations collectives destinées à favoriser la pratique du ski de fond, sont fixées par
-l'article L. 5722-5 du code général des collectivités territoriales ci-après reproduit :
+création et la gestion d'un site nordique dédié à la pratique du ski de fond et aux loisirs de neige non motorisés autres que
+le ski alpin, de la redevance instituée par l'article L. 2333-81 du code général des collectivités territoriales, sont fixées
+par l'article L. 5722-5 du même code ci-après reproduit : 
 
-" Art. L. 5722-5 du code général des collectivités territoriales.
+" Art. L. 5722-5 du code général des collectivités territoriales. 
 
 Par dérogation aux dispositions du second alinéa de l'article L. 2333-81 et si aucune commune territorialement concernée ne
-s'y oppose, lorsqu'un syndicat mixte, existant ou créé à cette fin, a reçu compétence pour la création et la gestion de
-pistes de ski de fond, l'assemblée délibérante décide la création de la redevance visée à l'article L. 2333-81 et en fixe le
-taux. La redevance est perçue à son profit. "
+s'y oppose, lorsqu'un syndicat mixte, existant ou créé à cette fin, a reçu compétence pour la création et la gestion d'un
+site nordique dédié à la pratique du ski de fond et aux loisirs de neige non motorisés autres que le ski alpin, l'assemblée
+délibérante décide la création de la redevance visée à l'article L. 2333-81 et en fixe le taux. La redevance est perçue à son
+profit. "
 
 **Liens relatifs à cet article**
 
@@ -7234,10 +7790,18 @@ taux. La redevance est perçue à son profit. "
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 2006-04-14 art. 33 V, VI JORF 15 avril 2006
+	  - Loi n°2006-437 du 14 avril 2006 - art. 33 () JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5722-5 (M)
-	  - Code du tourisme L2333-81
+	  - Code général des collectivités territoriales - art. L2333-81 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L5722-5 (V)
 
 
 ##### Sous-section 4 : Taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière.
@@ -7245,18 +7809,22 @@ taux. La redevance est perçue à son profit. "
 ###### Article L422-10
 
 Les règles relatives à la taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière perçue au profit
-des communes de moins de 5 000 habitants classées comme stations balnéaires, thermales, climatiques, de tourisme et de sports
-d'hiver sont fixées par l'article 1584 du code général des impôts.
+des communes classées comme stations balnéaires, thermales, climatiques, de tourisme et de sports d'hiver sont fixées par
+l'article 1584 du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1584
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 30 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1584 (V)
 
 
 ##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.
@@ -7305,66 +7873,77 @@ euros par mètre carré, ni excéder 9, 15 euros par mètre carré et par jour. 
 ###### Article L422-12
 
 Les règles relatives au prélèvement sur le produit des jeux dans les casinos sont fixées par les articles L. 2333-54 à L.
-2333-57 du code général des collectivités territoriales ci-après reproduits :
+2333-57 du code général des collectivités territoriales ci-après reproduits : 
 
-"Art. L. 2333-54 du code général des collectivités territoriales.
+" Art.L. 2333-54 du code général des collectivités territoriales. 
+
+Dans les communes qui réalisent des actions de promotion en faveur du tourisme, le conseil municipal peut instituer un
+prélèvement sur le produit brut des jeux dans les casinos. 
 
 Le taux maximum des prélèvements opérés par les communes sur le produit brut des jeux dans les casinos régis par la loi du 15
 juin 1907 réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques en vertu des
-clauses des cahiers des charges de ces établissements ne doit, en aucun cas, dépasser 15 %.
+clauses des cahiers des charges de ces établissements ne doit, en aucun cas, dépasser 15 %. 
 
 Lesdits prélèvements ont la même assiette que le prélèvement de l'Etat, c'est-à-dire s'appliquent au produit brut des jeux
-diminué de 25 %.
+diminué de 25 %. 
 
 Lorsque le taux du prélèvement de l'Etat ajouté au taux du prélèvement communal dépasse 80 %, le taux du prélèvement de
-l'Etat est réduit de façon que le total des deux prélèvements soit de 80 %.
+l'Etat est réduit de façon que le total des deux prélèvements soit de 80 %. 
 
-"Art. L. 2333-55 du code général des collectivités territoriales.
+Les communes peuvent, par convention, reverser tout ou partie du prélèvement au groupement de communes ou au syndicat mixte
+dont elles sont membres lorsqu'il réalise des actions de promotion en faveur du tourisme. " 
+
+" Art.L. 2333-55 du code général des collectivités territoriales. 
 
 Il est reversé à chaque commune, siège d'un casino régi par la loi du 15 juin 1907 précitée, 10 % du prélèvement opéré par
-l'Etat sur le produit brut des jeux réalisé par l'établissement.
+l'Etat sur le produit brut des jeux réalisé par l'établissement. 
 
-Le montant de ce versement ne peut toutefois avoir pour effet d'accroître de plus de 5 % le montant des ressources ordinaires
-de la commune."
+Le montant de ce versement ne peut toutefois avoir pour effet d'accroître de plus de 5 % le montant des recettes réelles de
+de fonctionnement de la commune, ce plafond étant porté à 10 % pour les communes membres d'un établissement public de
+coopération intercommunale faisant application des dispositions de l'article 1609 nonies C du code général des impôts et dont
+le potentiel financier par habitant est inférieur au potentiel financier moyen par habitant de l'ensemble des communes
+appartenant au même groupe démographique. " 
 
-"Art. L. 2333-56 du code général des collectivités territoriales.
+" Art.L. 2333-56 du code général des collectivités territoriales. 
 
 Les tranches du barème du prélèvement progressif opéré sur le produit brut des jeux, en vertu de la loi du 15 juin 1907
-précitée, sont fixées par décret, dans les limites minimum et maximum de 10 % à 80 % du produit brut des jeux."
+précitée, sont fixées par décret, dans les limites minimum et maximum de 10 % à 80 % du produit brut des jeux. " 
 
-"Art. L. 2333-57 du code général des collectivités territoriales.
+" Art.L. 2333-57 du code général des collectivités territoriales. 
 
 Les recettes supplémentaires dégagées au profit des casinos par l'application du nouveau barème prévu à l'article L. 2333-56
 sont consacrées, à concurrence de 50 % de leur montant, à des travaux d'investissement destinés à l'amélioration de
-l'équipement touristique dans les conditions fixées par décret.
+l'équipement touristique dans les conditions fixées par décret. 
 
 Les travaux d'investissement prévus à l'alinéa précédent sont, sauf dispositions expresses du décret prévu au premier alinéa,
-effectués dans la commune où est exploité le casino bénéficiaire de l'application du nouveau barème.
+effectués dans la commune où est exploité le casino bénéficiaire de l'application du nouveau barème. 
 
 Ils peuvent être affectés, en tout ou partie, à l'équipement du casino, de ses annexes et de ses abords, après accord entre
-le concessionnaire des jeux et le conseil municipal.
+le concessionnaire des jeux et le conseil municipal. 
 
 Le décret d'application précise les modalités d'emploi en capital ou annuités d'emprunt et les conditions dans lesquelles
-l'emprunt gagé par les recettes de cette nature est garanti par les collectivités territoriales."
-
-**Nota:**
-
-NOTA : L'ordonnance n° 2004-1391 du 20 décembre 2004, relative à la partie législative du code du tourisme, telle que publiée
-au Journal officiel du 24 décembre 2004, comporte des erreurs matérielles de rédaction.
+l'emprunt gagé par les recettes de cette nature est garanti par les collectivités territoriales. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°1907-06-15
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 7
+	  - Ordonnance 2004-1391 2004-12-20
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-54 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-55 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-56 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-57 (V)
 
 
 ###### Article L422-13
