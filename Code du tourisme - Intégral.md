@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2006-04-15
+Version Consolidée au 2006-04-16
 
 # Partie législative
 
@@ -3535,18 +3535,19 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 #### Chapitre unique : Personnels qualifiés
 
+##### Section 1 : Dispositions générales
+
 ###### Article L221-1
 
 Pour la conduite de visites commentées dans les musées et les monuments historiques, les personnes physiques ou morales
 titulaires d'une licence, d'un agrément, d'une autorisation ou d'une habilitation prévus aux articles L. 212-1, L. 212-2, L.
 212-3, L. 213-1, L. 213-5, L. 213-6, L. 213-7 et L. 232-1 ne peuvent utiliser que les services de personnes qualifiées
-remplissant les conditions fixées par voie réglementaire.
+remplissant les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 13
 	  - Loi n°92-645 du 13 juillet 1992 - art. 13 (Ab)
 
 	**Cité par**:
@@ -3558,20 +3559,9 @@ remplissant les conditions fixées par voie réglementaire.
 	  - Code du tourisme. - art. R221-1 (VD)
 	  - Code du tourisme. - art. R221-18-1 (VT)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L212-1 (V)
-	  - Code du tourisme. - art. L212-2 (V)
-	  - Code du tourisme. - art. L212-3 (V)
-	  - Code du tourisme. - art. L213-1 (V)
-	  - Code du tourisme. - art. L213-5 (V)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L213-7 (V)
-	  - Code du tourisme. - art. L232-1 (V)
+	  - Loi n°2006-437 du 14 avril 2006 - art. 19
 
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME
