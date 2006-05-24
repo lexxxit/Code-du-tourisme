@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2006-04-16
+Version Consolidée au 2006-05-25
 
 # Partie législative
 
@@ -4237,53 +4237,51 @@ Les infractions aux dispositions applicables en matière de classement et de pri
 
 Les règles relatives à la fabrication, la mise en vente et la consommation des boissons sont fixées aux articles L. 3331-1,
 L. 3331-2 et L. 3332-11 du code de la santé publique ainsi qu'aux articles L. 3335-3 et L. 3335-4 du même code, ci-après
-reproduits :
+reproduits : 
 
-" Art. L. 3335-3 du code de la santé publique.
+" Art.L. 3335-3 du code de la santé publique. 
 
 Dans les communes de moins de 2 000 habitants, et lorsque les nécessités touristiques ou d'animation locale le justifient, le
 représentant de l'Etat dans le département peut autoriser le maintien ou l'installation de débits de boissons à consommer sur
-place, dans les zones faisant l'objet des dispositions des articles L. 3335-1 et L. 3335-2.
+place, dans les zones faisant l'objet des dispositions des articles L. 3335-1 et L. 3335-2." 
 
-Art. L. 3335-4 du code de la santé publique.
+" Art.L. 3335-4 du code de la santé publique. 
 
 La vente et la distribution de boissons des groupes 2 à 5 définis à l'article L. 3321-1 est interdite dans les stades, dans
 les salles d'éducation physique, les gymnases et, d'une manière générale, dans tous les établissements d'activités physiques
-et sportives.
+et sportives. 
 
 Des dérogations peuvent être accordées par arrêté des ministres chargés de la santé et du tourisme pour des installations qui
-sont situées dans des établissements classés hôtels ou restaurants de tourisme.
+sont situées dans des établissements classés hôtels ou restaurants de tourisme. 
 
 Sous réserve des décisions de justice passées en force de chose jugée, le maire peut, par arrêté, et dans les conditions
 fixées par décret, accorder des autorisations dérogatoires temporaires, d'une durée de quarante-huit heures au plus, à
 l'interdiction de vente à consommer sur place ou à emporter et de distribution des boissons des deuxième et troisième groupes
 sur les stades, dans les salles d'éducation physique, les gymnases et les établissements d'activités physiques et sportives
 définies par la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et
-sportives, en faveur :
+sportives, en faveur : 
 
-a) Des groupements sportifs agréés dans les conditions prévues par la loi n° 84-610 du 16 juillet 1984 précitée et dans la
-limite des dix autorisations annuelles pour chacun desdits groupements qui en fait la demande ;
+a) Des associations sportives agréées conformément à l'article L. 121-4 du code du sport et dans la limite des dix
+autorisations annuelles pour chacune desdites associations qui en fait la demande ; 
 
-b) Des organisateurs de manifestations à caractère agricole dans la limite de deux autorisations annuelles par commune ;
+b) Des organisateurs de manifestations à caractère agricole dans la limite de deux autorisations annuelles par commune ; 
 
 c) Des organisateurs de manifestations à caractère touristique dans la limite de quatre autorisations annuelles, au bénéfice
 des stations classées et des communes touristiques. "
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°84-610 1984-07-16
-	  - Code de la santé publique - art. L3331-1 (V)
-	  - Code de la santé publique - art. L3331-2 (V)
-	  - Code de la santé publique - art. L3332-11 (M)
-	  - Code de la santé publique - art. L3335-3 (V)
-	  - Code de la santé publique - art. L3335-4 (M)
-	  - Code du tourisme L3335-1, L3335-2, L3321-1
-
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 5 () JORF 25 mai 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L3335-4 (V)
 
 	**Cité par**:
 
