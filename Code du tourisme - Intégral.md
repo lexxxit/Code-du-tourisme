@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2006-10-07
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -7354,9 +7354,9 @@ impôts.
 
 Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire sont fixées par les articles L. 2333-26 à L.
 2333-32, L. 2333-34 à L. 2333-37, L. 2333-39 à L. 2333-44, L. 2333-46 et L. 2333-46-1 du code général des collectivités
-territoriales, ci-après reproduits :
+territoriales, ci-après reproduits : 
 
-Art. L. 2333-26 du code général des collectivités territoriales.
+" Art.L. 2333-26 du code général des collectivités territoriales. 
 
 Dans les stations classées, dans les communes qui bénéficient de la dotation supplémentaire aux communes et groupements
 touristiques ou thermaux et de la dotation particulière aux communes touristiques, dans les conditions fixées au deuxième
@@ -7366,15 +7366,15 @@ montagne, dans les communes qui réalisent des actions de promotion en faveur du
 actions de protection et de gestion de leurs espaces naturels, le conseil municipal peut instituer, pour chaque nature
 d'hébergement à titre onéreux, soit une taxe de séjour perçue dans les conditions prévues aux articles L. 2333-30 à L.
 2333-40 et L. 2564-1, soit une taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L. 2333-41 à L.
-2333-46. Les natures d'hébergement sont fixées par décret en Conseil d'Etat.
+2333-46. Les natures d'hébergement sont fixées par décret en Conseil d'Etat. 
 
 Les délibérations prises en application du premier alinéa précisent les natures d'hébergement auxquelles s'appliquent les
-taxes.
+taxes. "
 
-Art. L. 2333-27 du code général des collectivités territoriales.
+" Art.L. 2333-27 du code général des collectivités territoriales. 
 
 Sous réserve de l'application des dispositions de l'article L. 133-7 du code du tourisme, le produit de la taxe de séjour ou
-de la taxe de séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune.
+de la taxe de séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune. 
 
 Dans les communes qui ont institué la taxe de séjour ou la taxe de séjour forfaitaire au titre des actions de protection et
 de gestion de leurs espaces naturels, le produit de la taxe peut être affecté, sous réserve des dispositions de l'article L.
@@ -7382,155 +7382,180 @@ de gestion de leurs espaces naturels, le produit de la taxe peut être affecté,
 fins touristiques. Lorsque ces communes sont situées dans leur intégralité ou en partie sur le territoire d'un parc national
 ou d'un parc naturel régional géré par un établissement public administratif, le produit de la taxe peut être reversé par la
 commune ou l'établissement public de coopération intercommunale à l'organisme gestionnaire du parc dans le cadre d'une
-convention.
+convention. 
 
 Lorsqu'un établissement public de coopération intercommunale doté d'une compétence en matière de développement économique est
 composé d'au moins une commune de montagne mentionnée à l'article L. 2333-26, l'ensemble des communes membres peuvent
-reverser à cet établissement public tout ou partie de la taxe qu'elles perçoivent.
+reverser à cet établissement public tout ou partie de la taxe qu'elles perçoivent. "
 
-Art. L. 2333-28 du code général des collectivités territoriales.
+" Art.L. 2333-28 du code général des collectivités territoriales. 
 
 La période de perception de la taxe de séjour et de la taxe de séjour forfaitaire est fixée, pour chaque station, par
-délibération du conseil municipal.
+délibération du conseil municipal. "
 
-Art. L. 2333-29 du code général des collectivités territoriales.
+" Art.L. 2333-29 du code général des collectivités territoriales. 
 
 La taxe de séjour est établie sur les personnes qui ne sont pas domiciliées dans la commune et n'y possèdent pas une
-résidence à raison de laquelle elles sont passibles de la taxe d'habitation.
+résidence à raison de laquelle elles sont passibles de la taxe d'habitation. "
 
-Art. L. 2333-30 du code général des collectivités territoriales.
+" Art.L. 2333-30 du code général des collectivités territoriales. 
 
 Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
-de séjour.
+de séjour. 
 
 Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret sur la base du classement
-officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29.
+officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. 
 
-Le tarif ne peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par personne et par nuitée.
+Le tarif ne peut être inférieur à 0, 2 euro, ni supérieur à 1, 5 euro, par personne et par nuitée. "
 
-Art. L. 2333-31 du code général des collectivités territoriales.
+" Art.L. 2333-31 du code général des collectivités territoriales. 
 
-Sont exemptés de la taxe de séjour les enfants de moins de treize ans.
+Sont exemptés de la taxe de séjour les enfants de moins de treize ans. "
 
-Art. L. 2333-32 du code général des collectivités territoriales.
+" Art.L. 2333-32 du code général des collectivités territoriales. 
 
-Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiques et uvales :
+Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiques et uvales : 
 
-1° Les personnes qui sont exclusivement attachées aux malades ;
+1° Les personnes qui sont exclusivement attachées aux malades ; 
 
-2° Les mutilés, les blessés et les malades du fait de la guerre.
+2° Les mutilés, les blessés et les malades du fait de la guerre. " 
 
-Art. L. 2333-34 du code général des collectivités territoriales.
+" Art.L. 2333-34 du code général des collectivités territoriales. 
 
-Le conseil municipal peut, par délibération, prévoir l'exemption des personnes :
+Le conseil municipal peut, par délibération, prévoir l'exemption des personnes : 
 
-1° Qui, par leur travail ou leur profession, participent au fonctionnement et au développement de la station ;
+1° Qui, par leur travail ou leur profession, participent au fonctionnement et au développement de la station ; 
 
-2° Qui occupent des locaux dont le loyer est inférieur à un montant qu'il détermine.
+2° Qui occupent des locaux dont le loyer est inférieur à un montant qu'il détermine. "
 
-Art. L. 2333-35 du code général des collectivités territoriales.
+" Art.L. 2333-35 du code général des collectivités territoriales. 
 
 Le décret qui fixe le barème détermine, s'il y a lieu, les catégories d'établissements dans lesquels la taxe de séjour n'est
-pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes.
+pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes. "
 
-Art. L. 2333-36 du code général des collectivités territoriales.
+" Art.L. 2333-36 du code général des collectivités territoriales. 
 
 Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-30, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29.
+installations accueillant les personnes visées à l'article L. 2333-29. "
 
-Art. L. 2333-37 du code général des collectivités territoriales.
+" Art.L. 2333-37 du code général des collectivités territoriales. 
 
 La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres intermédiaires qui versent, aux dates fixées
 par délibération du conseil municipal, sous leur responsabilité, au receveur municipal, le montant de la taxe calculé
-conformément aux dispositions des articles L. 2333-29 à L. 2333-36.
+conformément aux dispositions des articles L. 2333-29 à L. 2333-36. "
 
-Art. L. 2333-39 du code général des collectivités territoriales.
+" Art.L. 2333-39 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres intermédiaires
-et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour.
+et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour. 
 
 Ce décret fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-37 dans la
-limite du triple du droit dont la commune a été privée.
+limite du quadruple du droit dont la commune a été privée. "
 
-Art. L. 2333-40 du code général des collectivités territoriales.
+" Art.L. 2333-40 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont exercées les poursuites auxquelles il y a lieu de
 procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi que les conditions dans
-lesquelles sont jugées les réclamations.
+lesquelles sont jugées les réclamations. "
 
-Art. L. 2333-41 du code général des collectivités territoriales.
+" Art.L. 2333-41 du code général des collectivités territoriales. 
 
 La taxe de séjour forfaitaire est établie sur les logeurs, hôteliers et propriétaires qui hébergent les personnes visées à
 l'article L. 2333-29. Elle est assise sur la capacité d'accueil et le nombre de nuitées comprises à la fois dans la période
-d'ouverture de l'établissement et la période de perception mentionnée à l'article L. 2333-28.
+d'ouverture de l'établissement et la période de perception mentionnée à l'article L. 2333-28. 
 
-La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat.
+La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat. "
 
-Art. L. 2333-41-1 du code général des collectivités territoriales.
+" Art.L. 2333-41-1 du code général des collectivités territoriales. 
 
-Sont exemptés de la taxe de séjour forfaitaire les établissements exploités depuis moins de deux ans.
+Sont exemptés de la taxe de séjour forfaitaire les établissements exploités depuis moins de deux ans. "
 
-Art. L. 2333-42 du code général des collectivités territoriales.
+" Art.L. 2333-42 du code général des collectivités territoriales. 
 
 Le tarif de la taxe de séjour forfaitaire est fixé avant le début de la période de perception, par délibération du conseil
 municipal, conformément à un barème établi par décret pour chaque nature et pour chaque catégorie d'hébergement sur la base
 du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. Le tarif ne
-peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par unité de capacité d'accueil et par nuitée.
+peut être inférieur à 0, 2 euro, ni supérieur à 1, 5 euro, par unité de capacité d'accueil et par nuitée. 
 
 Le montant total de la taxe peut être réduit par application d'un coefficient destiné à tenir compte de la fréquentation
 habituelle des établissements d'hébergement pendant la période de perception. Le conseil municipal fixe le coefficient par
 nature d'hébergement et pour tout le territoire de la commune au plus tard deux mois avant le premier jour de la période de
-perception.
+perception. " 
 
-Art. L. 2333-43 du code général des collectivités territoriales.
+" Art.L. 2333-43 du code général des collectivités territoriales. 
 
 Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-42, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29.
+installations accueillant les personnes visées à l'article L. 2333-29. "
 
-Art. L. 2333-44 du code général des collectivités territoriales.
+" Art.L. 2333-44 du code général des collectivités territoriales. 
 
 La taxe de séjour forfaitaire est versée au receveur municipal par les logeurs, hôteliers et propriétaires aux dates fixées
-par délibération du conseil municipal.
+par délibération du conseil municipal. "
 
-Art. L. 2333-46 du code général des collectivités territoriales.
+" Art.L. 2333-46 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers et propriétaires ainsi que les
-justificatifs qu'ils doivent fournir au moment du versement de la taxe.
+justificatifs qu'ils doivent fournir au moment du versement de la taxe. 
 
 Il fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-44 dans la limite du
 triple du droit dont la commune a été privée et détermine les modalités suivant lesquelles sont exercées les poursuites
 auxquelles il y a lieu de procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi
-que les conditions dans lesquelles sont jugées les réclamations.
+que les conditions dans lesquelles sont jugées les réclamations. "
 
-Art. L. 2333-46-1 du code général des collectivités territoriales.
+" Art.L. 2333-46-1 du code général des collectivités territoriales. 
 
 Lorsque, en raison d'une pollution grave ou d'une situation de catastrophe naturelle constatée dans les conditions prévues à
 l'article L. 125-1 du code des assurances, la fréquentation touristique des établissements concernés a été anormalement
 inférieure à leur capacité d'accueil, le conseil municipal peut autoriser le maire à accorder des dégrèvements de taxe de
-séjour forfaitaire aux établissements qui en font la demande.
+séjour forfaitaire aux établissements qui en font la demande. 
 
 Pour pouvoir bénéficier de ces dégrèvements, les logeurs, hôteliers, propriétaires doivent justifier que les circonstances
-visées au premier alinéa ont entraîné une baisse importante de leur chiffre d'affaires.
+visées au premier alinéa ont entraîné une baisse importante de leur chiffre d'affaires. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°85-30 1985-01-09
-	  - Code général des collectivités territoriales - art. L2333-46 (M)
 	  - Code général des collectivités territoriales - art. L2333-46-1 (V)
-	  - Code général des collectivités territoriales L2333-26 à L2333-32, L2333-34 à L2333-37, L2333-39 à L2333-44, L2333-46, L2333-46-1, L133-7
 	  - Code des assurances - art. L125-1 (M)
-	  - Code du tourisme L2333-27, L2333-30 à L2333-40, L2563-7, L2333-41 à L2333-46, L2333-29, L2333-30, L2333-29 à L2333-36, L2333-37, L2333-28, L2333-42, L2333-44
 	  - Code de l'environnement - art. L321-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
 	  - Loi n°2005-1720 du 30 décembre 2005 - art. 123
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 72 () JORF 27 décembre 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-26 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-27 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-28 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-29 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-30 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-31 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-32 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-34 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-35 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-36 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-37 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-39 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-40 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-41 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-41-1 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-42 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-43 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-44 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-46 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-46-1 (V)
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L443-1 (V)
+	  - Code du tourisme. - art. L443-1 (VD)
 
 
 ###### Article L422-4
@@ -12215,111 +12240,128 @@ un représentant des professionnels des activités hippiques et un représentant
 
 Les règles relatives au classement des stations hydrominérales, climatiques, uvales, balnéaires, de sport d'hiver et
 d'alpinisme ou de tourisme sont fixées par les articles R. 4424-20 à R. 4424-30 du code général des collectivités
-territoriales ci-après reproduits :
+territoriales ci-après reproduits : 
 
-Art. R. 4424-20 du code général des collectivités territoriales.
+" Art.R. 4424-20 du code général des collectivités territoriales. 
 
 Le président du conseil exécutif établit, soit d'office, soit à la demande des conseils municipaux, ou des organes
 délibérants des établissements publics de coopération intercommunale compétents en matière de tourisme, du préfet du
 département ou des associations de tourisme en Corse, la liste des communes, fractions de communes ou groupes de communes
 qu'il estime devoir être classés comme stations hydrominérales, climatiques, uvales, balnéaires, de sport d'hiver et
-d'alpinisme ou de tourisme.
+d'alpinisme ou de tourisme. 
 
-Il engage immédiatement la procédure de classement dans les conditions fixées aux articles R. 4424-21 à R. 4424-23.
+Il engage immédiatement la procédure de classement dans les conditions fixées aux articles R. 4424-21 à R. 4424-23. 
 
-Dans tous les cas où il est saisi d'une demande de classement, le président du conseil exécutif en délivre récépissé.
+Dans tous les cas où il est saisi d'une demande de classement, le président du conseil exécutif en délivre récépissé. " 
 
-Art. R. 4424-21 du code général des collectivités territoriales.
+" Art.R. 4424-21 du code général des collectivités territoriales. 
 
 Le président du conseil exécutif soumet pour avis le projet de classement au conseil départemental de l'environnement et des
 risques sanitaires et technologiques et au conseil des sites siégeant en formation plénière.
 
-A défaut d'être rendus dans le délai de deux mois, les avis sont réputés émis.
+A défaut d'être rendus dans le délai de deux mois, les avis sont réputés émis. " 
 
-Art. R. 4424-22 du code général des collectivités territoriales.
+" Art.R. 4424-22 du code général des collectivités territoriales. 
 
 1° Le projet de classement, assorti des avis mentionnés à l'article R. 4424-21, est déposé pendant un mois à la mairie des
 communes intéressées et tenu à la disposition de toute personne désirant en prendre connaissance. Avertissement en est donné
-par voie de publication et d'affichage. L'accomplissement de cette formalité est attesté par un certificat du maire.
+par voie de publication et d'affichage.L'accomplissement de cette formalité est attesté par un certificat du maire. 
 
 Au cours de l'enquête, le commissaire enquêteur, désigné par le président du tribunal administratif, reçoit dans les locaux
 municipaux, pendant au moins deux journées, les déclarations ou observations auxquelles peut donner lieu le projet de
-classement.
+classement. 
 
-2° Après avoir clos et signé le registre des déclarations, le commissaire enquêteur émet un avis motivé.
+2° Après avoir clos et signé le registre des déclarations, le commissaire enquêteur émet un avis motivé. 
 
-Il transmet immédiatement le dossier de l'enquête au président du conseil exécutif.
+Il transmet immédiatement le dossier de l'enquête au président du conseil exécutif. 
 
 3° Par dérogation au deuxième alinéa du 2° ci-dessus, en l'absence de demande de classement de la part de la commune ou de
 l'établissement public de coopération intercommunale compétent en matière de tourisme ou en cas d'avis défavorable du
 commissaire enquêteur, ce dernier transmet immédiatement le dossier de l'enquête au conseil municipal ou à l'organe
 délibérant de l'établissement public, qui dispose, pour se prononcer, d'un délai de trois mois. En l'absence d'avis dans ce
-délai, la commune ou l'établissement public est réputé avoir émis un avis défavorable.
+délai, la commune ou l'établissement public est réputé avoir émis un avis défavorable. 
 
 Le dossier de l'enquête, assorti de l'avis de l'organe délibérant, est transmis immédiatement au président du conseil
-exécutif.
+exécutif. " 
 
-Art. R. 4424-23 du code général des collectivités territoriales.
+" Art.R. 4424-23 du code général des collectivités territoriales. 
 
 Au vu des avis mentionnés à l'article R. 4422-21 et au 2° de l'article R. 4424-22 et dans les cas prévus au 3° du même
 article R. 4424-22, au vu de l'avis conforme de la commune ou de l'établissement public compétent, le classement est prononcé
-par délibération de l'Assemblée de Corse.
+par délibération de l'Assemblée de Corse. 
 
 Le classement ne peut être décidé que pour autant que les communes, fractions de communes ou groupes de communes remplissent
 les conditions prévues notamment aux articles L. 133-11, L. 133-13, L. 134-3 et L. 134-4 du code du tourisme et aux articles
-R. 133-52 et R. 133-53 du même code.
+R. 133-52 et R. 133-53 du même code. " 
 
-Art. R. 4424-24 du code général des collectivités territoriales.
+" Art.R. 4424-24 du code général des collectivités territoriales.
 
-L'avis de l'Académie de médecine, du Conseil supérieur d'hygiène publique de France ou du Conseil supérieur du thermalisme et
-du climatisme peut être sollicité par le président du conseil exécutif avant le prononcé du classement d'une station
-hydrominérale ou climatique.
+L'avis de l'Académie de médecine ou du Conseil supérieur du thermalisme et du climatisme peut être sollicité par le président
+du conseil exécutif avant le prononcé du classement d'une station hydrominérale ou climatique.
 
 L'avis du Conseil national du tourisme peut être sollicité par le président du conseil exécutif de Corse avant le prononcé du
 classement d'une station balnéaire, de sports d'hiver et d'alpinisme ou de tourisme.
 
 L'avis de la Commission supérieure des monuments historiques peut également être sollicité par le président du conseil
-exécutif de Corse avant le prononcé du classement d'une station de tourisme.
+exécutif de Corse avant le prononcé du classement d'une station de tourisme. " 
 
-Art. R. 4424-25 du code général des collectivités territoriales.
+" Art.R. 4424-25 du code général des collectivités territoriales. 
 
 La délibération portant classement des stations hydrominérales ou climatiques détermine, suivant les circonstances de chaque
 espèce, les mesures à prendre pour faciliter le traitement des personnes privées de ressources suffisantes et des familles
 comprenant trois enfants et plus, telles que gratuité ou réduction du prix des soins médicaux ou autres, institution de
-maisons de repos, logements à prix réduits.
+maisons de repos, logements à prix réduits. " 
 
-Art. R. 4424-26 du code général des collectivités territoriales.
+" Art.R. 4424-26 du code général des collectivités territoriales. 
 
 Lorsque, dans une commune classée comme station hydrominérale ou climatique, des travaux d'assainissement sont jugés
 indispensables par l'Assemblée de Corse, si le conseil municipal, après une mise en demeure, refuse ou néglige d'effectuer
 ces travaux dans le délai imparti par celle-ci, il peut être procédé à la radiation de la commune de la liste des stations
-hydrominérales et climatiques.
+hydrominérales et climatiques. 
 
-La radiation est prononcée par délibération de l'Assemblée de Corse.
+La radiation est prononcée par délibération de l'Assemblée de Corse. " 
 
-Art. R. 4424-27 du code général des collectivités territoriales.
+" Art.R. 4424-27 du code général des collectivités territoriales. 
 
 Les articles R. 134-1 à R. 134-8 du code du tourisme sont applicables aux stations hydrominérale, climatique, uvale,
-balnéaires ou de tourisme de Corse.
+balnéaires ou de tourisme de Corse. " 
 
-Art. R. 4424-28 du code général des collectivités territoriales.
+" Art.R. 4424-28 du code général des collectivités territoriales. 
 
 Les dispositions des articles R. 133-52 et R. 133-53 du code du tourisme sont applicables pour le classement en stations de
-sports d'hiver et d'alpinisme de communes, fractions de communes ou groupes de communes en Corse.
+sports d'hiver et d'alpinisme de communes, fractions de communes ou groupes de communes en Corse. " 
 
-Art. R. 4424-29 du code général des collectivités territoriales.
+" Art.R. 4424-29 du code général des collectivités territoriales. 
 
-Les stations de sports d'hiver et d'alpinisme classées sont tenues d'établir un projet de plan local d'urbanisme.
+Les stations de sports d'hiver et d'alpinisme classées sont tenues d'établir un projet de plan local d'urbanisme. " 
 
-Art. R. 4424-30 du code général des collectivités territoriales.
+" Art.R. 4424-30 du code général des collectivités territoriales. 
 
-La révision du classement d'une station est prononcée selon les formes prévues pour son élaboration.
+La révision du classement d'une station est prononcée selon les formes prévues pour son élaboration. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-1675 2006-12-22 art. 4 JORF 27 décembre 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-20 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-21 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-22 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-23 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-24 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-25 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-26 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-27 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-28 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-29 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-30 (V)
 
 	**Cite**:
 
