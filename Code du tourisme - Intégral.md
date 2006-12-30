@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -4983,6 +4983,27 @@ notamment les règles générales de la police et de l'exploitation de ces mouil
 	  - Code du tourisme. - art. R341-4 (V)
 
 
+###### Article L341-13-1
+
+Afin d'assurer la protection de la santé publique et du milieu aquatique, les navires de plaisance, équipés de toilettes et
+construits après le 1er janvier 2008, qui accèdent aux ports maritimes et fluviaux ainsi qu'aux zones de mouillages et
+d'équipement léger sont munis d'installations permettant soit de stocker, soit de traiter les eaux usées de ces toilettes.
+
+Ces dispositions s'appliquent également aux établissements flottants recevant du public, construits après le 1er janvier 2008
+et stationnant de façon habituelle et prolongée sur le domaine public fluvial. A compter du 1er janvier 2010, elles
+s'appliquent à l'ensemble de ces établissements, quelle que soit leur date de construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 43 () JORF 31 décembre 2006
+
+
 ##### Section 3 : Accès aux rivages et aux plages.
 
 ###### Article L341-14
@@ -6534,9 +6555,10 @@ la qualité de leurs services.
 
 Les salariés doivent justifier chaque année, auprès de leur employeur, que le montant des revenus de leur foyer fiscal de
 l'avant-dernière année, tels qu'ils sont définis au IV de l'article 1417 du code général des impôts, n'excède pas la somme de
-16 320 euros pour la première part de quotient familial, majorée de 3 785 euros par demi-part supplémentaire. Ces chiffres
+21 865 euros  pour la première part de quotient familial, majorée de 5 074 euros par demi-part supplémentaire. Ces chiffres
 sont actualisés chaque année, dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt
-sur le revenu.
+sur le revenu de l'année précédant celle de l'acquisition des chèques-vacances. Le montant obtenu est arrondi, s'il y a lieu,
+à l'euro supérieur.
 
 **Liens relatifs à cet article**
 
@@ -6552,6 +6574,14 @@ sur le revenu.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 76 (V) JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cité par**:
 
