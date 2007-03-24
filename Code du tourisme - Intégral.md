@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-03-25
 
 # Partie législative
 
@@ -20591,6 +20591,72 @@ invité à se faire entendre personnellement ou par mandataire.
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+
+#### Chapitre VI : Refuges de montagne.
+
+###### Article D326-1
+
+Un refuge est un établissement d'hébergement recevant du public gardé ou non, situé en altitude dans un site isolé. 
+
+Son isolement est caractérisé par l'absence d'accès tant par voie carrossable que par remontée mécanique de type téléporté
+ouvertes au public et par l'inaccessibilité pendant au moins une partie de l'année aux véhicules et engins de secours. 
+
+Le refuge est situé en zone de montagne, au sens du chapitre Ier du titre Ier de la loi n° 85-30 du 9 janvier 1985 relative
+au développement et à la protection de la montagne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 du 9 janvier 1985 -  Titre I : Dispositions générales (V)
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
+
+
+###### Article D326-2
+
+Le refuge offre un hébergement à caractère collectif à des personnes de passage. La capacité d'hébergement d'un refuge est
+limitée à 150 personnes. Les mineurs peuvent y être hébergés.
+
+En complément des équipements nécessaires à l'hébergement, le refuge peut disposer des aménagements permettant de dispenser
+un service de restauration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
+
+
+###### Article D326-3
+
+Au titre de sa fonction d'intérêt général d'abri, le refuge dispose en permanence, à l'intérieur, d'un espace ouvert au
+public.
+
+Lorsque le refuge est gardé, cet espace comprend au moins une salle permettant de consommer ses propres provisions.
+
+Lorsque le refuge n'est pas gardé, cet espace offre également un hébergement sommaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
 
 
 ### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.
