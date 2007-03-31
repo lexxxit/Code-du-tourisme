@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-03-25
+Version Consolidée au 2007-04-01
 
 # Partie législative
 
@@ -2158,12 +2158,30 @@ accessoire, un ou plusieurs parcours de transports terrestres assurés par un ou
 
 e) Aux transporteurs ferroviaires qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la délivrance
 de titres de transport ferroviaire ou de titres consécutifs incluant un parcours de transport ferroviaire et, à titre
-accessoire, d'autres parcours de transports terrestres ou aérien assurés par un ou plusieurs transporteurs de voyageurs.
+accessoire, d'autres parcours de transports terrestres ou aérien assurés par un ou plusieurs transporteurs de voyageurs ;
 
-Toutefois, les sections 2 et 3 du présent titre sont applicables aux personnes énumérées aux b, c, d et e ci-dessus, pour
+f) Aux personnes titulaires d'une carte professionnelle délivrée en application de la loi n° 70-9 du 2 janvier 1970 modifiée
+réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds
+de commerce, lorsqu'elles ne réalisent les prestations mentionnées à l'article L. 211-1 qu'à titre accessoire. Ces personnes
+doivent souscrire pour la délivrance de ces prestations une garantie financière permettant le remboursement des fonds, effets
+ou valeurs déposés et une assurance garantissant les conséquences pécuniaires de la responsabilité professionnelle.
+
+Toutefois, les sections 2 et 3 du présent titre sont applicables aux personnes énumérées aux b, c, d, e et f ci-dessus, pour
 leurs activités d'organisation et de vente de forfaits touristiques tels que définis à l'article L. 211-2.
 
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-9 1970-01-02
+	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-2 (V)
 
 	**Cité par**:
 
@@ -2183,20 +2201,37 @@ leurs activités d'organisation et de vente de forfaits touristiques tels que d�
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L211-2 (V)
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 
 ###### Article L211-4
 
-Outre les opérations mentionnées à l'article L. 211-1, les personnes physiques ou morales titulaires d'une licence, d'un
-agrément, d'une autorisation ou d'une habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L. 213-1, L. 213-5, L.
-213-6, L. 213-7 et L. 232-1 peuvent se livrer à des activités de location de meublés saisonniers à usage touristique et de
-places de spectacles.
+Les titulaires d'une licence ou d'une habilitation délivrée en application des dispositions du présent titre peuvent réaliser
+pour le compte d'autrui des locations meublées d'immeubles bâtis, dites locations saisonnières, telles que définies à
+l'article 1er-1 de la loi n° 70-9 du 2 janvier 1970 modifiée réglementant les conditions d'exercice des activités relatives à
+certaines opérations portant sur les immeubles et les fonds de commerce. Ils sont soumis, pour l'exercice de cette activité,
+aux dispositions de l'article 8 de la même loi.
+
+Ils peuvent, en outre, exercer une activité de location de places de spectacles.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 1-1 (V)
+	  - Loi n°70-9 du 2 janvier 1970 - art. 8 (M)
 
 	**Anciens textes**:
 
@@ -2207,17 +2242,9 @@ places de spectacles.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L212-1 (V)
-	  - Code du tourisme. - art. L212-2 (V)
-	  - Code du tourisme. - art. L212-3 (V)
-	  - Code du tourisme. - art. L213-1 (V)
-	  - Code du tourisme. - art. L213-5 (V)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L213-7 (V)
-	  - Code du tourisme. - art. L232-1 (V)
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -2237,26 +2264,23 @@ places de spectacles.
 
 ###### Article L211-5
 
-La définition de la location saisonnière est fixée par l'article 1er-1 de la loi n° 70-9 du 2 janvier 1970 réglementant les
-conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce.
+Tout titulaire d'une licence ou d'une habilitation doit tenir ses livres et documents à la disposition des agents habilités à
+les consulter ; il doit également mentionner ce titre dans son enseigne, dans les documents remis aux tiers et dans sa
+publicité.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 212-6 du
-code du tourisme
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-9 1970-01-02
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
@@ -2267,26 +2291,23 @@ code du tourisme
 
 ###### Article L211-6
 
-Les règles relatives aux conditions d'exercice d'une activité de location saisonnière de meublés hors forfait touristique,
-par les personnes titulaires d'une autorisation administrative délivrée en application du présent titre, sont fixées par
-l'article 8 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines
-opérations portant sur les immeubles et les fonds de commerce.
+Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 212-6 du
-code du tourisme
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-9 du 2 janvier 1970 - art. 8 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 
 ###### Article L211-7
@@ -2340,62 +2361,6 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 
 ##### Section 2 : Contrat de vente de voyages et de séjours
-
-###### Article L211-8
-
-Les dispositions de la présente section s'appliquent aux opérations énumérées aux articles L. 211-1, au dernier alinéa de
-l'article L. 211-3 et à l'article L. 211-4.
-
-Toutefois, elles ne sont pas applicables lorsque ces prestations n'entrent pas dans un forfait touristique, tel que défini à
-l'article L. 211-2 :
-
-a) A la réservation et à la vente de titres de transport aérien ou à celle d'autres titres de transport sur ligne régulière ;
-
-b) A la location de meublés saisonniers, qui demeurent régis par la loi n° 70-9 du 2 janvier 1970 réglementant les conditions
-d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce et par les
-textes pris pour son application.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-9 1970-01-02
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L211-2 (V)
-	  - Code du tourisme. - art. L211-3 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 14
-	  - Loi n°92-645 du 13 juillet 1992 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2006-437 2006-04-14 art. 17 3° JORF 15 avril 2006
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-9 (V)
-	  - Code du tourisme. - art. R211-5 (V)
-	  - Code du tourisme. - art. R212-15 (VT)
-	  - Code du tourisme. - art. R213-33 (VT)
-	  - Code du tourisme. - art. R213-5 (VT)
-
 
 ###### Article L211-9
 
@@ -2687,46 +2652,64 @@ titres de transport aérien, soit à d'autres titres de transport sur ligne rég
 
 ###### Article L211-19
 
-Aucune personne physique ne peut, directement ou par personne interposée, pour son compte ou pour le compte d'autrui, en
-qualité de dirigeant de droit ou de fait d'une personne morale, se livrer ou apporter son concours, même à titre accessoire,
-aux opérations mentionnées à l'article L. 211-1 si elle a fait l'objet :
+Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, se livrer ou apporter son
+concours, même à titre accessoire, à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4, s'il a fait l'objet
+depuis moins de dix ans d'une condamnation définitive :
 
-1° D'une des condamnations prononcées à titre définitif énumérées :
+1° Pour crime ;
 
-- soit à l'article 1er de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales et
-industrielles ;
+2° A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
 
-- soit à l'article 9 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à
-certaines opérations portant sur les immeubles et les fonds de commerce ;
+a) L'une des infractions prévues au titre Ier du livre III du code pénal, et pour les délits prévus par des lois spéciales et
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
-- soit à l'article 13 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de
-crédit ;
+b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévue à la section 2 du chapitre 1er du titre
+II du livre III du code pénal ;
 
-2° Ou d'une condamnation pour l'un des délits prévus aux articles 225-5, 225-6, 225-7 et 225-10 du code pénal ;
+c) Blanchiment ou l'une des infractions prévues aux articles L. 222-38 et L. 324-1 à L. 324-9 du code pénal ;
 
-3° Ou pour le délit prévu à l'article L. 211-21.
+d) Corruption active et passive, trafic d'influence, soustraction et détournement de biens ;
+
+e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
+l'autorité ;
+
+f) Participation à une association de malfaiteurs ;
+
+g)Trafic de stupéfiants ;
+
+h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
+pénal ;
+
+i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
+
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
+
+k) Banqueroute ;
+
+l) Pratique de prêt usuraire ;
+
+m) L'une des infractions prévues par la loi du 21 mai 1836 sur les loteries, par la loi du 15 juin 1907 sur les cercles et
+casinos et par la loi du 12 juillet 1983 relative aux jeux de hasard ;
+
+n) L'une des infractions prévues au livre Ier et aux articles L. 213-1 à L. 213-5 du code de la consommation ;
+
+o) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
+
+p) Fraude fiscale ;
+
+q) L'infraction prévue à l'article L. 353-2 du code monétaire et financier ;
+
+r) L'une des infractions prévues aux articles L. 211-24 et L. 211-25 ;
+
+3° A la destitution des fonctions d'officier public ou ministériel.
 
 **Nota:**
 
-Ordonnance 2005-428 du 6 mai 2005 art. 4 : la référence à la loi n° 47-1635 est remplacée par la référence au code de
-commerce.
-
-Loi 2006-437 2006-04-14 art. 7 VII : Les dispositions de la section 2 du chapitre III du titre III du livre Ier du code du
-tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
-publication du décret mentionné à l'article L. 133-18 du même code.
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1635 du 30 août 1947 - art. 1 (M)
-	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (M)
-	  - Loi n°84-46 1984-01-24 art. 13
-	  - Code pénal - art. 225-10 (M)
-	  - Code pénal - art. 225-5 (M)
-	  - Code pénal - art. 225-6 (M)
-	  - Code pénal - art. 225-7 (M)
-	  - Code du tourisme. - art. L211-1 (M)
 
 	**Anciens textes**:
 
@@ -2750,28 +2733,44 @@ publication du décret mentionné à l'article L. 133-18 du même code.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Cite**:
+
+	  - Code de la consommation L213-1 à L213-5
+	  - Code pénal L222-38, L324-1 à L324-9
+	  - Code monétaire et financier - art. L353-2 (M)
+	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-24 (V)
+	  - Code du tourisme. - art. L211-25 (V)
+	  - Code du tourisme. - art. L211-4 (V)
+	  - Loi n°1836-05-21
+	  - Loi n°1907-06-15
+	  - Loi n°1983-07-12
 
 
 ###### Article L211-20
 
-Les licences, agréments, autorisations ou habilitations délivrés en application du présent titre sont suspendus ou retirés,
-après que l'intéressé a été mis à même de présenter ses observations, si les conditions prévues pour leur délivrance ne sont
-plus remplies ou si le titulaire a méconnu de façon grave ou répétée les obligations qui lui incombent.
+L'incapacité prévue à l'article L. 211-19 s'applique :
+
+- à toute personne à l'égard de laquelle a été prononcée une mesure définitive de faillite personnelle ou une autre mesure
+définitive dans les conditions prévues par le livre VI du code de commerce ;
+
+- aux administrateurs judiciaires et mandataires judiciaires au redressement et à la liquidation des entreprises ayant fait
+l'objet d'une décision définitive de radiation de la liste prévue aux articles L. 811-12 et L. 812-9 du code de commerce ;
+
+- aux membres et anciens membres des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre
+est protégé, ayant fait l'objet d'une décision définitive prononçant une interdiction d'exercer.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 212-6 du
-code du tourisme (en attente de publication).
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Anciens textes**:
 
@@ -2782,33 +2781,34 @@ code du tourisme (en attente de publication).
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L811-12 (M)
+	  - Code de commerce. - art. L812-9 (M)
+	  - Code du tourisme. - art. L211-19 (V)
+
 
 ###### Article L211-21
 
-Sera puni d'une amende de 7 500 euros et, en cas de récidive, d'une amende de 15 000 euros et d'un emprisonnement de six mois
-ou de l'une de ces deux peines seulement :
+En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés à l'article L. 211-19, le tribunal correctionnel
+du domicile du condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de
+la condamnation et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue par
+l'article L. 211-19.
 
-1° Toute personne qui se livre ou apporte son concours à l'une des opérations mentionnées à l'article L. 211-1, en l'absence
-de la licence, de l'agrément, de l'autorisation ou de l'habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L.
-213-1, L. 213-5, L. 213-6, L. 213-7 et L. 232-1 ;
-
-2° Tout dirigeant de droit ou de fait d'une personne morale ou d'un organisme qui se livre ou apporte son concours à l'une
-des opérations mentionnées à l'article L. 211-1, lorsque cette personne morale ou cet organisme ne possède pas la licence,
-l'agrément, l'autorisation ou l'habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L. 213-1, L. 213-5, L. 213-6,
-L. 213-7 et L. 232-1 ;
-
-3° Tout titulaire d'une licence d'agent de voyages qui prête son concours à la conclusion d'un contrat de jouissance
-d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du code de la consommation sans justifier du mandat,
-de l'assurance et de la garantie financière prévus à l'article L. 212-4.
-
-Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes
-condamnées.
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une interdiction de gérer
+prononcée par une juridiction étrangère quand le jugement a été déclaré exécutoire en France. La demande d'exequatur peut
+être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du domicile du condamné.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 212-6 du
-code du tourisme
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -2817,23 +2817,17 @@ code du tourisme
 	  - 1 à 5
 	  - Loi n°92-645 1992-07-13 art. 29, al
 
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L121-60 (V)
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L212-1 (V)
-	  - Code du tourisme. - art. L212-2 (V)
-	  - Code du tourisme. - art. L212-3 (V)
-	  - Code du tourisme. - art. L212-4 (V)
-	  - Code du tourisme. - art. L213-1 (V)
-	  - Code du tourisme. - art. L213-5 (V)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L213-7 (V)
-	  - Code du tourisme. - art. L232-1 (V)
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -2841,19 +2835,67 @@ code du tourisme
 	  - Code du tourisme. - art. L211-22 (V)
 	  - Code du tourisme. - art. R211-51 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
 
 ###### Article L211-22
 
-En cas d'exécution, dûment constatée, sans la licence, l'agrément ou l'autorisation prévus aux articles L. 212-1, L. 212-2,
-L. 212-3, L. 213-1 et L. 213-5 de l'une des opérations mentionnées à l'article L. 211-1, l'autorité administrative compétente
-dans le ressort duquel se trouve exploité l'établissement en infraction peut en ordonner la fermeture à titre provisoire par
-décision motivée, après que l'intéressé a été mis à même de présenter ses observations. L'autorité administrative compétente
-en avise sans délai le procureur de la République. Toutefois, cette fermeture cesse de produire effet à l'expiration d'un
-délai de six mois.
+Les personnes exerçant l'une des activités mentionnées aux articles L. 211-1 et L. 211-4, qui ont encouru l'interdiction
+résultant de l'application des articles qui précèdent, doivent cesser leur activité dans un délai d'un mois à compter de la
+date à laquelle la décision est devenue définitive.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-645 1992-07-13 art. 29, al. 6 et 7
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-4 (V)
+
+
+##### Section 5 : Sanctions.
+
+###### Article L211-24
+
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+
+- de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 en l'absence
+de la licence ou de l'habilitation prévues aux articles L. 212-1 et L. 213-1 ou après avoir cessé de remplir les conditions
+auxquelles sa délivrance est subordonnée ;
+
+- d'exercer les fonctions de représentant légal ou statutaire d'une personne morale qui se livre ou apporte son concours à
+l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 lorsque cette personne morale ne possède pas la licence ou
+l'habilitation prévues aux articles L. 212-1 et L. 213-1 ;
+
+- pour tout titulaire d'une licence d'agent de voyages de prêter son concours à la conclusion d'un contrat de jouissance
+d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du code de la consommation sans justifier du mandat,
+de l'assurance et de la garantie financière prévus à l'article L. 212-4.
+
+Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes
+condamnées.
+
+En cas d'exécution, dûment constatée, sans la licence ou l'habilitation prévue aux articles L. 212-1 et L. 213-1, de l'une
+des opérations mentionnées aux articles L. 211-1 et L. 211-4, le représentant de l'Etat dans le département dans le ressort
+duquel se trouve exploité l'établissement en infraction peut en ordonner la fermeture à titre provisoire par décision motivée
+après que l'intéressé a été mis à même de présenter ses observations. Le représentant de l'Etat dans le département en avise
+sans délai le procureur de la République. En cas d'inexécution de la mesure de fermeture, le représentant de l'Etat dans le
+département peut y pourvoir d'office. Toutefois, cette fermeture provisoire cesse de produire effet à l'expiration d'un délai
+de six mois.
 
 La mesure de fermeture provisoire est levée de plein droit en cas de classement sans suite de l'affaire par le procureur de
 la République, d'ordonnance de non-lieu rendue par une juridiction d'instruction ou lors du prononcé du jugement rendu en
@@ -2862,23 +2904,122 @@ premier ressort par la juridiction saisie.
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 212-6 du
-code du tourisme
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - 6 et 7
-	  - Loi n°92-645 1992-07-13 art. 29, al
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
+	  - Loi n°2006-437 du 14 avril 2006 - art. 20 (V) JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L211-19 (V)
+	  - Code du tourisme. - art. L211-23 (VD)
+	  - Code du tourisme. - art. R211-30 (VD)
+	  - Code du tourisme. - art. R211-44 (V)
+	  - Code du tourisme. - art. R211-46 (V)
+	  - Code du tourisme. - art. R211-49 (V)
+
+
+###### Article L211-25
+
+Est puni des peines prévues à l'article 313-1 du code pénal le fait d'exercer ou de tenter d'exercer une activité
+professionnelle en violation de l'interdiction résultant de l'application des articles L. 211-19 à L. 211-21.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
+	  - Code pénal - art. 313-1
+	  - Code du tourisme.
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L211-19 (V)
+
+
+###### Article L211-26
+
+Les licences ou les habilitations délivrées en application du présent livre sont suspendues ou retirées après que l'intéressé
+a été mis à même de présenter ses observations si les conditions prévues pour leur délivrance ne sont plus remplies ou si le
+titulaire a méconnu de façon grave ou répétée les obligations qui lui incombent.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+
+##### Section 7 : Sanctions et mesures conservatoires
+
+###### Article L211-23
+
+Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la décision
+qui entraîne cette incapacité peut, dans le jugement de condamnation ou par jugement ultérieur, en réduire la durée.
+
+Si la juridiction qui a statué n'existe plus ou s'il s'agit d'une juridiction étrangère, la chambre de l'instruction de la
+cour d'appel dans le ressort de laquelle le requérant a sa résidence est compétente. Il en est de même si l'incapacité
+résulte d'une décision disciplinaire.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 132-21 (M)
 
 
 #### Chapitre 2 : Licence d'agent de voyages.
@@ -2888,7 +3029,13 @@ code du tourisme
 ###### Article L212-1
 
 Les opérations mentionnées à l'article L. 211-1 ne peuvent être effectuées dans un but lucratif que par des personnes
-physiques ou morales ayant la qualité de commerçant, titulaires d'une licence d'agent de voyages.
+physiques ou morales ayant la qualité de commerçant, titulaires d'une licence d'agent de voyages délivrée au nom de l'Etat.
+
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -2899,6 +3046,10 @@ physiques ou morales ayant la qualité de commerçant, titulaires d'une licence 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -2910,9 +3061,13 @@ physiques ou morales ayant la qualité de commerçant, titulaires d'une licence 
 	  - Code du tourisme. - art. L213-6 (V)
 	  - Code du tourisme. - art. L221-1 (V)
 
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-1
 
 
 ###### Article L212-2
@@ -2924,10 +3079,11 @@ a) Justifier de leur aptitude professionnelle ;
 b) Ne pas être frappées de l'une des incapacités ou interdictions d'exercer mentionnées à l'article L. 211-19 ;
 
 c) Justifier, à l'égard des clients, d'une garantie financière suffisante, spécialement affectée au remboursement des fonds
-reçus au titre des prestations énumérées à l'article L. 211-1 et à la délivrance de prestations de substitution, résultant de
-l'engagement d'un organisme de garantie collective, d'un établissement de crédit ou d'une entreprise d'assurances, cette
-garantie financière incluant les frais de rapatriement éventuel et devant, en ce cas, être immédiatement mobilisable sur le
-territoire national ;
+reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
+sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
+crédit ou d'une entreprise d'assurances établis sur le territoire de la Communauté européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen. Elle doit couvrir les frais de rapatriement éventuel. Le remboursement peut être
+remplacé, avec l'accord du client, par la fourniture d'une prestation différente en remplacement de la prestation prévue ;
 
 d) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ;
 
@@ -2937,21 +3093,25 @@ européenne ou d'un autre Etat partie à l'accord sur l'Espace économique europ
 La licence est délivrée aux personnes morales qui satisfont aux conditions prévues aux c, d, et e ci-dessus et dont les
 représentants légaux satisfont aux conditions posées aux a et b ci-dessus.
 
+**Nota:**
+
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - 2 à 7
-	  - Loi n°92-645 1992-07-13 art. 4, al
+	  - Loi n°92-645 1992-07-13 art. 4, al. 2 à 7
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L211-19 (V)
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -3058,15 +3218,19 @@ conditions de la rémunération du mandataire sont définis par décret en Conse
 
 ###### Article L212-5
 
-Les titulaires de licence d'agent de voyages ne peuvent confier l'exécution d'opérations mentionnées à l'article L. 211-1 à
-des entreprises non titulaires de la licence que s'ils ont signé avec ces dernières une convention spécifiant que les
-opérations sont effectuées pour le compte, sous la responsabilité et avec les garanties du titulaire de la licence.
+Le titulaire de la licence peut confier certaines des activités mentionnées à l'article L. 211-1 à un mandataire remplissant
+les conditions d'aptitude professionnelle fixées par décret. Les conditions dans lesquelles le mandataire exerce ces
+activités sont fixées par une convention d'une durée non renouvelable de trois ans au plus. La convention doit
+obligatoirement prévoir que l'activité du mandataire est couverte par la garantie financière et l'assurance de responsabilité
+civile du titulaire de la licence.
+
+Les conventions sont communiquées à l'autorité administrative pour information.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
 à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006 .
 
 **Liens relatifs à cet article**
 
@@ -3077,6 +3241,10 @@ code du tourisme
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 	**Abrogé par**:
 
@@ -3084,33 +3252,39 @@ code du tourisme
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-1
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R212-22 (VT)
 
 
+##### Section 5 : Etablissement secondaire.
+
 ###### Article L212-6
 
-La convention ne peut être conclue pour une durée supérieure à trois ans. Elle n'est pas renouvelable. Elle est soumise à
-l'approbation de l'autorité administrative compétente.
+Chaque établissement secondaire dans lequel le titulaire de la licence exerce son activité est dirigé par un salarié
+remplissant des conditions d'aptitude professionnelle fixées par décret.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 212-6 du
-code du tourisme
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 6, al
+	  - Loi n°92-645 1992-07-13 art. 6, al. 2
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -3121,81 +3295,28 @@ code du tourisme
 	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 
-###### Article L212-7
-
-Les entreprises exerçant une activité de mandataire d'agent de voyages doivent être dirigées par des personnes n'ayant pas
-fait l'objet de l'une des condamnations mentionnées à l'article L. 211-19.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié le 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 6, al. 3
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-19 (V)
-
-
-##### Section 5 : Aptitude professionnelle.
-
-###### Article L212-8
-
-Chaque établissement de l'entreprise titulaire d'une licence d'agent de voyages ou chaque point de vente exploité sous la
-responsabilité de l'entreprise doit être dirigé par une personne justifiant d'une aptitude professionnelle.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. le décret a été publié le 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 5
-	  - Loi n°92-645 du 13 juillet 1992 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R212-27 (VT)
-
-
 #### Chapitre 3 : Autres régimes de vente de voyages et de séjours
 
 ###### Article L213-1
 
-Les associations et organismes sans but lucratif doivent être titulaires d'un agrément de tourisme pour se livrer aux
-opérations mentionnées à l'article L. 211-1, sous réserve des dispositions de l'article L. 213-4.
+Doivent être titulaires d'une habilitation :
+
+a) Les personnes qui réalisent certaines des opérations mentionnées à l'article L. 211-1 à l'occasion de la vente d'une
+prestation de voyage ou de séjour relevant de leur activité professionnelle habituelle et les organisateurs de congrès ou de
+manifestations apparentées qui réalisent ces opérations pour les participants ;
+
+b) Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des collectivités territoriales ou de leurs
+groupements qui se livrent ou apportent leur concours, dans l'intérêt général, à des opérations permettant de faciliter
+l'accueil ou d'améliorer les conditions de séjour des touristes dans leur zone géographique d'intervention ;
+
+c) Les associations, autres que celles relevant du b ci-dessus, et les organismes sans but lucratif qui réalisent pour leurs
+membres tout ou partie des opérations mentionnées à l'article L. 211-1.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
 à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme (en attente de publication).
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -3208,10 +3329,17 @@ code du tourisme (en attente de publication).
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L213-4 (V)
+	  - Code du tourisme. - art. L211-1
 
 	**Cité par**:
 
@@ -3225,17 +3353,24 @@ code du tourisme (en attente de publication).
 
 ###### Article L213-2
 
-Les associations et organismes sans but lucratif ne peuvent effectuer les opérations mentionnées à l'article L. 211-1 qu'en
-faveur de leurs membres. Ils ne peuvent diffuser, à l'adresse d'autres personnes que leurs adhérents ou ressortissants,
-qu'une information générale sur leurs activités et leurs buts.
+Toutefois, ne sont pas tenus de solliciter une habilitation :
 
-Cette information peut être assortie d'exemples de voyages ou de séjours, dans des conditions fixées par décret.
+a) Les associations et organismes sans but lucratif qui n'ont pas pour objet l'organisation de voyages ou de séjours et qui
+ne se livrent à ces opérations qu'à l'occasion de leurs assemblées générales ou de voyages exceptionnels, liés au
+fonctionnement de l'organisme, qu'ils organisent pour leurs adhérents ou ressortissants ;
+
+b) Les associations et organismes sans but lucratif appartenant à une fédération ou une union titulaires d'une habilitation
+s'en portant garante s'ils ont été mentionnés dans la décision accordant l'habilitation ;
+
+c) Les associations et organismes sans but lucratif gérant sur le territoire national des centres de vacances ou de loisirs,
+des centres de placement de vacances pour les jeunes de moins de dix-huit ans, des villages de vacances ou des maisons
+familiales agréées, dans le cadre exclusif des activités propres à ces établissements, y compris le transport lié au séjour.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
 à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret n° 2007-669 du 2 mai 2007 a été publié au JO du 4 mai 2007.
+code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -3248,9 +3383,13 @@ code du tourisme. Le décret n° 2007-669 du 2 mai 2007 a été publié au JO du
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. L211-1 (M)
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -3259,24 +3398,26 @@ code du tourisme. Le décret n° 2007-669 du 2 mai 2007 a été publié au JO du
 
 ###### Article L213-3
 
-L'agrément de tourisme est accordé aux associations et organismes sans but lucratif qui en font la demande et qui :
+L'habilitation est délivrée au nom de l'Etat. Le demandeur doit remplir les conditions suivantes :
 
-a) Sont dirigés, ou dont l'activité qui relève de l'agrément de tourisme est dirigée par une personne justifiant d'une
-aptitude professionnelle et dont les représentants légaux ou statutaires n'ont pas fait l'objet de l'une des condamnations
-mentionnées à l'article L. 211-19 ;
+a) Justifier de son aptitude professionnelle ;
 
-b) Justifient d'une garantie financière suffisante. Celle-ci, outre les modalités énumérées au c de l'article L. 212-2 peut
-résulter soit de l'existence d'un fonds de réserve, soit de l'appartenance à un groupement d'organismes sans caractère
-lucratif ayant fait l'objet d'une autorisation particulière et disposant d'un fonds de solidarité suffisant ;
+b) Ne pas être frappé de l'une des incapacités ou interdictions d'exercer visées à l'article L. 211-19 ;
 
-c) Justifient d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile qu'ils encourent au titre
-de cette activité.
+c) Justifier d'une assurance garantissant les conséquences pécuniaires de sa responsabilité civile professionnelle pour
+l'activité de tourisme ;
+
+d) Justifier à l'égard des clients ou des membres de l'association d'une garantie financière suffisante dans les conditions
+du c de l'article L. 212-2.
+
+L'habilitation est délivrée aux personnes morales qui satisfont aux conditions prévues aux c et d et dont les représentants
+légaux satisfont aux conditions posées aux a et b ci-dessus.
 
 **Nota:**
 
 Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
 à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié le 7 octobre 2006.
+code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -3289,10 +3430,18 @@ code du tourisme. Le décret a été publié le 7 octobre 2006.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-19 (V)
-	  - Code du tourisme. - art. L212-2 (V)
+	  - Code du tourisme. - art. L211-19
+	  - Code du tourisme. - art. L212-2
 
 	**Cité par**:
 
@@ -3301,217 +3450,6 @@ code du tourisme. Le décret a été publié le 7 octobre 2006.
 	  - Code du tourisme. - art. R213-6 (VT)
 	  - Code du tourisme. - art. R213-8 (VT)
 	  - Code du tourisme. - art. R213-9 (VT)
-
-
-##### Section 1 : Agrément
-
-##### Sous-section 1 : Dispositions générales.
-
-###### Article L213-4
-
-Toutefois, ne sont pas tenus de solliciter un agrément de tourisme :
-
-a) Les associations et organismes sans but lucratif qui n'ont pas pour objet l'organisation de voyages ou de séjours et qui
-ne se livrent à ces opérations qu'à l'occasion de leurs assemblées générales ou de voyages occasionnels, liés au
-fonctionnement de l'organisme, qu'ils organisent pour leurs adhérents ou ressortissants ;
-
-b) Les associations et organismes sans but lucratif appartenant à une fédération ou une union titulaire d'un agrément de
-tourisme s'en portant garante s'ils ont été mentionnés dans la décision accordant l'agrément ;
-
-c) Les associations et organismes sans but lucratif gérant, sur le territoire national, des centres de vacances ou de
-loisirs, des centres de placement de vacances pour les jeunes de moins de dix-huit ans, des villages de vacances ou des
-maisons familiales agréés, dans le cadre exclusif des activités propres à ces établissements, y compris le transport lié au
-séjour.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 10
-	  - Loi n°92-645 du 13 juillet 1992 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L213-1 (V)
-	  - Code du tourisme. - art. R212-27 (VT)
-
-
-##### Section 2 : Autorisation
-
-##### Sous-section 1 : Dispositions générales.
-
-###### Article L213-5
-
-Pour être autorisés par l'autorité administrative, les organismes locaux de tourisme qui bénéficient du soutien de l'Etat,
-des collectivités territoriales ou de leurs groupements et qui se livrent ou apportent leur concours, dans l'intérêt général,
-aux opérations permettant de faciliter l'accueil ou d'améliorer les conditions de séjour des touristes dans leur zone
-géographique d'intervention doivent :
-
-1° Etre dirigés par une personne justifiant d'une aptitude professionnelle ;
-
-2° Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile et d'une garantie
-financière suffisante résultant de l'existence d'un fonds de réserve ou de l'engagement d'un établissement de crédit ou d'un
-organisme de garantie collective.
-
-**Nota:**
-
-Ordonnance 2005-174 art. 4 (1er alinéa) : " Les dispositions de la présente ordonnance entrent en vigueur à compter du
-premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du code du
-tourisme. " Le décret a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 11
-	  - Loi n°92-645 du 13 juillet 1992 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (T)
-	  - Code du tourisme. - art. L221-1 (V)
-	  - Code du tourisme. - art. R213-15 (VT)
-	  - Code du tourisme. - art. R213-20 (VT)
-	  - Code du tourisme. - art. R213-22 (VT)
-	  - Code du tourisme. - art. R213-27 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
-
-##### Section 3 : Habilitation
-
-##### Sous-section 1 : Dispositions générales.
-
-###### Article L213-6
-
-Par dérogation aux dispositions des articles L. 212-1, L. 212-2 et L. 212-3, les gestionnaires d'hébergements ou leurs
-groupements, les gestionnaires d'activités de loisirs, les transporteurs de voyageurs autres que routiers, les agents
-immobiliers et administrateurs de biens dont l'activité est régie par la loi n° 70-9 du 2 janvier 1970 réglementant les
-conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce, qui
-ont été habilités à cet effet dans les conditions fixées par la voie réglementaire, peuvent réaliser les opérations
-mentionnées à l'article L. 211-1, sous réserve que, dans chaque cas, les prestations qu'ils fournissent dans le cadre de leur
-activité principale gardent un caractère prépondérant par rapport aux autres prestations ou que ces dernières revêtent un
-caractère complémentaire.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié le 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-9 1970-01-02
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L212-1 (V)
-	  - Code du tourisme. - art. L212-2 (V)
-	  - Code du tourisme. - art. L212-3 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 12, ecqc les gestionnaires autres que les transporteurs routiers de voyageurs
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (V)
-	  - Code du tourisme. - art. L213-7 (V)
-	  - Code du tourisme. - art. L221-1 (V)
-
-
-###### Article L213-7
-
-Pour ces opérations, les personnes sollicitant l'habilitation prévue à l'article L. 213-6 doivent :
-
-1° Justifier d'une garantie financière suffisante résultant de l'existence d'un fonds de réserve, de l'engagement d'un
-organisme de garantie collective, d'un établissement de crédit ou d'une entreprise d'assurance ; la garantie financière
-mentionnée au 2° de l'article 3 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités
-relatives à certaines opérations portant sur les immeubles et les fonds de commerce s'applique à ces opérations ;
-
-2° Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle. La
-Société nationale des chemins de fer français peut garantir elle-même ces conséquences sans justifier d'une assurance.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - 2 à 4
-	  - Loi n°92-645 1992-07-13 art. 12, al
-
-	**Cite**:
-
-	  - Loi n°70-9 du 2 janvier 1970 - art. 3 (M)
-	  - Code du tourisme. - art. L213-6 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (V)
-	  - Code du tourisme. - art. L221-1 (V)
-	  - Code du tourisme. - art. R213-28 (VT)
-	  - Code du tourisme. - art. R213-33 (VT)
-	  - Code du tourisme. - art. R213-35 (VT)
-	  - Code du tourisme. - art. R213-37 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ### TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES
@@ -3523,9 +3461,14 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 ###### Article L221-1
 
 Pour la conduite de visites commentées dans les musées et les monuments historiques, les personnes physiques ou morales
-titulaires d'une licence, d'un agrément, d'une autorisation ou d'une habilitation prévus aux articles L. 212-1, L. 212-2, L.
-212-3, L. 213-1, L. 213-5, L. 213-6, L. 213-7 et L. 232-1 ne peuvent utiliser que les services de personnes qualifiées
-remplissant les conditions fixées par décret en Conseil d'Etat.
+titulaires d'une licence, ou d'une habilitation ne peuvent utiliser que les services de personnes qualifiées remplissant les
+conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance n° 2005-174 du 24 février 2005 article 4 (1er alinéa) : les dispositions de la présente ordonnance entrent en
+vigueur à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L.
+211-6 du code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -3544,7 +3487,7 @@ remplissant les conditions fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 19
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
 
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME
@@ -3653,21 +3596,15 @@ préalable, ni être louées à la place.
 
 ###### Article L232-1
 
-Les transporteurs routiers de voyageurs, qui ont été habilités à cet effet dans les conditions fixées par la voie
-réglementaire, peuvent réaliser les opérations mentionnées à l'article L. 211-1, sous réserve que, dans chaque cas, les
-prestations qu'ils fournissent dans le cadre de leur activité principale gardent un caractère prépondérant par rapport aux
-autres prestations ou que ces dernières revêtent un caractère complémentaire.
+Les titulaires d'une licence ou d'une habilitation ne peuvent utiliser, pour les transports en autocar, que les services
+d'une entreprise de transport routier de voyageurs satisfaisant aux conditions fixées par décret pour les véhicules utilisés
+pour les opérations prévues à l'article L. 211-1.
 
-Pour ces opérations, les personnes sollicitant l'habilitation prévue à l'alinéa précédent doivent :
+**Nota:**
 
-- justifier d'une garantie financière suffisante résultant de l'existence d'un fonds de réserve, de l'engagement d'un
-organisme de garantie collective, d'un établissement de crédit ou d'une entreprise d'assurance ;
-
-- justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle. La Société
-nationale des chemins de fer français peut garantir elle-même ces conséquences sans justifier d'une assurance.
-
-Les transporteurs routiers de voyageurs doivent, en outre, disposer d'un matériel classé ou en cours de classement selon les
-normes fixées par voie réglementaire.
+Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
+à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
+code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 **Liens relatifs à cet article**
 
@@ -3679,6 +3616,10 @@ normes fixées par voie réglementaire.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-174 du 24 février 2005 - art. 3 () JORF 25 février 2005
+
 	**Cité par**:
 
 	  - Code du tourisme. - art. D232-4 (Ab)
@@ -3689,11 +3630,7 @@ normes fixées par voie réglementaire.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - Code du tourisme. - art. L211-1
 
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER
