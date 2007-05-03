@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-04-01
+Version Consolidée au 2007-05-04
 
 # Partie législative
 
@@ -12738,7 +12738,10 @@ des associations et organismes sans but lucratif et des organismes locaux de tou
 
 13° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas
 d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas
-d'accident ou de maladie.
+d'accident ou de maladie ;
+
+14° Lorsque le contrat comporte des prestations de transport aérien, l'information, pour chaque tronçon de vol, prévue aux
+articles R. 211-15 à R. 211-18.
 
 **Liens relatifs à cet article**
 
@@ -12751,8 +12754,17 @@ d'accident ou de maladie.
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
 	**Cite**:
 
+	  - Code du tourisme R211-10, R211-11, R211-12, R211-13, R211-15 à R211-18
 	  - Code du tourisme. - art. R211-10 (V)
 	  - Code du tourisme. - art. R211-12 (V)
 
@@ -12764,6 +12776,10 @@ d'accident ou de maladie.
 	  - Code du tourisme. - art. R212-18 (VT)
 	  - Code du tourisme. - art. R213-20 (VT)
 	  - Code du tourisme. - art. R213-35 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R211-4 (V)
 
 
 ###### Article R211-7
@@ -12866,7 +12882,10 @@ numéros de téléphone des organismes locaux susceptibles d'aider le consommate
 d'appel permettant d'établir de toute urgence un contact avec le vendeur ;
 
 b) Pour les voyages et séjours de mineurs à l'étranger, un numéro de téléphone et une adresse permettant d'établir un contact
-direct avec l'enfant ou le responsable sur place de son séjour.
+direct avec l'enfant ou le responsable sur place de son séjour ;
+
+20° La clause de résiliation et de remboursement sans pénalités des sommes versées par l'acheteur en cas de non-respect de
+l'obligation d'information prévue au 14° de l'article R. 211-6.
 
 **Liens relatifs à cet article**
 
@@ -12878,6 +12897,14 @@ direct avec l'enfant ou le responsable sur place de son séjour.
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 	**Cite**:
 
@@ -12894,6 +12921,10 @@ direct avec l'enfant ou le responsable sur place de son séjour.
 	  - Code du tourisme. - art. R212-18 (VT)
 	  - Code du tourisme. - art. R213-20 (VT)
 	  - Code du tourisme. - art. R213-35 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R211-6 (M)
 
 
 ###### Article R211-9
@@ -12970,9 +13001,9 @@ de l'établissement du prix figurant au contrat.
 ###### Article R211-11
 
 Lorsque, avant le départ de l'acheteur, le vendeur se trouve contraint d'apporter une modification à l'un des éléments
-essentiels du contrat tel qu'une hausse significative du prix, l'acheteur peut, sans préjuger des recours en réparation pour
-dommages éventuellement subis, et après en avoir été informé par le vendeur par lettre recommandée avec demande d'avis de
-réception :
+essentiels du contrat telle qu'une hausse significative du prix et lorsqu'il méconnaît l'obligation d'information mentionnée
+au 14° de l'article R. 211-6, l'acheteur peut, sans préjuger des recours en réparation pour dommages éventuellement subis, et
+après en avoir été informé par le vendeur par lettre recommandée avec demande d'avis de réception :
 
 - soit résilier son contrat et obtenir sans pénalité le remboursement immédiat des sommes versées ;
 
@@ -12992,11 +13023,23 @@ le trop-perçu doit lui être restitué avant la date de son départ.
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
 	**Cité par**:
 
 	  - Code du tourisme. - art. R211-6 (V)
 	  - Code du tourisme. - art. R211-8 (V)
 	  - Code du tourisme. - art. R221-12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R211-9 (V)
 
 
 ###### Article R211-12
@@ -13054,6 +13097,9 @@ la différence de prix ;
 valables, fournir à l'acheteur, sans supplément de prix, des titres de transport pour assurer son retour dans des conditions
 pouvant être jugées équivalentes vers le lieu de départ ou vers un autre lieu accepté par les deux parties.
 
+Les dispositions du présent article sont applicables en cas de non-respect de l'obligation prévue au 14° de l'article R.
+211-6.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13064,6 +13110,18 @@ pouvant être jugées équivalentes vers le lieu de départ ou vers un autre lie
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R211-11 (V)
 
 	**Cité par**:
 
@@ -13101,30 +13159,70 @@ de voyages proposés par les personnes mentionnées à l'article L. 211-1.
 	  - Code du tourisme. - art. R211-12 (V)
 
 
-##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.
+###### Article R211-14-1
 
-##### Sous-section 1 : Obligation d'information.
+L'acheteur ne peut plus invoquer le bénéfice de la clause prévue au 20° de l'article R. 211-8 après que la prestation a été
+fournie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R211-13 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R211-8
+
+
+##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.
 
 ###### Article R211-15
 
-Toute personne physique ou morale habilitée à commercialiser des titres de transport aérien informe le consommateur, pour
-chaque tronçon de vol, de l'identité du transporteur contractuel ainsi que de celle du transporteur de fait qui assurera
-effectivement le ou les tronçons de vols concernés, lorsque celui-ci est différent du transporteur contractuel.
+Pour les prestations de transport aérien incluses dans un forfait touristique, les personnes visées à l'article L. 211-1
+transmettent au consommateur, pour chaque tronçon de vol, une liste comprenant au maximum trois transporteurs, au nombre
+desquels figurent le transporteur contractuel et le transporteur de fait auquel l'organisateur du voyage aura éventuellement
+recours. 
 
 Pour l'application de l'alinéa précédent, les notions de transporteur contractuel et de transporteur de fait s'entendent au
 sens de la convention pour l'unification de certaines règles relatives au transport aérien international, signée à Montréal
 le 28 mai 1999.
 
+**Nota:**
+
+Décret 2007-669 du 2 mai 2007 art. 3 : Jusqu'au 31 décembre 2008, au premier alinéa de l'article R. 211-15 du code du
+tourisme, le chiffre : trois est remplacé par le chiffre : cinq.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-315 2006-03-17 art. 1
 	  - Décret n°2006-315 du 17 mars 2006 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-669 2007-05-02 art. 2 VI, VII JORF 4 mai 2007
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-1 (V)
 
 	**Cité par**:
 
@@ -13137,32 +13235,36 @@ le 28 mai 1999.
 
 ###### Article R211-16
 
-L'information prévue à l'article R. 211-15 doit être communiquée par écrit ou sous toute autre forme appropriée au
-consommateur, avant la conclusion du contrat portant sur le ou les tronçons de vols concernés.
+L'information prévue à l'article R. 211-15 est communiquée avant la conclusion du contrat portant sur le ou les tronçons de
+vols concernés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-315 2006-03-17 art. 2
 	  - Décret n°2006-315 du 17 mars 2006 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-669 2007-05-02 art. 2 VI, VIII JORF 4 mai 2007
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R211-15 (M)
+	  - Code du tourisme. - art. R211-15 (V)
 
 
 ###### Article R211-17
 
-L'information prévue à l'article R. 211-15 doit être obligatoirement confirmée par écrit, y compris par voie électronique
-lorsqu'un tel moyen est utilisé, lors de la conclusion du contrat.
+Dès qu'elle est connue, l'identité du transporteur aérien effectif est communiquée par écrit ou par voie électronique. Cette
+information est confirmée au plus tard huit jours avant la date prévue au contrat ou au moment de la conclusion du contrat si
+celle-ci intervient moins de huit jours avant le début du voyage.
 
-Toutefois, pour les contrats conclus par téléphone, le consommateur reçoit, sur sa demande, un document écrit confirmant
-cette information.
+Toutefois, pour les contrats conclus par téléphone, le consommateur reçoit un document écrit confirmant cette information.
 
 **Liens relatifs à cet article**
 
@@ -13175,9 +13277,10 @@ cette information.
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. R211-15 (M)
+	  - Décret n°2007-669 2007-05-02 art. 2 VI, IX JORF 4 mai 2007
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
 
 	**Cité par**:
 
@@ -13189,10 +13292,10 @@ cette information.
 Après la conclusion du contrat, le transporteur contractuel ou l'organisateur du voyage informe le consommateur de toute
 modification de l'identité du transporteur assurant effectivement le ou les tronçons de vols figurant au contrat.
 
-Cette modification est portée à la connaissance du consommateur par tout moyen approprié, y compris par l'intermédiaire de la
-personne physique ou morale ayant vendu le titre de transport aérien, dès qu'elle est connue. Le consommateur doit en être
-informé au plus tard, obligatoirement, au moment de l'enregistrement ou avant les opérations d'embarquement lorsque la
-correspondance s'effectue sans enregistrement préalable.
+Cette modification est portée à la connaissance du consommateur, y compris par l'intermédiaire de la personne physique ou
+morale ayant vendu le titre de transport aérien, dès qu'elle est connue. Le consommateur en est informé au plus tard,
+obligatoirement, au moment de l'enregistrement ou avant les opérations d'embarquement lorsque la correspondance s'effectue
+sans enregistrement préalable.
 
 **Liens relatifs à cet article**
 
@@ -13205,64 +13308,38 @@ correspondance s'effectue sans enregistrement préalable.
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+	**Modifié par**:
 
-##### Sous-section 2 : Dispositions particulières aux forfaits touristiques et aux vols non réguliers affrétés.
+	  - Décret n°2007-669 2007-05-02 art. 2 VI, X JORF 4 mai 2007
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+
 
 ###### Article R211-19
 
-Pour les prestations de transport aérien incluses dans un forfait touristique ainsi que pour les vols non réguliers affrétés,
-par dérogation aux dispositions de l'article R. 211-15 mais selon les modalités qu'elles fixent, l'information préalable peut
-être communiquée sous la forme d'une liste comprenant au maximum, par tronçon, cinq transporteurs contractuels au nombre
-desquels l'organisateur du voyage ou l'affréteur commercial s'engage à recourir. Cette information est complétée, le cas
-échéant, par la mention de l'identité des transporteurs de fait lorsque ceux-ci sont différents des transporteurs
-contractuels.
+Les règles relatives à l'obligation d'information des passagers aériens sur l'identité du transporteur aérien en dehors des
+ventes de forfaits touristiques sont fixées par les articles R. 322-3 à R. 322-6 du code de l'aviation civile et les
+sanctions applicables en cas de méconnaissance de cette obligation sont fixées par le paragraphe 5 de l'article R. 330-20 du
+code de l'aviation civile.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-315 2006-03-17 art. 5
 	  - Décret n°2006-315 du 17 mars 2006 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du tourisme. - art. R211-15 (M)
-
-
-###### Article R211-20
-
-Pour les prestations de transport aérien incluses dans un forfait touristique ainsi que pour les vols non réguliers affrétés,
-l'information prévue à l'article R. 211-15 peut être confirmée, par dérogation aux dispositions de l'article R. 211-17 mais
-selon les modalités qu'elles fixent, au plus tard huit jours avant la date du voyage fixée au contrat ou au moment de la
-conclusion du contrat si celle-ci intervient moins de huit jours avant le début du voyage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-315 2006-03-17 art. 6
-	  - Décret n°2006-315 du 17 mars 2006 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 28 avril 2007
+	  - Décret n°2007-669 2007-05-02 art. 2 VI, XI JORF 4 mai 2007
+	  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R211-15 (M)
-	  - Code du tourisme. - art. R211-17 (M)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R211-50 (V)
+	  - Code de l'aviation civile - art. R322-3 (V)
+	  - Code de l'aviation civile - art. R330-20 (V)
 
 
 #### Chapitre II : Licence d'agent de voyages.
