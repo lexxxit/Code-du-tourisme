@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-08-04
 
 # Partie législative
 
@@ -20102,6 +20102,92 @@ préalablement avisé des mesures envisagées et invité à se faire entendre pe
 
 	  - Code du tourisme. - art. R324-10
 	  - Code du tourisme. - art. R324-11
+
+
+##### Section 2 : Chambres d'hôtes.
+
+###### Article D324-13
+
+L'activité de location de chambres d'hôtes mentionnée à l'article L. 324-3 est la fourniture groupée de la nuitée et du petit
+déjeuner. Elle est limitée à un nombre maximal de cinq chambres pour une capacité maximale d'accueil de quinze personnes.
+L'accueil est assuré par l'habitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 1 () JORF 4 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 2 (V)
+	  - Code du tourisme. - art. R324-16 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L324-3 (V)
+
+
+###### Article D324-14
+
+Chaque chambre d'hôte donne accès à une salle d'eau et à un WC. Elle est en conformité avec les réglementations en vigueur
+dans les domaines de l'hygiène, de la sécurité et de la salubrité.
+
+La location est assortie, au minimum, de la fourniture du linge de maison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 1 () JORF 4 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 2 (V)
+
+
+###### Article D324-15
+
+La déclaration de location d'une ou plusieurs chambres d'hôtes prévue à l'article L. 324-4 est adressée au maire de la
+commune du lieu de l'habitation concernée par voie électronique, lettre recommandée ou dépôt en mairie et doit faire l'objet
+d'un accusé de réception.
+
+La déclaration précise l'identité du déclarant, l'identification du domicile de l'habitant, le nombre de chambres mises en
+location, le nombre maximal de personnes susceptibles d'être accueillies et la ou les périodes prévisionnelles de location.
+
+Tout changement concernant les éléments d'information que comporte la déclaration fait l'objet d'une nouvelle déclaration en
+mairie.
+
+Le maire communique une fois par an au préfet de région, au président du conseil régional et au président du conseil général
+les données statistiques relatives aux déclarations de chambres d'hôtes.
+
+La liste des chambres d'hôtes est consultable en mairie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 1 () JORF 4 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1173 du 3 août 2007 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L324-4 (V)
 
 
 #### Chapitre V : Villages et maisons familiales de vacances.
