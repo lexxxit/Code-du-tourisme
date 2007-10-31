@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-11-01
 
 # Partie législative
 
@@ -2650,6 +2650,8 @@ titres de transport aérien, soit à d'autres titres de transport sur ligne rég
 
 ##### Section 4 : Sanctions et mesures conservatoires.
 
+##### Section 4 : Incapacités d'exercer les activités relevant de l'organisation et de la vente de voyages et séjours.
+
 ###### Article L211-19
 
 Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, se livrer ou apporter son
@@ -3296,6 +3298,8 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 
 #### Chapitre 3 : Autres régimes de vente de voyages et de séjours
+
+#### Chapitre 3 : Habilitation.
 
 ###### Article L213-1
 
