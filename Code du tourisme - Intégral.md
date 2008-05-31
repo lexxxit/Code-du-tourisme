@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-11-01
+Version Consolidée au 2008-06-01
 
 # Partie législative
 
@@ -2648,8 +2648,6 @@ titres de transport aérien, soit à d'autres titres de transport sur ligne rég
 	  - Code du tourisme. - art. L211-2 (V)
 
 
-##### Section 4 : Sanctions et mesures conservatoires.
-
 ##### Section 4 : Incapacités d'exercer les activités relevant de l'organisation et de la vente de voyages et séjours.
 
 ###### Article L211-19
@@ -3074,46 +3072,40 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 ###### Article L212-2
 
-Cette licence est délivrée aux personnes physiques qui satisfont aux conditions suivantes :
+Cette licence est délivrée aux personnes physiques qui satisfont aux conditions suivantes : 
 
-a) Justifier de leur aptitude professionnelle ;
+a) Justifier de leur aptitude professionnelle ; 
 
-b) Ne pas être frappées de l'une des incapacités ou interdictions d'exercer mentionnées à l'article L. 211-19 ;
+b) Ne pas être frappées de l'une des incapacités ou interdictions d'exercer mentionnées à l'article L. 211-19 ; 
 
 c) Justifier, à l'égard des clients, d'une garantie financière suffisante, spécialement affectée au remboursement des fonds
 reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
 sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
 crédit ou d'une entreprise d'assurances établis sur le territoire de la Communauté européenne ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen. Elle doit couvrir les frais de rapatriement éventuel. Le remboursement peut être
-remplacé, avec l'accord du client, par la fourniture d'une prestation différente en remplacement de la prestation prévue ;
+remplacé, avec l'accord du client, par la fourniture d'une prestation différente en remplacement de la prestation prévue ; 
 
-d) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ;
+d) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ; 
 
-e) Disposer d'installations matérielles appropriées sur le territoire national ou sur celui d'un autre Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+e) Disposer d'installations matérielles appropriées sur le territoire national. 
 
 La licence est délivrée aux personnes morales qui satisfont aux conditions prévues aux c, d, et e ci-dessus et dont les
 représentants légaux satisfont aux conditions posées aux a et b ci-dessus.
 
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 4, al. 2 à 7
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-1
+	  - Code du tourisme. - art. L211-19
 
 	**Cité par**:
 
@@ -3138,24 +3130,24 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 ###### Article L212-3
 
-Les conditions prévues à l'article L. 212-2 sont remplies, en ce qui concerne un ressortissant d'un Etat membre de l'Union
-européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, dès lors que le demandeur produit des
-pièces justificatives émanant d'une autorité judiciaire ou administrative compétente et prouvant qu'il remplit dans l'Etat
-membre ou autre Etat partie d'origine les conditions pour exercer la profession d'agent de voyages ainsi que les garanties
-attestées par un notaire, un établissement de crédit ou une compagnie d'assurances de cet Etat membre ou autre Etat partie.
+Pour s'établir en France, est considéré comme répondant aux conditions d'aptitude visée au a et de capacité d'exercer visée
+au b de l'article L. 212-2 tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, dès lors qu'il produit les pièces justificatives émanant de l'autorité compétente
+d'un de ces Etats prouvant :
+
+- qu'il possède l'expérience professionnelle pour y exercer la profession d'agent de voyages conforme aux conditions de
+reconnaissance fixées par décret en Conseil d'Etat ;
+
+- qu'il n'est pas frappé d'incapacité ou d'interdiction, même temporaire, pour exercer la profession d'agent de voyages. 
 
 Les titulaires d'une licence d'agent de voyages établis sur le territoire national doivent se consacrer exclusivement à cette
 activité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°92-645 1992-07-13 art. 4, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
 
 	**Cité par**:
 
@@ -3297,7 +3289,73 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 
-#### Chapitre 3 : Autres régimes de vente de voyages et de séjours
+##### Section 8 : Libre prestation de services.
+
+
+###### Article L212-9
+
+Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen, légalement établi, pour l'exercice de l'activité d'agent de voyages, dans un de ces Etats, peut exercer cette
+activité de façon temporaire et occasionnelle en France. 
+
+Toutefois, lorsque l'activité d'agent de voyages ou la formation y conduisant n'est pas réglementée dans l'Etat
+d'établissement, le prestataire doit avoir exercé cette activité dans cet Etat pendant au moins deux ans au cours des dix
+années qui précèdent la prestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L212-11 (Ab)
+
+
+###### Article L212-10
+
+Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'autorité compétente
+par une déclaration écrite, comprenant notamment les informations relatives aux couvertures d'assurance de responsabilité
+civile professionnelle et de garantie financière, dans les conditions fixées par décret en Conseil d'Etat. 
+
+Cette déclaration est réitérée en cas de changement matériel dans les éléments de la déclaration et doit être renouvelée
+chaque année si le prestataire envisage d'exercer cette activité au cours de l'année concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+
+###### Article L212-11
+
+Les dispositions des articles L. 212-9 et L. 212-10 s'appliquent aux régimes d'autorisations prévus au titre Ier du livre II
+du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L212-9
+
 
 #### Chapitre 3 : Habilitation.
 
@@ -3494,9 +3552,71 @@ vigueur à compter du premier jour du sixième mois suivant la publication du d�
 	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
 
 
+##### Section 2 : De la liberté d'établissement
+
+
+###### Article L221-2
+
+Pour s'établir en France, est considéré comme qualifié pour la conduite des visites commentées dans les musées et les
+monuments historiques dans les conditions prévues à l'article L. 221-1 tout ressortissant d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, dès lors qu'il produit les pièces justificatives
+émanant de l'autorité compétente d'un de ces Etats prouvant qu'il possède la qualification conforme aux conditions de
+reconnaissance fixées par décret en Conseil d'Etat pour y exercer la profession de guide-interprète ou de conférencier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2017-146 du 7 février 2017 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L221-1
+
+
+##### Section 3 : De la libre prestation de services 
+
+
+
+###### Article L221-3
+
+Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace économique européen,
+légalement établi, pour l'exercice de la profession de guide-interprète ou de conférencier, dans un de ces Etats, peut
+exercer cette profession de façon temporaire et occasionnelle en France. 
+
+Toutefois, lorsque la profession de guide-interprète ou de conférencier ou la formation y conduisant n'est pas réglementée
+dans l'Etat d'établissement, le prestataire doit avoir exercé cette profession dans cet Etat pendant au moins deux ans au
+cours des dix années qui précèdent la prestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 7
+
+
+###### Article L221-4
+
+La prestation est effectuée sous le titre professionnel de l'Etat d'établissement lorsqu'un tel titre existe dans ledit Etat.
+Ce titre est indiqué dans la langue officielle de l'Etat d'établissement. Dans les cas où ce titre professionnel n'existe pas
+dans l'Etat d'établissement, le prestataire fait mention de son titre de formation dans la langue officielle de cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 7
+
+
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME
 
 #### Chapitre 1er : Exploitation de voitures de tourisme de luxe dites de grande remise.
+
+##### Section 1 : Dispositions générales.
 
 ###### Article L231-1
 
@@ -3510,9 +3630,9 @@ propriétaire ou son préposé, suivant des conditions fixées à l'avance entre
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
 
 	**Cité par**:
 
@@ -3539,9 +3659,9 @@ voie réglementaire.
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
 
 	**Cité par**:
 
@@ -3561,12 +3681,11 @@ Ces licences peuvent être suspendues ou retirées dans les mêmes formes.
 
 	**Anciens textes**:
 
-	  - Décret n°55-961 du 15 juillet 1955 - art. 3, v. init.
 	  - Décret n°55-961 du 15 juillet 1955 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
 
 	**Cité par**:
 
@@ -3586,14 +3705,66 @@ préalable, ni être louées à la place.
 
 	**Anciens textes**:
 
-	  - 1
-	  - Décret n°55-961 1955-07-15 art. 4, al
-	  - Décret n°55-961 du 15 juillet 1955 - art. 4 (M)
 	  - Décret n°55-961 du 15 juillet 1955 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
+
+
+##### Section 2 : De la liberté d'établissement.
+
+
+###### Article L231-5
+
+Pour s'établir en France, est considéré comme répondant aux conditions de compétence et de moralité prévues à l'article L.
+231-2 tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen, dès lors qu'il produit des pièces justificatives émanant de l'autorité compétente d'un de ces Etats
+prouvant :
+
+- qu'il possède l'aptitude professionnelle pour y exercer la profession d'entrepreneur de grande remise et de tourisme
+conforme aux conditions de reconnaissance fixées par décret en Conseil d'Etat ;
+
+- qu'il n'est pas frappé d'incapacité ou d'interdiction, même temporaire, pour exercer cette profession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 8
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L231-2
+
+
+##### Section 3 : De la libre prestation de services.
+
+
+
+###### Article L231-6
+
+Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
+européen, légalement établi, pour l'exercice de la profession d'entrepreneur de grande remise et de tourisme, dans un de ces
+Etats, peut exercer cette profession de façon temporaire et occasionnelle en France. 
+
+Toutefois, lorsque la profession d'entrepreneur de grande remise et de tourisme ou la formation y conduisant n'est pas
+réglementée dans l'Etat d'établissement, le prestataire doit avoir exercé cette profession dans cet Etat pendant au moins
+deux ans au cours des dix années qui précèdent la prestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 8
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
 
 
 #### Chapitre 2 : Exploitation des autocars de tourisme.
