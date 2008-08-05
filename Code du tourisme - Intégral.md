@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2008-06-01
+Version Consolidée au 2008-08-06
 
 # Partie législative
 
@@ -3141,13 +3141,17 @@ reconnaissance fixées par décret en Conseil d'Etat ;
 - qu'il n'est pas frappé d'incapacité ou d'interdiction, même temporaire, pour exercer la profession d'agent de voyages. 
 
 Les titulaires d'une licence d'agent de voyages établis sur le territoire national doivent se consacrer exclusivement à cette
-activité.
+activité, sauf lorsque celle-ci constitue l'accessoire de l'organisation et de l'accueil des foires, salons et congrès.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
+	  - Loi n°2008-776 du 4 août 2008 - art. 107
+
+	**Abrogé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -3158,6 +3162,10 @@ activité.
 	  - Code du tourisme. - art. L221-1 (V)
 	  - Code du tourisme. - art. L242-1 (V)
 	  - Code du tourisme. - art. R212-43 (VT)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L212-2
 
 
 ##### Section 2 : Contrat de jouissance d'immeuble à temps partagé.
