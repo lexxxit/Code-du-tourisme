@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-08-24
 
 # Partie législative
 
@@ -18413,9 +18413,7 @@ applicables sont remplacées par les références aux dispositions ayant le mêm
 ###### Article D311-1
 
 Les règles relatives aux autorisations d'exploitation commerciale de certains établissements hôteliers sont fixées par les
-articles 18-1, 18-2 et 19 à 23-2 du décret n° 93-306 du 9 mars 1993 relatif à l'autorisation d'exploitation commerciale de
-certains magasins de commerce de détail et de certains établissements hôteliers, aux observatoires et aux commissions
-d'équipement commercial.
+articles R. 752-7, R. 752-14 et R. 752-17 à R. 752-33 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -18431,9 +18429,15 @@ d'équipement commercial.
 	  - Décret n°93-306 du 9 mars 1993 - art. 23-1 (Ab)
 	  - Décret n°93-306 du 9 mars 1993 - art. 23-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R752-14
+	  - Code de commerce - art. R752-17
+	  - Code de commerce - art. R752-7
 
 	**Cité par**:
 
@@ -19084,26 +19088,31 @@ réception sa déclaration de classement au préfet du département du lieu d'im
 
 ###### Article D312-11
 
-Le préfet communique la liste des restaurants de tourisme à la commission départementale d'action touristique le 1er janvier
-et le 1er juillet de chaque année.
+Le préfet communique la liste des restaurants de tourisme à la commission départementale de l'action touristique le 1er
+janvier et le 1er juillet de chaque année et la publie au Recueil des actes administratifs de l'Etat dans le département.
 
 A l'issue de la période de trois ans, le classement est renouvelable sur présentation d'une nouvelle demande de l'exploitant
 selon la procédure fixée aux articles D. 312-6 et R. 312-10 dont les modalités sont déterminées par arrêté.
 
 L'exploitant est tenu d'informer, par lettre recommandée avec accusé de réception, le préfet en cas de changement des
-caractéristiques et conditions mentionnées aux articles pouvant avoir un effet sur le classement.
+caractéristiques et conditions mentionnées aux articles pouvant avoir un effet sur le classement. 
 
 En cas de changement d'exploitant, une nouvelle demande de classement doit être déposée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1999-09-27 art. 5, al. 1 à al. 4
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D312-6
+	  - Code du tourisme. - art. R312-10
 
 
 ###### Article R312-2
@@ -20963,22 +20972,6 @@ d'impact dans les conditions fixées respectivement par les articles R. 122-8 et
 	  - Code de l'environnement - art. R122-9 (M)
 
 
-###### Article D331-3
-
-Les règles relatives à l'autorisation d'installation ou de travaux pour l'aménagement d'un terrain de camping et de
-caravanage sont fixées par l'article R. 442-11 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-813 du 21 août 2008 - art. 3
-
-
 ###### Article D331-4
 
 L'ouverture d'un terrain aménagé de camping et caravanage ne peut être autorisée qu'en cas d'implantation dans des lieux
@@ -21002,63 +20995,86 @@ l'article D. 332-1.
 
 ###### Article D331-5
 
-Les règles relatives au camping et au stationnement des caravanes sont fixées par les articles R. 443-1, R. 443-2, R. 443-7 à
-R. 443-13 du code de l'urbanisme.
+Les règles relatives à l'aménagement d'un terrain de camping et à l'installation des caravanes sont fixées par les articles
+R. * 111-30, R. * 111-37 à R. * 111-45, R. * 421-19 et R. * 421-23 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-23
+	  - Code de l'urbanisme - art. R*111-30
+	  - Code de l'urbanisme - art. R*111-37
+	  - Code de l'urbanisme - art. R421-19
 
 
 ###### Article D331-6
 
-Les règles relatives aux prescriptions et interdictions applicables dans les terrains aménagés pour l'accueil des campeurs et
-des caravanes et dans les terrains mentionnés à l'article R. 444-3 du code de l'urbanisme sont fixées par l'article R. 480-7
-du code de l'urbanisme.
+Les règles relatives aux prescriptions et interdictions applicables aux terrains de camping sont fixées par l'article R.
+480-7 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*480-7
 
 
 ###### Article D331-7
 
 Les prescriptions d'information, d'alerte et d'évacuation permettant d'assurer la sécurité des occupants des terrains situés
-dans les zones mentionnées à l'article R. 443-8-3 du code de l'urbanisme sont fixées par les articles R. 125-15 à R. 125-22
+dans les zones mentionnées à l'article R. * 443-9 du code de l'urbanisme sont fixées par les articles R. 125-15 à R. 125-22
 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R443-9
+	  - Code de l'environnement - art. R125-15
 
 
 ###### Article D331-9
 
-Les règles relatives à l'inspection des terrains aménagés pour le camping et de caravanage sont fixées par l'article R.
-443-15 du code de l'urbanisme ci-après reproduit :
+Les règles relatives à l'inspection des terrains aménagés pour le camping et ceux sur lesquels se trouvent des caravanes,
+lorsqu'ils sont situés dans les zones soumises à un risque naturel ou technologique prévisible, sont fixées par l'article R.
+* 443-12 du code de l'urbanisme ci-après reproduit : 
 
-" Art. R. 443-15 du code de l'urbanisme.
+" R. * 443-12.-Sont habilités à inspecter, même inopinément, les terrains aménagés pour le camping et ceux sur lesquels se
+trouvent des caravanes dont le stationnement a été autorisé ou aurait dû l'être : 
 
-Les membres de la commission départementale d'action touristique ou les fonctionnaires désignés par le ministre chargé du
-tourisme ou par le préfet ou par le maire et porteurs d'un ordre de mission ou d'une commission sont habilités à inspecter,
-même inopinément, les terrains aménagés pour le camping et le caravanage en application des articles R. 443-7, R. 443-8-1 et
-R. 443-8-2 ou qui auraient dû l'être, et ceux sur lesquels se trouvent des caravanes dont le stationnement a été autorisé ou
-aurait dû l'être.
+a) Les personnes visées à l'article L. 461-1 ; 
 
-Sera puni de l'amende prévue pour les contraventions de la cinquième classe, quiconque aura entravé l'exercice du droit
-d'inspection desdits terrains. "
+b) Les fonctionnaires et agents assermentés désignés par le ministre chargé du tourisme et porteurs d'un ordre de mission ou
+d'une commission ; 
+
+c) Les membres de la commission départementale de l'action touristique. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L461-1
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. R443-12
 
 
 ###### Article R331-1
@@ -21510,47 +21526,20 @@ mesures envisagées et invité à se faire entendre personnellement ou par manda
 
 ###### Article D333-1
 
-Les règles relatives aux habitations légères de loisirs sont fixées par les articles R. 444-1 à R. 444-4 du code de
-l'urbanisme ci-après reproduits :
-
-"Art. R. 444-1 du code de l'urbanisme :
-
-Un arrêté du ministre chargé de l'urbanisme fixe les modèles nationaux de demande de permis d'aménager, de déclaration
-préalable portant sur des projets d'aménagement, de déclaration d'ouverture de chantier, de décision et de déclaration
-d'achèvement des travaux. "
-
-Art. R. 444-2 du code de l'urbanisme : abrogé à compter du 1er octobre 2007.
-
-Art. R. 444-3 du code de l'urbanisme : abrogé à compter du 1er octobre 2007.
-
-Art. R. 444-4 du code de l'urbanisme : abrogé à compter du 1er octobre 2007.
+Les règles relatives aux habitations légères de loisirs sont fixées par les articles R. * 111-30 à R. * 111-32, R. * 421-2 et
+R. * 421-9 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
 
+	**Cite**:
 
-###### Article D333-2
-
-Les règles relatives aux exemptions du permis de construire applicables aux habitations légères de loisirs sont fixées par le
-j de l'article R. 422-2 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-813 du 21 août 2008 - art. 3
+	  - Code de l'urbanisme - art. R*111-30
+	  - Code de l'urbanisme - art. R421-2
+	  - Code de l'urbanisme - art. R421-9
 
 
 ##### Section 2 : Parcs résidentiels de loisirs.
@@ -21559,20 +21548,39 @@ j de l'article R. 422-2 du code de l'urbanisme.
 
 ###### Article D333-3
 
-Un parc résidentiel de loisirs est un terrain aménagé au sens du b de l'article R. 444-3 du code de l'urbanisme. Ce terrain
-peut être également aménagé pour l'accueil des caravanes de passage.
+Un parc résidentiel de loisirs est un terrain aménagé au sens du 1° de l'article R. * 111-32 du code de l'urbanisme et soumis
+à des normes en application de l'article R. * 111-46 du même code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Arrêté 1980-12-18 art. 1
-	  - Arrêté 1980-12-18 art. 3, 2ème phrase
 	  - Arrêté du 18 décembre 1980 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-32
+	  - Code de l'urbanisme - art. R*111-46
+
+
+###### Article D333-3-1
+
+Les règles relatives aux prescriptions et interdictions applicables aux parcs résidentiels de loisirs sont fixées par
+l'article R. 480-7 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*480-7
 
 
 ###### Article D333-4
@@ -21645,6 +21653,31 @@ se faire entendre personnellement ou par mandataire.
 	**Cité par**:
 
 	  - Code du tourisme. - art. R333-6-1 (VD)
+
+
+#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.
+
+##### Section 1 : Habitations légères de loisirs.
+
+##### Section 2 : Parcs résidentiels de loisirs.
+
+##### Section 3 : Résidences mobiles de loisirs.
+
+###### Article D333-7
+
+Les règles relatives à l'installation des résidences mobiles de loisirs sont fixées par les articles R. * 111-30 et R. *
+111-33 à R. * 111-36 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-813 du 21 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-30
+	  - Code de l'urbanisme - art. R*111-33
 
 
 ### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.
@@ -24553,13 +24586,21 @@ articles 176 à 178 et 178 bis de l'annexe II ainsi que par l'article 30 de l'an
 Les modalités d'application des réductions d'impôts accordées au titre de l'acquisition de logements neufs ou de la
 réhabilitation de logements faisant partie d'une résidence de tourisme classée, mentionnées aux articles 199 decies E, 199
 decies EA et 199 decies G du code général des impôts, cités à l'article L. 421-3, sont fixées par les articles 46 AGD à 46
-AGF quinquies de l'annexe III à ce code.
+AGF sexies de l'annexe III à ce code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGD
+	  - Code général des impôts, CGI. - art. 199 decies E
+	  - Code général des impôts, CGI. - art. 199 decies EA
+	  - Code général des impôts, CGI. - art. 199 decies G
+	  - Code du tourisme. - art. L421-3
 
 
 ###### Article D421-3
@@ -24588,13 +24629,19 @@ l'article 46 AGG de l'annexe III à ce code.
 
 Les modalités d'application du e du 1 de l'article 266 du code général des impôts, cité à l'article L. 421-4, relatif à
 l'assujettissement à la taxe sur la valeur ajoutée des opérations réalisées par les agences de voyages et les organisateurs
-de circuits touristiques, sont définies au 2 de l'article 231 de l'annexe II à ce code.
+de circuits touristiques, sont définies au 9° du IV de l'article 206 de l'annexe II à ce code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-813 du 21 août 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 206
+	  - Code général des impôts, CGI. - art. 266
+	  - Code du tourisme. - art. L421-4
 
 
 #### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.
