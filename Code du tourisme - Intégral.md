@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2008-08-24
+Version Consolidée au 2008-09-04
 
 # Partie législative
 
@@ -2688,8 +2688,8 @@ k) Banqueroute ;
 
 l) Pratique de prêt usuraire ;
 
-m) L'une des infractions prévues par la loi du 21 mai 1836 sur les loteries, par la loi du 15 juin 1907 sur les cercles et
-casinos et par la loi du 12 juillet 1983 relative aux jeux de hasard ;
+m) L'une des infractions prévues par la loi du 21 mai 1836 sur les loteries, par la loi du 15 juin 1907 relative aux casinos
+et par la loi du 12 juillet 1983 relative aux jeux de hasard ;
 
 n) L'une des infractions prévues au livre Ier et aux articles L. 213-1 à L. 213-5 du code de la consommation ;
 
@@ -2705,9 +2705,9 @@ r) L'une des infractions prévues aux articles L. 211-24 et L. 211-25 ;
 
 **Nota:**
 
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+Loi 2006-437 du 14 avril 2006 article 7 IV 2 : Les dispositions de la présente loi entrent en vigueur dans un délai de six
+mois à compter de la publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre
+2008 a été publié le 3 septembre 2008.
 
 **Liens relatifs à cet article**
 
@@ -2735,7 +2735,7 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cite**:
 
@@ -10881,45 +10881,24 @@ préalablement avisé des mesures envisagées et invité à se faire entendre pe
 	  - Code du tourisme. - art. R133-29 (V)
 
 
-##### Section 2 : Stations classées
+##### Section 2 : Communes touristiques et stations classées de tourisme.
 
-##### Sous-section 1 : Dispositions générales et définitions.
-
-###### Article D133-33
-
-Les conseils municipaux dont le territoire est compris en tout ou partie dans la station classée délibèrent sur la
-proposition mentionnée à l'article L. 133-18 au cours du trimestre qui suit celui au cours duquel l'invitation leur en est
-faite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-18
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L2231-6 (Ab)
-
+##### Sous-section 1 : Communes touristiques.
 
 ###### Article R133-32
 
-La révision du classement d'une station prévue à l'article L. 133-20 est prononcée sur la proposition du ministre ayant
-l'initiative du classement.
+Peuvent être dénommées communes touristiques les communes qui : 
+
+a) Disposent d'un office de tourisme classé compétent sur le territoire faisant l'objet de la demande de dénomination ; 
+
+b) Organisent, en périodes touristiques, des animations compatibles avec le statut des sites ou des espaces naturels
+protégés, notamment dans le domaine culturel, artistique, gastronomique ou sportif ; 
+
+c) Disposent d'une capacité d'hébergement d'une population non permanente dont le rapport à la population municipale de la
+commune telle que définie à l'article R. 2151-1 du code général des collectivités territoriales est supérieur ou égal à un
+pourcentage fixé à l'article R. 133-33.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Cité par**:
 
@@ -10928,105 +10907,250 @@ l'initiative du classement.
 	  - Code du tourisme. - art. R133-33 (V)
 	  - Code du tourisme. - art. R133-36 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2151-1
+
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-30 (M)
 	  - Code général des collectivités territoriales - art. R2231-30 (Ab)
 
 
-##### Sous-section 2 : Classement des stations
+###### Article R133-33
 
-##### Paragraphe 1 : Stations hydrominérales et climatiques.
+La capacité d'hébergement d'une population non permanente mentionnée à l'article R. 133-32 est estimée par le cumul suivant :
 
-###### Article R133-34
+- nombre de chambres en hôtellerie classée et non classée multiplié par deux ;
 
-Le préfet établit, soit d'office, soit à la demande des conseils municipaux, la liste des communes, fractions de communes ou
-groupes de communes qu'il estime devoir être classés comme stations hydrominérales ou climatiques, et fait procéder
-immédiatement à une enquête sur ce projet de classement.
+- nombre de lits en résidence de tourisme répondant à des critères déterminés par décret ;
+
+- nombre de logements meublés multiplié par quatre ;
+
+- nombre d'emplacements situés en terrain de camping multiplié par trois ;
+
+- nombre de lits en village de vacances et maisons familiales de vacances ;
+
+- nombre de résidences secondaires multiplié par cinq ;
+
+- nombre de chambres d'hôtes multiplié par deux ;
+
+- nombre d'anneaux de plaisance dans les ports de plaisance multiplié par quatre. 
+
+La population municipale de la commune à laquelle se rapporte la capacité d'hébergement d'une population non permanente est
+celle qui résulte du dernier recensement authentifié. 
+
+Le tableau ci-après précise par strate démographique de population municipale de la commune le pourcentage minimal exigé de
+capacité d'hébergement d'une population non permanente : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+POPULATION MUNICIPALE DE LA COMMUNE 
+
+(habitants) 
+
+</th>
+      <th>
+
+POURCENTAGE MINIMUM EXIGÉ DE CAPACITÉ 
+
+d'hébergement d'une population 
+
+non permanente 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Jusqu'à 1 999 
+
+</td>
+      <td align="center">
+
+15 % 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+De 2 000 à 3 499 
+
+</td>
+      <td align="center">
+
+12, 5 % 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+De 3 500 à 4 999 
+
+</td>
+      <td align="center">
+
+10, 5 % 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+De 5 000 à 9 999 
+
+</td>
+      <td align="center">
+
+8, 5 % 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+A partir de 10 000 
+
+</td>
+      <td align="center">
+
+4, 5 %
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2010 - art. (V)
+	  - Code du tourisme. - art. R133-32 (V)
+
+
+###### Article R133-34
+
+La délibération sollicitant la dénomination de commune touristique, accompagnée du dossier de demande, est adressée par le
+maire au préfet par voie électronique ou, à défaut, par voie postale. Lorsque le dossier est incomplet, le préfet en avise le
+demandeur dans le délai de deux mois en lui précisant les pièces manquantes.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 2 septembre 2008 - art. 2 (V)
 	  - Code du tourisme. - art. R133-35 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-1 (M)
 	  - Code général des collectivités territoriales - art. R2231-1 (Ab)
 
 
 ###### Article R133-35
 
-Il est procédé à l'enquête prévue à l'article R. 133-34 dans les formes ci-après :
+La dénomination de commune touristique est prise par arrêté préfectoral pour une durée de cinq ans. 
 
-1° Le projet de classement est déposé pendant trois jours à la mairie des communes intéressées et tenu à la disposition de
-toute personne désirant en prendre connaissance.
+Le rejet de la demande fait l'objet d'une décision motivée du préfet de département qui la notifie au maire. 
 
-Dans les trois jours qui suivent, un commissaire enquêteur, désigné par le préfet, se rend à la mairie et y reçoit pendant
-une journée les déclarations ou observations auxquelles peut donner lieu le projet de classement. Les délais de trois et de
-un jour ci-dessus prévus ne courent que de la date de l'avertissement donné par voie de publication et d'affichage ; il est
-justifié de l'accomplissement de cette formalité par un certificat du maire ;
-
-2° Après avoir clos et signé le registre des déclarations, le commissaire enquêteur le transmet immédiatement au maire avec
-son avis motivé et tous documents relatifs à la proposition de classement qui lui ont été remis au cours de l'enquête ;
-
-3° Le dossier de l'enquête est ensuite soumis au conseil municipal qui doit, dans la huitaine, délibérer sur le projet.
-
-Faute pour le conseil municipal de donner son avis dans les délais ci-dessus, il est passé outre.
+Le silence vaut rejet au-delà de l'expiration du délai de deux mois à compter de la réception du dossier complet par le
+préfet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-2 (M)
 	  - Code général des collectivités territoriales - art. R2231-2 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R133-34 (V)
 
 
 ###### Article R133-36
 
-Les résultats de l'enquête avec l'avis du commissaire enquêteur et celui du conseil municipal sont transmis sans délai par le
-préfet au conseil départemental de l'environnement et des risques sanitaires et technologiques, qui donne son avis dans la
-quinzaine.
+Tout établissement public de coopération intercommunale doté d'un office classé de tourisme, et auquel a été transférée la
+compétence d'instituer la taxe de séjour en application de l'article L. 5211-21 du code général des collectivités
+territoriales, peut demander le bénéfice de la dénomination de commune touristique, pour une, plusieurs ou l'ensemble de ses
+communes membres, dans le but de réaliser des actions en faveur du tourisme, en leurs lieu et place. 
 
-Le préfet transmet ensuite le dossier au ministre chargé de la santé, après l'avoir soumis au conseil général conformément
-aux dispositions de l'article L. 133-19.
+La délibération de l'organe délibérant de l'établissement public de coopération intercommunale délimite le territoire faisant
+l'objet de la demande de dénomination. 
+
+Lorsque la dénomination de commune touristique est sollicitée par l'établissement public de coopération intercommunale pour
+une ou plusieurs des communes le constituant, chacune d'entre elles doit respecter les conditions de l'article R. 133-32. 
+
+Lorsque la dénomination de commune touristique est sollicitée par l'établissement public de coopération intercommunale pour
+l'ensemble des communes le constituant, chacune des communes doit respecter les conditions mentionnées au a et au b de
+l'article R. 133-32 et le territoire faisant l'objet de la demande de dénomination doit respecter le seuil minimal du rapport
+entre sa population non permanente hébergée et sa population municipale mentionnée au c du même article. 
+
+Pour l'application des dispositions de la présente sous-section, l'organe délibérant de l'établissement public de coopération
+intercommunale est substitué au conseil municipal et le président de l'établissement public de coopération intercommunale est
+substitué au maire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-21
+	  - Code du tourisme. - art. R133-32
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-3 (M)
 	  - Code général des collectivités territoriales - art. R2231-3 (Ab)
 
 
+##### Sous-section 2 : Stations classées de tourisme.
+
 ###### Article R133-37
 
-Le conseil général délibère sur les projets de classement de stations au cours de la réunion qui suit l'envoi du dossier par
-le préfet ; faute pour lui de délibérer au cours de cette réunion, il est considéré comme ayant donné un avis favorable.
+Pour être classées en station de tourisme, les communes touristiques mentionnées à l'article L. 133-11 mettent en œuvre, le
+cas échéant sur une fraction seulement de leur territoire, des actions de nature à assurer la fréquentation plurisaisonnière
+et à mettre en valeur des ressources dans les conditions mentionnées à l'article L. 133-13. A ces fins, elles doivent : 
+
+a) Offrir des hébergements touristiques de nature et de catégories variées ; 
+
+b) Offrir des créations et animations culturelles, faciliter les activités physiques et sportives utilisant et respectant
+leurs ressources patrimoniales, naturelles ou bâties ainsi que, le cas échéant, celles du territoire environnant, pour tous
+les publics et pendant les périodes touristiques, et mettre notamment en valeur les savoir-faire professionnels ayant un
+caractère traditionnel, historique, gastronomique ou régional ; 
+
+c) Offrir à toutes les catégories de touristes des commerces de proximité et des structures de soins, adaptées notamment aux
+activités touristiques pratiquées, soit dans la commune, soit peu éloignés ; 
+
+d) Disposer d'un document d'urbanisme et d'un plan de zonage d'assainissement collectif et non collectif, et s'engager à
+mettre en œuvre des actions en matière d'environnement, d'embellissement du cadre de vie, de conservation des sites et
+monuments, d'hygiène publique, d'assainissement et de traitement des déchets ; 
+
+e) Organiser l'information, en plusieurs langues, des touristes sur les activités et facilités offertes, ainsi que sur les
+lieux d'intérêt touristique de la commune et de ses environs, et leur assurer l'accès à cette information ; 
+
+f) Faciliter l'accès à la commune et la circulation à l'intérieur de celle-ci pour tous publics par l'amélioration des
+infrastructures et de l'offre de transport, assurer l'entretien et la sécurité des équipements, la mise en place d'une
+signalisation appropriée de l'office de tourisme et des principaux lieux d'intérêt touristique.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Cité par**:
 
@@ -11037,112 +11161,137 @@ le préfet ; faute pour lui de délibérer au cours de cette réunion, il est co
 	  - Code du tourisme. - art. R133-42 (M)
 	  - Code général de la propriété des personnes publ... - art. R2124-17 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-11
+	  - Code du tourisme. - art. L133-13
+
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-4 (M)
 	  - Code général des collectivités territoriales - art. R2231-4 (Ab)
 
 
 ###### Article R133-38
 
-Le décret en Conseil d'Etat, prévu à l'article L. 133-17, est pris, lorsqu'il concerne les stations hydrominérales et
-climatiques, sur le rapport du ministre chargé de la santé après avis du ministre chargé de l'économie et des finances, du
-ministre de l'intérieur et du ministre chargé du tourisme.
+La délibération sollicitant le classement en station de tourisme, accompagnée du dossier de demande, est adressée par le
+maire au préfet par voie électronique ou, à défaut, par voie postale. 
+
+La délibération délimite le territoire faisant l'objet de la demande de classement. Un plan lui est annexé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-5 (M)
 	  - Code général des collectivités territoriales - art. R2231-5 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-17 (V)
 
 
 ###### Article R133-39
 
-Le classement des stations hydrominérales et climatiques est prononcé après avis de l'Académie nationale de médecine et du
-Haut Conseil de la santé publique.
+Lorsque le dossier est incomplet, le préfet en avise le demandeur dans le délai de deux mois en lui précisant les pièces
+manquantes. 
+
+Dans le délai de six mois à compter de la date de réception du dossier complet, le préfet adresse au ministre chargé du
+tourisme, accompagné de son avis, le dossier de demande complet, ainsi que les avis qu'il a éventuellement recueillis.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Cité par**:
 
 	  - Arrêté du 2 septembre 2008 - art. 6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-6 (M)
 	  - Code général des collectivités territoriales - art. R2231-6 (Ab)
 
 
 ###### Article R133-40
 
-Les décrets portant classement des stations hydrominérales ou climatiques déterminent, suivant les circonstances de chaque
-espèce, les mesures à prendre pour faciliter le traitement des personnes privées de ressources suffisantes et des familles
-comprenant trois enfants et plus, telles que gratuité ou réduction du prix des soins médicaux ou autres, institution de
-maisons de repos, logements à prix réduits.
+La décision de classer la commune touristique en station de tourisme est prononcée pour une durée de douze ans par décret
+pris sur le rapport du ministre chargé du tourisme dans le délai d'un an à compter de la date de réception par le préfet du
+dossier de demande complet. 
+
+Le décret délimite le territoire classé. Lorsque celui-ci ne se confond pas avec le territoire communal, un plan est annexé
+au décret. 
+
+Le rejet de la demande de classement fait l'objet d'une décision motivée du ministre chargé du tourisme. Cette décision est
+notifiée par le préfet au maire. 
+
+Le silence vaut rejet au-delà de l'expiration du délai mentionné au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-7 (M)
 	  - Code général des collectivités territoriales - art. R2231-7 (Ab)
 
 
 ###### Article R133-41
 
-Lorsque, dans une commune classée comme station hydrominérale ou climatique, à la demande ou après avis favorable du conseil
-municipal, des travaux d'assainissement ont été jugés indispensables par le ministre chargé de la santé, si le conseil
-municipal, après une mise en demeure, refuse ou néglige d'effectuer ces travaux dans le délai imparti par le ministre, il
-peut, sans préjudice de l'application des dispositions de l'article R. 133-42, être procédé à la radiation de la commune de
-la liste des stations hydrominérales et climatiques.
+Tout établissement public de coopération intercommunale doté d'un office classé de tourisme auquel a été transférée la
+compétence d'instituer la taxe de séjour en application de l'article L. 5211-21 du code général des collectivités
+territoriales peut demander le classement en station de tourisme, pour une, plusieurs ou l'ensemble de ses communes membres,
+dans le but de réaliser des actions en faveur du tourisme, en leurs lieu et place. 
 
-La radiation est prononcée par un décret en Conseil d'Etat pris dans les conditions prévues par les articles L. 133-17, L.
-133-18, R. 133-38 et R. 133-39.
+La délibération de l'organe délibérant de l'établissement public de coopération intercommunale délimite le territoire faisant
+l'objet de la demande de classement. 
+
+Un plan lui est annexé. 
+
+Pour l'application des dispositions de la présente sous-section, l'organe délibérant de l'établissement public de coopération
+intercommunale est substitué au conseil municipal et le président de l'établissement public de coopération intercommunale est
+substitué au maire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-21
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-8 (M)
 	  - Code général des collectivités territoriales - art. R2231-8 (Ab)
 
 
+##### Sous-section 3 : Dispositions communes aux communes touristiques et aux stations classées.
+
 ###### Article R133-42
 
-Dans le cas où les communes érigées en stations hydrominérales ou climatiques refusent ou négligent d'exécuter les travaux
-d'assainissement qui ont été reconnus indispensables par le ministre chargé de la santé, il est procédé conformément aux
-alinéas 2 et suivants de l'article L. 1331-17 du code de la santé publique.
+Un arrêté conjoint des ministres chargés du tourisme, de l'intérieur, des collectivités territoriales, de l'environnement, de
+l'aménagement du territoire, de l'urbanisme, des transports, de l'outre-mer, de l'agriculture, de la santé, des sports, et de
+la culture précise :
 
-La mise en demeure prévue au troisième alinéa dudit article est adressée aux communes intéressées conjointement par le
-ministre chargé de la santé et le ministre de l'intérieur ; le décret prévu à cet alinéa est contresigné par les deux
-ministres.
+- les conditions d'application des articles R. 133-37 à R. 133-41, et notamment les modalités de classement en station de
+tourisme au regard des critères énoncés à l'article R. 133-37 ;
+
+- la liste des pièces nécessaires à la constitution du dossier de demande de dénomination de commune touristique ;
+
+- la liste des pièces nécessaires à la constitution du dossier de demande de classement en station de tourisme ;
+
+- le modèle national de dossier de demande de dénomination de commune touristique ;
+
+- le modèle national de dossier de demande de classement en station de tourisme.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Cité par**:
 
@@ -11150,486 +11299,34 @@ ministres.
 	  - Arrêté du 2 septembre 2008 - art. 4 (V)
 	  - Arrêté du 2 septembre 2008 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R133-37
+
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-9 (M)
 	  - Code général des collectivités territoriales - art. R2231-9 (Ab)
 
 
-##### Paragraphe 2 : Stations de tourisme.
-
 ###### Article R133-43
 
-Toute demande de classement d'une station de tourisme présentée par les collectivités locales intéressées conformément à
-l'article L. 133-17 ou par les associations de tourisme conformément à l'article L. 133-21 est adressée au préfet, qui en
-donne récépissé.
+Des agents de l'Etat peuvent vérifier sur place le respect, par les communes et leurs groupements, des conditions exigées
+pour la dénomination de commune touristique ou le classement en station de tourisme, selon des modalités précisées par
+décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-58 (M)
 	  - Code général des collectivités territoriales - art. R2231-58 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-17 (V)
-	  - Code du tourisme. - art. L133-21 (V)
-
-
-###### Article R133-44
-
-La demande de classement fait ensuite l'objet d'une enquête à laquelle il est procédé dans les formes prévues pour la
-création des stations hydrominérales et climatiques.
-
-Après cette enquête, la proposition de classement de la station de tourisme est adressée au préfet, qui la transmet au
-ministre chargé du tourisme après l'avoir, conformément aux dispositions de l'article L. 133-19, soumise pour avis au conseil
-général ou à la commission départementale, qui doit statuer dans les conditions et délais prévus pour les stations
-hydrominérales ou climatiques.
-
-Le dossier est ensuite transmis à la commission départementale de la nature, des paysages et des sites et au conseil
-départemental de l'environnement et ds risques sanitaires et technologiques, qui délibèrent dans la quinzaine qui suit la
-communication qui leur est faite du projet. A défaut, il est passé outre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-59 (M)
-	  - Code général des collectivités territoriales - art. R2231-59 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-19
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R133-46 (Ab)
-
-
-###### Article R133-45
-
-Sans préjudice des consultations prévues à l'article R. 133-47, le classement des stations de tourisme est prononcé après
-avis du Conseil national du tourisme et de la Commission supérieure des monuments historiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-60 (M)
-	  - Code général des collectivités territoriales - art. R2231-60 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R133-47
-
-
-###### Article R133-46
-
-Il est statué sur les demandes de classement de stations de tourisme dans les trois mois qui suivent l'accomplissement des
-formalités prescrites à l'article R. 133-44.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-61 (M)
-	  - Code général des collectivités territoriales - art. R2231-61 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R133-44
-
-
-###### Article R133-47
-
-Le décret en Conseil d'Etat prononçant le classement est pris sur le rapport du ministre chargé du tourisme, après avis du
-ministre chargé de l'économie et des finances, du ministre de l'intérieur, du ministre chargé de la culture et du ministre
-chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-62 (M)
-	  - Code général des collectivités territoriales - art. R2231-62 (Ab)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R133-45 (Ab)
-
-
-##### Paragraphe 3 : Stations uvales.
-
-###### Article R133-48
-
-Les articles R. 133-34 à R. 133-42 sont applicables aux stations uvales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-18 (M)
-	  - Code général des collectivités territoriales - art. R2231-18 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme.
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R162-3 (Ab)
-	  - Code du tourisme. - art. R163-4 (Ab)
-
-
-###### Article R133-49
-
-Toute demande de classement d'une station uvale est adressée au préfet qui en donne récépissé.
-
-Cette demande est instruite dans les conditions fixées pour les stations hydrominérales et climatiques par les dispositions
-des articles R. 133-35 à R. 133-37.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-17 (M)
-	  - Code général des collectivités territoriales - art. R2231-17 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme.
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R162-3 (Ab)
-	  - Code du tourisme. - art. R163-4 (Ab)
-
-
-##### Paragraphe 4 : Stations balnéaires.
-
-###### Article R133-50
-
-Les demandes de classement des stations balnéaires présentées par les collectivités locales intéressées en application de
-l'article L. 133-17 sont régies par les dispositions prévues pour le classement des stations de tourisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-19 (M)
-	  - Code général des collectivités territoriales - art. R2231-19 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-17
-
-
-###### Article R133-51
-
-Le décret en Conseil d'Etat prononçant le classement d'une station balnéaire conformément à l'article L. 133-17 est pris sur
-le rapport du ministre chargé du tourisme après avis du ministre chargé de l'économie et des finances, du ministre de
-l'intérieur et du ministre chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-20 (M)
-	  - Code général des collectivités territoriales - art. R2231-20 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-17
-
-
-##### Paragraphe 5 : Stations de sports d'hiver et d'alpinisme.
-
-###### Article R133-52
-
-Les communes, fractions de communes ou groupes de communes peuvent être classés stations de sports d'hiver et d'alpinisme
-dans la mesure où ils remplissent certaines conditions relatives :
-
-- à l'altitude de l'agglomération siège de la station, à ses moyens d'accès et à l'intérêt qu'elle présente du point de vue
-de la pratique des sports de montagne ;
-
-- à la capacité hôtelière et au service d'accueil des touristes ;
-
-- à l'équipement sanitaire ;
-
-- à l'existence d'un service médical et de secours en montagne pour la sécurité des usagers de la station ;
-
-- à l'importance et à la qualité de l'équipement nécessaire à la pratique des sports de montagne ainsi que des organisations
-d'enseignement sportif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-22 (M)
-	  - Code général des collectivités territoriales - art. R2231-22 (Ab)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R133-54 (Ab)
-	  - Code général des collectivités territoriales - art. R4424-23 (Ab)
-	  - Code général des collectivités territoriales - art. R4424-28 (Ab)
-
-
-###### Article R133-53
-
-Les conditions exigées pour le classement des stations, notamment en ce qui concerne le fonctionnement obligatoire d'un
-service médical, sont fixées par arrêté interministériel pris sur l'initiative du ministre chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-23 (M)
-	  - Code général des collectivités territoriales - art. R2231-23 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. R4424-23 (Ab)
-	  - Code général des collectivités territoriales - art. R4424-28 (Ab)
-
-
-###### Article R133-54
-
-La demande de classement en station de sports d'hiver et d'alpinisme est adressée par les collectivités intéressées au préfet
-qui en donne récépissé.
-
-La demande est accompagnée d'une fiche de renseignements faisant apparaître les caractéristiques de la station telles
-qu'elles sont mentionnées à l'article R. 133-52.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-24 (M)
-	  - Code général des collectivités territoriales - art. R2231-24 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R133-52
-
-
-###### Article R133-55
-
-La demande de classement fait l'objet d'une enquête à laquelle il est procédé dans les formes établies par les articles R.
-11-3 à R. 11-13 du code de l'expropriation pour cause d'utilité publique.
-
-Sans préjudice des dispositions de l'article L. 133-19, le préfet transmet le dossier de classement au ministre chargé du
-tourisme après avis de la commission départementale de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-25 (M)
-	  - Code général des collectivités territoriales - art. R2231-25 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-19
-	  - Code de l'expropriation pour cause d'utilité publique
-
-
-###### Article R133-56
-
-Le Conseil national du tourisme est chargé :
-
-1° D'étudier et de proposer les conditions qui sont exigées des communes, fractions de communes ou groupes de communes pour
-pouvoir être classés stations de sports d'hiver et d'alpinisme ;
-
-2° De donner son avis sur chaque demande de classement présentée par ces collectivités ;
-
-3° D'une manière générale, d'étudier et de proposer toutes mesures susceptibles de favoriser le développement des sports de
-montagne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-26 (M)
-	  - Code général des collectivités territoriales - art. R2231-26 (Ab)
-
-
-###### Article R133-57
-
-Le décret en Conseil d'Etat prononçant le classement des stations de sports d'hiver et d'alpinisme est pris sur le rapport du
-ministre chargé du tourisme et contresigné par le ministre chargé de la jeunesse et des sports, après avis du garde des
-sceaux, ministre de la justice, du ministre de l'intérieur, du ministre chargé de l'économie et des finances, du ministre
-chargé de l'équipement et du ministre chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-27 (M)
-	  - Code général des collectivités territoriales - art. R2231-27 (Ab)
-
-
-###### Article R133-58
-
-En cas de désaccord entre plusieurs collectivités intéressées, le classement est prononcé d'office dans les formes prévues à
-l'article L. 133-17.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-28 (M)
-	  - Code général des collectivités territoriales - art. R2231-28 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-17
-
-
-###### Article R133-59
-
-Les stations de sports d'hiver et d'alpinisme classées sont tenues de disposer d'un plan d'occupation des sols ou d'établir
-un projet de plan local d'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-29 (M)
-	  - Code général des collectivités territoriales - art. R2231-29 (Ab)
 
 
 ##### Section 3 : Surclassement démographique.
@@ -11657,278 +11354,6 @@ relatives à la fonction publique territoriale et le décret n° 99-567 du 6 jui
 
 
 #### Chapitre IV : Groupements intercommunaux.
-
-##### Section 2 : Stations classées intercommunales
-
-##### Sous-section 1 : Stations hydrominérales, climatiques et uvales.
-
-###### Article R134-1
-
-Lorsqu'une station hydrominérale ou climatique s'étend sur le territoire d'un groupe de communes, elle est gérée :
-
-- soit par un syndicat de communes, institué conformément aux dispositions du chapitre II du titre Ier du livre II de la
-cinquième partie du code général des collectivités territoriales, dont il appartient au préfet de provoquer la constitution ;
-
-- soit, à défaut de syndicat de communes, par des conférences intercommunales créées conformément aux dispositions de
-l'article L. 5221-2 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5221-2
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-10 (M)
-	  - Code général des collectivités territoriales - art. R2231-10 (Ab)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R134-2 (Ab)
-
-
-###### Article R134-2
-
-Dans les conférences prévues à l'article R. 134-1, chaque conseil municipal est représenté par une commission spéciale
-instituée à cet effet et composée de trois membres désignés au scrutin secret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-11 (M)
-	  - Code général des collectivités territoriales - art. R2231-11 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R134-1
-
-
-###### Article R134-3
-
-Les commissions composant les conférences intercommunales sont renouvelées après chaque renouvellement des conseils
-municipaux et il est pourvu aux vacances à la première séance du conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-12 (M)
-	  - Code général des collectivités territoriales - art. R2231-12 (Ab)
-
-
-###### Article R134-4
-
-Les conférences intercommunales élisent leur président et leur secrétaire.
-
-Elles sont convoquées par leur président, à son initiative ou à la demande d'au moins la moitié de leurs membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-13 (M)
-	  - Code général des collectivités territoriales - art. R2231-13 (Ab)
-
-
-###### Article R134-5
-
-Les conférences intercommunales ne peuvent délibérer que si la moitié des membres en exercice assistent à la séance.
-
-Les délibérations sont prises à la majorité absolue des votants.
-
-Elles sont adressées dans la huitaine aux maires des communes groupées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-14 (M)
-	  - Code général des collectivités territoriales - art. R2231-14 (Ab)
-
-
-###### Article R134-6
-
-Les conférences intercommunales examinent les questions relatives au fonctionnement de la station et à son développement par
-des travaux d'assainissement ou d'embellissement ainsi que l'emploi des recettes provenant de la taxe de séjour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-15 (M)
-	  - Code général des collectivités territoriales - art. R2231-15 (Ab)
-
-
-###### Article R134-7
-
-Les décisions prises par les conférences intercommunales sont exécutoires dans les conditions prévues à l'article L. 5221-2
-du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5221-2
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-16 (M)
-	  - Code général des collectivités territoriales - art. R2231-16 (Ab)
-
-
-###### Article R134-8
-
-Les dispositions des articles R. 134-1 à R. 134-7 sont applicables aux stations uvales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme.
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R162-3 (Ab)
-	  - Code du tourisme. - art. R163-4 (Ab)
-
-
-##### Sous-section 2 : Stations de tourisme.
-
-###### Article R134-9
-
-Des groupements de communes peuvent être classés en stations de tourisme dans les conditions prévues par les dispositions
-concernant les groupements de communes classés en stations hydrominérales ou climatiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-63 (M)
-	  - Code général des collectivités territoriales - art. R2231-63 (Ab)
-
-
-##### Sous-section 3 : Stations balnéaires.
-
-###### Article R134-10
-
-Des groupements de communes peuvent être classés en stations balnéaires dans les conditions prévues par les dispositions
-concernant les groupements de communes classés en stations hydrominérales et climatiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-21 (M)
-	  - Code général des collectivités territoriales - art. R2231-21 (Ab)
-
-
-##### Sous-section 4 : Stations de sports d'hiver et d'alpinisme.
-
-###### Article R134-11
-
-Les articles R. 133-52 à R. 133-59 sont applicables aux stations de sports d'hiver et d'alpinisme intercommunales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme.
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R162-3 (Ab)
-	  - Code du tourisme. - art. R163-4 (Ab)
-
 
 ##### Section 3 : Offices de tourisme de groupements de collectivités territoriales
 
@@ -12377,129 +11802,52 @@ territoriales ci-après reproduits :
 
 " Art.R. 4424-20 du code général des collectivités territoriales. 
 
-Le président du conseil exécutif établit, soit d'office, soit à la demande des conseils municipaux, ou des organes
-délibérants des établissements publics de coopération intercommunale compétents en matière de tourisme, du préfet du
-département ou des associations de tourisme en Corse, la liste des communes, fractions de communes ou groupes de communes
-qu'il estime devoir être classés comme stations hydrominérales, climatiques, uvales, balnéaires, de sport d'hiver et
-d'alpinisme ou de tourisme. 
-
-Il engage immédiatement la procédure de classement dans les conditions fixées aux articles R. 4424-21 à R. 4424-23. 
-
-Dans tous les cas où il est saisi d'une demande de classement, le président du conseil exécutif en délivre récépissé. " 
+L'Assemblée de Corse détermine les conditions dans lesquelles les communes mentionnées à la section 2 du chapitre III du
+titre III du livre Ier du code du tourisme ou leurs groupements sont dénommés communes touristiques, par arrêté du président
+du conseil exécutif de Corse, pour une durée de cinq ans et après consultation du conseil des sites et de la commission
+départementale compétente en matière d'environnement, de risques sanitaires et technologiques. Elle détermine les conditions
+dans lesquelles ces communes, leurs fractions ou leurs groupements sont érigés en stations classées de tourisme. " 
 
 " Art.R. 4424-21 du code général des collectivités territoriales. 
 
-Le président du conseil exécutif soumet pour avis le projet de classement au conseil départemental de l'environnement et des
-risques sanitaires et technologiques et au conseil des sites siégeant en formation plénière.
+La composition du dossier de demande de dénomination de commune touristique et de classement en station de tourisme ainsi que
+les modèles de dossier de demande sont fixés par arrêté du président du conseil exécutif qui définit les modalités de la
+procédure décrite aux deux premiers alinéas de l'article L. 4424-32. "
 
-A défaut d'être rendus dans le délai de deux mois, les avis sont réputés émis. " 
+**Nota:**
 
-" Art.R. 4424-22 du code général des collectivités territoriales. 
-
-1° Le projet de classement, assorti des avis mentionnés à l'article R. 4424-21, est déposé pendant un mois à la mairie des
-communes intéressées et tenu à la disposition de toute personne désirant en prendre connaissance. Avertissement en est donné
-par voie de publication et d'affichage.L'accomplissement de cette formalité est attesté par un certificat du maire. 
-
-Au cours de l'enquête, le commissaire enquêteur, désigné par le président du tribunal administratif, reçoit dans les locaux
-municipaux, pendant au moins deux journées, les déclarations ou observations auxquelles peut donner lieu le projet de
-classement. 
-
-2° Après avoir clos et signé le registre des déclarations, le commissaire enquêteur émet un avis motivé. 
-
-Il transmet immédiatement le dossier de l'enquête au président du conseil exécutif. 
-
-3° Par dérogation au deuxième alinéa du 2° ci-dessus, en l'absence de demande de classement de la part de la commune ou de
-l'établissement public de coopération intercommunale compétent en matière de tourisme ou en cas d'avis défavorable du
-commissaire enquêteur, ce dernier transmet immédiatement le dossier de l'enquête au conseil municipal ou à l'organe
-délibérant de l'établissement public, qui dispose, pour se prononcer, d'un délai de trois mois. En l'absence d'avis dans ce
-délai, la commune ou l'établissement public est réputé avoir émis un avis défavorable. 
-
-Le dossier de l'enquête, assorti de l'avis de l'organe délibérant, est transmis immédiatement au président du conseil
-exécutif. " 
-
-" Art.R. 4424-23 du code général des collectivités territoriales. 
-
-Au vu des avis mentionnés à l'article R. 4422-21 et au 2° de l'article R. 4424-22 et dans les cas prévus au 3° du même
-article R. 4424-22, au vu de l'avis conforme de la commune ou de l'établissement public compétent, le classement est prononcé
-par délibération de l'Assemblée de Corse. 
-
-Le classement ne peut être décidé que pour autant que les communes, fractions de communes ou groupes de communes remplissent
-les conditions prévues notamment aux articles L. 133-11, L. 133-13, L. 134-3 et L. 134-4 du code du tourisme et aux articles
-R. 133-52 et R. 133-53 du même code. " 
-
-" Art.R. 4424-24 du code général des collectivités territoriales.
-
-L'avis de l'Académie de médecine ou du Conseil supérieur du thermalisme et du climatisme peut être sollicité par le président
-du conseil exécutif avant le prononcé du classement d'une station hydrominérale ou climatique.
-
-L'avis du Conseil national du tourisme peut être sollicité par le président du conseil exécutif de Corse avant le prononcé du
-classement d'une station balnéaire, de sports d'hiver et d'alpinisme ou de tourisme.
-
-L'avis de la Commission supérieure des monuments historiques peut également être sollicité par le président du conseil
-exécutif de Corse avant le prononcé du classement d'une station de tourisme. " 
-
-" Art.R. 4424-25 du code général des collectivités territoriales. 
-
-La délibération portant classement des stations hydrominérales ou climatiques détermine, suivant les circonstances de chaque
-espèce, les mesures à prendre pour faciliter le traitement des personnes privées de ressources suffisantes et des familles
-comprenant trois enfants et plus, telles que gratuité ou réduction du prix des soins médicaux ou autres, institution de
-maisons de repos, logements à prix réduits. " 
-
-" Art.R. 4424-26 du code général des collectivités territoriales. 
-
-Lorsque, dans une commune classée comme station hydrominérale ou climatique, des travaux d'assainissement sont jugés
-indispensables par l'Assemblée de Corse, si le conseil municipal, après une mise en demeure, refuse ou néglige d'effectuer
-ces travaux dans le délai imparti par celle-ci, il peut être procédé à la radiation de la commune de la liste des stations
-hydrominérales et climatiques. 
-
-La radiation est prononcée par délibération de l'Assemblée de Corse. " 
-
-" Art.R. 4424-27 du code général des collectivités territoriales. 
-
-Les articles R. 134-1 à R. 134-8 du code du tourisme sont applicables aux stations hydrominérale, climatique, uvale,
-balnéaires ou de tourisme de Corse. " 
-
-" Art.R. 4424-28 du code général des collectivités territoriales. 
-
-Les dispositions des articles R. 133-52 et R. 133-53 du code du tourisme sont applicables pour le classement en stations de
-sports d'hiver et d'alpinisme de communes, fractions de communes ou groupes de communes en Corse. " 
-
-" Art.R. 4424-29 du code général des collectivités territoriales. 
-
-Les stations de sports d'hiver et d'alpinisme classées sont tenues d'établir un projet de plan local d'urbanisme. " 
-
-" Art.R. 4424-30 du code général des collectivités territoriales. 
-
-La révision du classement d'une station est prononcée selon les formes prévues pour son élaboration. "
+Les articles R. 4424-22 à R. 4424-30 du code général des collectivités territoriales ont été abrogés par l'article 5 du
+décret n° 2008-884 du 2 septembre 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 	**Modifié par**:
 
-	  - Décret n°2006-1675 2006-12-22 art. 4 JORF 27 décembre 2006
+	  - Décret n°2008-884 du 2 septembre 2008 - art. 5
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-20 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-21 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-22 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-23 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-24 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-25 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-26 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-27 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-28 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-29 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-30 (V)
+	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-20
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-21
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-22
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-23
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-24
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-25
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-26
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-27
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-28
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-29
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-30
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales R4424-20 à R4424-30, L133-11, L133-13, L134-3, L134-4, R133-52, R133-53, R134-1 à R134-8
-	  - Code du tourisme R4424-21 à R4424-23, R4424-21, R4422-21, R4424-22
+	  - Code général des collectivités territoriales
+	  - Code du tourisme.
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. D151-1 (V)
 
 
 ### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.
@@ -12540,29 +11888,6 @@ par une commission de l'action touristique. La composition et le fonctionnement 
 
 	  - Code du tourisme. - art. R242-2 (V)
 	  - Code du tourisme. - art. R362-3 (V)
-
-
-###### Article R162-3
-
-Les dispositions des articles R. 133-48, R. 133-49, R. 133-52 à R. 133-59, R. 134-8 et R. 134-11 ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme.
-	  - Code du tourisme. - art. R133-48
-	  - Code du tourisme. - art. R133-49
-	  - Code du tourisme. - art. R134-11
-	  - Code du tourisme. - art. R134-8
 
 
 ###### Article R162-4
@@ -12632,29 +11957,6 @@ touristique. La composition et le fonctionnement de cette commission sont fixés
 
 	  - Code du tourisme. - art. R243-3 (V)
 	  - Code du tourisme. - art. R363-3 (V)
-
-
-###### Article R163-4
-
-Les dispositions des articles R. 133-48, R. 133-49, R. 133-52 à R. 133-59, R. 134-8 et R. 134-11 ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme.
-	  - Code du tourisme. - art. R133-48
-	  - Code du tourisme. - art. R133-49
-	  - Code du tourisme. - art. R134-11
-	  - Code du tourisme. - art. R134-8
 
 
 ###### Article R163-5
@@ -21520,7 +20822,7 @@ mesures envisagées et invité à se faire entendre personnellement ou par manda
 	  - Code du tourisme. - art. R332-8 (VD)
 
 
-#### Chapitre III : Règles relatives aux habitations légères de loisirs et aux parcs résidentiels de loisirs
+#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.
 
 ##### Section 1 : Habitations légères de loisirs.
 
@@ -21654,12 +20956,6 @@ se faire entendre personnellement ou par mandataire.
 
 	  - Code du tourisme. - art. R333-6-1 (VD)
 
-
-#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.
-
-##### Section 1 : Habitations légères de loisirs.
-
-##### Section 2 : Parcs résidentiels de loisirs.
 
 ##### Section 3 : Résidences mobiles de loisirs.
 
