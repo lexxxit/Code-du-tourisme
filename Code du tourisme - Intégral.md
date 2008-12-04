@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2008-09-04
+Version Consolidée au 2008-12-05
 
 # Partie législative
 
@@ -8504,71 +8504,6 @@ durable. A ce titre, elle comprend l'orientation et l'évaluation de l'action de
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Service de l'inspection générale du tourisme.
-
-###### Article R122-3
-
-Placé sous l'autorité directe du ministre chargé du tourisme, le service de l'inspection générale du tourisme concourt à la
-conception et à l'évaluation des politiques publiques confiées à celui-ci, notamment par la production d'études, d'avis et de
-propositions.
-
-Il assure une mission permanente d'inspection, d'audit, de contrôle, de conseil et d'évaluation des services, établissements
-publics et organismes que la loi, le règlement ou les stipulations d'une convention placent sous la tutelle du ministre
-chargé du tourisme ou soumettent à son contrôle, ainsi que des missions d'études et d'information concernant le tourisme en
-France et à l'étranger.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-29 du 10 janvier 2006 - art. 1, v. init.
-	  - Décret n°2006-29 du 10 janvier 2006 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2008-1260 du 3 décembre 2008 - art. 3 (V)
-
-
-###### Article R122-4
-
-Le service de l'inspection générale du tourisme est saisi par le ministre chargé du tourisme et lui rend compte.
-
-Ses membres disposent, à l'égard des services, établissements publics et organismes auprès desquels le service exerce ses
-missions, des pouvoirs d'investigation sur pièces et sur place nécessaires à celles-ci, comprenant la communication de toutes
-pièces, correspondances administratives, rapports d'études, documents et autres supports d'informations et le libre accès aux
-locaux des services et organismes inspectés. Ils reçoivent, dans l'exercice de ces missions, le concours des agents relevant
-du ministre chargé du tourisme.
-
-Le service de l'inspection générale du tourisme est maître de l'organisation des missions dont il est chargé et de ses
-méthodes d'investigation. Il délibère sur tout sujet relevant des missions qui lui sont confiées ainsi que sur toutes les
-questions qui lui sont soumises par le ministre chargé du tourisme.
-
-Les membres du service formulent leurs conclusions en toute indépendance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-29 du 10 janvier 2006 - art. 2, v. init.
-	  - Décret n°2006-29 du 10 janvier 2006 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
-
-
 ##### Sous-section 3 : Conseil national du tourisme.
 
 ###### Article D122-5
@@ -9121,21 +9056,26 @@ du tourisme).
 
 ###### Article D122-15
 
-Participent aux travaux du Conseil national du tourisme et du comité permanent, à titre consultatif, le chef du service de
-l'inspection générale du tourisme, le directeur du tourisme, le président du groupement d'intérêt public Observation,
-développement et ingénierie touristiques France (ODIT France) ou son représentant, ainsi que le président du groupement
-d'intérêt économique Maison de la France (MdlF) ou son représentant.
+Participent aux travaux du Conseil national du tourisme et du comité permanent, à titre consultatif, le chef du service du
+contrôle général économique et financier ou son représentant, le directeur du tourisme, le président du groupement d'intérêt
+public Observation, développement et ingénierie touristiques France (ODIT France) ou son représentant, ainsi que le président
+du groupement d'intérêt économique Maison de la France (MdlF) ou son représentant.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+du tourisme).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 10, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
 
 
 ###### Article D122-16
@@ -9181,21 +9121,29 @@ du tourisme).
 
 ###### Article D122-17
 
-Un secrétariat général organise et coordonne les travaux du Conseil national du tourisme.
+Un secrétariat général organise et coordonne les travaux du Conseil national du tourisme. 
 
-Le secrétaire général du Conseil national du tourisme, choisi parmi les membres du service de l'inspection générale du
-tourisme, est nommé par arrêté du ministre chargé du tourisme pour une durée de cinq ans.
+Le secrétaire général du Conseil national du tourisme               est nommé par arrêté du ministre chargé du tourisme pour
+une durée de cinq ans.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+du tourisme).
+
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 12, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
 
 
 ##### Sous-section 4 : Conférence permanente du tourisme rural.
@@ -10639,8 +10587,6 @@ La commission nationale, présidée par le directeur du tourisme ou son représe
 - quatre représentants de la Fédération nationale des offices de tourisme et syndicats d'initiative, désignés par cette
 fédération ;
 
-- un inspecteur général du tourisme ;
-
 - le directeur d'ODIT France (observation, développement et ingénierie touristiques) ou son représentant ;
 
 - le directeur de l'organisme dénommé " Maison de la France " ou son représentant ;
@@ -10662,9 +10608,13 @@ Le secrétariat de la commission est assuré par la direction du tourisme.
 	  - Décret n°98-1161 du 16 décembre 1998 - art. 4 (Ab)
 	  - Décret n°98-1161 du 16 décembre 1998 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
 
 
 ###### Article D133-24
