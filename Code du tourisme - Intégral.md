@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2008-12-05
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -3899,20 +3899,20 @@ dispositions ayant le même objet applicables localement.
 
 Les règles relatives aux constructions nouvelles, aux extensions ou aux transformations d'immeubles existants entraînant la
 constitution d'établissements hôteliers d'une capacité supérieure à trente chambres hors de la région d'Ile-de-France et à
-cinquante chambres dans cette dernière sont fixées au 7° de l'article L. 720-5 du code de commerce ci-après reproduit :
+cinquante chambres dans cette dernière sont fixées au 7° de l'article L. 720-5 du code de commerce ci-après reproduit : 
 
-"Art. L. 720-5 du code de commerce.
+" Art.L. 720-5 du code de commerce. 
 
-Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet :
+Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet : 
 
 Les constructions nouvelles, les extensions ou les transformations d'immeubles existants entraînant la constitution
 d'établissements hôteliers d'une capacité supérieure à trente chambres hors de la région d'Ile-de-France et à cinquante
-chambres dans cette dernière.
+chambres dans cette dernière. 
 
-Lorsqu'elle statue sur ces demandes, la commission départementale d'équipement commercial recueille l'avis préalable de la
+Lorsqu'elle statue sur ces demandes, la commission départementale d'aménagement commercial recueille l'avis préalable de la
 commission départementale d'action touristique, présenté par le délégué régional au tourisme, qui assiste à la séance. Outre
 les critères prévus à l'article L. 720-3, elle statue en prenant en considération la densité d'équipements hôteliers dans la
-zone concernée."
+zone concernée. "
 
 **Nota:**
 
@@ -3920,9 +3920,13 @@ L'article L. 720-5 du code de commerce est abrogé par l'article 2 de l'ordonnan
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de commerce. - art. L720-5 (Ab)
 
 	**Cité par**:
 
@@ -8043,7 +8047,7 @@ euros par mètre carré, ni excéder 9, 15 euros par mètre carré et par jour. 
 Les règles relatives au prélèvement sur le produit des jeux dans les casinos sont fixées par les articles L. 2333-54 à L.
 2333-57 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art.L. 2333-54 du code général des collectivités territoriales. 
+" Art. L. 2333-54 du code général des collectivités territoriales. 
 
 Dans les communes qui réalisent des actions de promotion en faveur du tourisme, le conseil municipal peut instituer un
 prélèvement sur le produit brut des jeux dans les casinos. 
@@ -8061,7 +8065,7 @@ l'Etat est réduit de façon que le total des deux prélèvements soit de 80 %.
 Les communes peuvent, par convention, reverser tout ou partie du prélèvement au groupement de communes ou au syndicat mixte
 dont elles sont membres lorsqu'il réalise des actions de promotion en faveur du tourisme. " 
 
-" Art.L. 2333-55 du code général des collectivités territoriales. 
+" Art. L. 2333-55 du code général des collectivités territoriales. 
 
 Il est reversé à chaque commune, siège d'un casino régi par la loi du 15 juin 1907 précitée, 10 % du prélèvement opéré par
 l'Etat sur le produit brut des jeux réalisé par l'établissement. 
@@ -8072,12 +8076,59 @@ coopération intercommunale faisant application des dispositions de l'article 16
 le potentiel financier par habitant est inférieur au potentiel financier moyen par habitant de l'ensemble des communes
 appartenant au même groupe démographique. " 
 
-" Art.L. 2333-56 du code général des collectivités territoriales. 
+" Art. L. 2333-55-1 du code général des collectivités territoriales. 
+
+Les prélèvements opérés par l'Etat, les communes, les établissements publics de coopération intercommunale et les organismes
+sociaux sur les jeux exploités par les casinos sont effectués sur le produit brut des jeux. 
+
+Le produit brut des jeux est constitué : 
+
+1° Pour les jeux de contrepartie exploités sous forme non électronique, par la différence entre le montant cumulé de l'avance
+initiale et des avances complémentaires éventuelles et le montant de l'encaisse constaté en fin de partie ; 
+
+2° Pour les jeux de contrepartie exploités sous forme électronique, par la différence entre, d'une part, le montant de la
+comptée afférente à chaque poste de jeu et, d'autre part, le montant cumulé des avances éventuellement faites et des tickets
+représentatifs des crédits des joueurs émis par chaque poste de jeu. Dans le cas d'un appareil équipé d'un système
+informatique permettant la dématérialisation du paiement scriptural, le produit brut des jeux est constitué par la différence
+entre, d'une part, le montant des achats de crédits et de la comptée éventuelle et, d'autre part, les gains payés par chaque
+poste de jeu ; 
+
+3° Pour les jeux de cercle exploités sous forme électronique ou non, par le montant intégral de la cagnotte, correspondant
+aux retenues opérées à tous les jeux de cercle par le casino. Pour chaque jeu de cercle, la retenue opérée par le casino est
+fixée par voie réglementaire. Elle ne peut excéder 5 % d'une assiette constituée, selon le type de jeu, par les mises des
+joueurs, leurs gains, ou les sommes engagées par eux pour participer au jeu ; 
+
+4° Pour les jeux pratiqués avec des appareils définis à l'article 2 de la loi n° 83-628 du 12 juillet 1983 relative aux jeux
+de hasard, qui procurent un gain en numéraire, dits " machines à sous ", par le produit d'un coefficient de 85 % appliqué au
+montant de la comptée afférente à l'appareil, diminué des avances faites, des tickets émis par la machine, des gains payés
+par la caisse spéciale et du montant des gains non réclamés ; 
+
+5° Pour les appareils connectés entre eux, dans le cadre d'un jackpot progressif mis en place entre plusieurs établissements,
+le produit brut des jeux est constitué par le produit d'un coefficient de 85 % appliqué au montant de la comptée visée au 4°
+également diminuée : 
+
+a) Dans le casino où le jackpot progressif a été gagné, du montant initial du jackpot progressif et du montant des incréments
+réalisés par chaque appareil ; 
+
+b) Dans les autres casinos, du seul montant des incréments réalisés par chaque appareil. 
+
+Toutefois, le casino qui se retire du système de jackpot progressif multisites avant que la combinaison gagnante ne soit
+sortie déduit de son produit brut des jeux, à la fin du mois de son retrait, le montant des incréments constatés au cours de
+la période pendant laquelle il a participé au jackpot progressif multisites. 
+
+Le produit brut des jeux du casino est également diminué, le cas échéant, du montant des incréments issus de l'arrêt d'un
+jackpot progressif multisites versé aux orphelins et non réaffecté à un nouveau jackpot progressif multisites à la clôture de
+l'exercice. 
+
+Dans le cas où la différence mentionnée aux 1° et 2° est négative, la perte subie vient en déduction des bénéfices des jours
+suivants. " 
+
+" Art. L. 2333-56 du code général des collectivités territoriales. 
 
 Les tranches du barème du prélèvement progressif opéré sur le produit brut des jeux, en vertu de la loi du 15 juin 1907
 précitée, sont fixées par décret, dans les limites minimum et maximum de 10 % à 80 % du produit brut des jeux. " 
 
-" Art.L. 2333-57 du code général des collectivités territoriales. 
+" Art. L. 2333-57 du code général des collectivités territoriales. 
 
 Les recettes supplémentaires dégagées au profit des casinos par l'application du nouveau barème prévu à l'article L. 2333-56
 sont consacrées, à concurrence de 50 % de leur montant, à des travaux d'investissement destinés à l'amélioration de
@@ -8096,15 +8147,11 @@ l'emprunt gagé par les recettes de cette nature est garanti par les collectivit
 
 	**Cite**:
 
-	  - Ordonnance 2004-1391 2004-12-20
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°83-628 du 12 juillet 1983 - art. 2 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 129
 
 	**Liens**:
 
@@ -8344,20 +8391,24 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 ###### Article L443-1
 
-Sont applicables à Mayotte, sous la réserve citée ci-dessous, les articles L. 422-3, L. 422-4 et L. 422-11. 
+Sont applicables à Mayotte, sous la réserve citée ci-dessous, les articles L. 412-1, L. 412-2, L. 422-3, L. 422-4 et L.
+422-11. 
 
 Pour l'application de l'article L. 422-3, les articles L. 2333-32 et L. 2333-34 du code général des collectivités
 territoriales ne s'appliquent pas à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 9
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2333-32 (V)
+	  - Code général des collectivités territoriales - art. L2333-34 (V)
+	  - Code du tourisme. - art. L412-1 (V)
+	  - Code du tourisme. - art. L422-11
 	  - Code du tourisme. - art. L422-3 (V)
 
 
@@ -8579,7 +8630,7 @@ durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 ###### Article D122-7
 
 Outre son président, le Conseil national du tourisme est composé des membres, nommés pour une période de cinq ans par arrêté
-du ministre chargé du tourisme, ainsi répartis :
+du ministre chargé du tourisme, ainsi répartis : 
 
 1° Représentants du Parlement et du Conseil économique et social :
 
@@ -8587,7 +8638,7 @@ du ministre chargé du tourisme, ainsi répartis :
 
 - cinq sénateurs désignés par le président du Sénat ;
 
-- deux membres du Conseil économique et social désignés par son président ;
+- deux membres du Conseil économique et social désignés par son président ; 
 
 2° Représentants des collectivités territoriales :
 
@@ -8632,7 +8683,7 @@ représentant ;
 
 - le président de la Fédération nationale des pays d'accueil touristiques (FNPAT) ou son représentant ;
 
-- le président de la Fédération française des stations vertes de vacances et des villages de neige ou son représentant ;
+- le président de la Fédération française des stations vertes de vacances et des villages de neige ou son représentant ; 
 
 3° Organisations représentatives de salariés et d'employeurs :
 
@@ -8654,7 +8705,7 @@ représentant ;
 
 - le président de la Fédération nationale des syndicats d'exploitants agricoles (FNSEA) ou son représentant ;
 
-- le président du Centre national des jeunes agriculteurs (CNJA) ou son représentant ;
+- le président du Centre national des jeunes agriculteurs (CNJA) ou son représentant ; 
 
 4° Représentants des professions touristiques et d'organismes qualifiés :
 
@@ -8698,7 +8749,7 @@ représentant ;
 
 - le président du Syndicat national de l'ingénierie loisirs-culture-tourisme (GéFIL) ou son représentant ;
 
-- le président de l'Association tourisme et handicaps (ATH) ou son représentant ;
+- le président de l'Association tourisme et handicaps (ATH) ou son représentant ; 
 
 5° Représentants d'organismes oeuvrant pour l'accès aux vacances :
 
@@ -8714,7 +8765,7 @@ représentant ;
 
 - le président de l'Union nationale des associations familiales (UNAF) ;
 
-- six représentants des associations de tourisme et de tourisme social ;
+- six représentants des associations de tourisme et de tourisme social ; 
 
 6° Représentants d'organismes d'animation touristique et de valorisation des territoires :
 
@@ -8756,11 +8807,11 @@ représentant ;
 
 - le président du Conservatoire de l'espace littoral et des rivages lacustres ou son représentant ;
 
-- le président de France-nature-environnement (FNE) ou son représentant ;
+- le président de France-nature-environnement (FNE) ou son représentant ; 
 
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
-- le président de l'Agence nationale pour l'emploi (ANPE) ou son représentant ;
+- le président de l'     institution mentionnée à l'article L. 5312-1 du code du travail  (ANPE) ou son représentant ;
 
 - le président du Centre d'études et de recherche sur les qualifications (CEREQ) ou son représentant ;
 
@@ -8781,7 +8832,7 @@ représentant ;
 
 - le président du Programme de recherche et d'innovation dans les transports terrestres (PREDIT) ou son représentant ;
 
-- quatre représentants d'organismes de recherche universitaire en tourisme ;
+- quatre représentants d'organismes de recherche universitaire en tourisme ; 
 
 8° Représentants d'organisations et d'activités professionnelles liées au tourisme :
 
@@ -8827,7 +8878,7 @@ représentant ;
 
 - le président d'Ubifrance ou son représentant ;
 
-- le président du Comité national des conseillers du commerce extérieur (CNCCEF) ou son représentant ;
+- le président du Comité national des conseillers du commerce extérieur (CNCCEF) ou son représentant ; 
 
 9° Représentants d'organisations de consommateurs et usagers :
 
@@ -8837,28 +8888,26 @@ représentant ;
 
 - le président du Conseil national des clients aériens (CNCA) ou son représentant ;
 
-- quatre représentants d'associations de personnes handicapées ;
+- quatre représentants d'associations de personnes handicapées ; 
 
 10° Douze personnalités qualifiées choisies par le ministre chargé du tourisme en fonction de leur compétence en matière de
 tourisme.
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+du tourisme).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 3, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 
 ###### Article D122-8
@@ -9588,9 +9637,9 @@ La commission départementale de l'action touristique est chargée de donner un 
 relevant de sa compétence et pour lesquelles sa consultation est prévue par les lois et règlements en vigueur, notamment en
 matière de classement, d'agrément et d'homologation, pour la délivrance des autorisations administratives prévues par les
 dispositions législatives des titres Ier et II et du chapitre II du titre III du livre II. La commission émet également un
-avis, présenté par le délégué régional au tourisme ou son représentant devant la commission départementale d'équipement
+avis, présenté par le délégué régional au tourisme ou son représentant devant la     commission départementale d'aménagement
 commercial, relatif aux demandes d'autorisations d'exploitation commerciale d'établissements hôteliers prévues au 7° du I de
-l'article L. 752-1 du code de commerce.
+l'article L. 752-1 du code de commerce. 
 
 La commission donne également un avis sur toutes les affaires touristiques intéressant l'Etat ou les collectivités
 territoriales dont le préfet la saisit.
@@ -9601,9 +9650,17 @@ territoriales dont le préfet la saisit.
 
 	  - Décret n°98-149 du 3 mars 1998 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
 
 	**Cité par**:
 
@@ -12620,6 +12677,34 @@ fournie.
 	**Cite**:
 
 	  - Code du tourisme. - art. R211-8
+
+
+##### Section 4 : Sanctions et mesures conservatoires.
+
+###### Article R211-14-2
+
+Les sanctions applicables aux personnes habilitées au titre du présent code à vendre des titres de transport aérien en cas de
+non-respect des obligations fixées par le règlement (CE) n° 1107 / 2006 du 5 juillet 2006 concernant les droits des personnes
+handicapées et des personnes à mobilité réduite lorsqu'elles font des voyages aériens sont celles prévues par l'article R.
+330-20 du code de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R211-14 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-20
 
 
 ##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.
