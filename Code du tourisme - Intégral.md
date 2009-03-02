@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-03-03
 
 # Partie législative
 
@@ -769,26 +769,19 @@ intéressées ;
 	  - Code de l'environnement - art. L321-2 (V)
 
 
-##### Section 2 : Stations classées.
+##### Section 2 : Communes touristiques et stations classées de tourisme.
 
-##### Sous-section 1 : Dispositions générales et définitions.
+##### Sous-section 1 : Communes touristiques.
 
 ###### Article L133-11
 
-Les communes ou fractions de communes, qui offrent un ensemble de curiosités naturelles, pittoresques, historiques ou
-artistiques, ou présentent un intérêt particulier en raison de leur situation géographique ou hydrominéralogique, de leur
-climat ou de leur altitude, tels que ressources thermales, balnéaires, maritimes, sportives ou uvales, peuvent être érigées
-en stations classées et soumises aux dispositions du présent chapitre.
-
-Une station peut être classée à plusieurs titres.
+Les communes qui mettent en oeuvre une politique du tourisme et qui offrent des capacités d'hébergement pour l'accueil d'une
+population non résidente, ainsi que celles qui bénéficient au titre du tourisme, dans les conditions visées au huitième
+alinéa du 4° de l'article L. 2334-7 du code général des collectivités territoriales, de la dotation supplémentaire ou de la
+dotation particulière identifiées au sein de la part forfaitaire de la dotation globale de fonctionnement, peuvent être
+dénommées communes touristiques.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - 5
-	  - Code général des collectivités territoriales art. L2231-1, ecqc les seules communes, art. L2231-3, al
-	  - Code général des collectivités territoriales - art. L2231-3 (MMN)
 
 	**Cité par**:
 
@@ -810,64 +803,77 @@ Une station peut être classée à plusieurs titres.
 	  - Code général des collectivités territoriales - art. R2224-24 (V)
 	  - Code général des collectivités territoriales - art. R4424-23 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L2231-3 (MMN)
 
 
 ###### Article L133-12
 
-Le classement a pour objet :
+La dénomination mentionnée à l'article L. 133-11 est accordée, à la demande des communes intéressées, par décision de
+l'autorité administrative compétente prise pour une durée de cinq ans.
 
-1° De faciliter la fréquentation de la station ;
+**Nota:**
 
-2° De permettre son développement par des travaux d'équipement et d'entretien, relatifs notamment à la conservation des
-monuments et des sites, à l'assainissement, l'embellissement ou l'amélioration des conditions d'accès, d'habitation, de
-séjour, de traitement ou de circulation ;
-
-3° En ce qui concerne les stations hydrominérales, climatiques et uvales, de faciliter le traitement des personnes privées de
-ressources suffisantes.
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1582 (V)
 	  - Code de la construction et de l'habitation. - art. L301-4-2 (V)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-11 (V)
+
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales art. L2231-2
 
 
+##### Sous-section 2 : Stations classées de tourisme.
+
 ###### Article L133-13
 
-Les communes ou fractions de communes qui possèdent sur leur territoire soit une ou plusieurs sources d'eaux minérales, soit
-un établissement exploitant une ou plusieurs sources d'eau minérale peuvent être érigées en stations hydrominérales.
+Seules les communes touristiques et leurs fractions qui mettent en oeuvre une politique active d'accueil, d'information et de
+promotion touristiques tendant, d'une part, à assurer la fréquentation plurisaisonnière de leurs territoires, d'autre part, à
+mettre en valeur leurs ressources naturelles, patrimoniales ou celles qu'elles mobilisent en matière de créations et
+d'animations culturelles et d'activités physiques et sportives peuvent être érigées en stations classées de tourisme et
+soumises aux dispositions de la présente sous-section.
 
-Les communes ou fractions de communes qui offrent des avantages climatiques peuvent être érigées en stations climatiques.
+**Nota:**
 
-Les communes ou fractions de communes sur le territoire desquelles est cultivé un raisin de table reconnu apte à une cure
-thérapeutique, qui présentent toutes garanties tant au point de vue de l'hygiène que du climat et qui ont un aménagement
-hôtelier suffisant et présentent un intérêt touristique, peuvent être érigées en stations uvales.
-
-Les communes ou fractions de communes qui offrent un ensemble de curiosités naturelles ou artistiques peuvent être érigées en
-stations de tourisme.
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - 1 à 4
-	  - Code général des collectivités territoriales art. L2231-3, ecqc les seules communes, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V)
 
 	**Cité par**:
 
@@ -889,11 +895,25 @@ stations de tourisme.
 
 ###### Article L133-14
 
-Les dispositions applicables aux communes classées stations balnéaires, thermales ou climatiques, sont étendues aux villes ou
-stations classées touristiques constituant la ville principale d'une agglomération de plus de 500 000 habitants et
-participant pour plus de 40 %, le cas échéant avec d'autres collectivités territoriales, au fonctionnement d'un centre
-dramatique national ou d'une scène nationale, d'un orchestre national et d'un théâtre d'opéra présentant en saison une
-activité régulière d'au moins vingt représentations lyriques.
+Au regard des exigences du développement durable, le classement a pour objet :
+
+1° De reconnaître les efforts accomplis par les communes et fractions de communes visées à l'article L. 133-13 pour
+structurer une offre touristique d'excellence ;
+
+2° D'encourager et de valoriser la mise en oeuvre d'un projet tendant à stimuler la fréquentation touristique pérenne de la
+station au travers de la gestion des actions et de la mise en valeur des ressources mentionnées à l'article L. 133-13 ;
+
+3° De favoriser, en adéquation avec la fréquentation touristique de la station, la réalisation d'actions ou de travaux
+d'équipement et d'entretien relatifs notamment à l'amélioration des conditions d'accès, de circulation, d'accueil,
+d'hébergement, de séjour, à l'embellissement du cadre de vie, à la conservation des monuments et des sites, aux créations et
+animations culturelles et aux activités physiques et sportives, à l'assainissement et au traitement des déchets.
+
+**Nota:**
+
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
 
@@ -906,6 +926,14 @@ activité régulière d'au moins vingt représentations lyriques.
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-13 (V)
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1582 (VD)
@@ -913,20 +941,29 @@ activité régulière d'au moins vingt représentations lyriques.
 
 ###### Article L133-15
 
-Des décrets en Conseil d'Etat déterminent les conditions d'application de la présente section.
+Le classement mentionné à l'article L. 133-13 est, à la demande des communes touristiques intéressées, prononcé par décret
+pris pour une durée de douze ans.
 
-Ils déterminent notamment :
+**Nota:**
 
-1° Les obligations particulières à chaque catégorie de stations classées spécialement au point de vue de l'urbanisme et de
-l'hygiène, des servitudes qui peuvent être imposées à la propriété privée ;
-
-2° Les cas dans lesquels une indemnité peut être due.
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-13 (V)
 
 	**Cité par**:
 
@@ -936,43 +973,72 @@ l'hygiène, des servitudes qui peuvent être imposées à la propriété privée
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L2231-18 (MMN)
-	  - Code général des collectivités territoriales art. L2231-18
 
 
 ###### Article L133-16
 
-Les règles relatives aux majorations d'indemnités de fonction des élus locaux votées par les conseils municipaux des communes
-classées stations hydrominérales, climatiques, balnéaires, touristiques ou uvales ainsi que des communes classées stations de
-sports d'hiver et d'alpinisme sont fixées par l'article L. 2123-22 du code général des collectivités territoriales.
+Les règles relatives aux majorations d'indemnités de fonction des élus locaux votées par les conseils municipaux des stations
+classées de tourisme sont fixées par l'article L. 2123-22 du code général des collectivités territoriales.
+
+**Nota:**
+
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre III du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2123-22 (V)
 
 
-##### Sous-section 2 : Classement des stations et des communes touristiques.
+##### Sous-section 3 : Dispositions transitoires et dispositions communes
 
 ###### Article L133-17
 
-Le classement des stations mentionnées aux articles L. 133-11 et L. 133-13 est prononcé par un décret en Conseil d'Etat, soit
-à la demande des collectivités locales intéressées, soit d'office.
+Les classements des stations intervenus antérieurement à la date d'entrée en vigueur de la présente section, fixée par le VII
+de l'article 7 de la loi n° 2006-437 du 14 avril 2006  portant diverses dispositions relatives au tourisme, cessent de
+produire leurs effets dans les conditions suivantes :
+
+1° Ceux dont la publication est intervenue avant le 1er janvier 1924 cessent de produire leurs effets le 1er janvier 2010 ;
+
+2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de produire leurs effets le 1er janvier 2014 ;
+
+3° Ceux dont la publication est intervenue à compter du 1er janvier 1969 cessent de produire leurs effets le 1er janvier
+2018.
+
+Lorsqu'une commune est classée à plusieurs titres, il est pris en compte la date de publication du dernier classement.
+
+**Nota:**
+
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales art. L2231-5
-	  - Code général des collectivités territoriales - art. L2231-5 (MMN)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7, v. init.
 
 	**Cité par**:
 
@@ -986,22 +1052,33 @@ Le classement des stations mentionnées aux articles L. 133-11 et L. 133-13 est 
 	  - Code du tourisme. - art. R133-58 (Ab)
 	  - Loi du 15 juin 1907 - art. 1 (VT)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. L133-11 (V)
-	  - Code du tourisme. - art. L133-13 (V)
+	  - Code général des collectivités territoriales - art. L2231-5 (MMN)
+	  - Code général des collectivités territoriales art. L2231-5
 
 
 ###### Article L133-18
 
-Lorsque le classement est prononcé d'office, le ou les conseils municipaux des communes dont le territoire doit être compris
-en tout ou partie dans la station classée sont obligatoirement consultés.
+Un décret en Conseil d'Etat détermine les critères d'éligibilité à la dénomination de commune touristique et au classement en
+station de tourisme ainsi que les conditions d'application de la présente section.
+
+**Nota:**
+
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -1012,121 +1089,50 @@ en tout ou partie dans la station classée sont obligatoirement consultés.
 	  - Code général des collectivités territoriales art. L2231-6
 
 
+##### Section 3 : Surclassement démographique.
+
 ###### Article L133-19
 
-Le classement est prononcé après avis du conseil général et sur avis favorable du conseil municipal.
+Les règles relatives au surclassement dans une catégorie démographique supérieure des communes classées stations de tourisme
+au sens de la sous-section 2 de la section 2 du présent chapitre sont fixées à l'alinéa 2 de l'article 88 de la loi n° 84-53
+du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale. 
+
+La commune qui perd le bénéfice du classement en station de tourisme conforme ses emplois à la catégorie démographique à
+laquelle elle appartient par référence à sa population totale issue du dernier recensement, au rythme des vacances d'emploi
+constatées dans la commune et sans que ce changement de catégorie démographique porte atteinte à la situation statutaire et
+réglementaire des agents en activité.
+
+**Nota:**
+
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
+code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
+publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
+3 septembre 2008.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-53 du 26 janvier 1984 - art. 88 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
 	**Anciens textes**:
 
 	  - Code du tourisme. - art. L133-22 (V)
 	  - Code général des collectivités territoriales - art. L2231-7 (MMN)
-	  - Code général des collectivités territoriales art. L2231-7
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R133-19-1 (V)
 	  - Code du tourisme. - art. R133-44 (Ab)
 	  - Code du tourisme. - art. R133-55 (Ab)
-
-
-###### Article L133-20
-
-La révision du classement d'une station suit les mêmes formes que le classement.
-
-**Nota:**
-
-Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
-code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
-publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
-3 septembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales art. L2231-8
-	  - Code général des collectivités territoriales - art. L2231-8 (MMN)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
-
-
-###### Article L133-21
-
-Le classement des stations de tourisme mentionnées au quatrième alinéa de l'article L. 133-13 peut être fait à la demande de
-l'autorité administrative compétente ou des associations de tourisme de la région.
-
-Ce classement ne peut être prononcé que si l'avis du conseil municipal est favorable.
-
-**Nota:**
-
-Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
-code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
-publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
-3 septembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L133-13 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L163-2 (M)
-	  - Code du tourisme. - art. R133-43 (V)
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L2231-17 (MMN)
-	  - Code général des collectivités territoriales art. L2231-17
-
-
-##### Section 3 : Surclassement démographique.
-
-###### Article L133-22
-
-Les règles relatives au surclassement dans une catégorie démographique supérieure des communes classées dans les conditions
-fixées par l'article L. 133-17 sont fixées à l'alinéa 2 de l'article 88 de la loi n° 84-53 du 26 janvier 1984 portant
-dispositions statutaires relatives à la fonction publique territoriale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-53 1984-01-26 art. 88
-	  - Code du tourisme. - art. L133-17 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Transféré par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L133-19 (V)
 
 
 #### Chapitre 4 : Groupements intercommunaux.
@@ -8151,12 +8157,13 @@ l'emprunt gagé par les recettes de cette nature est garanti par les collectivit
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 129
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-54 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-55 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-55-1 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-56 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-57 (V)
 
@@ -8164,26 +8171,36 @@ l'emprunt gagé par les recettes de cette nature est garanti par les collectivit
 ###### Article L422-13
 
 Les règles relatives aux prélèvements directs sur le produit des jeux dans les casinos institués par les établissements
-publics de coopération intercommunale sont fixées par l'article L. 5211-21-1 ci-après reproduit :
+publics de coopération intercommunale sont fixées par l'article L. 5211-21-1 ci-après reproduit : 
 
-" Art. L. 5211-21-1 du code général des collectivités territoriales.
+" Art. L. 5211-21-1 du code général des collectivités territoriales. 
 
-Les établissements publics de coopération intercommunale à fiscalité propre qui exercent la compétence tourisme peuvent
-instituer le prélèvement direct sur le produit brut des jeux dans les conditions fixées à l'article L. 2333-54, sauf
-opposition de la commune siège d'un casino régi par la loi du 15 juin 1907 réglementant le jeu dans les cercles et les
-casinos des stations balnéaires, thermales et climatiques. Ils peuvent, par convention, reverser tout ou partie du
-prélèvement à cette commune. "
+" Les établissements publics de coopération intercommunale à fiscalité propre qui exercent la compétence tourisme ou les
+établissements publics mentionnés aux articles L. 5211-21 et L. 5722-6 percevant la taxe de séjour ou la taxe de séjour
+forfaitaire peuvent instituer le prélèvement direct sur le produit brut des jeux dans les conditions fixées à l'article L.
+2333-54, sauf opposition de la commune siège d'un casino régi par la loi du 15 juin 1907 relative aux casinos. Ils peuvent,
+par convention, reverser tout ou partie du prélèvement à cette commune. "
+
+**Nota:**
+
+Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la présente loi entrent en vigueur dans un délai de six
+mois à compter de la publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre
+2008 a été publié le 3 septembre 2008.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1907-06-15
-	  - Code du tourisme L5211-21-1, L2333-54
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-21 (V)
+	  - Code général des collectivités territoriales - art. L5722-6 (V)
 
 
 ##### Section 3 : Taxes prélevées au profit des départements.
