@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-07-25
 
 # Partie législative
 
@@ -185,7 +185,11 @@ des membres représentant :
 
 5° Les associations de tourisme et de loisirs ;
 
-6° Les communes touristiques ou leurs groupements.
+6° Les communes touristiques ou leurs groupements et les stations classées de tourisme.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -193,9 +197,9 @@ des membres représentant :
 
 	  - Loi n°87-10 du 3 janvier 1987 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 26
 
 	**Cité par**:
 
@@ -408,20 +412,23 @@ Il comprend notamment des délégués du conseil général ainsi que des membres
 
 4° Les associations de tourisme et de loisirs ;
 
-5° Les communes touristiques ou leurs groupements ;
+5° Les communes touristiques ou leurs groupements et les stations classées de tourisme ;
 
 6° Le comité régional du tourisme.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-1341 1992-12-23 art. 7
 	  - Loi n°92-1341 du 23 décembre 1992 - art. 7 (AbD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 26
 
 
 ###### Article L132-4
@@ -569,7 +576,8 @@ locale du tourisme et des programmes locaux de développement touristique, notam
 services touristiques, de l'exploitation d'installations touristiques et de loisirs, des études, de l'animation des loisirs,
 de l'organisation de fêtes et de manifestations culturelles.
 
-Il peut être autorisé à commercialiser des prestations de services touristiques.
+L'office de tourisme peut commercialiser des prestations de services touristiques dans les conditions prévues au chapitre
+unique du titre Ier du livre II.
 
 Il peut être consulté sur des projets d'équipements collectifs touristiques.
 
@@ -577,14 +585,30 @@ L'office de tourisme soumet son rapport financier annuel au conseil municipal.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 6
+
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales art. L2231-10
 	  - Code général des collectivités territoriales - art. L2231-10 (MMN)
 
-	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+###### Article L133-3-1
+
+L'office de tourisme peut implanter un ou plusieurs bureaux permanents ou non permanents chargés notamment de l'information
+touristique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 6
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L134-1-1 (V)
+	  - Code du tourisme. - art. L135-2 (V)
 
 
 ##### Sous-section 2 : Dispositions particulières applicables aux offices de tourisme constitués sous la forme d'un établissement public industriel et commercial
@@ -767,6 +791,19 @@ intéressées ;
 	**Cite**:
 
 	  - Code de l'environnement - art. L321-2 (V)
+
+
+##### Sous-section 4 : Classement des offices
+
+###### Article L133-10-1
+
+L'office de tourisme peut faire l'objet d'un classement dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 6
 
 
 ##### Section 2 : Communes touristiques et stations classées de tourisme.
@@ -1007,38 +1044,27 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 ###### Article L133-17
 
 Les classements des stations intervenus antérieurement à la date d'entrée en vigueur de la présente section, fixée par le VII
-de l'article 7 de la loi n° 2006-437 du 14 avril 2006  portant diverses dispositions relatives au tourisme, cessent de
-produire leurs effets dans les conditions suivantes :
+de l'article 7 de la loi n° 2006-437 du 14 avril 2006 portant diverses dispositions relatives au tourisme, cessent de
+produire leurs effets dans les conditions suivantes : 
 
-1° Ceux dont la publication est intervenue avant le 1er janvier 1924 cessent de produire leurs effets le 1er janvier 2010 ;
+1° Ceux dont la publication est intervenue avant le 1er janvier 1924 cessent de produire leurs effets le 1er avril 2012 ; 
 
-2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de produire leurs effets le 1er janvier 2014 ;
+2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de produire leurs effets le 1er janvier 2014 ; 
 
 3° Ceux dont la publication est intervenue à compter du 1er janvier 1969 cessent de produire leurs effets le 1er janvier
-2018.
+2018. 
 
 Lorsqu'une commune est classée à plusieurs titres, il est pris en compte la date de publication du dernier classement.
 
-**Nota:**
-
-Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
-code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
-publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
-3 septembre 2008.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
 
 	**Cite**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7, v. init.
+	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 26
 
 	**Cité par**:
 
@@ -1055,7 +1081,6 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L2231-5 (MMN)
-	  - Code général des collectivités territoriales art. L2231-5
 
 
 ###### Article L133-18
@@ -1255,25 +1280,16 @@ communes en vue d'obtenir la création d'une station intercommunale.
 ###### Article L134-5
 
 Un groupement de communes peut, par délibération de l'organe délibérant, instituer un organisme chargé de la promotion du
-tourisme, dénommé office de tourisme, dans les conditions prévues aux articles L. 133-2 à L. 133-10.
+tourisme, dénommé office de tourisme, dans les conditions prévues aux articles L. 133-2 à L. 133-10-1.
 
 Dans les mêmes conditions, plusieurs groupements de communes désirant s'associer pour la promotion du tourisme peuvent créer
-un syndicat mixte en vue d'instituer un office de tourisme sous forme d'un établissement public, industriel et commercial.
+un syndicat mixte en vue d'instituer un office de tourisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°92-1341 1992-12-23 art. 10, ecqc les groupements de communes
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
-	  - Loi n°2006-437 du 14 avril 2006 - art. 8 () JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 6
 
 	**Cité par**:
 
@@ -1285,7 +1301,7 @@ un syndicat mixte en vue d'instituer un office de tourisme sous forme d'un étab
 
 	**Cite**:
 
-	  - Code du tourisme L133-2 à L133-10
+	  - Code du tourisme. - art. L133-2 (V)
 
 
 ##### Sous-section 2 : Dispositions particulières applicables aux offices de tourisme intercommunaux constitués sous la forme d'un établissement public industriel et commercial.
@@ -1359,6 +1375,263 @@ code de la recherche en vue de contribuer à des activités de développement ou
 	  - Code du tourisme. - art. D141-1 (Ab)
 	  - Code du tourisme. - art. L162-2 (V)
 
+
+###### Article L141-2
+
+Le groupement d'intérêt économique " Atout France, agence de développement touristique de la France ”, placé sous la tutelle
+du ministre chargé du tourisme, est soumis aux dispositions du présent article et de l'article L. 141-3 et, en tant qu'elles
+n'y sont pas contraires, aux dispositions du chapitre Ier du titre V du livre II du code de commerce.
+
+L'agence poursuit un triple objectif de promotion du tourisme en France, de réalisation d'opérations d'ingénierie touristique
+et de mise en œuvre d'une politique de compétitivité et de qualité des entreprises du secteur. Elle définit la stratégie
+nationale de promotion de la " destination France ” conformément aux orientations arrêtées par l'Etat. Elle concourt à la
+mise en œuvre des politiques publiques en faveur du tourisme, notamment à travers les missions suivantes : 
+
+― fournir une expertise à l'Etat, aux collectivités territoriales et aux partenaires privés ou associatifs membres du
+groupement, pour la définition et la mise en œuvre de leur politique touristique, concevoir et développer leurs projets, les
+conseiller en matière de formation, de recherche, d'innovation et de développement durable dans le secteur du tourisme et
+exporter son savoir-faire à l'international ; 
+
+― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de promotion des territoires et destinations de
+la métropole et des collectivités ultramarines sur les marchés étranger et national.A ce titre, l'agence encourage la
+démarche de classement et promeut la qualité de l'offre touristique dans les hébergements, la restauration, l'accueil des
+touristes et les prestations annexes ; 
+
+― observer les phénomènes touristiques, mettre en place des données chiffrées fiables et utilisables par ses membres,
+produire des études, notamment prospectives, sur l'offre et la demande dans les filières et les territoires touristiques,
+diffuser le résultat de ses travaux par tous moyens qu'elle juge appropriés ; 
+
+― concevoir et tenir à jour les tableaux de classement des offices de tourisme, des hôtels, des résidences de tourisme, des
+meublés de tourisme, des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage,
+des parcs résidentiels de loisirs et des chambres d'hôtes, et diffuser librement et gratuitement la liste des hébergements
+classés.
+
+L'Etat, les collectivités territoriales ainsi que leurs établissements publics peuvent par convention confier à l'agence
+d'autres missions d'intérêt général compatibles avec son objet.
+
+L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à l'article L. 211-1
+et les exploitants de voitures de tourisme avec chauffeur visés à l'article L. 231-1. 
+
+Elle comprend également une commission de l'hébergement touristique marchand. Les missions, les conditions de fonctionnement
+et les modalités de participation des organismes représentatifs du secteur de l'hébergement touristique aux travaux de cette
+commission sont déterminées par décret.
+
+L'agence assure sa représentation au niveau territorial en s'appuyant, le cas échéant, sur des structures existantes. 
+
+Les collectivités territoriales, leurs établissements publics et les organismes locaux de tourisme peuvent participer à
+l'agence de développement touristique de la France. 
+
+Un commissaire du Gouvernement est désigné auprès de l'agence. Sa mission et les modalités de sa désignation sont fixées par
+décret en Conseil d'Etat.
+
+L'agence est soumise au contrôle économique et financier de l'Etat, sans préjudice des dispositions de l'article L. 251-12 du
+code de commerce. 
+
+Le contrat constitutif de l'agence de développement touristique de la France est approuvé par arrêté du ministre chargé du
+tourisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. 1 (V)
+	  - Arrêté du 23 décembre 2009 - art. 1-1 (V)
+	  - Arrêté du 23 décembre 2009 - art. 2 (V)
+	  - Arrêté du 23 décembre 2009 - art. 3 (V)
+	  - Arrêté du 23 décembre 2009 - art. 3-1 (V)
+	  - Arrêté du 23 décembre 2009 - art. 4 (V)
+	  - Arrêté du 4 juin 2010 - art. 2 (VD)
+	  - Arrêté du 4 juin 2010 - art. 3 (VD)
+	  - Arrêté du 4 juin 2010 - art. 5 (VD)
+	  - Arrêté du 6 juillet 2010 - art. 2 (VD)
+	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
+	  - Arrêté du 6 juillet 2010 - art. 5 (V)
+	  - Arrêté du 6 juillet 2010 - art. 5 (VD)
+	  - Arrêté du 2 août 2010 - art. 2 (VD)
+	  - Arrêté du 2 août 2010 - art. 3 (VD)
+	  - Arrêté du 2 août 2010 - art. 5 (VD)
+	  - Arrêté du 2 août 2010 - art. 7 (V)
+	  - Arrêté du 2 août 2010 - art. 5 (V)
+	  - Arrêté du 6 septembre 2010 - art. 1 (VD)
+	  - Arrêté du 8 novembre 2010 (VT)
+	  - Arrêté du 8 novembre 2010 - art. 1 (VT)
+	  - Arrêté du 8 novembre 2010 - art. 3 (VT)
+	  - Arrêté du 6 décembre 2010 - art. 1 (VD)
+	  - Arrêté du 6 décembre 2010 - art. 2 (VD)
+	  - Arrêté du 3 octobre 2014 - art. 4 (V)
+	  - Arrêté du 3 octobre 2014 - art. 5 (VD)
+	  - Arrêté du 3 octobre 2014 - art. 7 (VD)
+	  - Arrêté du 3 octobre 2014 - art. 8 (VD)
+	  - Arrêté du 3 octobre 2014 - art. 9 (VD)
+	  - Arrêté du 3 octobre 2014 - art. Annexe 1 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 49 (V)
+	  - Décret n°2015-1452 du 10 novembre 2015 - art. (V)
+	  - Arrêté du 27 janvier 2016 - art. 3 (V)
+	  - Code du tourisme. - art. D133-20 (V)
+	  - Code du tourisme. - art. D133-24 (V)
+	  - Code du tourisme. - art. D141-11 (V)
+	  - Code du tourisme. - art. D311-5 (VD)
+	  - Code du tourisme. - art. D311-6 (VD)
+	  - Code du tourisme. - art. D311-7 (VD)
+	  - Code du tourisme. - art. D311-8 (VD)
+	  - Code du tourisme. - art. D311-9 (V)
+	  - Code du tourisme. - art. D321-3 (VD)
+	  - Code du tourisme. - art. D321-4 (VD)
+	  - Code du tourisme. - art. D321-5 (VD)
+	  - Code du tourisme. - art. D321-6 (VD)
+	  - Code du tourisme. - art. D321-7 (VD)
+	  - Code du tourisme. - art. D323-4 (VD)
+	  - Code du tourisme. - art. D323-5 (VD)
+	  - Code du tourisme. - art. D323-6 (VD)
+	  - Code du tourisme. - art. D323-7 (V)
+	  - Code du tourisme. - art. D323-8 (VD)
+	  - Code du tourisme. - art. D324-2 (VD)
+	  - Code du tourisme. - art. D324-5 (VD)
+	  - Code du tourisme. - art. D324-6 (VD)
+	  - Code du tourisme. - art. D325-4 (VD)
+	  - Code du tourisme. - art. D325-5 (VD)
+	  - Code du tourisme. - art. D325-6 (VD)
+	  - Code du tourisme. - art. D325-7 (V)
+	  - Code du tourisme. - art. D325-8 (VD)
+	  - Code du tourisme. - art. D332-1 (VD)
+	  - Code du tourisme. - art. D332-2 (VD)
+	  - Code du tourisme. - art. D332-3 (VD)
+	  - Code du tourisme. - art. D332-4 (VD)
+	  - Code du tourisme. - art. D332-5 (VD)
+	  - Code du tourisme. - art. D333-5 (VD)
+	  - Code du tourisme. - art. D333-5-1 (VD)
+	  - Code du tourisme. - art. D333-5-2 (VD)
+	  - Code du tourisme. - art. D333-5-3 (VD)
+	  - Code du tourisme. - art. D333-5-4 (VD)
+	  - Code du tourisme. - art. L141-3 (V)
+	  - Code du tourisme. - art. L211-21 (V)
+	  - Code du tourisme. - art. L311-6 (V)
+	  - Code du tourisme. - art. L321-1 (V)
+	  - Code du tourisme. - art. L323-1 (Ab)
+	  - Code du tourisme. - art. L324-1 (V)
+	  - Code du tourisme. - art. L325-1 (V)
+	  - Code du tourisme. - art. L332-1 (V)
+	  - Code du tourisme. - art. L333-1 (V)
+	  - Code du tourisme. - art. R141-10 (V)
+	  - Code du tourisme. - art. R141-8 (V)
+	  - Code du tourisme. - art. R211-20 (V)
+	  - Code du tourisme. - art. R211-21 (V)
+	  - Code du tourisme. - art. R211-23 (V)
+	  - Code du tourisme. - art. R211-24 (V)
+	  - Code du tourisme. - art. R211-25 (V)
+	  - Code du tourisme. - art. R211-30 (VD)
+	  - Code du tourisme. - art. R211-31 (VD)
+	  - Code du tourisme. - art. R211-33 (VD)
+	  - Code du tourisme. - art. R211-34 (V)
+	  - Code du tourisme. - art. R211-39 (VD)
+	  - Code du tourisme. - art. R211-40 (V)
+	  - Code du tourisme. - art. R211-42 (V)
+	  - Code du tourisme. - art. R211-45 (V)
+	  - Code du tourisme. - art. R211-47 (V)
+	  - Code du tourisme. - art. R211-50 (V)
+	  - Code du tourisme. - art. R211-51 (V)
+	  - Code du tourisme. - art. R231-2 (Ab)
+	  - Code du tourisme. - art. R231-3 (Ab)
+	  - Code du tourisme. - art. R231-4 (Ab)
+	  - Code du tourisme. - art. R231-5 (Ab)
+	  - Code du tourisme. - art. R311-13 (V)
+	  - Code du tourisme. - art. R321-8 (VD)
+	  - Code du tourisme. - art. R323-9 (VD)
+	  - Code du tourisme. - art. R324-7 (VD)
+	  - Code du tourisme. - art. R325-9 (VD)
+	  - Code du tourisme. - art. R332-7 (VD)
+	  - Code du tourisme. - art. R333-6 (VD)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L251-12 (V)
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L231-1 (V)
+
+
+###### Article L141-3
+
+La commission mentionnée au huitième alinéa de l'article L. 141-2 instruit les demandes d'immatriculation des personnes
+mentionnées aux articles L. 211-1 et L. 231-1 et les enregistre, après vérification du respect des obligations qui leur sont
+imposées, respectivement dans : 
+
+a) Un registre d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours ; 
+
+b) Un registre d'immatriculation des exploitants de voitures de tourisme avec chauffeur. 
+
+La commission est composée de membres nommés en raison de leur compétence et de leur indépendance par arrêté du ministre
+chargé du tourisme. Elle ne peut comprendre des opérateurs économiques dont l'activité est subordonnée à l'immatriculation
+sur ces registres. 
+
+Tout membre de la commission informe le président des intérêts qu'il détient et de la fonction qu'il exerce dans une activité
+économique. 
+
+Aucun membre de la commission ne peut délibérer dans une affaire à laquelle il a un intérêt personnel et direct ou s'il
+représente ou a représenté une des parties intéressées.
+
+L'immatriculation, renouvelable tous les trois ans, est subordonnée au paiement préalable, auprès de l'agence, de frais
+d'immatriculation fixés par arrêté du ministre chargé du tourisme dans la limite d'une somme fixée par décret. Ces frais
+d'immatriculation sont recouvrés par l'agence. Leur paiement intervient au moment du dépôt de la demande d'immatriculation ou
+de la demande de renouvellement. Le produit résultant du paiement des frais d'immatriculation est exclusivement affecté au
+financement de la tenue des registres. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il précise notamment les conditions
+d'immatriculation et de radiation sur les registres. Il détermine les informations qui doivent être rendues publiques, ainsi
+que celles qui sont librement et à titre gratuit accessibles au public par voie électronique. Il précise les garanties
+d'indépendance et d'impartialité des membres de la commission chargée des immatriculations aux registres, notamment celles de
+son président, ainsi que la durée de leur mandat et détermine les modalités de la tenue des registres dans des conditions
+objectives, transparentes et non discriminatoires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-678 du 20 juillet 1972 - art. 95-1 (VD)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 8 (V)
+	  - Arrêté du 23 décembre 2009 - art. 1 (V)
+	  - Arrêté du 23 décembre 2009 - art. 2 (V)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 19 (V)
+	  - Décret n°2010-1706 du 29 décembre 2010 (V)
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 6 (V)
+	  - Code du tourisme. - art. D211-21-1 (V)
+	  - Code du tourisme. - art. D231-3-1 (Ab)
+	  - Code du tourisme. - art. L141-2 (V)
+	  - Code du tourisme. - art. L211-18 (V)
+	  - Code du tourisme. - art. R141-10 (V)
+	  - Code du tourisme. - art. R211-14 (V)
+	  - Code du tourisme. - art. R211-2 (V)
+	  - Code du tourisme. - art. R211-20 (V)
+	  - Code du tourisme. - art. R211-21 (V)
+	  - Code du tourisme. - art. R211-22 (V)
+	  - Code du tourisme. - art. R211-23 (V)
+	  - Code du tourisme. - art. R211-26 (V)
+	  - Code du tourisme. - art. R211-29 (VD)
+	  - Code du tourisme. - art. R211-3-1 (V)
+	  - Code du tourisme. - art. R211-30 (VD)
+	  - Code du tourisme. - art. R211-33 (VD)
+	  - Code du tourisme. - art. R221-3 (VD)
+	  - Code du tourisme. - art. R231-13 (V)
+	  - Code du tourisme. - art. R231-2 (Ab)
+	  - Code du tourisme. - art. R231-4 (Ab)
+	  - Code du tourisme. - art. R231-5 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 7
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L231-1 (V)
+
+
+### TITRE IV : GROUPEMENTS
+
+#### Chapitre unique
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
 
@@ -1833,21 +2106,21 @@ domaines du développement, de la promotion et de l'information touristiques.
 
 ###### Article L163-5
 
-Si l'agence prévue au premier alinéa de l'article L. 163-2 n'est pas créée :
+Si l'agence prévue au premier alinéa de l'article L. 163-2 n'est pas créée : 
 
-1° Le conseil général fixe le statut, les principes d'organisation et la composition du comité du tourisme de Mayotte.
+1° Le conseil général fixe le statut, les principes d'organisation et la composition du comité du tourisme de Mayotte. 
 
-Il comprend des délégués du conseil général ainsi que des membres représentant :
+Il comprend des délégués du conseil général ainsi que des membres représentant : 
 
-a) Les organismes consulaires et, le cas échéant, les comités d'expansion économique ;
+a) Les organismes consulaires et, le cas échéant, les comités d'expansion économique ; 
 
-b) Les offices de tourisme et les syndicats d'initiative ;
+b) Les offices de tourisme et les syndicats d'initiative ; 
 
-c) Les professions du tourisme et des loisirs ;
+c) Les professions du tourisme et des loisirs ; 
 
-d) Les associations de tourisme et de loisirs ;
+d) Les associations de tourisme et de loisirs ; 
 
-e) Les communes touristiques ou leurs groupements ;
+e) Les communes touristiques ou leurs groupements et les stations classées de tourisme ; 
 
 2° Le comité du tourisme de Mayotte prépare la politique touristique de la collectivité départementale. Le conseil général
 peut lui confier l'élaboration du schéma d'aménagement touristique qui est ensuite soumis à l'approbation du conseil général,
@@ -1855,22 +2128,17 @@ après consultation du conseil économique et social de la collectivité départ
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 26
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L163-2 (M)
+	  - Code du tourisme. - art. L162-2
 
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L3551-26 (Ab)
-	  - Code général des collectivités territoriales art. L3551-26
 
 
 ###### Article L163-6
@@ -2003,28 +2271,38 @@ l'article 68 de la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte.
 
 ###### Article L211-1
 
-Les dispositions du présent titre s'appliquent aux personnes physiques ou morales qui se livrent ou apportent leur concours,
-quelles que soient les modalités de leur rémunération, aux opérations consistant en l'organisation ou la vente :
+I.-Le présent chapitre s'applique aux personnes physiques ou morales qui se livrent ou apportent leur concours, quelles que
+soient les modalités de leur rémunération, aux opérations consistant en l'organisation ou la vente : 
 
-a) De voyages ou de séjours individuels ou collectifs ;
+a) De voyages ou de séjours individuels ou collectifs ; 
 
 b) De services pouvant être fournis à l'occasion de voyages ou de séjours, notamment la délivrance de titres de transport, la
-réservation de chambres dans des établissements hôteliers ou dans des locaux d'hébergement touristique, la délivrance de bons
-d'hébergement ou de restauration ;
+réservation de chambres dans des établissements hôteliers ou dans des locaux d'hébergement touristique et la délivrance de
+bons d'hébergement ou de restauration ; 
 
-c) De services liés à l'accueil touristique, notamment l'organisation de visites de musées ou de monuments historiques.
+c) De services liés à l'accueil touristique, notamment l'organisation de visites de musées ou de monuments historiques. 
 
-Les dispositions du présent titre s'appliquent également aux opérations de production ou de vente de forfaits touristiques,
-tels que ceux-ci sont définis à l'article L. 211-2, ainsi qu'aux opérations liées à l'organisation de congrès ou de
-manifestations apparentées dès lors que celle-ci inclut tout ou partie des prestations prévues aux a, b et c du présent
-article.
+Le présent chapitre s'applique également aux opérations de production ou de vente de forfaits touristiques, tels que ceux-ci
+sont définis à l'article L. 211-2, ainsi qu'aux opérations liées à l'organisation et à l'accueil de foires, salons et congrès
+ou de manifestations apparentées dès lors que ces opérations incluent tout ou partie des prestations prévues aux a, b et c du
+présent I. 
 
-Les titulaires des licence, agrément, autorisation et habilitation prévus par le présent titre peuvent réaliser sous forme
-électronique les opérations mentionnées aux alinéas précédents dans les conditions prévues par le présent titre et par les
-articles 1369-1 et 1369-3 du code civil ainsi que par les articles L. 121-15-1 à L. 121-15-3 du code de la consommation, par
-la section 2 du chapitre Ier du titre II du livre Ier et par l'article L. 134-2 du même code.
+II.-Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 peuvent réaliser sous
+forme électronique les opérations mentionnées au I du présent article dans les conditions prévues par le présent chapitre et
+par les articles 1369-4 à 1369-6 du code civil, L. 121-15-1 à L. 121-15-3 du code de la consommation et la section 2 du
+chapitre Ier du titre II du livre Ier du même code, à l'exception des dispositions prévues à l'avant-dernier alinéa de
+l'article L. 121-20-3. 
 
-Les modalités d'application du présent titre sont définies par décret en Conseil d'Etat.
+III.-Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des collectivités territoriales ou de leurs
+groupements peuvent se livrer ou apporter leur concours, dans l'intérêt général, à des opérations mentionnées au I, dès lors
+que celles-ci permettent de faciliter l'accueil ou d'améliorer les conditions de séjour des touristes dans leur zone
+géographique d'intervention. 
+
+IV.-Les associations et les organismes sans but lucratif ne peuvent réaliser tout ou partie des opérations mentionnées au I
+qu'en faveur de leurs membres.
+
+V.-Le présent chapitre s'applique aux personnes physiques ou morales qui émettent des bons permettant d'acquitter le prix de
+l'une des prestations mentionnées au présent article et à l'article L. 211-2.
 
 **Liens relatifs à cet article**
 
@@ -2087,36 +2365,29 @@ Les modalités d'application du présent titre sont définies par décret en Con
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 1
 	  - Loi n°92-645 du 13 juillet 1992 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 19 () JORF 15 avril 2006
-	  - Loi n°2006-437 du 14 avril 2006 - art. 9 () JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation - art. L134-2 (V)
-	  - Code de la consommation L121-15-1 à L121-15-3, L134-2
-	  - Code civil - art. 1369-1 (M)
-	  - Code civil - art. 1369-3 (M)
+	  - Code de la consommation - art. L121-15-1 (V)
+	  - Code de la consommation - art. L121-20-3 (V)
+	  - Code civil - art. 1369-4 (V)
 	  - Code du tourisme. - art. L211-2 (V)
 
 
 ###### Article L211-2
 
-Constitue un forfait touristique la prestation :
+Constitue un forfait touristique la prestation : 
 
 1° Résultant de la combinaison préalable d'au moins deux opérations portant respectivement sur le transport, le logement ou
 d'autres services touristiques non accessoires au transport ou au logement et représentant une part significative dans le
-forfait ;
+forfait ; 
 
-2° Dépassant vingt-quatre heures ou incluant une nuitée ;
+2° Dépassant vingt-quatre heures ou incluant une nuitée ; 
 
 3° Vendue ou offerte à la vente à un prix tout compris.
 
@@ -2124,12 +2395,11 @@ forfait ;
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 2
 	  - Loi n°92-645 du 13 juillet 1992 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -2147,46 +2417,45 @@ forfait ;
 
 ###### Article L211-3
 
-Les dispositions du présent titre ne sont pas applicables :
+Le présent chapitre n'est pas applicable : 
 
-a) A l'Etat, aux collectivités territoriales, à leurs établissements publics de caractère administratif et aux établissements
-publics à caractère scientifique et technique pour les seules manifestations liées à leur statut ;
+a) A l'Etat, aux collectivités territoriales, à leurs établissements publics à caractère administratif et aux établissements
+publics à caractère scientifique et technique pour les seules manifestations liées à leur statut ; 
 
-b) Aux personnes physiques ou morales qui effectuent les opérations mentionnées à l'article L. 211-1, à l'exception du a,
-pour des services dont elles sont elles-mêmes producteurs ;
+b) Aux personnes physiques ou morales qui effectuent les opérations mentionnées à l'article L. 211-1, à l'exception du a du
+I, pour des services dont elles sont elles-mêmes producteurs ; 
 
 c) Aux personnes physiques ou morales qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la
-délivrance de titres de transports terrestres pour le compte d'un ou de plusieurs transporteurs de voyageurs ;
+délivrance de titres de transport terrestre pour le compte d'un ou de plusieurs transporteurs de voyageurs ; 
 
 d) Aux transporteurs aériens qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la délivrance de
 titres de transport aérien ou de titres de transports consécutifs incluant un parcours de transport aérien et, à titre
-accessoire, un ou plusieurs parcours de transports terrestres assurés par un ou plusieurs transporteurs de voyageurs ;
+accessoire, un ou plusieurs parcours de transport terrestre assurés par un ou plusieurs transporteurs de voyageurs ; 
 
 e) Aux transporteurs ferroviaires qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la délivrance
-de titres de transport ferroviaire ou de titres consécutifs incluant un parcours de transport ferroviaire et, à titre
-accessoire, d'autres parcours de transports terrestres ou aérien assurés par un ou plusieurs transporteurs de voyageurs ;
+de titres de transport ferroviaire ou de titres de transports consécutifs incluant un parcours de transport ferroviaire et, à
+titre accessoire, d'autres parcours de transport terrestre ou aérien assurés par un ou plusieurs transporteurs de
+voyageurs ; 
 
-f) Aux personnes titulaires d'une carte professionnelle délivrée en application de la loi n° 70-9 du 2 janvier 1970 modifiée
-réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds
-de commerce, lorsqu'elles ne réalisent les prestations mentionnées à l'article L. 211-1 qu'à titre accessoire. Ces personnes
-doivent souscrire pour la délivrance de ces prestations une garantie financière permettant le remboursement des fonds, effets
-ou valeurs déposés et une assurance garantissant les conséquences pécuniaires de la responsabilité professionnelle.
+f) Aux personnes physiques ou morales titulaires d'une carte professionnelle délivrée en application de la loi n° 70-9 du 2
+janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles
+et les fonds de commerce, lorsqu'elles ne réalisent les opérations mentionnées à l'article L. 211-1 qu'à titre accessoire.
+Ces personnes doivent souscrire, pour la réalisation de ces opérations, une assurance garantissant les conséquences
+pécuniaires de la responsabilité professionnelle et une garantie financière permettant le remboursement des fonds, effets ou
+valeurs déposés, dont le montant est modulé par décret en fonction de la nature des activités exercées ; 
 
-Toutefois, les sections 2 et 3 du présent titre sont applicables aux personnes énumérées aux b, c, d, e et f ci-dessus, pour
-leurs activités d'organisation et de vente de forfaits touristiques tels que définis à l'article L. 211-2.
+g) Aux personnes physiques ou morales qui n'effectuent que la vente de bons permettant d'acquitter le prix de l'une des
+prestations mentionnées aux articles L. 211-1 et L. 211-2. 
 
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+Toutefois, les sections 2 et 3 du présent chapitre sont applicables aux personnes énumérées aux b, c, d, e, f et g du présent
+article, pour leurs activités d'organisation et de vente de forfaits touristiques tels que définis à l'article L. 211-2.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°70-9 1970-01-02
-	  - Code du tourisme. - art. L211-1 (M)
+	  - Loi n°70-9 du 2 janvier 1970
+	  - Code du tourisme. - art. L211-1 (V)
 	  - Code du tourisme. - art. L211-2 (V)
 
 	**Cité par**:
@@ -2200,57 +2469,35 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 3
 	  - Loi n°92-645 du 13 juillet 1992 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 
 ###### Article L211-4
 
-Les titulaires d'une licence ou d'une habilitation délivrée en application des dispositions du présent titre peuvent réaliser
-pour le compte d'autrui des locations meublées d'immeubles bâtis, dites locations saisonnières, telles que définies à
-l'article 1er-1 de la loi n° 70-9 du 2 janvier 1970 modifiée réglementant les conditions d'exercice des activités relatives à
-certaines opérations portant sur les immeubles et les fonds de commerce. Ils sont soumis, pour l'exercice de cette activité,
-aux dispositions de l'article 8 de la même loi.
-
-Ils peuvent, en outre, exercer une activité de location de places de spectacles.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 peuvent réaliser pour le
+compte d'autrui des locations meublées d'immeubles bâtis, dites locations saisonnières, telles que définies à l'article 1er-1
+de la loi n° 70-9 du 2 janvier 1970 précitée. Elles sont soumises, pour l'exercice de cette activité, à l'article 8 de la
+même loi.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°70-9 du 2 janvier 1970 - art. 1-1 (V)
-	  - Loi n°70-9 du 2 janvier 1970 - art. 8 (M)
+	  - Loi n°70-9 du 2 janvier 1970 - art. 8 (V)
+	  - Code du tourisme. - art. L211-18 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 25
 	  - Loi n°92-645 du 13 juillet 1992 - art. 25 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -2270,25 +2517,19 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 ###### Article L211-5
 
-Tout titulaire d'une licence ou d'une habilitation doit tenir ses livres et documents à la disposition des agents habilités à
-les consulter ; il doit également mentionner ce titre dans son enseigne, dans les documents remis aux tiers et dans sa
-publicité.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 doivent tenir leurs livres
+et documents à la disposition des agents habilités à les consulter ; elles doivent également mentionner leur immatriculation
+au registre dans leur enseigne, dans les documents remis aux tiers et dans leur publicité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-18 (V)
 
 	**Anciens textes**:
 
@@ -2297,66 +2538,47 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 ###### Article L211-6
 
-Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
+Les conditions d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
+
+##### Section 2 : Contrat de vente de voyages et de séjours
 
 ###### Article L211-7
 
-Tout titulaire d'une licence, d'un agrément, d'une autorisation ou d'une habilitation prévus aux articles L. 212-1, L. 212-2,
-L. 212-3, L. 213-1, L. 213-5, L. 213-6, L. 213-7 et L. 232-1 doit tenir ses livres et documents à la disposition des agents
-habilités à les consulter ; il doit également mentionner ce titre dans son enseigne, dans les documents remis aux tiers et
-dans sa publicité.
+La présente section s'applique aux opérations et activités énumérées à l'article L. 211-1, au dernier alinéa de l'article L.
+211-3 et à l'article L. 211-4. 
 
-**Nota:**
+Toutefois, elle ne s'applique aux opérations suivantes que lorsque celles-ci entrent dans le cadre d'un forfait touristique
+tel que défini à l'article L. 211-2 : 
 
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
+a) La réservation et la vente de titres de transport aérien ou d'autres titres de transport sur ligne régulière ; 
+
+b) La location de meublés saisonniers, qui demeurent régis par la loi n° 70-9 du 2 janvier 1970 précitée et par les textes
+pris pour son application.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 27
-	  - Loi n°92-645 du 13 juillet 1992 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L211-5 (V)
-
 	**Cite**:
 
-	  - Code du tourisme. - art. L212-1 (M)
-	  - Code du tourisme. - art. L212-3 (V)
-	  - Code du tourisme. - art. L213-1 (M)
-	  - Code du tourisme. - art. L213-5 (Ab)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L213-7 (V)
-	  - Code du tourisme. - art. L232-1 (M)
+	  - Loi n°70-9 du 2 janvier 1970
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L211-2 (V)
+	  - Code du tourisme. - art. L211-3 (V)
+	  - Code du tourisme. - art. L211-4 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°92-645 du 13 juillet 1992 - art. 27 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -2366,35 +2588,35 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 	  - Code du tourisme. - art. R213-35 (VT)
 
 
-##### Section 2 : Contrat de vente de voyages et de séjours
+###### Article L211-8
 
-###### Article L211-9
-
-Le vendeur doit informer les intéressés, par écrit préalablement à la conclusion du contrat, du contenu des prestations
-proposées relatives au transport et au séjour, du prix et des modalités de paiement, des conditions d'annulation du contrat
-ainsi que des conditions de franchissement des frontières.
+Le vendeur informe les intéressés, par écrit préalablement à la conclusion du contrat, du contenu des prestations proposées
+relatives au transport et au séjour, du prix et des modalités de paiement, des conditions d'annulation du contrat ainsi que
+des conditions de franchissement des frontières.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 15
-	  - Loi n°92-645 du 13 juillet 1992 - art. 15 (Ab)
+	  - Loi n°92-645 du 13 juillet 1992 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L211-10 (V)
-	  - Code du tourisme. - art. R213-3 (VT)
+	  - Code du tourisme. - art. L211-9 (V)
+	  - Code du tourisme. - art. R211-5 (V)
+	  - Code du tourisme. - art. R212-15 (VT)
+	  - Code du tourisme. - art. R213-33 (VT)
+	  - Code du tourisme. - art. R213-5 (VT)
 
 
-###### Article L211-10
+###### Article L211-9
 
-L'information préalable prévue à l'article L. 211-9 engage le vendeur, à moins que des modifications dans ces informations
-n'aient été portées à la connaissance des intéressés avant la conclusion du contrat.
+L'information préalable prévue à l'article L. 211-8 engage le vendeur, à moins que des modifications dans ces informations
+n'aient été portées par écrit à la connaissance des intéressés avant la conclusion du contrat. 
 
 Il ne peut être apporté de modification à l'information préalable que si le vendeur s'en réserve expressément la faculté dans
 celle-ci.
@@ -2403,39 +2625,42 @@ celle-ci.
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 16
-	  - Loi n°92-645 du 13 juillet 1992 - art. 16 (Ab)
+	  - Loi n°92-645 du 13 juillet 1992 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L211-10 (V)
+	  - Code du tourisme. - art. R213-3 (VT)
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-9 (V)
+	  - Code du tourisme. - art. L211-8 (V)
 
 
-###### Article L211-11
+###### Article L211-10
 
 Le contrat conclu entre le vendeur et l'acheteur doit comporter, selon les modalités fixées par voie réglementaire, toutes
 indications relatives aux noms et adresses de l'organisateur, du vendeur, du garant et de l'assureur, à la description des
 prestations fournies, aux droits et obligations réciproques des parties en matière notamment de prix, de calendrier, de
-modalités de paiement et de révision éventuelle des prix, d'annulation ou de cession du contrat, d'information de l'acheteur
-avant le début du voyage ou du séjour.
+modalités de paiement et de révision éventuelle des prix, d'annulation ou de cession du contrat et à l'information de
+l'acheteur avant le début du voyage ou du séjour.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 17
-	  - Loi n°92-645 du 13 juillet 1992 - art. 17 (Ab)
+	  - Loi n°92-645 du 13 juillet 1992 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 
-###### Article L211-12
+###### Article L211-11
 
 L'acheteur peut céder son contrat, après en avoir informé le vendeur dans un délai fixé par voie réglementaire avant le début
 du voyage ou du séjour, à une personne qui remplit toutes les conditions requises pour le voyage ou le séjour. Le cédant et
@@ -2446,12 +2671,37 @@ supplémentaires éventuels occasionnés par cette cession.
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 18
+	  - Loi n°92-645 du 13 juillet 1992 - art. 17 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+
+###### Article L211-12
+
+Les prix prévus au contrat ne sont pas révisables, sauf si celui-ci prévoit expressément la possibilité d'une révision tant à
+la hausse qu'à la baisse et en détermine les modalités précises de calcul, uniquement pour tenir compte des variations : 
+
+a) Du coût des transports, lié notamment au coût du carburant ; 
+
+b) Des redevances et taxes afférentes aux prestations offertes, telles que les taxes d'atterrissage, d'embarquement ou de
+débarquement dans les ports et les aéroports ; 
+
+c) Des taux de change appliqués au voyage ou au séjour considéré. 
+
+Au cours des trente jours qui précèdent la date de départ prévue, le prix fixé au contrat ne peut faire l'objet d'une
+majoration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Loi n°92-645 du 13 juillet 1992 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -2461,29 +2711,30 @@ supplémentaires éventuels occasionnés par cette cession.
 
 ###### Article L211-13
 
-Les prix prévus au contrat ne sont pas révisables, sauf si celui-ci prévoit expressément la possibilité d'une révision tant à
-la hausse qu'à la baisse et en détermine les modalités précises de calcul, uniquement pour tenir compte des variations :
+Lorsque, avant le départ, le respect d'un des éléments essentiels du contrat est rendu impossible par suite d'un événement
+extérieur qui s'impose au vendeur, celui-ci doit le plus rapidement possible en avertir l'acheteur et informer ce dernier de
+la faculté dont il dispose soit de résilier le contrat, soit d'accepter la modification proposée par le vendeur. 
 
-a) Du coût des transports, lié notamment au coût du carburant ;
+Cet avertissement et cette information doivent être confirmés par écrit à l'acheteur, qui doit faire connaître son choix dans
+les meilleurs délais. Lorsqu'il résilie le contrat, l'acheteur a droit, sans supporter de pénalités ou de frais, au
+remboursement de la totalité des sommes qu'il a versées. 
 
-b) Des redevances et taxes afférentes aux prestations offertes, telles que les taxes d'atterrissage, d'embarquement, de
-débarquement dans les ports et les aéroports ;
-
-c) Des taux de change appliqués au voyage ou au séjour considéré.
-
-Au cours des trente jours qui précèdent la date de départ prévue, le prix fixé au contrat ne peut faire l'objet d'une
-majoration.
+Le présent article s'applique également en cas de modification significative du prix du contrat intervenant conformément aux
+conditions prévues à l'article L. 211-12.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 19
 	  - Loi n°92-645 du 13 juillet 1992 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-12 (V)
 
 	**Cité par**:
 
@@ -2493,31 +2744,18 @@ majoration.
 
 ###### Article L211-14
 
-Lorsque, avant le départ, le respect d'un des éléments essentiels du contrat est rendu impossible par suite d'un événement
-extérieur qui s'impose au vendeur, celui-ci doit le plus rapidement possible en avertir l'acheteur et informer ce dernier de
-la faculté dont il dispose soit de résilier le contrat, soit d'accepter la modification proposée par le vendeur.
-
-Cet avertissement et cette information doivent être confirmés par écrit à l'acheteur, qui doit faire connaître son choix dans
-les meilleurs délais. Lorsqu'il résilie le contrat, l'acheteur a droit, sans supporter de pénalités ou de frais, au
-remboursement de la totalité des sommes qu'il a versées.
-
-Les dispositions du présent article s'appliquent également en cas de modifications significatives du prix du contrat
-intervenant conformément aux conditions prévues à l'article L. 211-13.
+Lorsque, avant le départ, le vendeur résilie le contrat en l'absence de faute de l'acheteur, la totalité des sommes versées
+par ce dernier lui est restituée, sans préjudice des dommages et intérêts auxquels celui-ci pourrait prétendre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 20
 	  - Loi n°92-645 du 13 juillet 1992 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-13 (V)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -2526,32 +2764,11 @@ intervenant conformément aux conditions prévues à l'article L. 211-13.
 
 ###### Article L211-15
 
-Lorsque, avant le départ, le vendeur résilie le contrat en l'absence de faute de l'acheteur, la totalité des sommes versées
-par ce dernier lui sont restituées, sans préjudice des dommages et intérêts auxquels celui-ci pourrait prétendre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 21
-	  - Loi n°92-645 du 13 juillet 1992 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R211-12 (V)
-
-
-###### Article L211-16
-
 Lorsque, après le départ, un des éléments essentiels du contrat ne peut être exécuté, le vendeur doit, sauf impossibilité
-dûment justifiée, proposer à l'acheteur des prestations en remplacement de celles qui ne sont pas fournies.
+dûment justifiée, proposer à l'acheteur des prestations en remplacement de celles qui ne sont pas fournies. 
 
 Le vendeur prend à sa charge les suppléments de prix qui en résultent ou rembourse la différence de prix entre les
-prestations prévues et fournies.
+prestations prévues et fournies. 
 
 Si l'acheteur n'accepte pas la modification proposée, le vendeur doit lui procurer les titres de transport nécessaires à son
 retour, sans préjudice des dommages et intérêts auxquels l'acheteur pourrait prétendre.
@@ -2560,26 +2777,25 @@ retour, sans préjudice des dommages et intérêts auxquels l'acheteur pourrait 
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 22
-	  - Loi n°92-645 du 13 juillet 1992 - art. 22 (Ab)
+	  - Loi n°92-645 du 13 juillet 1992 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L211-17 (V)
-	  - Code du tourisme. - art. R211-36 (V)
+	  - Code du tourisme. - art. R211-12 (V)
 
 
 ##### Section 3 : Responsabilité civile professionnelle
 
-###### Article L211-17
+###### Article L211-16
 
 Toute personne physique ou morale qui se livre aux opérations mentionnées à l'article L. 211-1 est responsable de plein droit
-à l'égard de l'acheteur de la bonne exécution des obligations résultant du contrat, que ces obligations soient à exécuter par
-elle-même ou par d'autres prestataires de services, sans préjudice de son droit de recours contre ceux-ci.
+à l'égard de l'acheteur de la bonne exécution des obligations résultant du contrat, que ce contrat ait été conclu à distance
+ou non et que ces obligations soient à exécuter par elle-même ou par d'autres prestataires de services, sans préjudice de son
+droit de recours contre ceux-ci et dans la limite des dédommagements prévus par les conventions internationales. 
 
 Toutefois, elle peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la
 mauvaise exécution du contrat est imputable soit à l'acheteur, soit au fait, imprévisible et insurmontable, d'un tiers
@@ -2589,16 +2805,42 @@ mauvaise exécution du contrat est imputable soit à l'acheteur, soit au fait, i
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 23
-	  - Loi n°92-645 du 13 juillet 1992 - art. 23 (Ab)
+	  - Loi n°92-645 du 13 juillet 1992 - art. 22 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
+	  - Code du tourisme. - art. L211-1 (V)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L211-17 (V)
+	  - Code du tourisme. - art. R211-36 (V)
+
+
+###### Article L211-17
+
+L'article L. 211-16 ne s'applique pas aux personnes physiques ou morales pour les opérations de réservation ou de vente,
+conclues à distance ou non, n'entrant pas dans un forfait touristique tel que défini à l'article L. 211-2, relatives soit à
+des titres de transport aérien, soit à d'autres titres de transport sur ligne régulière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-645 du 13 juillet 1992 - art. 23 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-16 (V)
+	  - Code du tourisme. - art. L211-2 (V)
 
 	**Cité par**:
 
@@ -2606,22 +2848,119 @@ mauvaise exécution du contrat est imputable soit à l'acheteur, soit au fait, i
 	  - Code du tourisme. - art. R212-37 (T)
 
 
+##### Section 7 : Sanctions et mesures conservatoires
+
+###### Article L211-23
+
+I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+
+- de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans respecter
+ou en ayant cessé de remplir les conditions prévues au présent chapitre ;
+
+- d'exercer les fonctions de représentant légal ou statutaire d'une personne morale qui se livre ou apporte son concours à
+l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 lorsque cette personne morale ne respecte pas ou a cessé
+de remplir les conditions prévues au présent chapitre ;
+
+- pour toute personne physique ou morale immatriculée au registre mentionné au I de l'article L. 211-18, de prêter son
+concours à la conclusion d'un contrat de jouissance d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du
+code de la consommation sans justifier du mandat, de l'assurance et de la garantie financière prévus à l'article L. 211-24 du
+présent code. 
+
+Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes
+condamnées. 
+
+II.-Lorsqu'une personne physique ou morale réalise l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans
+respecter les conditions prévues au présent chapitre, le représentant de l'Etat dans le département où l'infraction a été
+dûment constatée peut ordonner par décision motivée la fermeture à titre provisoire de l'établissement dans lequel ont été
+réalisées lesdites opérations, après que la personne physique ou le représentant de la personne morale a été mis en mesure de
+présenter ses observations. Il en avise sans délai le procureur de la République. En cas d'inexécution de la mesure de
+fermeture, il peut y pourvoir d'office. Toutefois, cette fermeture provisoire cesse de produire effet à l'expiration d'un
+délai de six mois. 
+
+La mesure de fermeture provisoire est levée de plein droit en cas de classement sans suite de l'affaire par le procureur de
+la République, d'ordonnance de non-lieu rendue par une juridiction d'instruction ou lors du prononcé du jugement rendu en
+premier ressort par la juridiction saisie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-60 (V)
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L211-18 (V)
+	  - Code du tourisme. - art. L211-24 (V)
+	  - Code du tourisme. - art. L211-4 (V)
+
+
+### TITRE Ier :  DES AGENTS DE VOYAGE ET AUTRES OPÉRATEURS DE LA VENTE DE VOYAGES ET DE SÉJOURS
+
+#### Chapitre unique : Régime de la vente de voyages et de séjours
+
+##### Section 1 : Dispositions générales
+
+##### Section 2 : Contrat de vente de voyages et de séjours
+
+##### Section 3 : Responsabilité civile professionnelle
+
+##### Section 4 :  Obligation et conditions d'immatriculation
+
 ###### Article L211-18
 
-Les dispositions de l'article L. 211-17 ne s'appliquent pas aux personnes physiques ou morales pour les opérations de
-réservation ou de vente n'entrant pas dans un forfait touristique, tel que défini à l'article L. 211-2, relatives soit à des
-titres de transport aérien, soit à d'autres titres de transport sur ligne régulière.
+I.-Les personnes physiques ou morales mentionnées à l'article L. 211-1 sont immatriculées au registre prévu au a de l'article
+L. 141-3. 
+
+II.-Afin d'être immatriculées, ces personnes doivent : 
+
+a) Justifier, à l'égard des clients, d'une garantie financière suffisante, spécialement affectée au remboursement des fonds
+reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
+sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
+crédit ou d'une entreprise d'assurance établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen. Elle doit couvrir les frais de rapatriement éventuel. Le
+remboursement peut être remplacé, avec l'accord du client, par la fourniture d'une prestation différente en remplacement de
+la prestation prévue. Cette prestation différente proposée par l'organisme de garantie financière ne requiert pas, en
+situation d'urgence, l'accord exprès du client, dès lors que sa mise en œuvre n'entraîne pas une modification substantielle
+du contrat ; 
+
+b) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ; 
+
+c) Justifier, pour la personne physique ou pour le représentant de la personne morale, de conditions d'aptitude
+professionnelle par :
+
+- la réalisation d'un stage de formation professionnelle d'une durée minimale définie par décret ;
+
+- ou l'exercice d'une activité professionnelle, d'une durée minimale fixée par décret, en rapport avec les opérations
+mentionnées au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique ;
+
+- ou la possession d'un diplôme, titre ou certificat mentionné sur une liste fixée par arrêté pris par les ministres chargés
+du tourisme, de l'éducation et de l'enseignement supérieur. 
+
+III.-Ne sont pas tenus de satisfaire aux conditions prévues aux I et II : 
+
+a) Les associations et organismes sans but lucratif qui n'ont pas pour objet l'organisation de voyages ou de séjours et qui
+ne se livrent à ces opérations qu'à l'occasion de leurs assemblées générales ou de voyages exceptionnels, liés à leur
+fonctionnement et qu'ils organisent pour leurs adhérents ou ressortissants ; 
+
+b) Les associations et organismes sans but lucratif appartenant à une fédération ou une union déclarée s'en portant garantes
+à la condition que ces dernières satisfassent aux obligations mentionnées aux I et II ; 
+
+c) Les associations et organismes sans but lucratif organisant sur le territoire national des accueils collectifs de mineurs
+à caractère éducatif conformément à l'article L. 227-4 du code de l'action sociale et des familles ou ceux gérant des
+villages de vacances ou des maisons familiales agréées, dans le cadre exclusif de leurs activités propres, y compris le
+transport lié au séjour.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 24
 	  - Loi n°92-645 du 13 juillet 1992 - art. 24 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -2650,76 +2989,24 @@ titres de transport aérien, soit à d'autres titres de transport sur ligne rég
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-17 (V)
-	  - Code du tourisme. - art. L211-2 (V)
+	  - Code de l'action sociale et des familles - art. L227-4
+	  - Code du tourisme. - art. L141-3 (V)
 
 
-##### Section 4 : Incapacités d'exercer les activités relevant de l'organisation et de la vente de voyages et séjours.
+##### Section 5 : De la liberté d'établissement
 
 ###### Article L211-19
 
-Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, se livrer ou apporter son
-concours, même à titre accessoire, à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4, s'il a fait l'objet
-depuis moins de dix ans d'une condamnation définitive :
-
-1° Pour crime ;
-
-2° A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
-
-a) L'une des infractions prévues au titre Ier du livre III du code pénal, et pour les délits prévus par des lois spéciales et
-punis des peines prévues pour l'escroquerie et l'abus de confiance ;
-
-b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévue à la section 2 du chapitre 1er du titre
-II du livre III du code pénal ;
-
-c) Blanchiment ou l'une des infractions prévues aux articles L. 222-38 et L. 324-1 à L. 324-9 du code pénal ;
-
-d) Corruption active et passive, trafic d'influence, soustraction et détournement de biens ;
-
-e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
-l'autorité ;
-
-f) Participation à une association de malfaiteurs ;
-
-g)Trafic de stupéfiants ;
-
-h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
-pénal ;
-
-i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
-
-j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
-
-k) Banqueroute ;
-
-l) Pratique de prêt usuraire ;
-
-m) L'une des infractions prévues par la loi du 21 mai 1836 sur les loteries, par la loi du 15 juin 1907 relative aux casinos
-et par la loi du 12 juillet 1983 relative aux jeux de hasard ;
-
-n) L'une des infractions prévues au livre Ier et aux articles L. 213-1 à L. 213-5 du code de la consommation ;
-
-o) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
-
-p) Fraude fiscale ;
-
-q) L'infraction prévue à l'article L. 353-2 du code monétaire et financier ;
-
-r) L'une des infractions prévues aux articles L. 211-24 et L. 211-25 ;
-
-3° A la destitution des fonctions d'officier public ou ministériel.
-
-**Nota:**
-
-Loi 2006-437 du 14 avril 2006 article 7 IV 2 : Les dispositions de la présente loi entrent en vigueur dans un délai de six
-mois à compter de la publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre
-2008 a été publié le 3 septembre 2008.
+Pour s'établir en France, est considéré comme répondant aux conditions d'aptitude visées au c du II de l'article L. 211-18
+tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen, dès lors qu'il produit les pièces justificatives émanant de l'autorité compétente d'un de ces Etats prouvant qu'il
+possède l'expérience professionnelle ou un diplôme, titre ou certificat pour l'exercice d'activités mentionnées au I de
+l'article L. 211-1 ou d'activités de prestations d'hébergement touristique ou de transport touristique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 26
 	  - Loi n°92-645 du 13 juillet 1992 - art. 26 (Ab)
 
 	**Cité par**:
@@ -2735,105 +3022,61 @@ mois à compter de la publication du décret mentionné à l'article L. 133-18 d
 	  - Code du tourisme. - art. R213-35 (VT)
 	  - Code du tourisme. - art. R221-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation L213-1 à L213-5
-	  - Code pénal L222-38, L324-1 à L324-9
-	  - Code monétaire et financier - art. L353-2 (M)
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L211-24 (V)
-	  - Code du tourisme. - art. L211-25 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Loi n°1836-05-21
-	  - Loi n°1907-06-15
-	  - Loi n°1983-07-12
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L211-18 (V)
 
+
+##### Section 6 : De la libre prestation de services
 
 ###### Article L211-20
 
-L'incapacité prévue à l'article L. 211-19 s'applique :
+Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen, légalement établi dans l'un de ces Etats, pour l'exercice d'activités mentionnées au I de l'article L. 211-1, peut
+exercer ces activités de façon temporaire et occasionnelle en France. 
 
-- à toute personne à l'égard de laquelle a été prononcée une mesure définitive de faillite personnelle ou une autre mesure
-définitive dans les conditions prévues par le livre VI du code de commerce ;
-
-- aux administrateurs judiciaires et mandataires judiciaires au redressement et à la liquidation des entreprises ayant fait
-l'objet d'une décision définitive de radiation de la liste prévue aux articles L. 811-12 et L. 812-9 du code de commerce ;
-
-- aux membres et anciens membres des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre
-est protégé, ayant fait l'objet d'une décision définitive prononçant une interdiction d'exercer.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+Toutefois, lorsque les activités mentionnées à l'article L. 211-1 ou la formation y conduisant ne sont pas réglementées dans
+l'Etat dans lequel est établi le prestataire, celui-ci doit avoir exercé cette activité dans cet Etat pendant au moins deux
+ans au cours des dix années qui précèdent la prestation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-645 1992-07-13 art. 28
 	  - Loi n°92-645 du 13 juillet 1992 - art. 28 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. L811-12 (M)
-	  - Code de commerce. - art. L812-9 (M)
-	  - Code du tourisme. - art. L211-19 (V)
+	  - Code du tourisme. - art. L211-1 (V)
 
 
 ###### Article L211-21
 
-En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
-constituant, selon la loi française, un crime ou l'un des délits mentionnés à l'article L. 211-19, le tribunal correctionnel
-du domicile du condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de
-la condamnation et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue par
-l'article L. 211-19.
+Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'organisme mentionné
+à l'article L. 141-2 par une déclaration écrite, comprenant notamment les informations relatives à sa garantie financière et
+son assurance de responsabilité civile professionnelle. 
 
-Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une interdiction de gérer
-prononcée par une juridiction étrangère quand le jugement a été déclaré exécutoire en France. La demande d'exequatur peut
-être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du domicile du condamné.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+Cette déclaration est réitérée en cas de changement matériel dans les éléments de la déclaration et doit être renouvelée
+chaque année si le prestataire envisage d'exercer cette activité au cours de l'année concernée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 1 à 5
-	  - Loi n°92-645 1992-07-13 art. 29, al
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2 (V)
 
 	**Cité par**:
 
@@ -2844,85 +3087,53 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 
 ###### Article L211-22
 
-Les personnes exerçant l'une des activités mentionnées aux articles L. 211-1 et L. 211-4, qui ont encouru l'interdiction
-résultant de l'application des articles qui précèdent, doivent cesser leur activité dans un délai d'un mois à compter de la
-date à laquelle la décision est devenue définitive.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
+La déclaration visée à l'article L. 211-21 vaut immatriculation automatique et temporaire au registre mentionné au I de
+l'article L. 211-18.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 29, al. 6 et 7
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (M)
-	  - Code du tourisme. - art. L211-4 (V)
+	  - Code du tourisme. - art. L211-18 (V)
+	  - Code du tourisme. - art. L211-21 (V)
 
 
-##### Section 5 : Sanctions.
+##### Section 7 : Sanctions et mesures conservatoires
+
+##### Section 8 : Contrat de jouissance d'immeuble à temps partagé
 
 ###### Article L211-24
 
-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+Les personnes physiques ou morales immatriculées sur le registre mentionné au I de l'article L. 211-18 du présent code
+peuvent conclure tout contrat de jouissance d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du code de
+la consommation. 
 
-- de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 en l'absence
-de la licence ou de l'habilitation prévues aux articles L. 212-1 et L. 213-1 ou après avoir cessé de remplir les conditions
-auxquelles sa délivrance est subordonnée ;
+Elles peuvent également prêter concours à la conclusion de tels contrats en vertu d'un mandat écrit. 
 
-- d'exercer les fonctions de représentant légal ou statutaire d'une personne morale qui se livre ou apporte son concours à
-l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 lorsque cette personne morale ne possède pas la licence ou
-l'habilitation prévues aux articles L. 212-1 et L. 213-1 ;
+Pour se livrer à cette dernière activité, elles justifient spécialement, dans les conditions prévues par le présent titre,
+d'une assurance garantissant les conséquences pécuniaires de leur responsabilité civile professionnelle et d'une garantie
+financière affectée au remboursement des fonds, effets ou valeurs détenus pour autrui. 
 
-- pour tout titulaire d'une licence d'agent de voyages de prêter son concours à la conclusion d'un contrat de jouissance
-d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du code de la consommation sans justifier du mandat,
-de l'assurance et de la garantie financière prévus à l'article L. 212-4.
+Le montant de cette garantie ne peut être inférieur au montant maximal des fonds, effets ou valeurs détenus pour autrui à un
+moment quelconque, ni à un montant minimal fixé par décret en Conseil d'Etat. 
 
-Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes
-condamnées.
-
-En cas d'exécution, dûment constatée, sans la licence ou l'habilitation prévue aux articles L. 212-1 et L. 213-1, de l'une
-des opérations mentionnées aux articles L. 211-1 et L. 211-4, le représentant de l'Etat dans le département dans le ressort
-duquel se trouve exploité l'établissement en infraction peut en ordonner la fermeture à titre provisoire par décision motivée
-après que l'intéressé a été mis à même de présenter ses observations. Le représentant de l'Etat dans le département en avise
-sans délai le procureur de la République. En cas d'inexécution de la mesure de fermeture, le représentant de l'Etat dans le
-département peut y pourvoir d'office. Toutefois, cette fermeture provisoire cesse de produire effet à l'expiration d'un délai
-de six mois.
-
-La mesure de fermeture provisoire est levée de plein droit en cas de classement sans suite de l'affaire par le procureur de
-la République, d'ordonnance de non-lieu rendue par une juridiction d'instruction ou lors du prononcé du jugement rendu en
-premier ressort par la juridiction saisie.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
+Les modalités particulières de mise en œuvre et de fonctionnement de cette garantie, le contenu du contrat de mandat et les
+conditions de la rémunération du mandataire sont définis par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
-	  - Loi n°2006-437 du 14 avril 2006 - art. 20 (V) JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-60 (V)
+	  - Code du tourisme. - art. L211-18 (V)
 
 	**Cité par**:
 
@@ -2934,600 +3145,6 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 	  - Code du tourisme. - art. R211-49 (V)
 
 
-###### Article L211-25
-
-Est puni des peines prévues à l'article 313-1 du code pénal le fait d'exercer ou de tenter d'exercer une activité
-professionnelle en violation de l'interdiction résultant de l'application des articles L. 211-19 à L. 211-21.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code pénal - art. 313-1
-	  - Code du tourisme.
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-19 (V)
-
-
-###### Article L211-26
-
-Les licences ou les habilitations délivrées en application du présent livre sont suspendues ou retirées après que l'intéressé
-a été mis à même de présenter ses observations si les conditions prévues pour leur délivrance ne sont plus remplies ou si le
-titulaire a méconnu de façon grave ou répétée les obligations qui lui incombent.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-
-##### Section 7 : Sanctions et mesures conservatoires
-
-###### Article L211-23
-
-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la décision
-qui entraîne cette incapacité peut, dans le jugement de condamnation ou par jugement ultérieur, en réduire la durée.
-
-Si la juridiction qui a statué n'existe plus ou s'il s'agit d'une juridiction étrangère, la chambre de l'instruction de la
-cour d'appel dans le ressort de laquelle le requérant a sa résidence est compétente. Il en est de même si l'incapacité
-résulte d'une décision disciplinaire.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Cite**:
-
-	  - Code pénal - art. 132-21 (M)
-
-
-#### Chapitre 2 : Licence d'agent de voyages.
-
-##### Section 1 : Dispositions générales.
-
-###### Article L212-1
-
-Les opérations mentionnées à l'article L. 211-1 ne peuvent être effectuées dans un but lucratif que par des personnes
-physiques ou morales ayant la qualité de commerçant, titulaires d'une licence d'agent de voyages délivrée au nom de l'Etat.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 4, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Cité par**:
-
-	  - Arrêté du 3 juin 2008 - art. 8 (V)
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-24 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (T)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L221-1 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1
-
-
-###### Article L212-2
-
-Cette licence est délivrée aux personnes physiques qui satisfont aux conditions suivantes : 
-
-a) Justifier de leur aptitude professionnelle ; 
-
-b) Ne pas être frappées de l'une des incapacités ou interdictions d'exercer mentionnées à l'article L. 211-19 ; 
-
-c) Justifier, à l'égard des clients, d'une garantie financière suffisante, spécialement affectée au remboursement des fonds
-reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
-sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
-crédit ou d'une entreprise d'assurances établis sur le territoire de la Communauté européenne ou dans un autre Etat partie à
-l'accord sur l'Espace économique européen. Elle doit couvrir les frais de rapatriement éventuel. Le remboursement peut être
-remplacé, avec l'accord du client, par la fourniture d'une prestation différente en remplacement de la prestation prévue ; 
-
-d) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ; 
-
-e) Disposer d'installations matérielles appropriées sur le territoire national. 
-
-La licence est délivrée aux personnes morales qui satisfont aux conditions prévues aux c, d, et e ci-dessus et dont les
-représentants légaux satisfont aux conditions posées aux a et b ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1
-	  - Code du tourisme. - art. L211-19
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L212-3 (Ab)
-	  - Code du tourisme. - art. L213-3 (Ab)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L221-1 (V)
-	  - Code du tourisme. - art. L242-1 (V)
-	  - Code du tourisme. - art. R212-13 (VT)
-	  - Code du tourisme. - art. R212-18 (VT)
-	  - Code du tourisme. - art. R212-24 (VT)
-	  - Code du tourisme. - art. R212-26 (VT)
-	  - Code du tourisme. - art. R212-28 (T)
-	  - Code du tourisme. - art. R212-36 (T)
-	  - Code du tourisme. - art. R212-40 (T)
-	  - Code du tourisme. - art. R212-43 (VT)
-	  - Code du tourisme. - art. R212-5 (T)
-	  - Code monétaire et financier - art. D313-26 (VD)
-
-
-###### Article L212-3
-
-Pour s'établir en France, est considéré comme répondant aux conditions d'aptitude visée au a et de capacité d'exercer visée
-au b de l'article L. 212-2 tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen, dès lors qu'il produit les pièces justificatives émanant de l'autorité compétente
-d'un de ces Etats prouvant :
-
-- qu'il possède l'expérience professionnelle pour y exercer la profession d'agent de voyages conforme aux conditions de
-reconnaissance fixées par décret en Conseil d'Etat ;
-
-- qu'il n'est pas frappé d'incapacité ou d'interdiction, même temporaire, pour exercer la profession d'agent de voyages. 
-
-Les titulaires d'une licence d'agent de voyages établis sur le territoire national doivent se consacrer exclusivement à cette
-activité, sauf lorsque celle-ci constitue l'accessoire de l'organisation et de l'accueil des foires, salons et congrès.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 107
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (V)
-	  - Code du tourisme. - art. L213-6 (V)
-	  - Code du tourisme. - art. L221-1 (V)
-	  - Code du tourisme. - art. L242-1 (V)
-	  - Code du tourisme. - art. R212-43 (VT)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L212-2
-
-
-##### Section 2 : Contrat de jouissance d'immeuble à temps partagé.
-
-###### Article L212-4
-
-Les titulaires d'une licence d'agent de voyages peuvent conclure tout contrat de jouissance d'immeuble à temps partagé régi
-par les articles L. 121-60 et suivants du code de la consommation.
-
-Ils peuvent également prêter concours à la conclusion de tels contrats, en vertu d'un mandat écrit.
-
-Pour se livrer à cette dernière activité, ils justifient spécialement, dans les conditions prévues par le présent titre,
-d'une assurance garantissant les conséquences pécuniaires de leur responsabilité civile professionnelle et d'une garantie
-financière affectée au remboursement des fonds, effets ou valeurs détenus pour autrui.
-
-Le montant de cette garantie ne peut être inférieur au montant maximal des fonds, effets ou valeurs détenus pour autrui à un
-moment quelconque, ni à un montant minimal fixé par décret en Conseil d'Etat.
-
-Les modalités particulières de mise en oeuvre et de fonctionnement de cette garantie, le contenu du contrat de mandat et les
-conditions de la rémunération du mandataire sont définis par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 4-1
-	  - Loi n°92-645 du 13 juillet 1992 - art. 4-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-60
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-24 (V)
-	  - Code du tourisme. - art. R*212-42 (VT)
-	  - Code du tourisme. - art. R212-11 (T)
-	  - Code du tourisme. - art. R212-6 (T)
-	  - Code du tourisme. - art. R212-8 (T)
-
-
-##### Section 4 : Mandat.
-
-###### Article L212-5
-
-Le titulaire de la licence peut confier certaines des activités mentionnées à l'article L. 211-1 à un mandataire remplissant
-les conditions d'aptitude professionnelle fixées par décret. Les conditions dans lesquelles le mandataire exerce ces
-activités sont fixées par une convention d'une durée non renouvelable de trois ans au plus. La convention doit
-obligatoirement prévoir que l'activité du mandataire est couverte par la garantie financière et l'assurance de responsabilité
-civile du titulaire de la licence.
-
-Les conventions sont communiquées à l'autorité administrative pour information.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006 .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 6, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R212-22 (VT)
-
-
-##### Section 5 : Etablissement secondaire.
-
-###### Article L212-6
-
-Chaque établissement secondaire dans lequel le titulaire de la licence exerce son activité est dirigé par un salarié
-remplissant des conditions d'aptitude professionnelle fixées par décret.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 6, al. 2
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Cité par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-
-##### Section 8 : Libre prestation de services.
-
-
-###### Article L212-9
-
-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen, légalement établi, pour l'exercice de l'activité d'agent de voyages, dans un de ces Etats, peut exercer cette
-activité de façon temporaire et occasionnelle en France. 
-
-Toutefois, lorsque l'activité d'agent de voyages ou la formation y conduisant n'est pas réglementée dans l'Etat
-d'établissement, le prestataire doit avoir exercé cette activité dans cet Etat pendant au moins deux ans au cours des dix
-années qui précèdent la prestation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L212-11 (Ab)
-
-
-###### Article L212-10
-
-Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'autorité compétente
-par une déclaration écrite, comprenant notamment les informations relatives aux couvertures d'assurance de responsabilité
-civile professionnelle et de garantie financière, dans les conditions fixées par décret en Conseil d'Etat. 
-
-Cette déclaration est réitérée en cas de changement matériel dans les éléments de la déclaration et doit être renouvelée
-chaque année si le prestataire envisage d'exercer cette activité au cours de l'année concernée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-
-###### Article L212-11
-
-Les dispositions des articles L. 212-9 et L. 212-10 s'appliquent aux régimes d'autorisations prévus au titre Ier du livre II
-du présent code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L212-9
-
-
-#### Chapitre 3 : Habilitation.
-
-###### Article L213-1
-
-Doivent être titulaires d'une habilitation :
-
-a) Les personnes qui réalisent certaines des opérations mentionnées à l'article L. 211-1 à l'occasion de la vente d'une
-prestation de voyage ou de séjour relevant de leur activité professionnelle habituelle et les organisateurs de congrès ou de
-manifestations apparentées qui réalisent ces opérations pour les participants ;
-
-b) Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des collectivités territoriales ou de leurs
-groupements qui se livrent ou apportent leur concours, dans l'intérêt général, à des opérations permettant de faciliter
-l'accueil ou d'améliorer les conditions de séjour des touristes dans leur zone géographique d'intervention ;
-
-c) Les associations, autres que celles relevant du b ci-dessus, et les organismes sans but lucratif qui réalisent pour leurs
-membres tout ou partie des opérations mentionnées à l'article L. 211-1.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 7
-	  - Loi n°92-645 du 13 juillet 1992 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-24 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (T)
-	  - Code du tourisme. - art. L221-1 (V)
-	  - Code du tourisme. - art. R213-4 (VT)
-
-
-###### Article L213-2
-
-Toutefois, ne sont pas tenus de solliciter une habilitation :
-
-a) Les associations et organismes sans but lucratif qui n'ont pas pour objet l'organisation de voyages ou de séjours et qui
-ne se livrent à ces opérations qu'à l'occasion de leurs assemblées générales ou de voyages exceptionnels, liés au
-fonctionnement de l'organisme, qu'ils organisent pour leurs adhérents ou ressortissants ;
-
-b) Les associations et organismes sans but lucratif appartenant à une fédération ou une union titulaires d'une habilitation
-s'en portant garante s'ils ont été mentionnés dans la décision accordant l'habilitation ;
-
-c) Les associations et organismes sans but lucratif gérant sur le territoire national des centres de vacances ou de loisirs,
-des centres de placement de vacances pour les jeunes de moins de dix-huit ans, des villages de vacances ou des maisons
-familiales agréées, dans le cadre exclusif des activités propres à ces établissements, y compris le transport lié au séjour.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 8
-	  - Loi n°92-645 du 13 juillet 1992 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R213-3 (VT)
-
-
-###### Article L213-3
-
-L'habilitation est délivrée au nom de l'Etat. Le demandeur doit remplir les conditions suivantes :
-
-a) Justifier de son aptitude professionnelle ;
-
-b) Ne pas être frappé de l'une des incapacités ou interdictions d'exercer visées à l'article L. 211-19 ;
-
-c) Justifier d'une assurance garantissant les conséquences pécuniaires de sa responsabilité civile professionnelle pour
-l'activité de tourisme ;
-
-d) Justifier à l'égard des clients ou des membres de l'association d'une garantie financière suffisante dans les conditions
-du c de l'article L. 212-2.
-
-L'habilitation est délivrée aux personnes morales qui satisfont aux conditions prévues aux c et d et dont les représentants
-légaux satisfont aux conditions posées aux a et b ci-dessus.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 9
-	  - Loi n°92-645 du 13 juillet 1992 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-19
-	  - Code du tourisme. - art. L212-2
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R212-27 (VT)
-	  - Code du tourisme. - art. R213-5 (VT)
-	  - Code du tourisme. - art. R213-6 (VT)
-	  - Code du tourisme. - art. R213-8 (VT)
-	  - Code du tourisme. - art. R213-9 (VT)
-
-
 ### TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES
 
 #### Chapitre unique : Personnels qualifiés
@@ -3537,14 +3154,8 @@ code du tourisme. Le décret  a été publié au JO du 7 octobre 2006.
 ###### Article L221-1
 
 Pour la conduite de visites commentées dans les musées et les monuments historiques, les personnes physiques ou morales
-titulaires d'une licence, ou d'une habilitation ne peuvent utiliser que les services de personnes qualifiées remplissant les
-conditions fixées par décret en Conseil d'Etat.
-
-**Nota:**
-
-Ordonnance n° 2005-174 du 24 février 2005 article 4 (1er alinéa) : les dispositions de la présente ordonnance entrent en
-vigueur à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L.
-211-6 du code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
+titulaires d'une licence immatriculées au registre mentionné au I de l'article L. 211-18 ne peuvent utiliser que les services
+de personnes qualifiées remplissant les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3563,7 +3174,11 @@ vigueur à compter du premier jour du sixième mois suivant la publication du d�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 1
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-18 (V)
 
 
 ##### Section 2 : De la liberté d'établissement
@@ -3628,15 +3243,12 @@ dans l'Etat d'établissement, le prestataire fait mention de son titre de format
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME
 
-#### Chapitre 1er : Exploitation de voitures de tourisme de luxe dites de grande remise.
-
-##### Section 1 : Dispositions générales.
+#### Chapitre unique : Exploitation de voitures de tourisme avec chauffeur.
 
 ###### Article L231-1
 
-Les dispositions du présent chapitre s'appliquent aux entreprises de remise et de tourisme, c'est-à-dire à celles qui mettent
-à la disposition de leur clientèle des voitures de tourisme de luxe, dites " voiture de grande remise ", conduites par le
-propriétaire ou son préposé, suivant des conditions fixées à l'avance entre les parties.
+Le présent chapitre s'applique aux entreprises qui mettent à la disposition de leur clientèle des voitures de tourisme avec
+chauffeur, suivant des conditions fixées à l'avance entre les parties.
 
 **Liens relatifs à cet article**
 
@@ -3644,9 +3256,9 @@ propriétaire ou son préposé, suivant des conditions fixées à l'avance entre
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 1 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
 
 	**Cité par**:
 
@@ -3660,12 +3272,18 @@ propriétaire ou son préposé, suivant des conditions fixées à l'avance entre
 	  - Code du tourisme. - art. R141-10 (M)
 	  - Code du tourisme. - art. R231-1-4 (V)
 
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+
 
 ###### Article L231-2
 
-Nul ne peut exercer la profession d'entrepreneur de remise et de tourisme s'il ne remplit pas les conditions de compétence et
-de moralité nécessaires, s'il ne dispose pas d'un personnel qualifié et d'un matériel répondant aux conditions fixées par
-voie réglementaire.
+Les entreprises mentionnées à l'article L. 231-1 doivent disposer d'une ou plusieurs voitures répondant à des conditions
+techniques et de confort, ainsi que d'un ou plusieurs chauffeurs titulaires du permis B et justifiant de conditions
+d'aptitude professionnelle définies par décret. 
+
+Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3.
 
 **Liens relatifs à cet article**
 
@@ -3673,9 +3291,9 @@ voie réglementaire.
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 2 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
 
 	**Cité par**:
 
@@ -3683,13 +3301,16 @@ voie réglementaire.
 	  - Code du tourisme. - art. D231-11 (VT)
 	  - Code du tourisme. - art. D231-8 (VT)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-3 (V)
+	  - Code du tourisme. - art. L231-1 (V)
+
 
 ###### Article L231-3
 
-L'aptitude à l'exercice de la profession est constatée par la remise d'une licence par l'autorité administrative compétente,
-après avis d'une commission départementale.
-
-Ces licences peuvent être suspendues ou retirées dans les mêmes formes.
+Les voitures de tourisme avec chauffeur ne peuvent ni stationner sur la voie publique si elles n'ont pas fait l'objet d'une
+location préalable, ni être louées à la place.
 
 **Liens relatifs à cet article**
 
@@ -3697,9 +3318,9 @@ Ces licences peuvent être suspendues ou retirées dans les mêmes formes.
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 3 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
 
 	**Cité par**:
 
@@ -3712,8 +3333,7 @@ Ces licences peuvent être suspendues ou retirées dans les mêmes formes.
 
 ###### Article L231-4
 
-Les voitures de grande remise ne peuvent ni stationner sur la voie publique si elles n'ont pas fait l'objet d'une location
-préalable, ni être louées à la place.
+Les conditions d'application du présent chapitre sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -3721,105 +3341,9 @@ préalable, ni être louées à la place.
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 4 (Ab)
 
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2008-507 du 30 mai 2008 - art. 8
-
-
-##### Section 2 : De la liberté d'établissement.
-
-
-###### Article L231-5
-
-Pour s'établir en France, est considéré comme répondant aux conditions de compétence et de moralité prévues à l'article L.
-231-2 tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen, dès lors qu'il produit des pièces justificatives émanant de l'autorité compétente d'un de ces Etats
-prouvant :
-
-- qu'il possède l'aptitude professionnelle pour y exercer la profession d'entrepreneur de grande remise et de tourisme
-conforme aux conditions de reconnaissance fixées par décret en Conseil d'Etat ;
-
-- qu'il n'est pas frappé d'incapacité ou d'interdiction, même temporaire, pour exercer cette profession.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L231-2
-
-
-##### Section 3 : De la libre prestation de services.
-
-
-
-###### Article L231-6
-
-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
-européen, légalement établi, pour l'exercice de la profession d'entrepreneur de grande remise et de tourisme, dans un de ces
-Etats, peut exercer cette profession de façon temporaire et occasionnelle en France. 
-
-Toutefois, lorsque la profession d'entrepreneur de grande remise et de tourisme ou la formation y conduisant n'est pas
-réglementée dans l'Etat d'établissement, le prestataire doit avoir exercé cette profession dans cet Etat pendant au moins
-deux ans au cours des dix années qui précèdent la prestation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
-
-
-#### Chapitre 2 : Exploitation des autocars de tourisme.
-
-###### Article L232-1
-
-Les titulaires d'une licence ou d'une habilitation ne peuvent utiliser, pour les transports en autocar, que les services
-d'une entreprise de transport routier de voyageurs satisfaisant aux conditions fixées par décret pour les véhicules utilisés
-pour les opérations prévues à l'article L. 211-1.
-
-**Nota:**
-
-Ordonnance 2005-174 du 24 février 2005 article 4 (1er alinéa) : Les dispositions de la présente ordonnance entrent en vigueur
-à compter du premier jour du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 211-6 du
-code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 12, ecqc les transporteurs routiers de voyageurs
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-174 du 24 février 2005 - art. 3 () JORF 25 février 2005
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D232-4 (Ab)
-	  - Code du tourisme. - art. L211-21 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-	  - Code du tourisme. - art. L211-7 (T)
-	  - Code du tourisme. - art. L221-1 (V)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
 
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER
@@ -3830,22 +3354,21 @@ code du tourisme. Le décret a été publié au JO du 7 octobre 2006.
 
 Ne sont pas applicables à Saint-Pierre-et-Miquelon :
 
-- aux articles L. 212-2 et L. 212-3, les mots : " ou d'un autre Etat partie à l'accord sur l'Espace économique européen " et
-les mots : " ou autre Etat partie " ;
+- aux articles L. 211-18, L. 211-19 et L. 211-20, les mots : " ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen " ;
 
 - les articles L. 231-1 à L. 231-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du tourisme L212-2, L212-3, L231-1 à L231-4
-	  - Code du tourisme. - art. L212-2 (V)
-	  - Code du tourisme. - art. L212-3 (V)
+	  - Code du tourisme. - art. L211-18 (V)
+	  - Code du tourisme. - art. L231-1 (V)
 
 
 ###### Article L242-2
@@ -4260,103 +3783,19 @@ Les règles relatives au vol d'objets dans les hôtels ou auberges sont fixées 
 	  - Code du tourisme. - art. L363-3 (Ab)
 
 
-#### Chapitre 2 : Restaurants.
-
-##### Section 1 : Classement.
-
-###### Article L312-1
-
-L'Etat détermine et met en oeuvre les procédures de classement des restaurants, selon des modalités fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - 2, ecqc le classement des restaurants
-	  - Loi n°92-1341 1992-12-23 art. 2, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 21
-
-
-##### Section 2 : Sanctions.
-
-###### Article L312-2
-
-Les infractions aux dispositions applicables en matière de classement et de prix des restaurants sont constatées et
-poursuivies dans les conditions fixées par les articles L. 450-1 à L. 450-3 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-965 1966-12-26 art. 1, ecqc les restaurants
-	  - Loi n°66-965 du 26 décembre 1966 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 21
-
-	**Cite**:
-
-	  - Code de commerce
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L362-1 (V)
-
-
-###### Article L312-3
-
-Les infractions aux dispositions applicables en matière de classement et de prix des restaurants sont punies d'une amende de
-15 000 euros. Les articles L. 470-1 à L. 470-4 du code de commerce s'appliquent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-965 1966-12-26 art. 2, ecqc les restaurants
-	  - Loi n°66-965 du 26 décembre 1966 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 21
-
-	**Cite**:
-
-	  - Code de commerce
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L362-1 (V)
-
-
 #### Chapitre 3 : Cafés et débits de boissons
 
 ###### Article L313-1
 
 Les règles relatives à la fabrication, la mise en vente et la consommation des boissons sont fixées aux articles L. 3331-1,
-L. 3331-2 et L. 3332-11 du code de la santé publique ainsi qu'aux articles L. 3335-3 et L. 3335-4 du même code, ci-après
-reproduits : 
+L. 3331-1-1, L. 3331-2 et L. 3332-11 du code de la santé publique ainsi qu'aux articles L. 3335-3 et L. 3335-4 du même code,
+ci-après reproduits : 
 
 " Art.L. 3335-3 du code de la santé publique. 
 
 Dans les communes de moins de 2 000 habitants, et lorsque les nécessités touristiques ou d'animation locale le justifient, le
 représentant de l'Etat dans le département peut autoriser le maintien ou l'installation de débits de boissons à consommer sur
-place, dans les zones faisant l'objet des dispositions des articles L. 3335-1 et L. 3335-2." 
+place, dans les zones faisant l'objet des dispositions des articles L. 3335-1 et L. 3335-2. " 
 
 " Art.L. 3335-4 du code de la santé publique. 
 
@@ -4365,7 +3804,7 @@ les salles d'éducation physique, les gymnases et, d'une manière générale, da
 et sportives. 
 
 Des dérogations peuvent être accordées par arrêté des ministres chargés de la santé et du tourisme pour des installations qui
-sont situées dans des établissements classés hôtels ou restaurants de tourisme. 
+sont situées dans des établissements classés hôtels de tourisme ou dans des restaurants. 
 
 Sous réserve des décisions de justice passées en force de chose jugée, le maire peut, par arrêté, et dans les conditions
 fixées par décret, accorder des autorisations dérogatoires temporaires, d'une durée de quarante-huit heures au plus, à
@@ -4380,26 +3819,41 @@ autorisations annuelles pour chacune desdites associations qui en fait la demand
 b) Des organisateurs de manifestations à caractère agricole dans la limite de deux autorisations annuelles par commune ; 
 
 c) Des organisateurs de manifestations à caractère touristique dans la limite de quatre autorisations annuelles, au bénéfice
-des stations classées et des communes touristiques. "
+des stations classées et des communes touristiques relevant de la section 2 du chapitre III du titre III du livre Ier du code
+du tourisme. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 5 () JORF 25 mai 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 25
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 26
 
-	**Liens**:
+	**Cite**:
 
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L3335-4 (V)
+	  - Code de la santé publique - art. L3331-1
+	  - Code de la santé publique - art. L3335-3 (Ab)
+	  - Code de la santé publique - art. L3335-4
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D313-2 (T)
 	  - Code du tourisme. - art. L363-1 (V)
+
+
+#### Chapitre 4 : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse
+
+###### Article L314-1
+
+Un décret fixe les règles relatives aux heures de fermeture des débits de boissons ayant pour activité principale
+l'exploitation d'une piste de danse. Ce décret peut prévoir que la vente d'alcool n'est plus autorisée dans ledit débit
+pendant une plage horaire minimale précédant la fermeture de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 29
 
 
 ### TITRE II : HÉBERGEMENTS AUTRES QU'HÔTELS ET TERRAINS DE CAMPING
@@ -4434,6 +3888,58 @@ décret.
 	  - Code du tourisme. - art. L321-3 (V)
 	  - Code général des impôts, CGI. - art. 1594 J bis (V)
 	  - Code général des impôts, CGI. - art. 199 decies G bis (V)
+
+
+###### Article L321-2
+
+L'exploitant d'une résidence de tourisme classée doit tenir des comptes d'exploitation distincts pour chaque résidence. Il
+est tenu de les communiquer aux propriétaires qui en font la demande. 
+
+Une fois par an, il est tenu de communiquer à l'ensemble des propriétaires un bilan de l'année écoulée, précisant les taux de
+remplissage obtenus, les évènements significatifs de l'année ainsi que le montant et l'évolution des principaux postes de
+dépenses et de recettes de la résidence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 18
+
+
+###### Article L321-3
+
+Les documents de commercialisation diffusés aux acquéreurs de logements situés dans des résidences de tourisme mentionnées à
+l'article L. 321-1 du présent code doivent mentionner explicitement l'existence du droit à l'indemnité dite d'éviction prévue
+à l'article L. 145-14 du code de commerce en cas de refus de renouvellement du bail, ainsi que les modalités générales de son
+calcul.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 19
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L145-14
+	  - Code du tourisme. - art. L321-1
+
+
+###### Article L321-4
+
+Les documents de commercialisation diffusés aux acquéreurs de logements situés dans des résidences de tourisme doivent
+comprendre l'identité du gestionnaire retenu pour gérer la résidence et répondre à des critères fixés par arrêté du ministre
+chargé du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 20
 
 
 #### Chapitre 2 : Immobilier de loisir réhabilité
@@ -4554,6 +4060,27 @@ L'Etat détermine et met en oeuvre les procédures de classement des meublés de
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 FA (P)
 
 
+###### Article L324-1-1
+
+Toute personne qui offre à la location un meublé de tourisme doit en avoir préalablement fait la déclaration auprès du maire
+de la commune où est situé le meublé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 24
+
+	**Cité par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
+	  - Décret n°2017-678 du 28 avril 2017 (V)
+	  - Code du tourisme. - art. D324-1 (V)
+	  - Code du tourisme. - art. D324-1-1 (V)
+	  - Code du tourisme. - art. L324-2-1 (M)
+	  - Code du tourisme. - art. R324-1-2 (V)
+
+
 ###### Article L324-2
 
 Toute offre ou contrat de location saisonnière doit revêtir la forme écrite et contenir l'indication du prix demandé ainsi
@@ -4605,17 +4132,9 @@ pour une ou plusieurs nuitées, assorties de prestations.
 ###### Article L324-4
 
 Toute personne qui offre à la location une ou plusieurs chambres d'hôtes doit en avoir préalablement fait la déclaration
-auprès du maire du lieu de l'habitation.
+auprès du maire de la commune du lieu de l'habitation concernée.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Créé par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -4625,6 +4144,10 @@ auprès du maire du lieu de l'habitation.
 	  - Code de la santé publique - art. R3332-4-1 (VD)
 	  - Code du tourisme. - art. D324-15 (VD)
 	  - Code du tourisme. - art. R324-16 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 24
 
 
 ###### Article L324-5
@@ -4693,6 +4216,24 @@ définies par décret.
 	  - Code de l'environnement - art. R362-1-1 (V)
 	  - Code de l'urbanisme - art. R122-7 (VD)
 	  - Code de l'urbanisme - art. R145-3 (VT)
+
+
+#### Chapitre 7 : Dénominations et appellations
+
+###### Article L327-1
+
+L'usage des dénominations et appellations réglementées par le présent titre, de nature à induire le consommateur en erreur,
+est interdit et puni dans les conditions prévues aux articles L. 120-1 à L. 121-7 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 13
+
+	**Cite**:
+
+	  - Code de la consommation - art. L120-1
 
 
 ### TITRE III : TERRAINS DE CAMPING, CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS
@@ -6489,22 +6030,21 @@ articles L. 156-2 à L. 156-4 du code de l'urbanisme.
 
 ###### Article L362-1
 
-Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles L. 311-1 à L. 311-6, L. 311-8 et L. 311-9, L. 312-2, L.
-312-3, L. 324-1 à L. 324-2, L. 342-1 à L. 342-29.
+Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles L. 311-1 à L. 311-6, L. 311-8 et L. 311-9, L. 324-1 à L.
+324-2, L. 342-1 à L. 342-29.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 21
 
 	**Cite**:
 
-	  - Code du tourisme L311-1 à L311-6, L311-8, L311-9, L312-2, L312-3, L324-1 à L324-2, L342-1 à L342-29
-	  - Code du tourisme. - art. L311-8 (V)
-	  - Code du tourisme. - art. L311-9 (V)
-	  - Code du tourisme. - art. L312-2 (V)
-	  - Code du tourisme. - art. L312-3 (V)
+	  - Code du tourisme. - art. L311-1 (VT)
+	  - Code du tourisme. - art. L311-8 (VT)
+	  - Code du tourisme. - art. L324-1 (VT)
+	  - Code du tourisme. - art. L342-1 (V)
 
 
 ###### Article L362-2
@@ -6563,28 +6103,25 @@ droit applicable à Mayotte.
 
 ###### Article L411-1
 
-Les salariés des entreprises, sociétés et organismes soumis aux dispositions de l'article L. 223-1 du code du travail, des 3°
-et 4° de l'article L. 351-12 et de l'article L. 351-13 du même code, leur conjoint ainsi que les personnes à leur charge,
-telles qu'elles sont définies aux articles 6 et 196 du code général des impôts, peuvent, avec la contribution de leur
-employeur, acquérir des titres nominatifs appelés chèques-vacances.
+Les salariés des entreprises, sociétés et organismes soumis aux dispositions des articles L. 3141-1 et L. 3141-2 du code du
+travail, des 3° et 4° de l'article L. 5424-1 et de l'article L. 5423-3 du même code, les chefs d'entreprise de moins de
+cinquante salariés, leurs conjoints, leurs concubins ou leurs partenaires liés à eux par un pacte civil de solidarité ainsi
+que les personnes à leur charge, telles qu'elles sont définies aux articles 6 et 196 du code général des impôts, peuvent,
+avec la contribution de leur employeur, acquérir des titres nominatifs appelés chèques-vacances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - 1
-	  - Ordonnance 82-283 1982-03-26 art. 1, al
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1, v. init.
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cite**:
 
-	  - CGI 6, 196
-	  - Code du travail - art. L223-1 (M)
-	  - Code du tourisme L351-12
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Code général des impôts, CGI. - art. 196
+	  - Code général des impôts, CGI. - art. 6
+	  - Code du travail - art. L3141-1
+	  - Code du travail - art. L5424-1
+	  - Code du travail - art. L5424-3
 
 	**Cité par**:
 
@@ -6654,45 +6191,6 @@ la qualité de leurs services.
 
 	  - Code du tourisme. - art. R411-1 (V)
 	  - Code du tourisme. - art. R411-19 (V)
-
-
-###### Article L411-4
-
-Les salariés doivent justifier chaque année, auprès de leur employeur, que le montant des revenus de leur foyer fiscal de
-l'avant-dernière année, tels qu'ils sont définis au IV de l'article 1417 du code général des impôts, n'excède pas la somme de
-21 865 euros  pour la première part de quotient familial, majorée de 5 074 euros par demi-part supplémentaire. Ces chiffres
-sont actualisés chaque année, dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt
-sur le revenu de l'année précédant celle de l'acquisition des chèques-vacances. Le montant obtenu est arrondi, s'il y a lieu,
-à l'euro supérieur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1417
-
-	**Anciens textes**:
-
-	  - Ordonnance 82-283 1982-03-26 art. 2, I
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 2, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 76 (V) JORF 31 décembre 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L411-8 (V)
-	  - Code du tourisme. - art. L411-9 (V)
-	  - Code général des impôts, CGI. - art. 81 (VD)
 
 
 ###### Article L411-5
@@ -6767,46 +6265,36 @@ Les chèques-vacances sont dispensés du timbre.
 
 L'employeur, après consultation du comité d'entreprise ou, à défaut, des délégués du personnel ou de toute autre instance de
 concertation ayant compétence en matière d'oeuvres sociales, définit, sous réserve des dispositions du 2° de l'article L.
-411-10, les modalités de l'attribution éventuelle de chèques-vacances à ses salariés qui répondent aux conditions fixées à
-l'article L. 411-4.
+411-10, les modalités de l'attribution éventuelle de chèques-vacances à ses salariés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 82-283 1982-03-26 art. 2, III
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 2, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L411-10 (V)
-	  - Code du tourisme. - art. L411-4 (M)
+	  - Code du tourisme. - art. L411-10
 
 
 ###### Article L411-9
 
 Dans les entreprises de moins de cinquante salariés, dépourvues de comité d'entreprise et qui ne relèvent pas d'un organisme
 paritaire mentionné à l'article L. 411-20, l'avantage résultant de la contribution de l'employeur à l'acquisition des
-chèques-vacances par les salariés satisfaisant à la condition de ressources fixée à l'article L. 411-4 est exonéré des
-cotisations et contributions prévues par la législation du travail et de la sécurité sociale, à l'exception de la
-contribution sociale généralisée et de la contribution pour le remboursement de la dette sociale. Le montant de l'avantage
-donnant droit à exonération, qui ne peut excéder les plafonds fixés au dernier alinéa de l'article L. 411-11, est limité, par
-salarié et par an, à 30 % du salaire minimum de croissance apprécié sur une base mensuelle.
+chèques-vacances par les salariés est exonéré des cotisations et contributions prévues par la législation du travail et de la
+sécurité sociale, à l'exception de la contribution sociale généralisée et de la contribution pour le remboursement de la
+dette sociale. Le montant de l'avantage donnant droit à exonération, qui ne peut excéder les plafonds fixés au dernier alinéa
+de l'article L. 411-11, est limité, par salarié et par an, à 30 % du salaire minimum de croissance apprécié sur une base
+mensuelle. Lorsqu'un redressement de cotisations sociales a pour origine la mauvaise application de cette exonération, ce
+redressement ne porte que sur la fraction des cotisations et contributions indûment exonérées ou réduites, sauf en cas de
+mauvaise foi ou d'agissements répétés du cotisant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 82-283 1982-03-26 art. 2-1, I
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 2-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cité par**:
 
@@ -6816,9 +6304,8 @@ salarié et par an, à 30 % du salaire minimum de croissance apprécié sur une 
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L411-11 (V)
-	  - Code du tourisme. - art. L411-20 (V)
-	  - Code du tourisme. - art. L411-4 (M)
+	  - Code du tourisme. - art. L411-11
+	  - Code du tourisme. - art. L411-20
 
 
 ###### Article L411-10
@@ -6862,29 +6349,21 @@ individuelles ou collectives.
 
 ###### Article L411-11
 
-Les salariés ne peuvent acquérir les chèques-vacances que par des versements mensuels obligatoirement répartis sur au moins
-quatre mois et compris entre 2 % et 20 % du salaire minimum de croissance apprécié sur une base mensuelle.
-
-A chaque versement d'un salarié doit correspondre une contribution de l'employeur augmentée, le cas échéant, d'une
-contribution du comité d'entreprise. Les sommes versées par les salariés et, éventuellement, par le comité d'entreprise ainsi
-que la contribution de l'employeur sont immédiatement versées par celui-ci à l'établissement public prévu à l'article L.
-411-13 qui les comptabilise.
-
-La contribution de l'employeur à l'acquisition par un salarié de chèques-vacances est fixée à 20 % au moins et 80 % au plus
-de leur valeur libératoire. Cette contribution annuelle globale ne peut être supérieure à la moitié du produit, évalué au 1er
-janvier de l'année en cours, du nombre total de ses salariés par le salaire minimum de croissance apprécié sur une base
+La contribution de l'employeur à l'acquisition par un salarié de chèques-vacances ne peut dépasser un pourcentage de leur
+valeur libératoire fixé par décret. Ce décret définit des pourcentages différents en fonction de la rémunération du salarié
+et de sa situation de famille. Cette contribution annuelle globale ne peut être supérieure à la moitié du produit, évalué au
+1er janvier de l'année en cours, du nombre total de ses salariés par le salaire minimum de croissance apprécié sur une base
 mensuelle, charges sociales comprises.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 3 (M)
 	  - Ordonnance n°82-283 du 26 mars 1982 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cité par**:
 
@@ -6975,25 +6454,21 @@ notamment par des aides destinées aux équipements de tourisme et de loisirs à
 
 ###### Article L411-14
 
-L'agence a pour mission essentielle de gérer et de développer le dispositif des chèques-vacances. Conformément aux
-orientations définies par son conseil d'administration, elle attribue des aides en faveur des actions relatives aux
-équipements de tourisme et de loisirs à vocation sociale ainsi qu'en faveur des actions contribuant à l'application des
-politiques sociales du tourisme et des vacances.
+L'agence a pour mission de gérer et développer le dispositif des chèques-vacances dans les entreprises. Elle concourt à la
+mise en œuvre des politiques sociales du tourisme. 
+
+L'agence conclut des conventions avec des prestataires afin d'assurer la promotion et la commercialisation des chèques-
+vacances dans les entreprises de moins de cinquante salariés. 
+
+Conformément aux orientations définies par son conseil d'administration, elle attribue des aides à vocation sociale en faveur
+des actions relatives aux équipements de tourisme et de loisirs ainsi qu'en faveur des actions contribuant à l'accès de tous
+aux vacances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 2
-	  - Décret n°82-719 1982-08-16 art. 1, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 6 () JORF 15 avril 2006
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cité par**:
 
@@ -7151,27 +6626,23 @@ code de l'action sociale et des familles peuvent être versées sous forme de ch
 ###### Article L411-19
 
 Les aides aux vacances peuvent être accordées, par les organismes mentionnés à l'article L. 411-18, dans les limites de leurs
-compétences, à toutes les personnes relevant de ces organismes, leur conjoint ainsi que les personnes à leur charge telles
-qu'elles sont définies aux articles 6 et 196 du code général des impôts, qu'elles exercent ou non une activité
-professionnelle, salariée ou non salariée, notamment à celles dont les ressources sont les plus faibles, conformément aux
-conditions et modalités d'attribution fixées par lesdits organismes.
+compétences, à toutes les personnes relevant de ces organismes, leurs conjoints, leurs concubins ou leurs partenaires liés à
+eux par un pacte civil de solidarité ainsi que les personnes à leur charge telles qu'elles sont définies aux articles 6 et
+196 du code général des impôts, qu'elles exercent ou non une activité professionnelle, salariée ou non salariée, notamment à
+celles dont les ressources sont les plus faibles, conformément aux conditions et modalités d'attribution fixées par lesdits
+organismes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - 2
-	  - Ordonnance 82-283 1982-03-26 art. 6, al
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 6, v. init.
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
 
 	**Cite**:
 
-	  - CGI 6, 196
-	  - Code du tourisme. - art. L411-18 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Code général des impôts, CGI. - art. 196
+	  - Code général des impôts, CGI. - art. 6
+	  - Code du tourisme. - art. L411-18
 
 
 ###### Article L411-20
@@ -7486,12 +6957,11 @@ Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire
 2333-32, L. 2333-34 à L. 2333-37, L. 2333-39 à L. 2333-44, L. 2333-46 et L. 2333-46-1 du code général des collectivités
 territoriales, ci-après reproduits : 
 
-" Art.L. 2333-26 du code général des collectivités territoriales. 
+" Art. L. 2333-26 du code général des collectivités territoriales. 
 
-Dans les stations classées, dans les communes qui bénéficient de la dotation supplémentaire aux communes et groupements
-touristiques ou thermaux et de la dotation particulière aux communes touristiques, dans les conditions fixées au deuxième
-alinéa de l'article L. 2333-27, dans les communes littorales au sens de l'article L. 321-2 du code de l'environnement, dans
-les communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la
+Dans les stations classées et dans les communes touristiques relevant de la section 2 du chapitre III du titre III du livre
+Ier du code du tourisme, dans les communes littorales au sens de l'article L. 321-2 du code de l'environnement, dans les
+communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la
 montagne, dans les communes qui réalisent des actions de promotion en faveur du tourisme et dans celles qui réalisent des
 actions de protection et de gestion de leurs espaces naturels, le conseil municipal peut instituer, pour chaque nature
 d'hébergement à titre onéreux, soit une taxe de séjour perçue dans les conditions prévues aux articles L. 2333-30 à L.
@@ -7499,9 +6969,9 @@ d'hébergement à titre onéreux, soit une taxe de séjour perçue dans les cond
 2333-46. Les natures d'hébergement sont fixées par décret en Conseil d'Etat. 
 
 Les délibérations prises en application du premier alinéa précisent les natures d'hébergement auxquelles s'appliquent les
-taxes. "
+taxes. " 
 
-" Art.L. 2333-27 du code général des collectivités territoriales. 
+" Art. L. 2333-27 du code général des collectivités territoriales. 
 
 Sous réserve de l'application des dispositions de l'article L. 133-7 du code du tourisme, le produit de la taxe de séjour ou
 de la taxe de séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune. 
@@ -7516,19 +6986,19 @@ convention.
 
 Lorsqu'un établissement public de coopération intercommunale doté d'une compétence en matière de développement économique est
 composé d'au moins une commune de montagne mentionnée à l'article L. 2333-26, l'ensemble des communes membres peuvent
-reverser à cet établissement public tout ou partie de la taxe qu'elles perçoivent. "
+reverser à cet établissement public tout ou partie de la taxe qu'elles perçoivent. " 
 
-" Art.L. 2333-28 du code général des collectivités territoriales. 
+" Art. L. 2333-28 du code général des collectivités territoriales. 
 
 La période de perception de la taxe de séjour et de la taxe de séjour forfaitaire est fixée, pour chaque station, par
-délibération du conseil municipal. "
+délibération du conseil municipal. " 
 
-" Art.L. 2333-29 du code général des collectivités territoriales. 
+" Art. L. 2333-29 du code général des collectivités territoriales. 
 
 La taxe de séjour est établie sur les personnes qui ne sont pas domiciliées dans la commune et n'y possèdent pas une
-résidence à raison de laquelle elles sont passibles de la taxe d'habitation. "
+résidence à raison de laquelle elles sont passibles de la taxe d'habitation. " 
 
-" Art.L. 2333-30 du code général des collectivités territoriales. 
+" Art. L. 2333-30 du code général des collectivités territoriales. 
 
 Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
 de séjour. 
@@ -7536,13 +7006,13 @@ de séjour.
 Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret sur la base du classement
 officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. 
 
-Le tarif ne peut être inférieur à 0, 2 euro, ni supérieur à 1, 5 euro, par personne et par nuitée. "
+Le tarif ne peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par personne et par nuitée. " 
 
-" Art.L. 2333-31 du code général des collectivités territoriales. 
+" Art. L. 2333-31 du code général des collectivités territoriales. 
 
-Sont exemptés de la taxe de séjour les enfants de moins de treize ans. "
+Sont exemptés de la taxe de séjour les enfants de moins de treize ans. " 
 
-" Art.L. 2333-32 du code général des collectivités territoriales. 
+" Art. L. 2333-32 du code général des collectivités territoriales. 
 
 Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiques et uvales : 
 
@@ -7550,79 +7020,79 @@ Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiq
 
 2° Les mutilés, les blessés et les malades du fait de la guerre. " 
 
-" Art.L. 2333-34 du code général des collectivités territoriales. 
+" Art. L. 2333-34 du code général des collectivités territoriales. 
 
 Le conseil municipal peut, par délibération, prévoir l'exemption des personnes : 
 
 1° Qui, par leur travail ou leur profession, participent au fonctionnement et au développement de la station ; 
 
-2° Qui occupent des locaux dont le loyer est inférieur à un montant qu'il détermine. "
+2° Qui occupent des locaux dont le loyer est inférieur à un montant qu'il détermine. " 
 
-" Art.L. 2333-35 du code général des collectivités territoriales. 
+" Art. L. 2333-35 du code général des collectivités territoriales. 
 
 Le décret qui fixe le barème détermine, s'il y a lieu, les catégories d'établissements dans lesquels la taxe de séjour n'est
-pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes. "
+pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes. " 
 
-" Art.L. 2333-36 du code général des collectivités territoriales. 
+" Art. L. 2333-36 du code général des collectivités territoriales. 
 
 Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-30, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29. "
+installations accueillant les personnes visées à l'article L. 2333-29. " 
 
-" Art.L. 2333-37 du code général des collectivités territoriales. 
+" Art. L. 2333-37 du code général des collectivités territoriales. 
 
 La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres intermédiaires qui versent, aux dates fixées
 par délibération du conseil municipal, sous leur responsabilité, au receveur municipal, le montant de la taxe calculé
-conformément aux dispositions des articles L. 2333-29 à L. 2333-36. "
+conformément aux dispositions des articles L. 2333-29 à L. 2333-36. " 
 
-" Art.L. 2333-39 du code général des collectivités territoriales. 
+" Art. L. 2333-39 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres intermédiaires
 et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour. 
 
 Ce décret fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-37 dans la
-limite du quadruple du droit dont la commune a été privée. "
+limite du quadruple du droit dont la commune a été privée. " 
 
-" Art.L. 2333-40 du code général des collectivités territoriales. 
+" Art. L. 2333-40 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont exercées les poursuites auxquelles il y a lieu de
 procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi que les conditions dans
-lesquelles sont jugées les réclamations. "
+lesquelles sont jugées les réclamations. " 
 
-" Art.L. 2333-41 du code général des collectivités territoriales. 
+" Art. L. 2333-41 du code général des collectivités territoriales. 
 
 La taxe de séjour forfaitaire est établie sur les logeurs, hôteliers et propriétaires qui hébergent les personnes visées à
 l'article L. 2333-29. Elle est assise sur la capacité d'accueil et le nombre de nuitées comprises à la fois dans la période
 d'ouverture de l'établissement et la période de perception mentionnée à l'article L. 2333-28. 
 
-La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat. "
+La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat. " 
 
-" Art.L. 2333-41-1 du code général des collectivités territoriales. 
+" Art. L. 2333-41-1 du code général des collectivités territoriales. 
 
-Sont exemptés de la taxe de séjour forfaitaire les établissements exploités depuis moins de deux ans. "
+Sont exemptés de la taxe de séjour forfaitaire les établissements exploités depuis moins de deux ans. " 
 
-" Art.L. 2333-42 du code général des collectivités territoriales. 
+" Art. L. 2333-42 du code général des collectivités territoriales. 
 
 Le tarif de la taxe de séjour forfaitaire est fixé avant le début de la période de perception, par délibération du conseil
 municipal, conformément à un barème établi par décret pour chaque nature et pour chaque catégorie d'hébergement sur la base
 du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. Le tarif ne
-peut être inférieur à 0, 2 euro, ni supérieur à 1, 5 euro, par unité de capacité d'accueil et par nuitée. 
+peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par unité de capacité d'accueil et par nuitée. 
 
 Le montant total de la taxe peut être réduit par application d'un coefficient destiné à tenir compte de la fréquentation
 habituelle des établissements d'hébergement pendant la période de perception. Le conseil municipal fixe le coefficient par
 nature d'hébergement et pour tout le territoire de la commune au plus tard deux mois avant le premier jour de la période de
 perception. " 
 
-" Art.L. 2333-43 du code général des collectivités territoriales. 
+" Art. L. 2333-43 du code général des collectivités territoriales. 
 
 Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-42, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29. "
+installations accueillant les personnes visées à l'article L. 2333-29. " 
 
-" Art.L. 2333-44 du code général des collectivités territoriales. 
+" Art. L. 2333-44 du code général des collectivités territoriales. 
 
 La taxe de séjour forfaitaire est versée au receveur municipal par les logeurs, hôteliers et propriétaires aux dates fixées
-par délibération du conseil municipal. "
+par délibération du conseil municipal. " 
 
-" Art.L. 2333-46 du code général des collectivités territoriales. 
+" Art. L. 2333-46 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers et propriétaires ainsi que les
 justificatifs qu'ils doivent fournir au moment du versement de la taxe. 
@@ -7630,14 +7100,13 @@ justificatifs qu'ils doivent fournir au moment du versement de la taxe.
 Il fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-44 dans la limite du
 triple du droit dont la commune a été privée et détermine les modalités suivant lesquelles sont exercées les poursuites
 auxquelles il y a lieu de procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi
-que les conditions dans lesquelles sont jugées les réclamations. "
+que les conditions dans lesquelles sont jugées les réclamations. " 
 
-" Art.L. 2333-46-1 du code général des collectivités territoriales. 
+" Art. L. 2333-46-1 du code général des collectivités territoriales. 
 
-Lorsque, en raison d'une pollution grave ou d'une situation de catastrophe naturelle constatée dans les conditions prévues à
-l'article L. 125-1 du code des assurances, la fréquentation touristique des établissements concernés a été anormalement
-inférieure à leur capacité d'accueil, le conseil municipal peut autoriser le maire à accorder des dégrèvements de taxe de
-séjour forfaitaire aux établissements qui en font la demande. 
+Lorsque, en raison de circonstances exceptionnelles, la fréquentation touristique des établissements concernés a été
+anormalement inférieure à leur capacité d'accueil, le conseil municipal peut autoriser le maire à accorder des dégrèvements
+de taxe de séjour forfaitaire aux établissements qui en font la demande. 
 
 Pour pouvoir bénéficier de ces dégrèvements, les logeurs, hôteliers, propriétaires doivent justifier que les circonstances
 visées au premier alinéa ont entraîné une baisse importante de leur chiffre d'affaires. "
@@ -7646,42 +7115,22 @@ visées au premier alinéa ont entraîné une baisse importante de leur chiffre 
 
 	**Cite**:
 
-	  - Loi n°85-30 1985-01-09
-	  - Code général des collectivités territoriales - art. L2333-46-1 (V)
-	  - Code des assurances - art. L125-1 (M)
+	  - Loi n°85-30 du 9 janvier 1985 (V)
+	  - Code général des collectivités territoriales - art. L2333-26 (V)
+	  - Code général des collectivités territoriales - art. L2333-28 (V)
+	  - Code général des collectivités territoriales - art. L2333-29 (V)
+	  - Code général des collectivités territoriales - art. L2333-30 (V)
+	  - Code général des collectivités territoriales - art. L2333-37 (V)
+	  - Code général des collectivités territoriales - art. L2333-41 (V)
+	  - Code général des collectivités territoriales - art. L2333-42 (V)
+	  - Code général des collectivités territoriales - art. L2333-44 (V)
+	  - Code général des collectivités territoriales - art. L2564-1 (V)
+	  - Code du tourisme. - art. L133-7 (V)
 	  - Code de l'environnement - art. L321-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 123
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 72 () JORF 27 décembre 2006
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-26 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-27 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-28 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-29 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-30 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-31 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-32 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-34 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-35 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-36 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-37 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-39 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-40 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-41 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-41-1 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-42 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-43 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-44 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-46 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-46-1 (V)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 33
 
 	**Cité par**:
 
