@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-07-25
+Version Consolidée au 2009-08-29
 
 # Partie législative
 
@@ -1346,7 +1346,7 @@ du groupement de communes.
 	  - Code général des collectivités territoriales art. L2231-14, ecqc les offices de tourisme intercommunaux
 
 
-### TITRE IV : GROUPEMENTS D'INTÉRÊT PUBLIC.
+### TITRE IV : GROUPEMENTS
 
 #### Chapitre unique
 
@@ -1628,10 +1628,6 @@ objectives, transparentes et non discriminatoires.
 	  - Code du tourisme. - art. L211-1 (V)
 	  - Code du tourisme. - art. L231-1 (V)
 
-
-### TITRE IV : GROUPEMENTS
-
-#### Chapitre unique
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
 
@@ -2263,9 +2259,9 @@ l'article 68 de la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte.
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME
 
-### TITRE Ier : ORGANISATION DE LA VENTE DE VOYAGES ET DE SÉJOURS.
+### TITRE Ier :  DES AGENTS DE VOYAGE ET AUTRES OPÉRATEURS DE LA VENTE DE VOYAGES ET DE SÉJOURS
 
-#### Chapitre 1er : Dispositions communes.
+#### Chapitre unique : Régime de la vente de voyages et de séjours
 
 ##### Section 1 : Dispositions générales
 
@@ -2848,64 +2844,6 @@ des titres de transport aérien, soit à d'autres titres de transport sur ligne 
 	  - Code du tourisme. - art. R212-37 (T)
 
 
-##### Section 7 : Sanctions et mesures conservatoires
-
-###### Article L211-23
-
-I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
-
-- de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans respecter
-ou en ayant cessé de remplir les conditions prévues au présent chapitre ;
-
-- d'exercer les fonctions de représentant légal ou statutaire d'une personne morale qui se livre ou apporte son concours à
-l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 lorsque cette personne morale ne respecte pas ou a cessé
-de remplir les conditions prévues au présent chapitre ;
-
-- pour toute personne physique ou morale immatriculée au registre mentionné au I de l'article L. 211-18, de prêter son
-concours à la conclusion d'un contrat de jouissance d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du
-code de la consommation sans justifier du mandat, de l'assurance et de la garantie financière prévus à l'article L. 211-24 du
-présent code. 
-
-Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes
-condamnées. 
-
-II.-Lorsqu'une personne physique ou morale réalise l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans
-respecter les conditions prévues au présent chapitre, le représentant de l'Etat dans le département où l'infraction a été
-dûment constatée peut ordonner par décision motivée la fermeture à titre provisoire de l'établissement dans lequel ont été
-réalisées lesdites opérations, après que la personne physique ou le représentant de la personne morale a été mis en mesure de
-présenter ses observations. Il en avise sans délai le procureur de la République. En cas d'inexécution de la mesure de
-fermeture, il peut y pourvoir d'office. Toutefois, cette fermeture provisoire cesse de produire effet à l'expiration d'un
-délai de six mois. 
-
-La mesure de fermeture provisoire est levée de plein droit en cas de classement sans suite de l'affaire par le procureur de
-la République, d'ordonnance de non-lieu rendue par une juridiction d'instruction ou lors du prononcé du jugement rendu en
-premier ressort par la juridiction saisie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-60 (V)
-	  - Code du tourisme. - art. L211-1 (V)
-	  - Code du tourisme. - art. L211-18 (V)
-	  - Code du tourisme. - art. L211-24 (V)
-	  - Code du tourisme. - art. L211-4 (V)
-
-
-### TITRE Ier :  DES AGENTS DE VOYAGE ET AUTRES OPÉRATEURS DE LA VENTE DE VOYAGES ET DE SÉJOURS
-
-#### Chapitre unique : Régime de la vente de voyages et de séjours
-
-##### Section 1 : Dispositions générales
-
-##### Section 2 : Contrat de vente de voyages et de séjours
-
-##### Section 3 : Responsabilité civile professionnelle
-
 ##### Section 4 :  Obligation et conditions d'immatriculation
 
 ###### Article L211-18
@@ -3103,6 +3041,52 @@ l'article L. 211-18.
 
 
 ##### Section 7 : Sanctions et mesures conservatoires
+
+###### Article L211-23
+
+I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+
+- de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans respecter
+ou en ayant cessé de remplir les conditions prévues au présent chapitre ;
+
+- d'exercer les fonctions de représentant légal ou statutaire d'une personne morale qui se livre ou apporte son concours à
+l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 lorsque cette personne morale ne respecte pas ou a cessé
+de remplir les conditions prévues au présent chapitre ;
+
+- pour toute personne physique ou morale immatriculée au registre mentionné au I de l'article L. 211-18, de prêter son
+concours à la conclusion d'un contrat de jouissance d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du
+code de la consommation sans justifier du mandat, de l'assurance et de la garantie financière prévus à l'article L. 211-24 du
+présent code. 
+
+Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes
+condamnées. 
+
+II.-Lorsqu'une personne physique ou morale réalise l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans
+respecter les conditions prévues au présent chapitre, le représentant de l'Etat dans le département où l'infraction a été
+dûment constatée peut ordonner par décision motivée la fermeture à titre provisoire de l'établissement dans lequel ont été
+réalisées lesdites opérations, après que la personne physique ou le représentant de la personne morale a été mis en mesure de
+présenter ses observations. Il en avise sans délai le procureur de la République. En cas d'inexécution de la mesure de
+fermeture, il peut y pourvoir d'office. Toutefois, cette fermeture provisoire cesse de produire effet à l'expiration d'un
+délai de six mois. 
+
+La mesure de fermeture provisoire est levée de plein droit en cas de classement sans suite de l'affaire par le procureur de
+la République, d'ordonnance de non-lieu rendue par une juridiction d'instruction ou lors du prononcé du jugement rendu en
+premier ressort par la juridiction saisie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-60 (V)
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L211-18 (V)
+	  - Code du tourisme. - art. L211-24 (V)
+	  - Code du tourisme. - art. L211-4 (V)
+
 
 ##### Section 8 : Contrat de jouissance d'immeuble à temps partagé
 
@@ -23700,52 +23684,52 @@ Les règles relatives aux prélèvements directs sur le produit des jeux dans le
 " Art.D. 2333-74 du code général des collectivités territoriales. 
 
 Le tarif du prélèvement progressif opéré sur le produit brut des jeux dans les casinos régis par la loi du 15 juin 1907
-réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques s'établit, après
-abattement institué par le décret du 28 juillet 1934 portant modification du régime fiscal des casinos, comme suit : 
+réglementant les jeux dans les casinos des stations balnéaires, thermales et climatiques s'établit, après abattement institué
+par le décret-loi du 28 juillet 1934 portant modification du régime fiscal des casinos, comme suit : 
 
-10 % jusqu'à 58 000 euros ; 
+10 % jusqu'à 87 000 euros. 
 
-15 % de 58 001 à 114 000 euros ; 
+15 % de 87 001 euros à 171 000 euros. 
 
-25 % de 114 001 à 338 000 euros ; 
+25 % de 171 001 euros à 507 000 euros. 
 
-35 % de 338 001 à 629 000 euros ; 
+35 % de 507 001 euros à 943 500 euros. 
 
-45 % de 629 001 à 1 048 000 euros ; 
+45 % de 943 501 euros à 1 572 000 euros. 
 
-55 % de 1 048 001 à 3 144 000 euros ; 
+55 % de 1 572 001 euros à 4 716 000 euros. 
 
-60 % de 3 144 001 à 5 240 000 euros ; 
+60 % de 4 716 001 euros à 7 860 000 euros. 
 
-65 % de 5 240 001 à 7 337 000 euros ; 
+65 % de 7 860 001 euros à 11 005 500 euros. 
 
-70 % de 7 337 001 à 9 433 000 euros ; 
+70 % de 11 005 501 euros à 14 149 500 euros. 
 
-80 % au-delà de 9 433 000 euros. 
+80 % au-delà de 14 149 500 euros. 
 
 Pour l'application des dispositions de l'article L. 2333-57, les recettes supplémentaires correspondent à la différence entre
 le prélèvement résultant du tarif prévu à l'alinéa précédent et le prélèvement qui aurait résulté, après abattement institué
-par le décret du 28 juillet 1934 portant modification du régime fiscal des casinos, de l'application du tarif suivant : 
+par le décret-loi du 28 juillet 1934 portant modification du régime fiscal des casinos, de l'application du tarif suivant : 
 
-10 % jusqu'à 44 000 euros ; 
+10 % jusqu'à 66 000 euros. 
 
-15 % de 44 001 euros à 88 000 euros ; 
+15 % de 66 001 euros à 132 000 euros. 
 
-25 % de 88 001 euros à 271 000 euros ; 
+25 % de 132 001 euros à 406 500 euros. 
 
-35 % de 271 001 euros à 503 000 euros ; 
+35 % de 406 501 euros à 754 500 euros. 
 
-45 % de 503 001 euros à 838 000 euros ; 
+45 % de 754 501 euros à 1 257 000 euros. 
 
-55 % de 838 001 euros à 2 515 000 euros ; 
+55 % de 1 257 001 euros à 3 772 500 euros. 
 
-60 % de 2 515 001 euros à 4 192 000 euros ; 
+60 % de 3 772 501 euros à 6 288 000 euros. 
 
-65 % de 4 192 001 euros à 5 869 000 euros ; 
+65 % de 6 288 001 euros à 8 803 500 euros. 
 
-70 % de 5 869 001 euros à 7 546 000 euros ; 
+70 % de 8 803 501 euros à 11 319 000 euros. 
 
-80 % au-delà de 7 546 000 euros. " 
+80 % au-delà de 11 319 000 euros. " 
 
 " Art.D. 2333-76 du code général des collectivités territoriales. 
 
@@ -23842,9 +23826,9 @@ constituent des mouvements réels. Elles comprennent les recettes réelles qui r
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1035 du 26 août 2009 - art. 1
 
 	**Liens**:
 
