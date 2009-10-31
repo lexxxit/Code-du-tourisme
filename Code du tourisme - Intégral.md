@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-10-22
+Version Consolidée au 2009-11-01
 
 # Partie législative
 
@@ -7479,8 +7479,8 @@ Dans les communes qui réalisent des actions de promotion en faveur du tourisme,
 prélèvement sur le produit brut des jeux dans les casinos. 
 
 Le taux maximum des prélèvements opérés par les communes sur le produit brut des jeux dans les casinos régis par la loi du 15
-juin 1907 réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques en vertu des
-clauses des cahiers des charges de ces établissements ne doit, en aucun cas, dépasser 15 %. 
+juin 1907 relative aux casinos en vertu des clauses des cahiers des charges de ces établissements ne doit, en aucun cas,
+dépasser 15 %. 
 
 Lesdits prélèvements ont la même assiette que le prélèvement de l'Etat, c'est-à-dire s'appliquent au produit brut des jeux
 diminué de 25 %. 
@@ -7549,6 +7549,22 @@ l'exercice.
 Dans le cas où la différence mentionnée aux 1° et 2° est négative, la perte subie vient en déduction des bénéfices des jours
 suivants. " 
 
+" Art. L. 2333-55-2 du code général des collectivités territoriales. 
+
+Les prélèvements opérés au profit de l'Etat, des communes, des établissements publics de coopération intercommunale et des
+organismes sociaux et spécifiques aux jeux des casinos exploités en application de la loi du 15 juin 1907 précitée sont
+liquidés et payés mensuellement auprès d'un comptable public. 
+
+Les prélèvements sont soldés par saison des jeux qui court du 1er novembre au 31 octobre de l'année suivante. Aucune
+compensation n'est admise entre le montant des prélèvements dû au titre d'une saison des jeux en cours et celui dont le
+casino est redevable pour une saison des jeux antérieure. 
+
+Les prélèvements sont recouvrés et contrôlés selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
+privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles
+applicables à ces mêmes taxes. 
+
+Un décret fixe les conditions d'application du présent article. 
+
 " Art. L. 2333-56 du code général des collectivités territoriales. 
 
 Les tranches du barème du prélèvement progressif opéré sur le produit brut des jeux, en vertu de la loi du 15 juin 1907
@@ -7571,19 +7587,17 @@ l'emprunt gagé par les recettes de cette nature est garanti par les collectivit
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°83-628 du 12 juillet 1983 - art. 2 (Ab)
-
 	**Modifié par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 27 (V)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-54 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-55 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-55-1 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-55-2 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-56 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-57 (V)
 
@@ -23788,14 +23802,23 @@ vigueur. "
 
 " Art.D. 2333-79 du code général des collectivités territoriales. 
 
-Dans un délai de trois mois après la fin de chaque saison de jeux, le concessionnaire adresse au trésorier-payeur général ou
-au receveur des finances dans le ressort duquel est situé son établissement un relevé du compte prévu à l'article D. 2333-77.
-Ce relevé est appuyé des pièces justificatives des dépenses y afférentes. 
+Dans un délai de trois mois après la fin de chaque saison de jeux, le concessionnaire adresse au directeur régional ou
+départemental des finances publiques ou au trésorier-payeur général dans le ressort duquel est situé son établissement un
+relevé du compte prévu à l'article D. 2333-77. Ce relevé est appuyé des pièces justificatives des dépenses y afférentes.
 
-Le comptable public vérifie la réalité des dépenses et s'assure que les travaux qui en font l'objet sont bien conformes quant
-à leur nature aux prescriptions du cahier des charges ou du programme arrêté par le préfet. 
+A l'exception des éléments soumis aux contrôles exercés en vertu de l'article L. 55 du livre des procédures fiscales, le
+comptable de la direction générale des finances publiques vérifie la liquidation du montant des recettes supplémentaires
+prévues à l'article L. 2333-57 du présent code ainsi que la réalité des dépenses et s'assure que les travaux qui en font
+l'objet sont bien conformes quant à leur nature aux prescriptions du cahier des charges ou du programme arrêté par le préfet
+du département du lieu d'implantation du casino. 
 
-Le procès-verbal de cette vérification est adressé aux maires des communes intéressées et au préfet. " 
+Le procès-verbal de cette vérification est adressé aux maires des communes intéressées et au préfet. 
+
+En cas de rectification de l'assiette des prélèvements visés à l'article L. 2333-55-2 du présent code, le comptable de la
+direction générale des finances publiques rectifie le montant des recettes supplémentaires susvisées. 
+
+Cette rectification fait l'objet d'un procès-verbal complémentaire adressé aux maires des communes intéressées et au préfet.
+Elle est portée à la connaissance du concessionnaire aux fins de régularisation comptable. " 
 
 " Art.D. 2333-80 du code général des collectivités territoriales. 
 
@@ -23853,19 +23876,7 @@ constituent des mouvements réels. Elles comprennent les recettes réelles qui r
 
 	**Modifié par**:
 
-	  - Décret n°2009-1035 du 26 août 2009 - art. 1
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-74 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-76 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-77 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-78 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-79 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-80 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-81 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. D2333-82 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-82-1 (V)
+	  - Décret n°2010-1300 du 29 octobre 2010 - art. 2
 
 
 ##### Section 3 : Taxes prélevées au profit des départements.
