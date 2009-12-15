@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-11-14
+Version Consolidée au 2009-12-16
 
 # Partie législative
 
@@ -8718,7 +8718,7 @@ ministre chargé de l'économie.
 
 ###### Article D122-27
 
-La commission des comptes du tourisme comprend :
+La commission des comptes du tourisme comprend : 
 
 1° Vingt membres nommés, pour trois ans, par arrêté du ministre chargé du tourisme, à raison de :
 
@@ -8732,7 +8732,7 @@ leur compétence en matière de tourisme ;
 - deux personnalités représentant les établissements d'enseignement, les organismes de formation et les organismes d'étude et
 de recherche du secteur du tourisme ;
 
-- deux personnalités choisies en fonction de leur compétence dans le domaine du tourisme ;
+- deux personnalités choisies en fonction de leur compétence dans le domaine du tourisme ; 
 
 2° Au titre des représentants de l'administration et des organismes nationaux investis de responsabilités particulières dans
 le domaine du tourisme :
@@ -8751,7 +8751,7 @@ le domaine du tourisme :
 
 - le directeur des études économiques et de l'évaluation environnementale ;
 
-- le délégué interministériel à l'aménagement et à la compétitivité des territoires ;
+- le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
 - le directeur général du Centre d'analyse stratégique ;
 
@@ -8759,7 +8759,7 @@ le domaine du tourisme :
 
 - le président du Centre national des monuments historiques ;
 
-- le président de Maison de la France.
+- le président de Maison de la France. 
 
 Son secrétariat est assuré par la direction chargée du tourisme au sein de laquelle est choisi le rapporteur désigné par
 arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'économie.
@@ -8770,9 +8770,9 @@ arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'é
 
 	  - Décret n°88-487 du 29 avril 1988 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
 
 
 ###### Article D122-28
