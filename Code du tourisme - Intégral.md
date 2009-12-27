@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-12-16
+Version Consolidée au 2009-12-28
 
 # Partie législative
 
@@ -7966,60 +7966,6 @@ politique d'aménagement touristique, mis, en tant que de besoin, à la disposit
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-###### Article R122-1
-
-La politique générale du tourisme comprend : 
-
-1° L'élaboration de la réglementation applicable aux équipements, organismes, activités et professions touristiques et le
-contrôle de son exécution ; 
-
-2° La préparation et la mise en oeuvre de la politique sociale des vacances et des loisirs ainsi que des diverses formes
-d'aide aux associations à objet touristique ; à ce titre, elle comprend l'exercice de la tutelle du groupement d'intérêt
-public " Bourse solidarité vacances " et de l'établissement public " Agence nationale pour les chèques-vacances " ; 
-
-3° La contribution à la connaissance statistique des activités du tourisme, la normalisation et le rassemblement de données
-et prévisions sur les équipements et activités du tourisme et la préparation du programme des études nécessaires à la
-connaissance du secteur, à la maîtrise de son évolution, à la définition et l'évaluation de la politique touristique de
-l'Etat ; 
-
-4° La participation à la politique menée en faveur de l'emploi et de la formation professionnelle dans le domaine du
-tourisme ; 
-
-5° La coordination administrative et financière des services centraux, des directions régionales des entreprises, de la
-concurrence, de la consommation, du travail et de l'emploi et des organismes associés ainsi que la gestion des moyens de
-fonctionnement des services centraux et déconcentrés ; 
-
-6° La mise en cohérence des actions mises en oeuvre par les organismes dénommés " Maison de la France " et " ODIT France "
-avec la politique de l'Etat auquel ils apportent leur concours dans les domaines de la promotion, de l'observation, du
-développement et de l'ingénierie touristiques ; 
-
-7° La contribution à la mise en oeuvre au niveau local de la politique publique du tourisme dans un contexte de développement
-durable.A ce titre, elle comprend l'orientation et l'évaluation de l'action des   directeurs régionaux des entreprises, de la
-concurrence, de la consommation, du travail et de l'emploi ; 
-
-8° La coordination des affaires européennes et internationales en matière de tourisme ; 
-
-9° La participation à la diffusion de l'information générale et aux actions de communication sur le tourisme.
-
-**Nota:**
-
-Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région,
-à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
-l'emploi et au plus tard le 1er juillet 2010.
-
-Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
 ##### Sous-section 3 : Conseil national du tourisme.
 
 ###### Article D122-5
@@ -8404,32 +8350,6 @@ du tourisme).
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-###### Article D122-9
-
-Une formation spécialisée du Conseil national du tourisme est constituée pour examiner les recours présentés en application
-des dispositions réglementaires des titres Ier et III du livre II.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-du tourisme).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R231-9 (Ab)
-
-
 ###### Article D122-10
 
 Le comité permanent est présidé par le ministre chargé du tourisme ou son représentant.
@@ -8571,9 +8491,8 @@ du tourisme).
 ###### Article D122-15
 
 Participent aux travaux du Conseil national du tourisme et du comité permanent, à titre consultatif, le chef du service du
-contrôle général économique et financier ou son représentant, le directeur du tourisme, le président du groupement d'intérêt
-public Observation, développement et ingénierie touristiques France (ODIT France) ou son représentant, ainsi que le président
-du groupement d'intérêt économique Maison de la France (MdlF) ou son représentant.
+contrôle général économique et financier ou son représentant, le directeur du tourisme,
+le président du groupement d'intérêt économique Agence de développement touristique de la France, ou son représentant.
 
 **Nota:**
 
@@ -8589,7 +8508,7 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
 
 
 ###### Article D122-16
@@ -8751,7 +8670,7 @@ le domaine du tourisme :
 
 - le directeur des études économiques et de l'évaluation environnementale ;
 
-- le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
+- le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
 - le directeur général du Centre d'analyse stratégique ;
 
@@ -8759,7 +8678,7 @@ le domaine du tourisme :
 
 - le président du Centre national des monuments historiques ;
 
-- le président de Maison de la France. 
+-      le président de l'Agence de développement touristique de la France. 
 
 Son secrétariat est assuré par la direction chargée du tourisme au sein de laquelle est choisi le rapporteur désigné par
 arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'économie.
@@ -8772,7 +8691,7 @@ arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'é
 
 	**Modifié par**:
 
-	  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
 
 
 ###### Article D122-28
@@ -8906,508 +8825,6 @@ Conformément à l'article 15 du même décret elles ne s'appliquent ni à la r�
 	**Abrogé par**:
 
 	  - Décret n°2009-1377 du 10 novembre 2009 - art. 13 (V)
-
-
-##### Sous-section 2 : Commission départementale de l'action touristique.
-
-###### Article D122-32
-
-La commission départementale de l'action touristique est chargée de donner un avis au préfet préalablement aux décisions
-relevant de sa compétence et pour lesquelles sa consultation est prévue par les lois et règlements en vigueur, notamment en
-matière de classement, d'agrément et d'homologation, pour la délivrance des autorisations administratives prévues par les
-dispositions législatives des titres Ier et II et du chapitre II du titre III du livre II. La commission émet également un
-avis, présenté par le délégué régional au tourisme ou son représentant devant la     commission départementale d'aménagement
-commercial, relatif aux demandes d'autorisations d'exploitation commerciale d'établissements hôteliers prévues au 7° du I de
-l'article L. 752-1 du code de commerce. 
-
-La commission donne également un avis sur toutes les affaires touristiques intéressant l'Etat ou les collectivités
-territoriales dont le préfet la saisit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 102
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-	**Cite**:
-
-	  - Code de commerce - art. L752-1
-
-	**Cité par**:
-
-	  - Code de commerce. - art. R752-20 (V)
-
-
-###### Article D122-33
-
-La commission est présidée par le préfet du département ou son représentant.
-
-Elle comprend trois formations compétentes respectivement pour exprimer un avis sur :
-
-- les décisions de classement, d'agrément et d'homologation ;
-
-- la délivrance d'autorisations administratives pour la commercialisation des prestations touristiques prévues par les
-dispositions législatives des titres Ier et II et du chapitre II du titre III du livre II ;
-
-- les projets d'établissements hôteliers, en application du 7° du I de l'article L. 752-1 du code de commerce ;
-
-- les demandes de licences d'entrepreneurs de remise et de tourisme prévues par l'article L. 221-3 ;
-
-- les décisions prévues aux chapitres Ier à V du titre II et aux chapitres II et III du titre III du livre III.
-
-Elle est composée de :
-
-1° Membres permanents :
-
-a) Le délégué régional au tourisme ou son représentant, le directeur départemental de la concurrence, de la consommation ou
-son représentant et un ou plusieurs représentants des services déconcentrés de l'Etat désignés par le préfet en fonction de
-l'ordre du jour de la réunion ;
-
-b) Un représentant du comité départemental du tourisme, un représentant de l'union départementale des offices de tourisme, un
-représentant des chambres de commerce et d'industrie, un représentant des chambres de métiers et un représentant des chambres
-d'agriculture ;
-
-c) Un représentant des associations de consommateurs désigné par les associations de consommateurs du département agréées, au
-titre de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de département, soit par leur affiliation à
-une association nationale elle-même agréée et un représentant des associations de personnes handicapées à la mobilité réduite
-représentatives au niveau départemental ;
-
-2° Membres représentant les professionnels du tourisme et siégeant dans l'une des formations suivantes, pour les affaires les
-intéressant directement :
-
-a) Première formation, compétente en matière de classement, d'agrément et d'homologation :
-
-- quatre représentants des hôteliers et des restaurateurs ;
-
-- deux représentants des gestionnaires de résidence de tourisme ;
-
-- deux représentants des loueurs de meublés saisonniers classés et un représentant des agents immobiliers ;
-
-- deux représentants des gestionnaires de villages de vacances et deux représentants des gestionnaires de maisons
-familiales ;
-
-- deux représentants des gestionnaires et deux représentants des usagers des terrains de camping-caravanage ;
-
-- un représentant des offices de tourisme et syndicats d'initiative ;
-
-- un représentant des entreprises de remise et de tourisme ;
-
-- un représentant de la Fédération française d'équitation, un représentant du tourisme équestre et de l'équitation de loisir,
-un représentant des professionnels des activités hippiques et un représentant des circonscriptions des haras ;
-
-b) Deuxième formation, compétente en matière de délivrance d'autorisations administratives pour la commercialisation des
-prestations touristiques prévues par les dispositions législatives des titres Ier et II et du chapitre II du titre III du
-livre II ainsi que des demandes de licence prévues par les dispositions législatives du chapitre Ier du titre III du livre
-II :
-
-- deux représentants des agents de voyages ;
-
-- deux représentants des associations de tourisme agréées au sens des dispositions législatives du titre II du livre II ;
-
-- deux représentants des organismes locaux de tourisme, dont un office de tourisme ;
-
-- quatre représentants des gestionnaires d'hébergements classés, dont un représentant des hôteliers ;
-
-- un représentant des gestionnaires d'activités de loisirs ;
-
-- un représentant des agents immobiliers et administrateurs de biens ;
-
-- deux représentants des organismes de garantie financière, dont un représentant de l'Association professionnelle de
-solidarité du tourisme ;
-
-- un représentant des transporteurs routiers de voyageurs, un représentant des transporteurs aériens, un représentant des
-transporteurs maritimes et un représentant des transporteurs ferroviaires ;
-
-- un représentant des entreprises de remise et de tourisme ;
-
-- un représentant des professions de guide-interprète et conférencier ;
-
-c) Troisième formation, compétente en matière de projets d'établissements hôteliers, en application du 7° du I de l'article
-L. 752-1 du code de commerce :
-
-- quatre représentants des hôteliers ;
-
-- un représentant des agents de voyages.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 2 (M)
-	  - Décret n°98-149 du 3 mars 1998 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-	**Cite**:
-
-	  - Code de commerce - art. L752-1
-	  - Code de la consommation - art. L411-1
-	  - Code du tourisme.
-
-
-###### Article D122-34
-
-Les membres de la commission et leurs suppléants sont nommés par arrêté du préfet, le cas échéant, sur proposition des
-organisations professionnelles représentatives ou des fédérations départementales, pour une durée de trois ans renouvelable.
-
-L'arrêté de nomination est publié au recueil des actes administratifs de la préfecture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-###### Article D122-35
-
-Le préfet établit l'ordre du jour des réunions. En fonction de cet ordre du jour, il convoque les membres de la formation
-concernée et peut appeler à siéger, à titre consultatif, toute personne compétente sur les affaires inscrites.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-###### Article D122-36
-
-La commission établit son règlement intérieur, qui fixe, notamment, les modalités de vote et le délai minimum pour
-transmettre, avant la date de la réunion, une convocation écrite comportant l'ordre du jour et, éventuellement, les documents
-nécessaires à l'examen des affaires qui y sont inscrites.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-###### Article D122-37
-
-Le quorum est égal à la moitié du nombre des membres titulaires de chaque formation chargée d'émettre un avis, cette
-formation comprenant les membres représentant les professionnels du tourisme et les membres permanents. Lorsque le quorum
-n'est pas atteint sur un ordre du jour donné, la commission délibère valablement, sans condition de quorum, après une
-nouvelle convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-###### Article D122-38
-
-Les membres de la commission sont tenus à une obligation de réserve et de discrétion pour ce qui concerne les travaux et les
-débats de la commission, ainsi que pour les documents qui leur sont transmis. Ne peuvent prendre part aux délibérations les
-membres qui ont un intérêt personnel à l'affaire évoquée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-###### Article D122-39
-
-Le procès-verbal indique le nom et la qualité des membres présents, les questions traitées au cours de la séance et le sens
-de chacune des délibérations. En outre, tout membre de la commission peut demander qu'il soit fait mention de son désaccord
-avec la majorité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-###### Article D122-40
-
-La commission siège en formation spécialisée pour donner un avis sur les sanctions proposées par le préfet, notamment dans
-les cas prévus par les dispositions réglementaires du titre Ier du livre II. Elle est alors composée paritairement de membres
-de la deuxième formation et de membres permanents représentant les services déconcentrés de l'Etat. Le professionnel concerné
-par une sanction est invité à se faire entendre personnellement ou par son mandataire devant la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 du 3 mars 1998 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-
-
-##### Sous-section 3 : Commission régionale de l'action touristique d'Ile-de-France.
-
-###### Article D122-42
-
-La commission régionale d'action touristique d'Ile-de-France comprend, sous la présidence du préfet de région ou de son
-représentant :
-
-1° Au titre des administrations publiques (1er collège) :
-
-- un représentant des services déconcentrés de l'Etat chargés de la concurrence, de la consommation et de la répression des
-fraudes ;
-
-- un représentant des services déconcentrés de l'Etat chargés des impôts ;
-
-- un représentant des services déconcentrés de l'Etat chargés des transports terrestres ;
-
-- un représentant des services déconcentrés de l'Etat chargés de l'aviation civile ;
-
-- un représentant des services déconcentrés de l'Etat chargés de la jeunesse et des sports ;
-
-- un représentant des services déconcentrés de l'Etat chargés de la culture ;
-
-- un représentant des services déconcentrés de l'Etat chargés de l'éducation nationale ;
-
-- un représentant des services déconcentrés de l'Etat chargés du tourisme ;
-
-2° Au titre des collectivités locales (2e collège) :
-
-- le président du conseil régional ou son représentant ;
-
-- le président de chacun des conseils généraux de la région ou son représentant ;
-
-- deux maires de la région nommés par le préfet ;
-
-3° Au titre des associations, des entreprises et des professions du tourisme (3e collège) :
-
-- deux représentants des agents de voyages ;
-
-- deux représentants des associations et organismes sans but lucratif ;
-
-- un représentant de la fédération régionale des offices de tourisme et des syndicats d'initiative ;
-
-- un représentant de la Fédération nationale des comités départementaux de tourisme ;
-
-- un représentant du comité régional de tourisme ;
-
-- deux représentants des gestionnaires d'hébergements classés ;
-
-- un représentant des gestionnaires de campings ;
-
-- un représentant des gestionnaires d'activités de loisirs ;
-
-- un représentant des transporteurs aériens de voyageurs ;
-
-- un représentant des transporteurs ferroviaires de voyageurs ;
-
-- un représentant des transporteurs routiers de voyageurs ;
-
-- un représentant des agents immobiliers et administrateurs de biens ;
-
-- deux représentants des organismes de garantie financière, dont un représentant des organismes de garantie collective ;
-
-- un représentant des guides-interprètes régionaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1995-01-04 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
-###### Article D122-43
-
-Les membres de la commission et leurs suppléants sont nommés par arrêté du préfet. Les membres du troisième collège sont
-nommés sur proposition des organismes ayant des représentants au sein de ce collège. Si tous les sièges ne peuvent être ainsi
-pourvus, le préfet complète l'effectif en nommant directement les représentants de ces activités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1995-01-04 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
-###### Article D122-44
-
-La commission établit son règlement intérieur qui fixe, notamment, le délai minimum à respecter pour communiquer,
-préalablement à la date des réunions, l'ordre du jour des séances et les documents correspondants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1995-01-04 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
-###### Article D122-45
-
-Lorsque la commission régionale d'action touristique siège en formation spécialisée, les personnes convoquées devant la
-commission disposent de cinq jours francs au moins, à compter de la réception de la lettre les avisant de la date de leur
-audition, pour préparer leurs observations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1995-01-04 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
-###### Article D122-46
-
-En fonction de l'ordre du jour, le préfet peut faire appel, à titre consultatif, à toute personne qu'il jugera utile aux
-débats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1995-01-04 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
-###### Article D122-47
-
-Les membres de la commission sont tenus à une obligation de réserve et de discrétion pour ce qui concerne les travaux et les
-débats de la commission ainsi que pour les documents qui leur sont remis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1995-01-04 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
-
-
-###### Article R122-41
-
-Les attributions confiées à la commission départementale de l'action touristique par les dispositions réglementaires des
-titres Ier et II et du chapitre II du titre III du livre II sont, dans la région Ile-de-France, exercées par une commission
-régionale de l'action touristique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 1994-06-15 art. 3 en ce qui concerne l'Ile-de-France
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
 
 
 ### TITRE III : LES COLLECTIVITÉS TERRITORIALES ET LEURS GROUPEMENTS.
@@ -9854,163 +9271,12 @@ représentant les professions et activités intéressées par le tourisme dans l
 
 ##### Sous-section 4 : Classement des offices.
 
-###### Article D133-21
-
-Le classement est décidé, après avis de la commission départementale de l'action touristique, par le préfet du département
-dont fait partie la commune dans laquelle l'organisme remplit sa fonction d'accueil, d'information et de promotion.
-
-Pour tenir compte de conditions locales particulières, des dérogations exceptionnelles aux critères définis dans l'arrêté
-mentionné à l'article R. 133-20 peuvent être accordées par le préfet du département concerné, après avis de la commission
-départementale de l'action touristique.
-
-Toutefois, ces dérogations ne peuvent pas porter sur les périodes et horaires d'ouverture.
-
-Le conseil municipal peut introduire un recours hiérarchique contre une décision préfectorale dans un délai de deux mois
-suivant la date de notification de ladite décision.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-1161 du 16 décembre 1998 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D133-22 (V)
-	  - Code du tourisme. - art. D133-26 (V)
-	  - Code du tourisme. - art. D133-27 (V)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R133-20 (V)
-
-
-###### Article D133-24
-
-Le conseil municipal, sur proposition de l'office de tourisme, formule la demande de classement auprès du représentant de
-l'Etat dans le département, qui sollicite, le cas échéant, l'avis de l'union départementale concernée de la Fédération
-nationale des offices de tourisme et syndicats d'initiative, lorsque l'office de tourisme en est membre. Cet avis est réputé
-favorable s'il n'est pas transmis dans un délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-1161 du 16 décembre 1998 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D133-26 (V)
-	  - Code du tourisme. - art. D133-27 (V)
-
-
-###### Article D133-25
-
-Pour vérification de leur conformité aux caractéristiques exigées pour leur classement, les organismes admettent la visite
-des agents de l'administration de l'Etat chargée du tourisme, des agents de la consommation et de la répression des fraudes
-ou des agents d'une administration habilités par décision du préfet du département concerné.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-1161 1998-12-16 art. 7 sauf sanctions
-	  - Décret n°98-1161 du 16 décembre 1998 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R133-29 (V)
-
-
-###### Article D133-26
-
-Le classement est prononcé pour cinq ans. Passé cette période, il expire d'office et peut être renouvelé suivant la procédure
-définie aux articles D. 133-21 et D. 133-24. A l'issue du délai de cinq ans, le préfet du département concerné peut décider,
-après avis de la commission départementale de l'action touristique, de proroger de six mois le délai de validité du
-classement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-1161 du 16 décembre 1998 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D133-21 (V)
-	  - Code du tourisme. - art. D133-24 (V)
-
-
-###### Article D133-27
-
-Le classement peut être révisé selon la procédure décrite aux articles D. 133-21 et D. 133-24 en cas de modification des
-caractéristiques de l'organisme classé, conduisant à un niveau de classement différent de celui initialement prononcé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-1161 du 16 décembre 1998 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D133-21 (V)
-	  - Code du tourisme. - art. D133-24 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D133-28 (V)
-	  - Code du tourisme. - art. D133-29 (V)
-
-
-###### Article D133-31
-
-Les organismes classés signalent leur classement par l'affichage d'un panonceau conforme aux modèles fixés par arrêté du
-ministre chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-1161 du 16 décembre 1998 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
-
-
-###### Article R133-20
-
-Les organismes de tourisme dénommés " office de tourisme " au sens des articles L. 133-1 à L. 133-10 et L. 134-5 peuvent être
-classés par catégories identifiées par un nombre d'étoiles croissant de un à quatre suivant le niveau des aménagements et des
-services garantis au public et selon des normes fixées par arrêté du ministre chargé du tourisme.
-
-Ces normes de classement portent sur l'organisation générale de l'office de tourisme ainsi que sur les services offerts aux
-touristes et aux professionnels.
+###### Article D133-20
+
+Les offices de tourisme mentionnés aux articles L. 133-1 à L. 133-10-1 et L. 134-5 peuvent être classés par catégories
+suivant le niveau des aménagements et services garantis au public en fonction de critères fixés par un tableau de classement
+élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme. Le tableau de
+classement est révisé au moins tous les cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -10018,9 +9284,9 @@ touristes et aux professionnels.
 
 	  - Décret n°98-1161 du 16 décembre 1998 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
 
 	**Cité par**:
 
@@ -10031,20 +9297,166 @@ touristes et aux professionnels.
 
 	**Cite**:
 
-	  - Code du tourisme L133-1 à L133-10, L134-5
-	  - Code du tourisme. - art. L134-5 (M)
+	  - Code du tourisme. - art. L133-1
+	  - Code du tourisme. - art. L134-5
+	  - Code du tourisme. - art. L141-2
 
 
-###### Article R133-28
+###### Article D133-21
+
+La délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale
+sollicitant le classement est prise sur proposition de l'office de tourisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D133-22 (V)
+	  - Code du tourisme. - art. D133-26 (V)
+	  - Code du tourisme. - art. D133-27 (V)
+
+
+###### Article D133-22
+
+Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale ou du syndicat mixte,
+adresse la délibération, accompagnée du dossier de demande de classement, au représentant de l'Etat dans le département
+territorialement compétent par voie électronique ou, à défaut, par voie postale, selon des modalités fixées par arrêté du
+ministre chargé du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+
+###### Article D133-23
+
+Lorsque le dossier est incomplet au regard des conditions exigées pour le classement sollicité, le représentant de l'Etat
+dans le département en avise le maire ou, le cas échéant, le président de l'établissement public de coopération
+intercommunale ou du syndicat mixte, dans le délai de deux mois en lui précisant les pièces manquantes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 4 (Ab)
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+
+###### Article D133-24
+
+La décision de classement est prise par arrêté du représentant de l'Etat dans le département dans le délai de deux mois à
+compter de la réception du dossier complet. 
+
+Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée du
+dossier de demande de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D133-26 (V)
+	  - Code du tourisme. - art. D133-27 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+
+###### Article D133-25
+
+Le classement est prononcé pour une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R133-29 (V)
+
+
+###### Article D133-26
+
+Pour la vérification de leur conformité aux caractéristiques exigées pour leur classement, les offices de tourisme admettent
+la visite des agents de l'administration de l'Etat chargée du tourisme ou des agents d'une administration habilités par
+décision du représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+
+###### Article D133-27
 
 En cas de manquement au respect des caractéristiques exigées par le classement, le déclassement ou la radiation de la liste
-des organismes classés est prononcé après avis de la commission départementale de l'action touristique et après injonction de
-mise en conformité faite par le préfet de département auprès de l'office de tourisme, dans un délai de trois mois. Cette
-injonction est communiquée pour information au maire de la commune intéressée et au responsable de l'union départementale des
-offices de tourisme et syndicats d'initiative concernée.
+des organismes classés est prononcé après injonction de mise en conformité faite par le représentant de l'Etat dans le
+département auprès de l'office de tourisme, dans un délai de trois mois. Cette injonction est communiquée pour information au
+maire de la commune intéressée ou, le cas échéant, au président de l'établissement de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-1161 du 16 décembre 1998 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D133-21
+	  - Code du tourisme. - art. D133-24
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D133-28 (V)
+	  - Code du tourisme. - art. D133-29 (V)
+
+
+###### Article D133-28
 
 Les réclamations faisant état d'un manquement au respect des caractéristiques exigées par le classement sont adressées au
-préfet du département concerné, qui peut mettre en oeuvre une procédure de déclassement ou de radiation.
+représentant de l'Etat dans le département. Elles peuvent être suivies d'une injonction de mise en conformité telle que
+mentionnée à l'article D. 133-27.
 
 **Liens relatifs à cet article**
 
@@ -10052,55 +9464,53 @@ préfet du département concerné, qui peut mettre en oeuvre une procédure de d
 
 	  - Décret n°98-1161 du 16 décembre 1998 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D133-27
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R133-30 (V)
 
 
-###### Article R133-29
+###### Article D133-29
 
-Le non-respect des exigences imposées à l'article D. 133-25 entraîne le rejet de la demande de classement ou la radiation de
-la liste des organismes classés.
+Les sanctions prévues à l'article D. 133-27 ne peuvent être prononcées sans que l'office de tourisme concerné ait été
+préalablement avisé des mesures envisagées et invité à se faire entendre par son représentant légal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°98-1161 1998-12-16 art. 7 (sanctions)
 	  - Décret n°98-1161 du 16 décembre 1998 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D133-25 (V)
+	  - Code du tourisme. - art. D133-27
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R133-30 (V)
 
 
-###### Article R133-30
+###### Article D133-30
 
-Les sanctions prévues aux articles R. 133-28 et R. 133-29 ne peuvent être prononcées sans que l'intéressé ait été
-préalablement avisé des mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
+Les offices de tourisme signalent leur classement par l'affichage d'un panonceau conforme aux modèles fixés par arrêté du
+ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R133-28 (V)
-	  - Code du tourisme. - art. R133-29 (V)
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
 
 
 ##### Section 2 : Communes touristiques et stations classées de tourisme.
@@ -10772,25 +10182,30 @@ Les dispositions des articles R. 133-20 à D. 133-31 sont applicables aux office
 
 #### Chapitre unique.
 
+##### Section 1 : Groupements d'intérêt public.
+
 ###### Article D141-1
 
-Sont soumis aux dispositions du présent chapitre les groupements d'intérêt public constitués en application de l'article L.
-141-1.
+Sont soumis aux dispositions de la présente section les groupements d'intérêt public constitués en application de l'article
+L. 141-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 1
 	  - Décret n°93-237 du 22 février 1993 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L141-1 (V)
+	  - Code du tourisme. - art. L141-1
 
 
 ###### Article D141-2
@@ -10808,12 +10223,15 @@ République française de l'arrêté d'approbation mentionné au premier alinéa
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 2
 	  - Décret n°93-237 du 22 février 1993 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article D141-3
@@ -10832,12 +10250,15 @@ L'arrêté d'approbation fait notamment mention :
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 3
 	  - Décret n°93-237 du 22 février 1993 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article D141-4
@@ -10858,12 +10279,15 @@ Il informe les administrations dont relèvent les établissements publics partic
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 4
 	  - Décret n°93-237 du 22 février 1993 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article D141-5
@@ -10881,17 +10305,20 @@ convention constitutive.
 
 	**Cite**:
 
-	  - Décret n°53-707 1953-08-09
-	  - Décret n°55-733 1955-05-26
+	  - Décret n°53-707 du 9 août 1953
+	  - Décret n°55-733 du 26 mai 1955
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 5
 	  - Décret n°93-237 du 22 février 1993 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article D141-6
@@ -10907,16 +10334,19 @@ comptabilité publique sont applicables.
 
 	**Cite**:
 
-	  - Décret n°62-1587 1962-12-29
+	  - Décret n°62-1587 du 29 décembre 1962
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 7
 	  - Décret n°93-237 du 22 février 1993 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article D141-7
@@ -10933,13 +10363,176 @@ occuper ultérieurement des emplois dans les organismes participant au groupemen
 
 	**Anciens textes**:
 
-	  - Décret n°93-237 1993-02-22 art. 7
 	  - Décret n°93-237 du 22 février 1993 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 4
 
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+##### Section 2 : Agence de développement touristique de la France. 
+
+###### Article D141-11
+
+La commission de l'hébergement touristique marchand mentionnée à l'article L. 141-2 est chargée d'émettre un avis sur les
+projets de tableaux de classement des hôtels, des résidences de tourisme, des meublés de tourisme, des villages résidentiels
+de tourisme, des villages de vacances, des terrains de camping et caravanage, des parcs résidentiels de loisirs et des
+chambres d'hôtes, préalablement à toute modification de ces tableaux. 
+
+Elle peut en outre être saisie par le ministre chargé du tourisme ou par le directeur général de l'agence de toute question
+relative aux hébergements touristiques et émettre des recommandations sur ces mêmes questions. 
+
+Elle se réunit au moins deux fois par an ou à la demande de son président ou d'au moins un quart de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 6
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+
+###### Article D141-12
+
+La commission de l'hébergement touristique marchand est composée :
+
+1° De onze représentants des professionnels de l'hébergement touristique marchand :
+
+― cinq représentants du secteur de l'hôtellerie, désignés respectivement par l'Union des métiers et des industries de
+l'hôtellerie (UMIH), le Syndicat national des hôteliers, restaurateurs, cafetiers et traiteurs (SYNHORCAT), le Groupement
+national des chaînes hôtelières (GNC), la Confédération des professionnels indépendants de l'hôtellerie (CPIH) et la
+Fédération autonome générale de l'industrie hôtelière touristique (FAGIHT) ;
+
+― un représentant désigné par le Syndicat national des résidences du tourisme (SNRT) ;
+
+― un représentant désigné par la Fédération nationale de l'hôtellerie de plein air (FNHPA) ;
+
+― un représentant désigné par l'Union nationale des associations de tourisme et de plein air (UNAT) ;
+
+― un représentant désigné par l'Union nationale des campings et des parcs résidentiels de loisirs (UNAPAREL) ;
+
+― un représentant des réseaux de chambres d'hôtes désigné par arrêté du ministre chargé du tourisme ;
+
+― un représentant des réseaux des meublés de tourisme désigné par arrêté du ministre chargé du tourisme.
+
+2° D'un représentant de la Fédération nationale des offices de tourisme et syndicats d'initiative ;
+
+3° D'un représentant du Réseau national des destinations départementales ;
+
+4° De trois personnalités qualifiées nommées par arrêté du ministre chargé du tourisme ;
+
+5° De deux représentants des associations de consommateurs et d'un représentant des associations œuvrant en faveur des
+personnes en situation de handicap, nommés par arrêté conjoint du ministre chargé du tourisme et du ministre chargé de la
+consommation.
+
+Le ministre chargé du tourisme ou son représentant assiste à la commission avec voix consultative.
+
+Le directeur général de l'agence ou son représentant assiste de droit à ses réunions.
+
+Lorsque la commission examine un projet de tableau de classement ou lorsqu'elle est saisie d'une question générale concernant
+un mode d'hébergement touristique marchand, elle peut auditionner de sa propre initiative d'autres représentants des
+professionnels de l'hébergement touristique marchand concerné.
+
+La commission élit en son sein un président qui assiste avec voix consultative aux séances du conseil d'administration de
+l'agence sur les questions figurant à l'ordre du jour concernant l'hébergement touristique marchand.
+
+Un règlement intérieur fixe les conditions de fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 6
+
+
+###### Article R141-8
+
+Pour l'application de l'article L. 141-2, un commissaire du Gouvernement est désigné auprès de l'agence de développement
+touristique de la France par arrêté du ministre chargé du tourisme. 
+
+Le commissaire du Gouvernement assiste aux séances du conseil d'administration de l'agence et est entendu chaque fois qu'il
+le demande. 
+
+Dans les dix jours qui suivent la séance, les procès-verbaux des délibérations du conseil d'administration sont notifiés au
+commissaire du Gouvernement. 
+
+Le commissaire du Gouvernement peut assister à sa demande aux instances délibératives et consultatives de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+
+###### Article R141-9
+
+Les délibérations à caractère financier ou budgétaire, notamment celle relative à l'état prévisionnel des dépenses et des
+recettes, celles relatives aux emprunts, à la création de filiales et à la prise de participations financières sont
+exécutoires si le ministre chargé du tourisme n'y a pas fait opposition dans un délai de quinze jours suivant la notification
+qui en a été faite au commissaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+
+###### Article R141-10
+
+La commission d'immatriculation mentionnée à l'article L. 141-2 est chargée de l'établissement, de la tenue et de la mise à
+jour permanente des registres mentionnés à l'article L. 141-3.
+
+A ce titre, elle reçoit les dossiers de demande d'immatriculation ou de renouvellement de l'immatriculation, statue sur ces
+demandes, effectue les radiations des registres et procède à l'envoi des notifications aux intéressés selon les dispositions
+du titre Ier et du chapitre Ier du titre III du livre II. 
+
+La commission d'immatriculation est composée de sept membres, dont son président, nommés en raison de leur compétence et de
+leur indépendance pour une durée de trois ans par arrêté du ministre chargé du tourisme. 
+
+Nul ne peut être membre de la commission d'immatriculation s'il est immatriculé à l'un des registres mentionnés à l'article
+L. 141-3 ou dirigeant, mandataire social ou salarié d'une société ou d'un organisme immatriculé à l'un de ces registres. Les
+membres de la commission perçoivent une indemnité forfaitaire dont le montant est fixé par arrêté conjoint du ministre chargé
+du tourisme et du ministre chargé du budget. Cette somme est imputée au budget de l'agence. 
+
+Sans préjudice des dispositions mentionnées à l'alinéa précédent, ces personnes adressent au président de la commission, à
+l'occasion de leur nomination ou de leur entrée en fonctions, une déclaration mentionnant leurs liens, directs ou indirects,
+avec les entreprises ou établissements dont les activités relèvent de l'article L. 211-1 et de l'article L. 231-1. Cette
+déclaration est actualisée à leur initiative dès qu'une modification intervient.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. L141-3
+	  - Code du tourisme. - art. L211-1
+	  - Code du tourisme. - art. L231-1
+
+
+### TITRE IV : GROUPEMENTS.
+
+#### Chapitre unique.
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
 
@@ -10947,82 +10540,11 @@ occuper ultérieurement des emplois dans les organismes participant au groupemen
 
 ###### Article D151-1
 
-La commission départementale d'action touristique est présidée par le préfet du département ou son représentant.
-
-Elle comprend trois formations compétentes respectivement pour exprimer un avis sur :
-
-- les décisions de classement, d'agrément et d'homologation ;
-
-- la délivrance d'autorisations administratives pour la commercialisation des prestations touristiques prévue par les titres
-Ier et II et le chapitre II du titre III du livre II ;
-
-- les projets d'établissements hôteliers, en application du 7° du I de l'article L. 752-1 du code de commerce.
-
-En Corse, la première formation est compétente pour exprimer un avis sur toutes les demandes de classement et d'autorisation
-administrative, à l'exclusion des demandes d'agrément ou de classement des équipements et organismes mentionnées au II de
-l'article L. 4424-32 du code général des collectivités territoriales.
-
-Elle est composée de :
-
-1° Membres permanents :
-
-a) Le directeur départemental de la concurrence, de la consommation ou son représentant et un ou plusieurs représentants des
-services déconcentrés de l'Etat désignés par le préfet en fonction de l'ordre du jour de la réunion ;
-
-b) Un représentant du comité départemental du tourisme, un représentant de l'union départementale des offices de tourisme, un
-représentant des chambres de commerce et d'industrie, un représentant des chambres de métiers et un représentant des chambres
-d'agriculture et, en Corse, un représentant désigné par la collectivité territoriale de Corse ;
-
-c) Un représentant des associations de consommateurs désigné par les associations de consommateurs du département agréées, au
-titre de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de département, soit par leur affiliation à
-une association nationale elle-même agréée et un représentant des associations de personnes handicapées à la mobilité réduite
-représentatives au niveau départemental ;
-
-2° Membres représentant les professionnels du tourisme :
-
-- quatre représentants des hôteliers et des restaurateurs ;
-
-- deux représentants des gestionnaires de résidence de tourisme ;
-
-- deux représentants des loueurs de meublés saisonniers classés et un représentant des agents immobiliers ;
-
-- deux représentants des gestionnaires de villages de vacances et deux représentants des gestionnaires de maisons
-familiales ;
-
-- deux représentants des gestionnaires et deux représentants des usagers des terrains de camping-caravanage ;
-
-- un représentant des offices de tourisme et syndicats d'initiative ;
-
-- un représentant des entreprises de remise et de tourisme ;
-
-- un représentant de la Fédération française d'équitation, un représentant du tourisme équestre et de l'équitation de loisir,
-un représentant des professionnels des activités hippiques et un représentant des circonscriptions des haras.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-149 1998-03-03 art. 2 en ce qui concerne la Corse
-	  - Décret n°98-149 du 3 mars 1998 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L752-1 (V)
-	  - Code de la consommation - art. L411-1 (V)
-	  - Code général des collectivités territoriales - art. L4424-32 (Ab)
-
-
-###### Article D151-2
-
 Les règles relatives au classement des stations hydrominérales, climatiques, uvales, balnéaires, de sport d'hiver et
 d'alpinisme ou de tourisme sont fixées par les articles R. 4424-20 à R. 4424-30 du code général des collectivités
 territoriales ci-après reproduits : 
 
-" Art.R. 4424-20 du code général des collectivités territoriales. 
+" Art. R. 4424-20 du code général des collectivités territoriales. 
 
 L'Assemblée de Corse détermine les conditions dans lesquelles les communes mentionnées à la section 2 du chapitre III du
 titre III du livre Ier du code du tourisme ou leurs groupements sont dénommés communes touristiques, par arrêté du président
@@ -11030,7 +10552,7 @@ du conseil exécutif de Corse, pour une durée de cinq ans et après consultatio
 départementale compétente en matière d'environnement, de risques sanitaires et technologiques. Elle détermine les conditions
 dans lesquelles ces communes, leurs fractions ou leurs groupements sont érigés en stations classées de tourisme. " 
 
-" Art.R. 4424-21 du code général des collectivités territoriales. 
+" Art. R. 4424-21 du code général des collectivités territoriales. 
 
 La composition du dossier de demande de dénomination de commune touristique et de classement en station de tourisme ainsi que
 les modèles de dossier de demande sont fixés par arrêté du président du conseil exécutif qui définit les modalités de la
@@ -11043,33 +10565,18 @@ décret n° 2008-884 du 2 septembre 2008.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°98-149 du 3 mars 1998 - art. 2 (Ab)
+	  - Code du tourisme. - art. D151-2 (T)
+
 	**Modifié par**:
 
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 5
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-20
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-21
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-22
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-23
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-24
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-25
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-26
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-27
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-28
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-29
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R4424-30
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales
-	  - Code du tourisme.
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D151-1 (V)
+	  - Code général des collectivités territoriales - art. L4424-32 (V)
 
 
 ### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.
@@ -11093,43 +10600,23 @@ Pour l'application du présent livre :
 
 ###### Article R162-2
 
-Les attributions confiées à la commission départementale de l'action touristique sont exercées, à Saint-Pierre-et-Miquelon,
-par une commission de l'action touristique. La composition et le fonctionnement de cette commission sont fixés par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 1994-06-15 art. 3 en ce qui concerne Saint-Pierre-et-Miquelon
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R242-2 (V)
-	  - Code du tourisme. - art. R362-3 (V)
-
-
-###### Article R162-4
-
 Les références faites, par des dispositions du présent livre applicables à Saint-Pierre-et-Miquelon, à des dispositions qui
 n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 15
+	  - Code du tourisme. - art. R162-4 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du tourisme. - art. R162-2 (V)
+	  - Code du tourisme. - art. R242-2 (V)
+	  - Code du tourisme. - art. R362-3 (V)
 
 
 #### Chapitre III : Dispositions relatives à Mayotte.
@@ -11166,39 +10653,23 @@ Pour l'application du présent livre :
 
 ###### Article R163-3
 
-Les attributions confiées à la commission départementale de l'action touristique sont exercées par une commission de l'action
-touristique. La composition et le fonctionnement de cette commission sont fixés par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R243-3 (V)
-	  - Code du tourisme. - art. R363-3 (V)
-
-
-###### Article R163-5
-
 Les références faites, par des dispositions du présent livre applicables à Mayotte, à des dispositions qui n'y sont pas
 applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 15
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 15
+	  - Code du tourisme. - art. R163-5 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du tourisme. - art. R163-3 (V)
+	  - Code du tourisme. - art. R243-3 (V)
+	  - Code du tourisme. - art. R363-3 (V)
 
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME.
@@ -13305,60 +12776,6 @@ sont réputés avoir un siège en France.
 	**Cite**:
 
 	  - Code du tourisme. - art. R212-32
-
-
-###### Article R212-31
-
-Tout agent de voyages doit posséder une garantie financière délivrée par un seul garant. La garantie financière s'étend aux
-activités qui sont exercées par les établissements secondaires tels que succursale, point de vente ou entreprise
-conventionnée.
-
-Un arrêté du ministre chargé du tourisme pris après avis du Conseil national du tourisme détermine le montant minimum de la
-garantie financière. Il définit, en outre, les modalités de calcul de la garantie en fonction du chiffre d'affaires réalisé
-annuellement par l'agent de voyages. Cet arrêté fixe les délais et les conditions dans lesquels l'agent de voyages doit
-fournir les éléments nécessaires à la détermination du montant de sa garantie financière.
-
-Sauf en ce qui concerne la garantie applicable au contrat de jouissance d'immeuble à temps partagé prévue aux articles R.
-212-6 et R. 212-7, le montant de la garantie financière de chaque agent de voyages est fixé annuellement par le préfet en
-application des règles définies par le présent titre. A défaut d'exercice antérieur de référence, il est fait application du
-montant minimum de garantie.
-
-En cas de modification importante d'activité en cours d'année, ainsi qu'en cas d'ouverture de succursale ou de point de vente
-ou en cas de conclusion de convention avec une entreprise mandataire, l'agent de voyages procède à une réévaluation de sa
-garantie financière. L'arrêté prévu au deuxième alinéa fixe les conditions dans lesquelles s'effectuent ces réévaluations.
-
-Par décision motivée prise après avis de la commission départementale de l'action touristique, le préfet peut décider, en
-cours d'année, une augmentation de la garantie financière, notamment lorsque les activités de l'agent de voyages sont de
-nature à entraîner une aggravation importante des risques pour la clientèle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 du 15 juin 1994 - art. 15 (M)
-	  - Décret n°94-490 du 15 juin 1994 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R212-18 (VT)
-	  - Code du tourisme. - art. R212-22 (VT)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R212-6
-	  - Code du tourisme. - art. R212-7
 
 
 ###### Article R212-32
@@ -15786,25 +15203,25 @@ nationale des guides-interprètes et conférenciers).
 
 ###### Article R221-1
 
-Pour l'application de l'article L. 221-1 :
+Pour l'application de l'article L. 221-1 : 
 
 1° Les personnes titulaires de l'une des cartes professionnelles mentionnées au 2° sont reconnues comme personnes qualifiées
 pour effectuer les visites commentées dans les musées appartenant à l'Etat, les musées mentionnés par l'ordonnance n° 45-1546
 du 13 juillet 1945 modifiée portant organisation provisoire des musées des beaux-arts et les monuments historiques classés au
-titre du livre VI du code du patrimoine.
+titre du livre VI du code du patrimoine. 
 
-2° Les cartes professionnelles correspondent aux qualifications suivantes :
+2° Les cartes professionnelles correspondent aux qualifications suivantes : 
 
-a) Carte de conférencier national ;
+a) Carte de conférencier national ; 
 
-b) Carte de guide-interprète national ;
+b) Carte de guide-interprète national ; 
 
-c) Carte de guide-interprète régional ;
+c) Carte de guide-interprète régional ; 
 
-d) Carte de guide conférencier des villes et pays d'art et d'histoire.
+d) Carte de guide conférencier des villes et pays d'art et d'histoire. 
 
-Les cartes professionnelles sont délivrées dans les conditions prévues par les dispositions réglementaires des sections 2 et
-3 du présent chapitre.
+Les cartes professionnelles sont délivrées dans les conditions prévues par les dispositions réglementaires des sections 2 à 4
+du présent chapitre. 
 
 3° Les personnes titulaires de la carte de guide-interprète local et de guide-interprète auxiliaire à titre définitif peuvent
 obtenir le renouvellement de leur carte.
@@ -15813,17 +15230,17 @@ obtenir le renouvellement de leur carte.
 
 	**Cite**:
 
-	  - Ordonnance 45-1546 1945-07-13
-	  - Code du tourisme. - art. L221-1 (V)
+	  - Ordonnance n°45-1546 du 13 juillet 1945
+	  - Code du tourisme. - art. L221-1
+	  - Code du patrimoine
 
 	**Anciens textes**:
 
-	  - Décret n°94-490 du 15 juin 1994 - art. 85 (M)
 	  - Décret n°94-490 du 15 juin 1994 - art. 85 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -15839,12 +15256,13 @@ obtenir le renouvellement de leur carte.
 ###### Article R221-2
 
 Les cartes professionnelles mentionnées à l'article R. 221-1 sont délivrées aux personnes résidant en France par le préfet du
-département du lieu de leur domicile. Elles sont délivrées par le préfet de Paris aux personnes qui résident à l'étranger.
+département du lieu de leur établissement. Elles sont délivrées par le préfet de Paris aux personnes qui résident à
+l'étranger. 
 
-La carte professionnelle peut être retirée en cas de faute professionnelle grave ou de condamnation pour l'une des
-infractions prévues à l'article L. 211-19, par décision de l'autorité qui l'a délivrée après avis de la Commission nationale
-des guides-interprètes et conférenciers. La décision de retrait ne peut être prise sans que l'intéressé ait été préalablement
-avisé des motifs de la mesure envisagée et invité à se faire entendre personnellement ou par mandataire devant la commission.
+Le préfet informe le demandeur le cas échéant de tout document manquant, dans le délai d'un mois à compter de la réception de
+la demande. Il accuse réception du dossier de demande de carte professionnelle lorsque celui-ci est complet. Il se prononce
+dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le préfet pendant
+plus de quatre mois vaut octroi de la carte professionnelle. 
 
 Les cartes professionnelles sont conformes à un modèle établi par arrêté conjoint du ministre chargé du tourisme, du ministre
 de l'intérieur et du ministre chargé de la culture.
@@ -15853,12 +15271,11 @@ de l'intérieur et du ministre chargé de la culture.
 
 	**Anciens textes**:
 
-	  - Décret n°94-490 du 15 juin 1994 - art. 86 (M)
 	  - Décret n°94-490 du 15 juin 1994 - art. 86 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -15868,8 +15285,27 @@ de l'intérieur et du ministre chargé de la culture.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-19 (V)
-	  - Code du tourisme. - art. R221-1 (V)
+	  - Code du tourisme. - art. R221-1
+
+
+###### Article R221-2-1
+
+Les sanctions administratives susceptibles d'être prononcées à l'encontre des personnes titulaires d'une carte
+professionnelle, en cas de manquement à leurs obligations professionnelles, sont les suivantes :
+
+1° L'avertissement ;
+
+2° Le retrait temporaire de la carte professionnelle, pour une durée maximum de six mois ;
+
+3° Le retrait définitif de la carte professionnelle.
+
+La sanction est prononcée par l'autorité administrative qui a délivré la carte professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 
 ###### Article R221-3
@@ -15908,18 +15344,13 @@ conduite des visites dans les musées et les monuments historiques.
 
 Une Commission nationale des guides-interprètes et conférenciers, constituée de représentants des administrations publiques
 et de représentants des professions et organismes professionnels du tourisme, est placée auprès du ministre chargé du
-tourisme.
+tourisme. 
 
 La commission émet un avis sur la définition des aptitudes et connaissances requises des personnes qualifiées pour conduire
-des visites dans les musées et monuments historiques.
-
-Elle instruit les dossiers et émet un avis sur les demandes des personnes se prévalant des titres ou de l'aptitude
-professionnelle acquise, dans les conditions prévues par les dispositions réglementaires de la section 3 du présent chapitre.
+des visites dans les musées et monuments historiques. 
 
 Elle propose la nature des épreuves d'aptitude et des stages d'adaptation mentionnés aux articles R. 221-15, R. 221-16 et R.
 221-17 ainsi que les règles de constitution des jurys d'évaluation.
-
-Elle émet un avis sur les mesures de retrait de la carte professionnelle.
 
 **Nota:**
 
@@ -15931,12 +15362,7 @@ nationale des guides-interprètes et conférenciers).
 
 	**Anciens textes**:
 
-	  - Décret n°94-490 du 15 juin 1994 - art. 88 (M)
 	  - Décret n°94-490 du 15 juin 1994 - art. 88 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Cité par**:
 
@@ -15944,11 +15370,13 @@ nationale des guides-interprètes et conférenciers).
 	  - Décret n°2009-623 du 6 juin 2009 - art. (V)
 	  - Code du tourisme. - art. R221-18 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R221-15 (V)
-	  - Code du tourisme. - art. R221-16 (V)
-	  - Code du tourisme. - art. R221-17 (V)
+	  - Code du tourisme. - art. R221-15
 
 
 ##### Section 2 : Des professions de guide-interprète et de conférencier.
@@ -16066,7 +15494,281 @@ culture et du tourisme.
 	  - Code du tourisme. - art. R221-17 (VT)
 
 
-##### Section 3 : Des aptitudes professionnelles, acquises dans d'autres Etats, permettant la délivrance d'une carte professionnelle.
+##### Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.
+
+##### Sous-section 1 : Liberté d'établissement.
+
+###### Article R221-15
+
+Obtiennent la carte professionnelle, mentionnée au 2° de l'article R. 221-1, soit de guide-interprète national sans posséder
+le diplôme de guide-interprète national mentionné à l'article R. 221-11, soit de conférencier national sans remplir les
+conditions exigées à l'article R. 221-12, les ressortissants français ou d'un autre Etat membre de la Communauté européenne
+ou d'un Etat partie à l'accord sur l'Espace économique européen qui ont suivi avec succès un cycle d'études d'une durée
+minimale d'un an, ou d'une durée équivalente à temps partiel, les préparant à l'exercice de la profession, dans une
+université ou un établissement d'enseignement supérieur ou dans un autre établissement d'un niveau équivalent de formation et
+qui justifient : 
+
+1° De la possession d'un diplôme, certificat ou autre titre permettant l'exercice de l'activité à titre professionnel dans un
+État membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, qui réglemente
+l'accès ou l'exercice de la profession, et délivré : 
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la Communauté
+européenne ou l'Espace économique européen ; 
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre de
+la Communauté européenne ou de l'Etat partie à l'accord sur l'Espace économique européen qui a reconnu le diplôme, certificat
+ou autre titre et certifiant que le titulaire a exercé effectivement sur son territoire l'activité à titre professionnel
+pendant une durée de trois ans au moins ; 
+
+2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant une formation réglementée attestant d'un
+niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
+l'exercice de cette profession ; 
+
+3° Ou de l'exercice à temps plein de l'activité pendant deux ans au moins au cours des dix années précédentes, dans un autre
+Etat membre ou un autre Etat partie à l'Espace économique européen qui ne réglemente pas l'accès ou l'exercice de la
+profession, à condition que le demandeur détienne une ou plusieurs attestations de compétence ou un ou plusieurs titres de
+formation. Ces attestations ou titres doivent avoir été délivrés par une autorité compétente de cet Etat, et attester d'un
+niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et de la préparation du
+demandeur à l'exercice de la profession. 
+
+Toutefois, lorsque le préfet a constaté que la formation détenue par le demandeur porte sur des matières substantiellement
+différentes de celles qui figurent au programme du diplôme national de guide-interprète national ou de celles de l'examen de
+conférencier national, ou lorsque la durée de la formation est inférieure d'au moins un an à celle requise pour se présenter
+à l'examen de guide-interprète national ou de conférencier national, il vérifie si les connaissances acquises par le
+demandeur au cours de son expérience professionnelle sont de nature à couvrir, en tout ou partie, la différence de formation.
+En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un
+stage d'adaptation dont la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation. 
+
+Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve
+d'aptitude et le stage d'adaptation dans un délai de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-930 du 1er août 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R221-11
+	  - Code du tourisme. - art. R221-12
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R221-12 (VD)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R221-18 (VT)
+	  - Code du tourisme. - art. R221-4 (Ab)
+	  - Code du tourisme. - art. R242-2 (V)
+	  - Code du tourisme. - art. R242-3 (V)
+	  - Code du tourisme. - art. R243-3 (Ab)
+	  - Code du tourisme. - art. R243-4 (V)
+
+
+###### Article R221-16
+
+Obtiennent la carte professionnelle de guide-interprète régional mentionnée au 2° de l'article R. 221-1 sans remplir les
+conditions exigées à l'article R. 221-13 les ressortissants français ou d'un autre Etat membre de la Communauté européenne ou
+d'un Etat partie à l'accord sur l'Espace économique européen qui justifient : 
+
+1° De la possession d'un diplôme, certificat, autre titre ou attestation de compétence prescrite par un Etat membre de la
+Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen qui réglemente l'accès ou l'exercice de
+la profession ; 
+
+2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant une formation réglementée attestant d'un
+niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
+l'exercice de cette profession ; 
+
+3° Ou de l'exercice à temps plein de l'activité pendant deux ans au moins au cours des dix années précédentes, dans un autre
+Etat membre ou un autre Etat partie à l'Espace économique européen qui ne réglemente pas l'accès ou l'exercice de la
+profession, à condition que le demandeur détienne une ou plusieurs attestations de compétence ou un ou plusieurs titres de
+formation. Ces attestations ou titres doivent avoir été délivrés par une autorité compétente de cet Etat, et attester d'un
+niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et de la préparation du
+demandeur à l'exercice de la profession. 
+
+Toutefois, lorsque le préfet a constaté que la formation détenue par le demandeur porte sur des matières substantiellement
+différentes de celles qui figurent au programme de l'examen de guide interprète régional, ou lorsque la durée de la formation
+est inférieure d'au moins un an à celle requise pour se présenter à l'examen de guide interprète régional, il vérifie si les
+connaissances acquises par le demandeur au cours de son expérience professionnelle sont de nature à couvrir, en tout ou
+partie, la différence de formation. En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se soumettre à une
+épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans et qui fait l'objet d'une
+évaluation. 
+
+Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve
+d'aptitude et le stage d'adaptation dans un délai de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-930 du 1er août 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R221-1
+	  - Code du tourisme. - art. R221-13
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R221-18 (V)
+	  - Code du tourisme. - art. R221-4 (V)
+
+
+###### Article R221-17
+
+Obtiennent la carte professionnelle de guide-conférencier des villes et pays d'art et d'histoire mentionnée au 2° de
+l'article R. 221-1 sans avoir subi avec succès l'examen mentionné à l'article R. 221-14 les ressortissants d'un Etat membre
+de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui justifient : 
+
+1° De la possession d'un diplôme, certificat, autre titre ou attestation de compétence prescrite par un Etat membre ou un
+Etat partie à l'accord sur l'Espace économique européen permettant d'accéder à cette activité ou de l'exercer ; 
+
+2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant une formation réglementée attestant d'un
+niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
+l'exercice de cette activité ; 
+
+3° Ou de l'exercice à plein temps de l'activité pendant deux ans au moins au cours des dix années précédentes dans un Etat
+membre ou partie à l'accord précité qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que le
+demandeur détienne une ou plusieurs attestations de compétence ou un ou plusieurs titres de formation. Ces attestations ou
+titres doivent avoir été délivrés par une autorité compétente de cet Etat, et attester d'un niveau de qualification
+professionnelle au moins équivalent au niveau immédiatement inférieur et de la préparation du demandeur à l'exercice de la
+profession. 
+
+Toutefois, lorsque le préfet a constaté que la formation détenue par le demandeur porte sur des matières substantiellement
+différentes de celles qui figurent au programme de l'examen de guide conférencier des villes et pays d'art et d'histoire, ou
+lorsque la durée de la formation est inférieure d'au moins un an à celle requise pour se présenter à l'examen de guide
+conférencier des villes et pays d'art et d'histoire, il vérifie si les connaissances acquises par le demandeur au cours de
+son expérience professionnelle sont de nature à couvrir, en tout ou partie, la différence de formation. En ce cas, le préfet
+peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation
+dont la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation. 
+
+Dans ce cas la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve d'aptitude
+et le stage d'adaptation dans un délai de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 28 mars 2007 - art. 3 (V)
+	  - Code du tourisme. - art. R221-18 (V)
+	  - Code du tourisme. - art. R221-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-930 du 1er août 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R221-1
+	  - Code du tourisme. - art. R221-14
+
+
+###### Article R221-18
+
+Les personnes se prévalant de l'aptitude professionnelle acquise dans les conditions prévues par les articles R. 221-15, R.
+221-16 et R. 221-17 adressent leur demande de carte professionnelle au préfet du département du lieu de leur établissement
+pour celles résidant en France. Les personnes qui résident à l'étranger adressent leur demande au préfet de Paris. La demande
+est accompagnée de la preuve de la nationalité de l'intéressé, de la copie des attestations de la compétence professionnelle
+ou du titre de formation et, le cas échéant, de l'attestation de l'expérience professionnelle. 
+
+Le préfet informe le demandeur le cas échéant de tout document manquant, dans le délai d'un mois à compter de la réception de
+la demande. Il accuse réception du dossier de demande de carte professionnelle lorsque celui-ci est complet. 
+
+Il se prononce dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le
+préfet pendant plus de quatre mois vaut octroi de la carte professionnelle. 
+
+Le programme et la composition des jurys mentionnés à l'article R. 221-4, les modalités d'organisation de l'épreuve
+d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté du
+ministre de l'intérieur et des ministres chargés de l'enseignement supérieur, de la culture et du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-490 du 15 juin 1994 - art. 94 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 28 mars 2007 - art. 1 (Ab)
+	  - Arrêté du 7 mars 2012 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-930 du 1er août 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R221-13 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R221-15
+	  - Code du tourisme. - art. R221-4
+
+
+##### Sous-section 2  : Libre prestation de services 
+
+###### Article R221-18-1
+
+Le professionnel légalement établi dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
+économique européen qui se livre, de manière temporaire et occasionnelle, à l'exercice de la profession de guide-interprète
+ou conférencier fait figurer la mention du titre professionnel qu'il détient dans l'Etat d'établissement ou de son titre de
+formation sur les documents destinés aux tiers, quel qu'en soit le support. Il indique ce titre aux personnes physiques ou
+morales mentionnées à l'article L. 221-1 qui utilisent ses services, ainsi qu'au responsable du musée ou monument historique
+visité. 
+
+Le titre est mentionné dans la langue officielle de l'Etat d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-930 du 1er août 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L221-1
+
+	**Nouveaux textes**:
+
+	  - Code du tourisme. - art. R221-14 (VD)
+
+
+##### Section 4 : Diplôme national de guide-interprète national.
 
 ###### Article D221-19
 
@@ -16079,9 +15781,9 @@ la carte professionnelle prévue à l'article R. 221-1.
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -16089,13 +15791,13 @@ la carte professionnelle prévue à l'article R. 221-1.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R221-1 (V)
+	  - Code du tourisme. - art. R211-1 (V)
 
 
 ###### Article D221-20
 
 Le diplôme national de guide-interprète national est un diplôme national du second cycle de l'enseignement supérieur, au sens
-des articles L. 612-5 et suivants du code de l'éducation.
+des articles L. 612-5 et suivants du code de l'éducation. 
 
 La durée des études y conduisant est fixée à une année universitaire, sous réserve des aménagements d'horaires pouvant être
 consentis aux étudiants accueillis au titre de la formation professionnelle continue.
@@ -16106,9 +15808,9 @@ consentis aux étudiants accueillis au titre de la formation professionnelle con
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 	**Cite**:
 
@@ -16132,9 +15834,9 @@ personnels.
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 
 ###### Article D221-22
@@ -16149,13 +15851,13 @@ l'éducation.
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de l'éducation L613-1 à L613-4
+	  - Code de l'éducation - art. L613-1 (V)
 
 
 ###### Article D221-23
@@ -16175,9 +15877,9 @@ Les représentants des milieux professionnels sont désignés par le chef de l'�
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 
 ###### Article D221-24
@@ -16192,206 +15894,9 @@ conférenciers et après avis du Conseil national de l'enseignement supérieur e
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-
-###### Article R221-15
-
-Obtiennent la carte professionnelle, mentionnée au 2° de l'article R. 221-1, soit de guide-interprète national sans posséder
-le diplôme de guide-interprète national mentionné à l'article R. 221-11, soit de conférencier national sans remplir les
-conditions exigées à l'article R. 221-12, les ressortissants français ou d'un autre Etat membre de la Communauté européenne
-ou d'un Etat partie à l'accord sur l'Espace économique européen qui ont suivi avec succès un cycle d'études d'une durée
-minimale d'un an, ou d'une durée équivalente à temps partiel, les préparant à l'exercice de la profession, dans une
-université ou un établissement d'enseignement supérieur ou dans un autre établissement d'un niveau équivalent de formation et
-qui justifient :
-
-1° De la possession d'un diplôme, certificat ou autre titre permettant l'exercice de l'activité à titre professionnel dans un
-État membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, qui réglemente
-l'accès ou l'exercice de la profession, et délivré :
-
-a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la Communauté
-européenne ou l'Espace économique européen ;
-
-b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre de
-la Communauté européenne ou de l'Etat partie à l'accord sur l'Espace économique européen qui a reconnu le diplôme, certificat
-ou autre titre et certifiant que le titulaire a exercé effectivement sur son territoire l'activité à titre professionnel
-pendant une durée de trois ans au moins ;
-
-2° Ou d'un titre de formation sanctionnant une formation réglementée, au sens du d bis de l'article 1er de la directive
-89/48/CEE du Conseil du 21 décembre 1988, modifiée par la directive 2001/19/CE du Parlement européen et du Conseil du 14 mai
-2001 ;
-
-3° Ou de l'exercice à plein temps de l'activité pendant deux ans au moins au cours des dix années précédentes dans un Etat
-membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui ne réglemente pas
-l'accès ou l'exercice de cette profession, à condition que cette expérience professionnelle soit attestée par l'autorité
-compétente de cet Etat membre ou de l'Etat partie à l'accord précité.
-
-Toutefois, lorsque la Commission nationale des guides-interprètes et conférenciers a constaté que la formation dispensée au
-titre du 1° ou du 2° ci-dessus porte sur des matières substantiellement différentes de celles qui figurent au programme du
-diplôme national ou de celles de l'examen de conférencier national, ou lorsque l'activité n'est pas réglementée dans l'Etat
-membre ou l'Etat partie à l'accord sur l'Espace économique européen ou est réglementée d'une manière substantiellement
-différente, et a vérifié si les connaissances acquises par le demandeur au cours de son expérience professionnelle sont de
-nature à couvrir, en tout ou partie, la différence de formation, le préfet, sur l'avis de cette commission, peut exiger que
-l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne
-peut excéder trois ans et qui fait l'objet d'une évaluation.
-
-Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve
-d'aptitude et le stage d'adaptation dans un délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 1994-06-15 art. 93 I
-	  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R221-1 (V)
-	  - Code du tourisme. - art. R221-11 (V)
-	  - Code du tourisme. - art. R221-12 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R221-18 (VT)
-	  - Code du tourisme. - art. R221-4 (Ab)
-	  - Code du tourisme. - art. R242-2 (V)
-	  - Code du tourisme. - art. R242-3 (V)
-	  - Code du tourisme. - art. R243-3 (Ab)
-	  - Code du tourisme. - art. R243-4 (V)
-
-
-###### Article R221-16
-
-Obtiennent la carte professionnelle de guide-interprète régional mentionnée au 2° de l'article R. 221-1 sans remplir les
-conditions exigées à l'article R. 221-13 les ressortissants français ou d'un autre Etat membre de la Communauté européenne ou
-d'un Etat partie à l'accord sur l'Espace économique européen qui justifient :
-
-1° De la possession d'un diplôme, certificat, autre titre ou attestation de compétence prescrite par un Etat membre de la
-Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen qui réglemente l'accès ou l'exercice de
-la profession ;
-
-2° Ou de qualifications obtenues dans un autre Etat membre ou partie à l'accord précité et donnant des garanties équivalentes
-à celles requises pour les ressortissants nationaux.
-
-Toutefois, lorsque la Commission nationale des guides-interprètes et conférenciers a constaté que l'intéressé ne justifie pas
-d'un des titres de formation ou attestations de compétence mentionnés au 1° et a vérifié si les qualifications obtenues au
-cours de son expérience professionnelle sont de nature à couvrir celles requises pour l'exercice de l'activité, le préfet,
-sur l'avis de cette commission, peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit
-d'accomplir un stage d'adaptation dont la durée ne peut excéder deux ans et qui fait l'objet d'une évaluation.
-
-Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve
-d'aptitude et le stage d'adaptation dans un délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 1994-06-15 art. 93 II
-	  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R221-1 (V)
-	  - Code du tourisme. - art. R221-13 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R221-18 (V)
-	  - Code du tourisme. - art. R221-4 (V)
-
-
-###### Article R221-17
-
-Obtiennent la carte professionnelle de guide-conférencier des villes et pays d'art et d'histoire mentionnée au 2° de
-l'article R. 221-1 sans avoir subi avec succès l'examen mentionné à l'article R. 221-14 les ressortissants d'un Etat membre
-de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui justifient :
-
-1° De la possession d'un diplôme, certificat, autre titre ou attestation de compétence prescrite par un Etat membre ou un
-Etat partie à l'accord sur l'Espace économique européen permettant d'accéder à cette activité ou de l'exercer ;
-
-2° Ou de qualifications donnant les garanties équivalentes à celles requises pour les ressortissants nationaux et obtenues
-dans un autre Etat membre ou partie à l'accord précité.
-
-Toutefois, lorsque la Commission nationale des guides-interprètes et conférenciers a constaté que l'intéressé ne justifie pas
-d'un des titres de formation ou attestations de compétence ou de qualifications équivalentes et a vérifié si les
-qualifications obtenues au cours de son expérience professionnelle sont de nature à couvrir celles requises pour l'exercice
-de l'activité, le préfet, sur l'avis de cette commission, peut exiger que l'intéressé choisisse soit de se soumettre à une
-épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder deux ans et qui fait l'objet d'une
-évaluation.
-
-Dans ce cas la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve d'aptitude
-et le stage d'adaptation dans un délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 1994-06-15 art. 93 III
-	  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Arrêté du 28 mars 2007 - art. 3 (V)
-	  - Code du tourisme. - art. R221-18 (V)
-	  - Code du tourisme. - art. R221-4 (V)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R221-1 (V)
-	  - Code du tourisme. - art. R221-14 (V)
-
-
-###### Article R221-18
-
-Les personnes se prévalant de l'aptitude professionnelle acquise dans les conditions prévues par les articles R. 221-15, R.
-221-16 et R. 221-17 adressent leur demande de carte professionnelle au préfet du département du lieu de leur domicile pour
-celles résidant en France. Les personnes qui résident à l'étranger adressent leur demande au préfet de Paris.
-
-Cette demande est accompagnée d'un dossier complet. Il est délivré un récépissé à la réception de la demande. La décision
-motivée du préfet intervient au plus tard quatre mois à compter de la date de délivrance du récépissé de réception du dossier
-complet, après avis de la Commission nationale des guides-interprètes et conférenciers prévue à l'article R. 221-4.
-
-Le programme et la composition des jurys mentionnés à l'article R. 221-4, les modalités d'organisation de l'épreuve
-d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté du
-ministre de l'intérieur et des ministres chargés de l'enseignement supérieur, de la culture et du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 du 15 juin 1994 - art. 94 (M)
-	  - Décret n°94-490 du 15 juin 1994 - art. 94 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Arrêté du 28 mars 2007 - art. 1 (Ab)
-	  - Arrêté du 7 mars 2012 (V)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R221-15 (V)
-	  - Code du tourisme. - art. R221-16 (V)
-	  - Code du tourisme. - art. R221-17 (V)
-	  - Code du tourisme. - art. R221-4 (V)
+	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.
@@ -16796,66 +16301,42 @@ Pour l'application du présent livre :
 
 ###### Article R242-2
 
-Les attributions confiées à la commission départementale de l'action touristique par le présent livre sont exercées par la
-commission de l'action touristique prévue à l'article R. 162-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R162-2 (V)
-
-
-###### Article R242-3
-
 Ne sont pas applicables les références relatives à l'accord instituant l'Espace économique européen faites dans le présent
-livre et les dispositions suivantes :
+livre et les dispositions suivantes : 
 
-1° Le 2° de l'article R. 221-15 ;
+1° Le 2° de l'article R. 221-15 ; 
 
 2° Le chapitre Ier du titre III du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 16
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 16
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R221-15 (V)
+	  - Code du tourisme. - art. R221-15
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. R242-2 (M)
+	  - Code du tourisme. - art. R242-3 (T)
 
 
-###### Article R242-4
+###### Article R242-3
 
 Les références faites, par des dispositions du présent livre applicables à Saint-Pierre-et-Miquelon, à des dispositions qui
 n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 16
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 16
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R242-3 (V)
+	  - Code du tourisme. - art. R242-4 (T)
 
 
 #### Chapitre III : Dispositions relatives à Mayotte.
@@ -16892,66 +16373,46 @@ Pour l'application du présent livre :
 
 ###### Article R243-3
 
-Les attributions confiées à la commission départementale de l'action touristique sont exercées par la commission de l'action
-touristique prévue à l'article R. 163-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R163-3 (V)
-
-
-###### Article R243-4
-
 Ne sont pas applicables les références faites dans le présent livre à l'accord instituant l'Espace économique européen et les
-dispositions suivantes :
+dispositions suivantes : 
 
-1° La section 5 du chapitre Ier du titre Ier ;
+1° La section 5 du chapitre Ier du titre Ier ; 
 
 2° Le 2° de l'article R. 221-15.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 16
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 16
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R221-15 (V)
+	  - Code du tourisme. - art. R221-15
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. R243-3 (Ab)
+	  - Code du tourisme. - art. R243-4 (T)
 
 
-###### Article R243-5
+###### Article R243-4
 
 Les références faites, par des dispositions du présent livre applicables à Mayotte, à des dispositions qui n'y sont pas
 applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 16
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 16
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R243-4 (V)
+	  - Code du tourisme. - art. R243-5 (T)
 
 
 ## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.
@@ -16960,45 +16421,9 @@ applicables sont remplacées par les références aux dispositions ayant le mêm
 
 #### Chapitre Ier : Hôtels.
 
-##### Section 1 : Autorisation d'exploitation.
+##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.
 
-###### Article D311-1
-
-Les règles relatives aux autorisations d'exploitation commerciale de certains établissements hôteliers sont fixées par les
-articles R. 752-7, R. 752-14 et R. 752-17 à R. 752-33 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-1 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-2 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 19 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 20 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 21 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 22 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 23 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 23-1 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 23-2 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code de commerce - art. R752-14
-	  - Code de commerce - art. R752-17
-	  - Code de commerce - art. R752-7
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R361-1 (V)
-
-
-##### Section 2 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.
-
-###### Article D311-3
+###### Article D311-2
 
 Cette commission, présidée par le préfet ou son représentant, comprend :
 
@@ -17021,66 +16446,68 @@ En cas de partage égal des voix, celle du président est prépondérante.
 
 	**Anciens textes**:
 
-	  - Décret n°65-374 du 18 mai 1965 - art. 2 (Ab)
+	  - Décret n°65-374 du 18 mai 1965 - art. 1 (Ab)
+	  - Code du tourisme. - art. D311-3 (T)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-2 (V)
+	  - Code du tourisme. - art. L311-2
 
 
-###### Article R311-2
+###### Article R311-1
 
 Dans chaque département, une commission est chargée de se prononcer, à défaut d'accord entre propriétaire et locataire, sur
-l'exécution des travaux d'équipement et d'amélioration prévus à l'article L. 311-2, lorsque ces travaux affectent le gros
+l'exécution des travaux d'équipement et d'amélioration prévus à l'article L. 311-1, lorsque ces travaux affectent le gros
 oeuvre de l'immeuble.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°65-374 du 18 mai 1965 - art. 1 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 18-1 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 18-2 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 19 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 20 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 21 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 22 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 23 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 23-1 (Ab)
+	  - Décret n°93-306 du 9 mars 1993 - art. 23-2 (Ab)
+	  - Code du tourisme. - art. R311-2 (T)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L311-2
+	  - Code du tourisme. - art. L311-1 (V)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du tourisme. - art. R311-1 (V)
+	  - Code du tourisme. - art. R361-1 (V)
 
 
-###### Article R311-4
+###### Article R311-3
 
-La commission est saisie par lettre recommandée avec demande d'avis de réception adressée au préfet.
+La commission est saisie par lettre recommandée avec demande d'avis de réception adressée au préfet. 
 
-A cette lettre doivent être joints la copie de la notification et des pièces prévues à l'article L. 311-3 et, le cas échéant,
-la copie de la réponse à cette notification et tous mémoires complémentaires.
+A cette lettre doivent être joints la copie de la notification et des pièces prévues à l'article L. 311-2 et, le cas échéant,
+la copie de la réponse à cette notification et tous mémoires complémentaires. 
 
 Dans un délai de huit jours de la réception, le préfet avise dans la même forme l'autre partie en l'invitant à fournir à la
-commission dans un délai de quinze jours tous éléments d'appréciation et documents de nature à justifier son point de vue.
+commission dans un délai de quinze jours tous éléments d'appréciation et documents de nature à justifier son point de vue. 
 
 La commission, qui peut entendre toute personne lui paraissant qualifiée pour l'éclairer, doit se prononcer dans un délai de
-trois mois de la date de réception de la demande.
+trois mois de la date de réception de la demande. 
 
-L'avis de la commission est notifié intégralement aux parties par lettre recommandée avec demande d'avis de réception.
+L'avis de la commission est notifié intégralement aux parties par lettre recommandée avec demande d'avis de réception. 
 
-Après cette notification, le locataire peut procéder aux travaux pour lesquels l'avis de la commission est favorable.
+Après cette notification, le locataire peut procéder aux travaux pour lesquels l'avis de la commission est favorable. 
 
 Le défaut de notification, trois mois après la réception de la demande, vaut avis favorable.
 
@@ -17088,32 +16515,21 @@ Le défaut de notification, trois mois après la réception de la demande, vaut 
 
 	**Anciens textes**:
 
-	  - Décret n°65-374 du 18 mai 1965 - art. 3 (Ab)
+	  - Décret n°65-374 du 18 mai 1965 - art. 2 (Ab)
+	  - Code du tourisme. - art. R311-4 (T)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cité par**:
-
-	  - Arrêté du 18 décembre 2015 - art. 1 (VD)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L311-3
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R311-3 (V)
+	  - Code du tourisme. - art. L311-2 (V)
 
 
-##### Section 3 : Classement.
+##### Section 2 : Classement.
 
-###### Article D311-5
+###### Article D311-4
 
 L'hôtel de tourisme est un établissement commercial d'hébergement classé, qui offre des chambres ou des appartements meublés
 en location à une clientèle de passage qui y effectue un séjour caractérisé par une location à la journée, à la semaine ou au
@@ -17125,12 +16541,33 @@ n'excède pas neuf mois par an en une ou plusieurs périodes.
 
 	**Anciens textes**:
 
-	  - Arrêté 1986-02-14 art. 1 I
-	  - Arrêté du 14 février 1986 - art. 1 (Ab)
+	  - Décret n°65-374 du 18 mai 1965 - art. 3 (Ab)
+	  - Code du tourisme. - art. D311-5 (T)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 18 décembre 2015 - art. 1 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L311-3
+
+
+###### Article D311-5
+
+Les hôtels de tourisme sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
+critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
+ministre chargé du tourisme. Le tableau de classement est révisé au moins tous les cinq ans. 
+
+Les éditeurs des guides et annuaires de tourisme et des indicateurs de publicité doivent respecter les classements ainsi
+faits lorsqu'ils s'y réfèrent. Aucun document de publicité touristique ne doit contenir d'indication de nature à créer une
+équivoque à cet égard.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -17139,147 +16576,31 @@ n'excède pas neuf mois par an en une ou plusieurs périodes.
 	  - Code du tourisme. - art. D311-7 (V)
 	  - Code du tourisme. - art. R231-1-1 (An)
 
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-4 (V)
-
-
-###### Article D311-7
-
-Les établissements d'hébergement définis à l'article D. 311-5 sont répartis dans l'une des catégories exprimées par un nombre
-d'étoiles croissant avec le confort de l'établissement, à l'exception de la première catégorie des hôtels de tourisme qui ne
-comporte pas d'étoile.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 14 février 1986 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Arrêté du 23 décembre 2009 - art. 2 (V)
-	  - Arrêté du 8 décembre 2014 - art. 7 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D311-5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-6 (V)
-
-
-###### Article D311-9
-
-La décision de classement est prise par arrêté du préfet, après avis de la commission départementale de l'action touristique
-dans des conditions fixées par arrêté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1986-02-14 art. 7, al. 1, hôtels
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Cité par**:
-
-	  - Arrêté du 19 février 2010 (V)
-	  - Arrêté du 19 février 2010 - art. 1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-8 (V)
-
-
-###### Article D311-13
-
-Les règles relatives à la publicité à l'intérieur des lieux de vente à caractère spécialisé au sens du 3° de l'article L.
-3323-2 du code de la santé publique sont, en ce qui concerne les hôtels, fixées par les articles R. 3323-2 à R. 3323-4 du
-code de la santé publique, reproduits à l'article D. 313-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Cite**:
-
-	  - Code de la santé publique
-	  - Code de la santé publique - art. L3323-2
-	  - Code du tourisme. - art. D313-1
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-11 (V)
-
-
-###### Article D311-15
-
-Pour la vérification de leur conformité aux conditions requises pour leur classement, les hôtels admettent la visite des
-agents des administrations de l'Etat chargées du tourisme, de la concurrence, de la consommation et de la répression des
-fraudes, ou des agents d'une autre administration, habilités par décision du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 14 février 1986 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code du tourisme. - art. R311-17 (Ab)
-
-
-###### Article R311-6
-
-Les hôtels sont répartis en catégories selon des modalités fixées par arrêté.
-
-Les éditeurs des guides et annuaires de tourisme et des indicateurs de publicité doivent respecter les classements ainsi
-faits lorsqu'ils s'y réfèrent. Aucun document de publicité touristique ne doit contenir d'indication de nature à créer une
-équivoque à cet égard.
-
-**Liens relatifs à cet article**
+	  - Code du tourisme. - art. L141-2
 
 	**Anciens textes**:
 
-	  - Décret n°66-371 1966-06-13 art. 1 (hôtels)
+	  - Code du tourisme. - art. R311-6 (T)
 
-	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+###### Article D311-6
+
+L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
+l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
+des documents suivants : 
+
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des hôtels par le
+Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 311-6.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -17289,95 +16610,100 @@ faits lorsqu'ils s'y réfèrent. Aucun document de publicité touristique ne doi
 	  - Code du tourisme. - art. R311-11 (M)
 	  - Code du tourisme. - art. R312-2 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. D311-5 (V)
+	  - Code du tourisme. - art. D311-7 (T)
 
 
-###### Article R311-8
+###### Article D311-7
 
-La qualité d'hôtel de tourisme est reconnue aux seuls établissements dont l'installation présente des caractéristiques de
-confort précisées par arrêté et dont l'exploitation est assurée dans des conditions satisfaisantes de moralité et de
-compétence professionnelle.
+Le certificat de visite prévu au b de l'article D. 311-6 doit comprendre : 
 
-La demande de classement, expressément formulée par l'exploitant, est adressée au préfet du département où est installé
-l'établissement.
+a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
+établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
+département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 3 octobre 2014 - art. 2 (VD)
+	  - Arrêté du 23 décembre 2009 - art. 2 (V)
+	  - Arrêté du 8 décembre 2014 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. R311-8 (T)
+
+
+###### Article D311-8
+
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente section. 
+
+Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
+sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
 	  - Arrêté du 23 décembre 2009 - art. 3 (V)
+	  - Arrêté du 3 octobre 2014 - art. 2 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
 	**Anciens textes**:
 
-	  - Arrêté 1986-02-14 art. 6 al. 1 (hôtels)
-	  - Décret n°66-371 1966-06-13 art. 3 (hôtels)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-7 (V)
+	  - Code du tourisme. - art. D311-9 (T)
 
 
-###### Article R311-10
+###### Article D311-9
 
-Les établissements classés comme hôtels de tourisme apposent obligatoirement sur leur façade un panonceau dont les
-caractéristiques et les modalités de distribution sont fixées par arrêté.
+Les établissements classés hôtels de tourisme apposent obligatoirement sur leur façade un panonceau selon un modèle établi
+par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°66-371 1966-06-13 art. 5 (hôtels)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-9 (V)
-
-
-###### Article R311-11
-
-Les exploitants des hôtels classés ou non en application de l'article R. 311-6 doivent établir en double exemplaire, selon
-les modalités fixées par arrêté, une note dont ils remettent l'original à leur client et dont ils conservent le double
-pendant un an.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 1966-06-13 art. 8 (hôtels)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Arrêté du 19 février 2010 (V)
+	  - Arrêté du 19 février 2010 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D311-6
+	  - Code du tourisme. - art. L141-2
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. R311-10 (T)
 
 
-###### Article R311-12
+###### Article D311-10
 
 Selon des modalités fixées par arrêté, les exploitants des établissements relevant de l'industrie hôtelière doivent assurer à
 l'égard du client la publicité des prix de leurs prestations de services, notamment par affichage aux bureaux de réception et
@@ -17386,28 +16712,39 @@ concerne les prix des repas et prestations assurées par le restaurant.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
+
 	**Anciens textes**:
 
-	  - Décret n°66-371 du 13 juin 1966 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-10 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R312-2 (Ab)
+	  - Code du tourisme. - art. R311-12 (T)
 
 
-###### Article R311-14
+###### Article D311-11
+
+Les règles relatives à la publicité à l'intérieur des lieux de vente à caractère spécialisé au sens du 3° de l'article L.
+3323-2 du code de la santé publique sont, en ce qui concerne les hôtels, fixées par les articles R. 3323-2 à R. 3323-4 du
+code de la santé publique, reproduits à l'article D. 312-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L3323-2 (V)
+	  - Code de la santé publique - art. R3323-2 (V)
+	  - Code du tourisme. - art. D312-1 (V)
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. D311-13 (T)
+
+
+###### Article D311-12
 
 Les modalités d'application des dispositions des articles de la présente section sont déterminées par arrêtés conjoints du
 ministre chargé de l'économie et des finances, du ministre chargé du tourisme et, s'il y a lieu, du ministre chargé de
@@ -17421,451 +16758,78 @@ de l'outre-mer.
 
 	**Anciens textes**:
 
-	  - Décret n°66-371 1966-06-13 art. 10 (hôtels)
+	  - Décret n°66-371 du 13 juin 1966 - art. 9 (Ab)
+	  - Code du tourisme. - art. R311-14 (T)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D311-12 (Ab)
-
-
-##### Section 4 : Sanctions.
-
-###### Article R311-16
-
-Le préfet peut prononcer le déclassement ou la radiation de la liste des établissements classés pour défaut ou insuffisance
-grave d'entretien de l'immeuble et des installations et, d'une façon générale, lorsque l'exploitation cesse d'être assurée
-dans des conditions satisfaisantes d'accueil, de moralité et de compétence professionnelle.
-
-Toutes les réclamations faisant état de tels manquements sont soumises au préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1986-02-14 art. 12 al.1, al. 2 (hôtels)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R311-13 (V)
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. R311-18 (T)
+	  - Code du tourisme. - art. R312-2 (Ab)
 
 
-###### Article R311-17
+##### Section 3 : Sanctions.
 
-Le non-respect de l'obligation prévue à l'article D. 311-15 entraîne la radiation de la liste des établissements classés de
-tourisme.
+###### Article R311-13
+
+Le préfet peut prononcer la radiation de la liste des établissements classés pour défaut ou insuffisance grave d'entretien de
+l'immeuble et des installations. 
+
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté du 14 février 1986 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D311-15
+	  - Code du tourisme. - art. L141-2
 
 	**Cité par**:
-
-	  - Code du tourisme. - art. R311-18 (T)
-
-
-###### Article R311-18
-
-Les sanctions prévues aux articles R. 311-16 et R. 311-17 ne peuvent être prononcées sans que l'intéressé ait été
-préalablement avisé des mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Nouveaux textes**:
 
 	  - Code du tourisme. - art. R311-14 (V)
 
-	**Cite**:
-
-	  - Code du tourisme. - art. R311-16
-	  - Code du tourisme. - art. R311-17
-
-
-###### Article R311-19
-
-Lorsqu'une décision de classement, de déclassement ou de radiation fait l'objet d'un recours gracieux, la commission
-départementale ou le Conseil national du tourisme qui a eu à en connaître est à nouveau consulté : les exploitants intéressés
-peuvent, sur leur demande, être entendus.
-
-**Liens relatifs à cet article**
-
 	**Anciens textes**:
 
-	  - Arrêté du 14 février 1986 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
+	  - Code du tourisme. - art. R311-16 (T)
 
 
-#### Chapitre II : Restaurants.
+###### Article R311-14
 
-##### Section 1 : Classement.
-
-###### Article D312-1
-
-Sont classées dans la catégorie restaurant de tourisme les entreprises commerciales de restauration dont la clientèle est
-principalement touristique et qui peuvent être exploitées toute l'année en permanence ou seulement en période saisonnière.
-L'établissement est dit restaurant saisonnier lorsque l'ouverture n'excède pas une durée de neuf mois par an fractionnée en
-une ou plusieurs périodes.
-
-Le service ainsi que le paiement sont effectués à table pour une clientèle assise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1999-09-27 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-
-###### Article D312-4
-
-L'établissement doit répondre aux réglementations en vigueur dans les domaines du commerce, de l'urbanisme, de la sécurité,
-de l'hygiène et la salubrité ainsi qu'aux normes d'accessibilité aux personnes handicapées à mobilité réduite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1999-09-27 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-
-###### Article D312-5
-
-Les règles relatives à la publicité à l'intérieur des lieux de vente à caractère spécialisé au sens du 3° de l'article L.
-3323-2 du code de la santé publique sont, en ce qui concerne les restaurants, fixées par les articles R. 3323-2 à R. 3323-4
-du code de la santé publique, reproduits à l'article D. 313-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la santé publique
-	  - Code de la santé publique - art. L3323-2
-	  - Code du tourisme. - art. D313-1
-
-
-###### Article D312-6
-
-Le classement " restaurant de tourisme " est demandé par l'exploitant qui adresse par lettre recommandée avec accusé de
-réception sa déclaration de classement au préfet du département du lieu d'implantation de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1999-09-27 art. 4, al. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D312-11 (Ab)
-
-
-###### Article D312-11
-
-Le préfet communique la liste des restaurants de tourisme à la commission départementale de l'action touristique le 1er
-janvier et le 1er juillet de chaque année et la publie au Recueil des actes administratifs de l'Etat dans le département.
-
-A l'issue de la période de trois ans, le classement est renouvelable sur présentation d'une nouvelle demande de l'exploitant
-selon la procédure fixée aux articles D. 312-6 et R. 312-10 dont les modalités sont déterminées par arrêté.
-
-L'exploitant est tenu d'informer, par lettre recommandée avec accusé de réception, le préfet en cas de changement des
-caractéristiques et conditions mentionnées aux articles pouvant avoir un effet sur le classement. 
-
-En cas de changement d'exploitant, une nouvelle demande de classement doit être déposée.
+La radiation prévue à l'article R. 311-13 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
-
-	**Abrogé par**:
-
 	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D312-6
-	  - Code du tourisme. - art. R312-10
-
-
-###### Article R312-2
-
-Les dispositions des articles R. 311-6 et R. 311-12 sont applicables aux restaurants.
-
-**Liens relatifs à cet article**
+	  - Code du tourisme. - art. R311-13
 
 	**Anciens textes**:
 
-	  - Décret n°66-371 du 13 juin 1966 - art. 2 (Ab)
+	  - Code du tourisme. - art. R311-18 (T)
 
-	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.
 
-	**Abrogé par**:
+#### Chapitre Ier : Hôtels.
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
+#### Chapitre II : Cafés et débits de boissons.
 
-	**Cite**:
-
-	  - Code du tourisme. - art. D311-6
-	  - Code du tourisme. - art. R311-12
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R312-8 (Ab)
-
-
-###### Article R312-3
-
-La qualité de restaurant de tourisme est reconnue aux seuls établissements dont l'installation présente des caractéristiques
-de confort précisées par arrêté et dont l'exploitation est assurée dans des conditions satisfaisantes de moralité et de
-compétence professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 du 13 juin 1966 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R312-10 (Ab)
-
-
-###### Article R312-7
-
-Les établissements classés comme restaurants de tourisme apposent obligatoirement sur leur façade un panonceau dont les
-caractéristiques et les modalités de distribution sont fixées dans les conditions prévues par arrêté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 1966-06-13 art. 5 (restaurants)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-
-###### Article R312-8
-
-Les exploitants des restaurants classés ou non en application de l'article R. 312-2 doivent établir en double exemplaire,
-selon les modalités fixées par arrêté, une note dont ils remettent l'original à leur client et dont ils conservent le double
-pendant un an.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 1966-06-13 art. 8 (restaurants)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R312-2
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R312-9 (Ab)
-
-
-###### Article R312-9
-
-Les modalités d'application des articles R. 312-2 à R. 312-7 sont fixées par arrêtés du ministre chargé du tourisme après
-avis du ministre chargé de l'outre-mer et celles de l'article R. 312-8 par arrêté du ministre chargé de l'économie et des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 1966-06-13 art. 10 (restaurants)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cite**:
-
-	  - Code du tourisme.
-	  - Code du tourisme. - art. R312-8
-
-
-###### Article R312-10
-
-Le préfet dispose d'un délai de deux mois à partir de la date de l'accusé de réception de la demande pour s'opposer au
-classement. A l'expiration de ce délai, le classement est réputé acquis au déclarant pour trois ans.
-
-Si le dossier est incomplet, le préfet invite, par lettre recommandée avec demande d'avis de réception, le déclarant à
-fournir les pièces complémentaires obligatoires dans les mêmes conditions que celles définies à l'article R. 312-3. Les
-dispositions de l'alinéa précédent s'appliquent. Le délai au terme duquel le classement est réputé acquis court à compter de
-la date de réception des pièces complémentaires demandées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1999-09-27 art. 4 (deux derniers alinéas)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D312-11 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R312-3
-
-
-##### Section 2 : Sanctions.
-
-###### Article R312-12
-
-Le préfet est chargé du contrôle de la conformité de l'établissement. L'exploitant admet la visite des agents des
-administrations de l'Etat habilités par le préfet.
-
-Après constatation du non-respect des dispositions de classement, le préfet met en demeure l'intéressé de se mettre en
-conformité avec les dispositions réglementaires du présent chapitre dans un délai de deux mois. Au terme de ce délai, si
-l'exploitant ne s'est pas mis en conformité, le préfet procède à la radiation de la liste des restaurants de tourisme après
-avis de la commission départementale d'action touristique.
-
-Une telle sanction ne peut être prononcée sans que l'intéressé ait été préalablement avisé de la mesure envisagée et invité à
-se faire entendre personnellement ou par mandataire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 1966-06-13 art. 5 al. 5, al. 6
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-
-#### Chapitre III : Cafés et débits de boissons.
-
-###### Article D313-1
+###### Article D312-1
 
 Les règles relatives à la publicité à l'intérieur des lieux de vente à caractère spécialisé, notamment les restaurants et
 hôtels, sont fixées par les articles R. 3323-2 à R. 3323-4 du code de la santé publique ci-après reproduits : 
 
-" Art.R. 3323-2 du code de la santé publique. 
+" Art. R. 3323-2 du code de la santé publique. 
 
 Les lieux de vente à caractère spécialisé mentionnés au 3° de l'article L. 3323-2 sont : 
 
@@ -17874,19 +16838,19 @@ conditions prévues aux articles L. 3331-1 à L. 3331-3, à l'exception des stat
 
 2° Les débits temporaires prévus aux articles L. 3334-1 et L. 3334-2 ; 
 
-3° Les installations permanentes de vente directe de boissons alcooliques par les exploitants agricoles. "
+3° Les installations permanentes de vente directe de boissons alcooliques par les exploitants agricoles. " 
 
-" Art.R. 3323-3 du code de la santé publique.
+"  Art. R. 3323-3 du code de la santé publique. 
 
 A l'intérieur des lieux de vente définis à l'article R. 3323-2, la dimension d'une affichette publicitaire en faveur d'une
-boisson alcoolique ne peut excéder 0, 35 mètre carré. 
+boisson alcoolique ne peut excéder 0,35 mètre carré. 
 
 Dans les salles des débits de boissons, des restaurants et des hôtels, des chevalets évoquant une boisson alcoolique peuvent
 être disposés sur un comptoir ou sur une table. 
 
-Ces affichettes et chevalets doivent être conformes aux prescriptions de l'article L. 3323-4. "
+Ces affichettes et chevalets doivent être conformes aux prescriptions de l'article L. 3323-4. " 
 
-" Art.R. 3323-4 du code de la santé publique. 
+" Art. R. 3323-4 du code de la santé publique. 
 
 Dans les débits de boissons, restaurants et hôtels, les matériels, la vaisselle et les objets de toute nature strictement
 réservés au fonctionnement de l'établissement, à l'usage du personnel pendant ses activités professionnelles et à celui de la
@@ -17902,34 +16866,39 @@ tiers de la surface du parasol. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L3323-2 (V)
+	  - Code de la santé publique - art. L3323-4 (V)
+	  - Code de la santé publique - art. L3331-1 (V)
+	  - Code de la santé publique - art. L3334-1 (V)
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. R3323-2
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. R3323-3
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. R3323-4
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. R3323-2 (V)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. R3323-3 (V)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. R3323-4 (V)
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. D311-13 (T)
-	  - Code du tourisme. - art. D312-5 (Ab)
+	  - Code du tourisme. - art. D311-11 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. D312-1 (V)
+	  - Code du tourisme. - art. D313-1 (T)
 
 
-###### Article D313-2
+###### Article D312-2
 
 Les règles relatives aux dérogations mentionnées à l'article L. 3335-4 du code de la santé publique, reproduit à l'article L.
 313-1 du présent code, sont fixées par les articles D. 3335-16 à D. 3335-18 du code de la santé publique ci-après
 reproduits : 
 
-" Art.D. 3335-16 du code de la santé publique. 
+" Art. D. 3335-16 du code de la santé publique. 
 
 Les dérogations mentionnées à l'article L. 3335-4 font l'objet d'arrêtés annuels du maire de la commune dans laquelle sera
 situé le débit de boissons dont l'ouverture temporaire est sollicitée. 
@@ -17939,21 +16908,21 @@ adressent au plus tard trois mois avant la date de la manifestation prévue. Ces
 événements pour lesquels une dérogation est sollicitée. 
 
 Toutefois, en cas de manifestation exceptionnelle, le maire peut accorder une dérogation au vu de la demande adressée au
-moins quinze jours avant la date prévue de cette manifestation. "
+moins quinze jours avant la date prévue de cette manifestation. " 
 
-" Art.D. 3335-17 du code de la santé publique. 
+" Art. D. 3335-17 du code de la santé publique. 
 
 Pour chaque dérogation sollicitée, la demande doit préciser les conditions de fonctionnement du débit de boissons et les
 horaires d'ouverture souhaités ainsi que les catégories de boissons concernées. 
 
-Il est statué sur ces points dans l'arrêté municipal d'autorisation. "
+Il est statué sur ces points dans l'arrêté municipal d'autorisation. " 
 
-" Art.D. 3335-18 du code de la santé publique. 
+" Art. D. 3335-18 du code de la santé publique. 
 
 Tout établissement mentionné à l'article D. 3335-16 qui ouvre un débit de boissons sans l'autorisation du maire ou sans
 respecter les conditions fixées par la dérogation temporaire est soumis aux procédures énoncées aux articles 4 et 5 du décret
 n° 93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités
-physiques et sportives et la sécurité de ces activités.
+physiques et sportives et la sécurité de ces activités. 
 
 L'exploitation de ces débits de boissons temporaires, autorisés à titre dérogatoire, s'opère dans le cadre des obligations
 prévues par les articles L. 332-3 à L. 332-5 du code du sport. "
@@ -17962,25 +16931,44 @@ prévues par les articles L. 332-3 à L. 332-5 du code du sport. "
 
 	**Cite**:
 
-	  - Décret n°93-1101 du 3 septembre 1993
-	  - Code de la santé publique - art. L3335-4
-	  - Code du tourisme.
-	  - Code du tourisme. - art. L313-1
+	  - Décret n°93-1101 du 3 septembre 1993 - art. 4 (Ab)
+	  - Code du sport. - art. L332-3 (V)
+	  - Code de la santé publique - art. D3335-16 (V)
+	  - Code de la santé publique - art. L3335-4 (M)
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 7
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. D3335-16
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. D3335-17
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. D3335-18
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. D3335-16 (V)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. D3335-17 (V)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. D3335-18 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. D312-2 (V)
+	  - Code du tourisme. - art. D313-2 (T)
+
+
+#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse
+
+
+
+
+###### Article D314-1
+
+L'heure limite de fermeture des débits de boissons ayant pour objet principal l'exploitation d'une piste de danse est fixée à
+7 heures du matin.
+
+La vente de boissons alcooliques n'est plus autorisée dans les débits mentionnés au premier alinéa pendant l'heure et demie
+précédant sa fermeture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 15
 
 
 ### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.
@@ -18548,6 +17536,24 @@ mois, et qui n'y élit pas domicile.
 	  - Code général des impôts, CGI. - art. 1407 (V)
 
 
+###### Article R324-1-2
+
+Le fait, pour une personne qui offre à la location un meublé de tourisme au sens de l'article D. 324-1, de ne pas respecter
+l'obligation de déclaration prévue à l'article L. 324-1-1 est puni des peines prévues pour les contraventions de la troisième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 12
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D324-1
+	  - Code du tourisme. - art. L324-1-1
+
+
 ##### Sous-section 2 : Classement.
 
 ###### Article D324-2
@@ -18932,6 +17938,24 @@ La liste des chambres d'hôtes est consultable en mairie.
 	**Cite**:
 
 	  - Code du tourisme. - art. L324-4 (V)
+
+
+###### Article R324-16
+
+Le fait, pour une personne qui offre à la location une ou plusieurs chambres d'hôtes au sens de l'article D. 324-13, de ne
+pas respecter l'obligation de déclaration prévue à l'article L. 324-4 est puni des peines prévues pour les contraventions de
+la troisième classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 12
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D324-13
+	  - Code du tourisme. - art. L324-4
 
 
 #### Chapitre V : Villages et maisons familiales de vacances.
@@ -19601,7 +18625,7 @@ du code de l'environnement.
 ###### Article D331-9
 
 Les règles relatives à l'inspection des terrains aménagés pour le camping et ceux sur lesquels se trouvent des caravanes,
-lorsqu'ils sont situés dans les zones soumises à un risque naturel ou technologique prévisible, sont fixées par l'article R.
+lorsqu'ils sont situés dans les zones soumises à un risque naturel ou technologique prévisible, sont fixées par l'article  R.
 * 443-12 du code de l'urbanisme ci-après reproduit : 
 
 " R. * 443-12.-Sont habilités à inspecter, même inopinément, les terrains aménagés pour le camping et ceux sur lesquels se
@@ -19610,15 +18634,13 @@ trouvent des caravanes dont le stationnement a été autorisé ou aurait dû l'�
 a) Les personnes visées à l'article L. 461-1 ; 
 
 b) Les fonctionnaires et agents assermentés désignés par le ministre chargé du tourisme et porteurs d'un ordre de mission ou
-d'une commission ; 
-
-c) Les membres de la commission départementale de l'action touristique. "
+d'une commission."
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
 	**Cite**:
 
@@ -21524,18 +20546,13 @@ code général des collectivités territoriales.
 
 ###### Article R361-1
 
-L'article D. 311-1 et le chapitre II du titre IV du présent livre ne sont pas applicables à la Guadeloupe, la Guyane, la
-Martinique et la Réunion.
+Le chapitre II du titre IV du présent livre n'est pas applicable à la Guadeloupe, la Guyane, la Martinique et la Réunion.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D311-1 (V)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
 
 ###### Article R361-2
@@ -21562,19 +20579,18 @@ outre-mer de l'action de l'Etat en mer.
 
 ###### Article R361-3
 
-Les articles D. 332-10, D. 332-13 et D. 343-6 ne sont pas applicables à la Guyane.
+Les articles D. 332-6, D. 332-9 et D. 343-6 ne sont pas applicables à la Guyane.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D332-10 (V)
-	  - Code du tourisme. - art. D332-13 (V)
-	  - Code du tourisme. - art. D343-6 (V)
+	  - Code du tourisme. - art. D332-6
+	  - Code du tourisme. - art. D343-6
 
 
 #### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.
@@ -21596,75 +20612,51 @@ Pour l'application du présent livre :
 
 ###### Article R362-2
 
-Ne sont pas applicables les dispositions suivantes :
+Ne sont pas applicables les dispositions suivantes : 
 
-1° Les sections 1 et 2 du chapitre Ier du titre Ier ;
+1°          La section 1 du chapitre Ier du titre Ier ; 
 
-2° La section 1 du chapitre IV du titre II ;
+2° La section 1 du chapitre IV du titre II ; 
 
 3° Le chapitre II du titre IV du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
 
 ###### Article R362-3
-
-Les attributions confiées à la commission départementale de l'action touristique par le présent livre sont exercées par la
-commission de l'action touristique prévue à l'article R. 162-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R162-2 (V)
-
-
-###### Article R362-4
 
 Les dispositions du code de l'urbanisme sont remplacées par les dispositions du règlement d'urbanisme local ayant le même
 objet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 17
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R362-3 (V)
+	  - Code du tourisme. - art. R362-4 (T)
 
 
-###### Article R362-5
+###### Article R362-4
 
 Les références faites, par des dispositions du présent livre applicables à Saint-Pierre-et-Miquelon, à des dispositions qui
 n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 17
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R362-4 (V)
+	  - Code du tourisme. - art. R362-5 (T)
 
 
 #### Chapitre III : Dispositions relatives à Mayotte.
@@ -21697,100 +20689,74 @@ Pour l'application des dispositions des titres Ier à III du présent livre :
 
 ###### Article R363-3
 
-Les attributions confiées à la commission départementale de l'action touristique par le présent livre sont exercées par la
-commission de l'action touristique prévue à l'article R. 163-3.
+Pour l'application de l'article D. 332-6, les références aux articles L. 411-1 et R. 412-16 du code forestier sont
+respectivement remplacées par celles aux articles L. 411-1 et R. * 412-14 du code forestier de Mayotte. 
+
+Pour l'application de l'article D. 332-9, la référence au 2° de l'article R. 412-17 du code forestier est remplacée par celle
+au dernier alinéa de l'article R. * 412-15 du code forestier de Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R163-3 (V)
+	  - Code forestier - art. L411-1
+	  - Code forestier - art. R412-17
+	  - Code forestier de Mayotte - art. L411-1
+	  - Code forestier de Mayotte - art. R*412-14
+	  - Code forestier de Mayotte - art. R*412-15
+	  - Code du tourisme. - art. D332-6
+	  - Code du tourisme. - art. D332-9
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. R363-4 (T)
 
 
 ###### Article R363-4
 
-Pour l'application de l'article D. 332-10, les références aux articles L. 411-1 et R. 412-16 du code forestier sont
-respectivement remplacées par celles aux articles L. 411-1 et R.* 412-14 du code forestier de Mayotte.
+Ne sont pas applicables les dispositions suivantes : 
 
-Pour l'application de l'article D. 332-13, la référence au 2° de l'article R. 412-17 du code forestier est remplacée par
-celle au dernier alinéa de l'article R.* 412-15 du code forestier de Mayotte.
+1° L'article D. 321-2 ; 
+
+2° Le chapitre III du titre II.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 17
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 	**Cite**:
 
-	  - Code forestier - art. L411-1 (V)
-	  - Code forestier - art. R*412-16 (M)
-	  - Code forestier - art. R412-17 (M)
-	  - Code forestier de Mayotte - art. L411-1 (V)
-	  - Code forestier de Mayotte L411-1, R412-14, R412-15
-	  - Code du tourisme. - art. D332-10 (V)
-	  - Code du tourisme. - art. D332-13 (V)
+	  - Code du tourisme. - art. D321-2
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. R363-3 (M)
+	  - Code du tourisme. - art. R363-5 (T)
 
 
 ###### Article R363-5
-
-Ne sont pas applicables les dispositions suivantes :
-
-1° La section 1 du chapitre Ier du titre Ier ;
-
-2° L'article D. 321-2 ;
-
-3° Le chapitre III du titre II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 17
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D321-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R363-4 (Ab)
-
-
-###### Article R363-6
 
 Les références faites, par des dispositions du présent livre applicables à Mayotte, à des dispositions qui n'y sont pas
 applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 17
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R363-5 (V)
+	  - Code du tourisme. - art. R363-6 (T)
 
 
 ## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.
