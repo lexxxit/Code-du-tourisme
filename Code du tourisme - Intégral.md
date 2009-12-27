@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-12-28
+Version Consolidée au 2009-12-28 00:00:01 +0100
 
 # Partie législative
 
@@ -10178,7 +10178,7 @@ Les dispositions des articles R. 133-20 à D. 133-31 sont applicables aux office
 	  - Code du tourisme. - art. D133-20 (V)
 
 
-### TITRE IV : GROUPEMENTS D'INTÉRÊT PUBLIC.
+### TITRE IV : GROUPEMENTS.
 
 #### Chapitre unique.
 
@@ -10529,10 +10529,6 @@ déclaration est actualisée à leur initiative dès qu'une modification intervi
 	  - Code du tourisme. - art. L211-1
 	  - Code du tourisme. - art. L231-1
 
-
-### TITRE IV : GROUPEMENTS.
-
-#### Chapitre unique.
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
 
@@ -16417,7 +16413,7 @@ applicables sont remplacées par les références aux dispositions ayant le mêm
 
 ## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.
 
-### TITRE Ier : HÔTELS, RESTAURANTS, CAFÉS ET DÉBITS DE BOISSONS.
+### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.
 
 #### Chapitre Ier : Hôtels.
 
@@ -16744,32 +16740,6 @@ code de la santé publique, reproduits à l'article D. 312-1.
 	  - Code du tourisme. - art. D311-13 (T)
 
 
-###### Article D311-12
-
-Les modalités d'application des dispositions des articles de la présente section sont déterminées par arrêtés conjoints du
-ministre chargé de l'économie et des finances, du ministre chargé du tourisme et, s'il y a lieu, du ministre chargé de
-l'outre-mer.
-
-Toutefois, les modalités d'application de l'article R. 311-11 sont fixées par arrêté du ministre chargé de l'économie et des
-finances et celles des articles R. 311-6 à R. 311-10 par arrêtés du ministre chargé du tourisme après avis du ministre chargé
-de l'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-371 du 13 juin 1966 - art. 9 (Ab)
-	  - Code du tourisme. - art. R311-14 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R312-2 (Ab)
-
-
 ##### Section 3 : Sanctions.
 
 ###### Article R311-13
@@ -16817,10 +16787,6 @@ invité à se faire entendre personnellement ou par mandataire.
 
 	  - Code du tourisme. - art. R311-18 (T)
 
-
-### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.
-
-#### Chapitre Ier : Hôtels.
 
 #### Chapitre II : Cafés et débits de boissons.
 
