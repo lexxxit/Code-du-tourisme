@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-22
 
 # Partie législative
 
@@ -3614,9 +3614,30 @@ l'article L. 311-2.
 
 ###### Article L311-6
 
-Les contestations relatives à l'application de la présente section sont jugées conformément aux articles L. 145-56 à L.
-145-60 du code de commerce. Celles qui concernent l'exécution des travaux mentionnés à l'article L. 311-2 ne sont pas
-suspensives de cette exécution.
+La décision de classement d'un hôtel est prise, sur demande de l'exploitant, par l'autorité administrative dans des
+conditions fixées par décret. Ce classement est valable pour une durée de cinq ans.
+
+L'hôtel est classé dans une catégorie, en fonction de critères fixés par un tableau de classement élaboré par l'organisme
+mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 de modernisation de l'économie, ou tout organisme européen équivalent signataire de l'accord
+multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation. Ces organismes évaluateurs ne
+peuvent concomitamment commercialiser auprès des exploitants des hôtels qu'ils contrôlent d'autres prestations de services
+que l'évaluation pour laquelle ceux-ci les ont sollicités.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Sur proposition de l'organisme mentionné à l'article L. 141-2, le ministre chargé du tourisme peut créer par arrêté un label
+reconnaissant les caractéristiques exceptionnelles d'un hôtel tenant notamment à sa situation géographique, à son intérêt
+historique, esthétique ou patrimonial particulier ainsi qu'aux services qui y sont offerts.
+
+**Nota:**
+
+Loi n° 2009-888 art. 10 III. - Le présent article entre en vigueur à une date fixée par décret et au plus tard six mois après
+la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -3624,13 +3645,10 @@ suspensives de cette exécution.
 
 	  - Loi n°64-645 du 1 juillet 1964 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+	  - Code du tourisme. - art. L141-2 (V)
 
 	**Cité par**:
 
@@ -3641,14 +3659,9 @@ suspensives de cette exécution.
 	  - Code du tourisme. - art. D311-6 (VD)
 	  - Code général de la propriété des personnes publ... - art. R2124-18 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L145-56 (V)
-	  - Code du tourisme. - art. L311-2 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. L311-5 (VD)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
 
 ##### Section 3 : Classement
@@ -10666,9 +10679,9 @@ applicables sont remplacées par les références aux dispositions ayant le mêm
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME.
 
-### TITRE Ier : ORGANISATION DE LA VENTE DE VOYAGES ET DE SÉJOURS.
+### TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS.
 
-#### Chapitre Ier : Dispositions communes.
+#### Chapitre unique : Régime de la vente de voyages et de séjours.
 
 ##### Section 1 : Dispositions générales.
 
@@ -11203,16 +11216,6 @@ fournie.
 	  - Code du tourisme. - art. R211-6 (V)
 	  - Code du tourisme. - art. R211-8 (V)
 
-
-##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.
-
-### TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS.
-
-#### Chapitre unique : Régime de la vente de voyages et de séjours.
-
-##### Section 1 : Dispositions générales.
-
-##### Section 2 : Contrat de vente de voyages et de séjours.
 
 ##### Section 3 : Sanctions et mesures conservatoires.
 
@@ -13364,7 +13367,7 @@ conférenciers et après avis du Conseil national de l'enseignement supérieur e
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.
 
-#### Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise.
+#### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.
 
 ##### Section 1 : Dispositions générales.
 
@@ -13400,10 +13403,6 @@ ministre chargé de l'intérieur.
 
 	  - Code de la route. - art. R323-24
 
-
-#### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.
-
-##### Section 1 : Dispositions générales.
 
 ##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.
 
@@ -13814,8 +13813,6 @@ l'article D. 231-12 est puni de l'amende prévue pour les contraventions de la t
 
 	  - Code de procédure pénale - art. R48-1 (VD)
 
-
-#### Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs.
 
 #### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.
 
