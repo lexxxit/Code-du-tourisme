@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-01-25
+Version Consolidée au 2010-02-13
 
 # Partie législative
 
@@ -3572,8 +3572,6 @@ suspensives de cette exécution.
 	  - Code de commerce - art. L145-56
 	  - Code du tourisme. - art. L311-1
 
-
-##### Section 2 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie
 
 ##### Section 2 : Classement
 
@@ -8448,7 +8446,7 @@ inspections générales suivants ou leurs représentants :
 
 - Conseil général des ponts et chaussées ;
 
-- Conseil général de l'agriculture, de l'alimentation et des espaces ruraux ;
+-              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
 - inspection générale de l'administration ;
 
@@ -8474,12 +8472,11 @@ du tourisme).
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 11, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2010-141 du 10 février 2010 - art. 10 (V)
 
 
 ###### Article D122-17
