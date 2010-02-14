@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-02-13
+Version Consolidée au 2010-02-15
 
 # Partie législative
 
@@ -8648,8 +8648,17 @@ Elle peut entendre toute personne invitée à l'initiative de sa présidence.
 
 ###### Article R122-29
 
-Le ministre chargé du tourisme dispose, à titre de services déconcentrés, de délégués régionaux au tourisme qui sont répartis
-sur l'ensemble du territoire. Ils sont nommés par arrêté du ministre chargé du tourisme.
+Le ministre chargé du tourisme dispose, à titre de services déconcentrés, des directions régionales des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi.
+
+**Nota:**
+
+Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région,
+à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
+l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010,
+parus respectivement au Journal officiel des 5 janvier et 14 février 2010). 
+
+Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -8657,102 +8666,12 @@ sur l'ensemble du territoire. Ils sont nommés par arrêté du ministre chargé 
 
 	  - Décret n°60-1161 du 2 novembre 1960 - art. 1 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-
-###### Article R122-30
-
-Dans leur circonscription, les délégués régionaux au tourisme veillent, sous l'autorité des préfets de région, à l'expansion
-des activités touristiques de toute nature et au développement de la promotion touristique. A cet effet, ils ont notamment
-pour mission :
-
-- de contribuer à la diffusion et à l'exécution des instructions du ministre chargé du tourisme ;
-
-- d'assurer la liaison entre celui-ci et les comités régionaux de tourisme ;
-
-- de rassembler, à l'intention du ministre chargé du tourisme, toutes les informations utiles sur les questions ou projets
-d'intérêt touristique ;
-
-- de siéger dans tous les organismes et commissions régionaux ou départementaux dans lesquels la réglementation en vigueur
-prévoit la présence d'un représentant du ministre chargé du tourisme ;
-
-- de proposer aux préfets de région la répartition des subventions de toute nature accordées par la délégation ;
-
-- d'émettre un avis sur les demandes de classement en stations touristiques, balnéaires, de sports d'hiver et d'alpinisme
-présentées par les communes ;
-
-- d'émettre un avis sur les demandes de classement présentées par les hôtels, sur les demandes de licences présentées par les
-agents de voyages, sur les demandes d'agrément présentées par les organismes et les associations de tourisme ;
-
-- d'instruire les réclamations qui leur sont présentées par les touristes ;
-
-- d'émettre, le cas échéant, un avis sur les sanctions administratives qui, conformément à la réglementation en vigueur,
-pourraient être prises à l'encontre d'entreprises touristiques classées ou agréées.
-
-**Nota:**
-
-Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région,
-à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
-l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010,
-parus respectivement au Journal officiel des 5 janvier et 14 février 2010). 
-
-Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-1161 du 2 novembre 1960 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2009-1377 du 10 novembre 2009 - art. 13 (V)
 
 
-###### Article R122-31
-
-Dans leur circonscription, les délégués régionaux au tourisme prêtent leur concours aux préfets de région. A cet effet, ils
-ont notamment pour mission :
-
-- d'assister les préfets de région dans leur action en faveur du développement touristique ;
-
-- d'émettre un avis sur les demandes de cartes de guides-interprètes régionaux ;
-
-- de participer à l'élaboration des programmes d'action économique régionale, en liaison avec les administrations compétentes
-et les organismes qualifiés de toute nature ;
-
-- d'aider les collectivités territoriales et les organisations locales à coordonner leurs efforts de promotion et à établir
-leurs programmes de manifestations d'intérêt touristique.
-
-**Nota:**
-
-Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région,
-à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
-l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010,
-parus respectivement au Journal officiel des 5 janvier et 14 février 2010). 
-
-Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-1161 du 2 novembre 1960 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1377 du 10 novembre 2009 - art. 13 (V)
-
+##### Sous-section 1 : Services déconcentrés en région.
 
 ### TITRE III : LES COLLECTIVITÉS TERRITORIALES ET LEURS GROUPEMENTS.
 
