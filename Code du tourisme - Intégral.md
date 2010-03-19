@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-03-20
 
 # Partie législative
 
@@ -8588,7 +8588,7 @@ le domaine du tourisme :
 
 - le directeur général de l'Institut national de la statistique et des études économiques (INSEE) ;
 
-- le directeur général du Trésor et de la politique économique ;
+- le        directeur général du Trésor ;
 
 - le directeur général des collectivités locales ;
 
@@ -8606,7 +8606,7 @@ le domaine du tourisme :
 
 - le président du Centre national des monuments historiques ;
 
--      le président de l'Agence de développement touristique de la France. 
+- le président de l'Agence de développement touristique de la France. 
 
 Son secrétariat est assuré par la direction chargée du tourisme au sein de laquelle est choisi le rapporteur désigné par
 arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'économie.
@@ -8619,7 +8619,7 @@ arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'é
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
+	  - Décret n°2010-291 du 18 mars 2010 - art. 2 (V)
 
 
 ###### Article D122-28
