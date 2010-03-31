@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-03-20
+Version Consolidée au 2010-04-01
 
 # Partie législative
 
@@ -19387,10 +19387,11 @@ d'urgence motivée.
 
 ###### Article R412-15
 
-Les inspecteurs des affaires sanitaires et sociales ou les médecins inspecteurs de santé publique exercent le contrôle des
-lieux de vacances et vérifient notamment l'exactitude des informations transmises au préfet dans les conditions prévues à R.
-412-14. Il leur appartient notamment de s'assurer de la sécurité des lieux et des personnes ainsi que de l'état de santé,
-d'intégrité ou de bien-être physique et moral de celles-ci.
+Les inspecteurs de l'action sanitaire et sociale, les médecins inspecteurs de santé publique ou les inspecteurs des agences
+régionales de santé ayant la qualité de médecin exercent le contrôle des lieux de vacances et vérifient notamment
+l'exactitude des informations transmises au préfet dans les conditions prévues à R. 412-14. Il leur appartient notamment de
+s'assurer de la sécurité des lieux et des personnes ainsi que de l'état de santé, d'intégrité ou de bien-être physique et
+moral de celles-ci.
 
 A l'issue de leur contrôle, ils établissent soit un constat de conformité, soit des observations précises pour améliorer
 l'organisation et l'accompagnement des personnes accueillies, soit un rapport circonstancié au préfet de département, si les
@@ -19398,13 +19399,9 @@ conditions d'accueil ne sont pas conformes et sont de nature à mettre en danger
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2005-1759 2005-12-29 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2010-344 du 31 mars 2010 - art. 349
 
 	**Cite**:
 
@@ -19419,25 +19416,22 @@ conditions d'accueil ne sont pas conformes et sont de nature à mettre en danger
 
 Le préfet du département, au vu du rapport mentionné à l'article R. 412-15, peut procéder à des injonctions. Si les
 injonctions, adressées conjointement à l'organisme agréé et au responsable du séjour mis en cause, ne sont pas suivies des
-effets indiqués par le préfet dans les délais qu'il a mentionnés, celui-ci met fin à ce séjour.
+effets indiqués par le préfet dans les délais qu'il a mentionnés, celui-ci met fin à ce séjour. 
 
-En cas d'urgence, le préfet du département peut décider la cessation immédiate du séjour.
+En cas d'urgence, le préfet du département peut décider la cessation immédiate du séjour. 
 
 Dans le cadre d'un contrôle d'un séjour, s'il est constaté soit que l'agrément " vacances adaptées organisées " n'a pas été
 obtenu ou n'est plus valable, soit que l'organisme à l'origine du déroulement d'un séjour n'en a pas informé le préfet de
 département concerné, le préfet peut autoriser la poursuite du séjour au vu d'un contrôle sur place et d'un rapport
-circonstancié d'un inspecteur des affaires sanitaires et sociales ou d'un médecin inspecteur de santé publique et en prenant
-en compte la situation et l'intérêt des personnes accueillies.
+circonstancié d'un inspecteur de l'action sanitaire et sociale, d'un médecin inspecteur de santé publique ou d'un inspecteur
+de l'agence régionale de santé ayant la qualité de médecin et en prenant en compte la situation et l'intérêt des personnes
+accueillies.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2005-1759 2005-12-29 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2010-344 du 31 mars 2010 - art. 349
 
 	**Cite**:
 
