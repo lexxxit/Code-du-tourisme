@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -5590,7 +5590,8 @@ aérodromes dont la liste est fixée par l'autorité administrative. "
 ###### Article L343-1
 
 I.-Les règles relatives aux activités exercées par un exploitant agricole qui sont dans le prolongement de l'acte de
-production ou qui ont pour support l'exploitation sont fixées par l'article L. 311-1 du code rural ci-après reproduit : 
+production ou qui ont pour support l'exploitation sont fixées par l'article L. 311-1 du code rural et de la pêche maritime
+ci-après reproduit : 
 
 " Art.L. 311-1 : Sont réputées agricoles toutes les activités correspondant à la maîtrise et à l'exploitation d'un cycle
 biologique de caractère végétal ou animal et constituant une ou plusieurs étapes nécessaires au déroulement de ce cycle ainsi
@@ -5607,20 +5608,16 @@ salariés des professions agricoles, sont considérées comme agricoles les acti
 
 II.-Les règles relatives au régime de protection sociale des non-salariés des professions agricoles applicables aux personnes
 exerçant une activité dans des structures d'accueil touristique situées sur l'exploitation ou dans les locaux de celles-ci
-sont fixées par les deux premiers alinéas de l'article L. 722-1 du code rural. 
+sont fixées par les deux premiers alinéas de l'article L. 722-1 du code rural et de la pêche maritime. 
 
 III.-Les règles relatives aux activités économiques exercées par les sociétés d'investissement pour le développement rural
 dans les zones de revitalisation rurale sont fixées par l'article L. 112-18 du même code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -17700,9 +17697,9 @@ i) Une attestation d'assurance garantissant la responsabilité civile de l'explo
 
 Les règles relatives aux structures d'accueil touristique situées sur l'exploitation agricole ou dans les locaux de celle-ci,
 celles permettant d'effectuer des locations de logement en meublé, ainsi que les prestations afférentes, sont définies à
-l'article D. 722-4 du code rural ci-après reproduit : 
+l'article D. 722-4 du code rural et de la pêche maritime ci-après reproduit : 
 
-" Art.D. 722-4 du code rural. 
+" Art. D. 722-4 du code rural et de la pêche maritime. 
 
 Pour l'application du 1° de l'article L. 722-1, sont considérées comme structures d'accueil touristique celles permettant
 d'effectuer des locations de logement en meublé, des prestations d'hébergement en plein air, des prestations de loisirs ou
@@ -17721,13 +17718,17 @@ détenir plus de 50 % des parts représentatives du capital de ladite société.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. D722-4 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L722-1 (V)
 
 
 ##### Section 2 : Parcs nationaux et régionaux.
@@ -17764,18 +17765,18 @@ réglementaire du code de l'environnement.
 
 ###### Article D343-4
 
-Les règles relatives à l'aliénation des chemins ruraux dans les cas prévus à l'article L. 161-10-1 du code rural sont fixées
-par les articles R. 161-25, R. 161-26 et R. 161-27 du même code.
+Les règles relatives à l'aliénation des chemins ruraux dans les cas prévus à l'article L. 161-10-1 du code rural et de la
+pêche maritime sont fixées par les articles R. 161-25, R. 161-26 et R. 161-27 du même code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural L161-10-1, R161-25, R161-26, R161-27
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code rural - art. L161-10-1 (V)
 
 
 ##### Section 4 : Voies vertes.
