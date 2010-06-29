@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-05-13
+Version Consolidée au 2010-06-30
 
 # Partie législative
 
@@ -1851,11 +1851,11 @@ collectivités territoriales.
 ###### Article L161-1
 
 Les régions de Guadeloupe, de Guyane, de Martinique et de La Réunion définissent les actions en matière de tourisme et de
-loisirs, après avis ou sur proposition des collectivités territoriales et du Conseil économique et social.
+loisirs, après avis ou sur proposition des collectivités territoriales et du Conseil économique, social et environnemental. 
 
 Elles peuvent confier à des agences, créées en application des dispositions de l'article L. 4433-2 du code général des
 collectivités territoriales, la mise en oeuvre de leurs actions. Ces agences exercent les compétences des comités régionaux
-du tourisme et des loisirs.
+du tourisme et des loisirs. 
 
 Les conseils d'administration des agences, dont la composition est fixée par délibération du conseil régional, sont composés
 pour moitié au moins de conseillers régionaux, et comprennent notamment des représentants des organisations professionnelles
@@ -1863,9 +1863,13 @@ intéressées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4433-2 (V)
+	  - Code général des collectivités territoriales - art. L4433-2
 
 	**Cité par**:
 
@@ -1873,11 +1877,7 @@ intéressées.
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales art. L4433-32
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Code général des collectivités territoriales - art. L4433-32 (Ab)
 
 
 ###### Article L161-2
