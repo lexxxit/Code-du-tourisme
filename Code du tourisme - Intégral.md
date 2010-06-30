@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-06-30
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -8629,6 +8629,8 @@ Elle peut entendre toute personne invitée à l'initiative de sa présidence.
 
 ##### Sous-section 1 : Délégation régionale au tourisme.
 
+##### Sous-section 1 : Services déconcentrés en région.
+
 ###### Article R122-29
 
 Le ministre chargé du tourisme dispose, à titre de services déconcentrés, des directions régionales des entreprises, de la
@@ -8653,8 +8655,6 @@ Conformément à l'article 15 du même décret elles ne s'appliquent ni à la r�
 
 	  - Décret n°2009-1377 du 10 novembre 2009 - art. 13 (V)
 
-
-##### Sous-section 1 : Services déconcentrés en région.
 
 ### TITRE III : LES COLLECTIVITÉS TERRITORIALES ET LEURS GROUPEMENTS.
 
@@ -14406,25 +14406,18 @@ contrat de louage ou mandat aux copropriétaires ou associés des sociétés d'a
 
 ###### Article D321-3
 
-Les résidences de tourisme définies à l'article D. 321-1 sont réparties dans l'une des catégories indiquées par arrêté et
-exprimées par un nombre d'étoiles croissant avec le confort de l'établissement.
-
-Aucun établissement ne peut prétendre au classement dans une de ces catégories s'il ne répond à toutes les caractéristiques
-précisées par arrêté.
+Les résidences de tourisme sont réparties dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction
+de critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté
+du ministre chargé du tourisme. 
 
 Les classements ainsi faits s'imposent aux éditeurs des guides et annuaires de tourisme et des indicateurs de publicité.
 Aucun document de publicité touristique ne doit contenir d'indication de nature à créer une équivoque à cet égard.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1986-02-14 art. 3 (résidences)
-	  - Arrêté du 14 février 1986 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
 
 	**Cité par**:
 
@@ -14433,25 +14426,26 @@ Aucun document de publicité touristique ne doit contenir d'indication de nature
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D321-1 (V)
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D321-4
 
-Pour la vérification de leur conformité aux conditions requises pour leur classement, les résidences de tourisme admettent la
-visite des agents des administrations de l'Etat chargées du tourisme, de la concurrence, de la consommation et de la
-répression des fraudes, ou des agents d'une autre administration, habilités par décision du préfet.
+L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
+l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
+des documents suivants : 
+
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des établissements
+demandant leur classement en résidences de tourisme, par le Comité français d'accréditation (COFRAC) ou par tout organisme
+européen équivalent conformément à l'article L. 321-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1986-02-14 art. 4 (résidences)
-	  - Arrêté du 14 février 1986 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
 
 	**Cité par**:
 
@@ -14459,82 +14453,101 @@ répression des fraudes, ou des agents d'une autre administration, habilités pa
 	  - Code du tourisme. - art. D321-6 (VD)
 	  - Code du tourisme. - art. R321-9 (V)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L321-1
+
 
 ###### Article D321-5
 
-Les résidences de tourisme classées signalent leur classement par l'affichage d'un panonceau correspondant.
+Le certificat de visite prévu au b de l'article D. 321-4 doit comprendre : 
+
+a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
+établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
+département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1986-02-14 art. 5
-	  - Arrêté du 14 février 1986 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
 
 	**Cité par**:
 
 	  - Arrêté du 4 juin 2010 - art. 3 (VD)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. D321-4
+
 
 ###### Article D321-6
 
-La demande de classement, expressément formulée par l'exploitant, est adressée au préfet du département où est installé
-l'établissement.
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente section. 
+
+Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
+sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1986-02-14 art. 6 al. 1 (résidences)
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D321-7
 
-La décision de classement est prise par arrêté du préfet, après avis de la commission départementale de l'action touristique
-dans des conditions définies par arrêté.
+Les établissements classés résidences de tourisme apposent obligatoirement sur leur façade un panonceau selon un modèle
+établi par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1986-02-14 art. 7 al. 1 (résidences)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
 
 	**Cité par**:
 
 	  - Arrêté du 22 décembre 2010 - art. 1 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
 
 
 ##### Section 3 : Sanctions.
 
 ###### Article R321-8
 
-Des sanctions peuvent être prononcées par le préfet, pour défaut ou insuffisance grave d'entretien de l'immeuble et des
-installations, et, d'une façon générale, lorsque l'exploitation cesse d'être assurée dans des conditions satisfaisantes
-d'accueil, de moralité et de compétence professionnelle.
+Le préfet peut prononcer la radiation de la liste des établissements classés résidences de tourisme pour défaut ou
+insuffisance grave d'entretien des bâtiments et des installations. 
 
-Toutes les réclamations faisant état de tels manquements sont soumises au préfet de département.
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°66-371 1966-06-13 art. 12 al. 1, al. 2 (résidences)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 6
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 	**Cité par**:
 
@@ -14544,70 +14557,22 @@ Toutes les réclamations faisant état de tels manquements sont soumises au pré
 
 ###### Article R321-9
 
-Le non-respect de l'obligation prévue à l'article D. 321-4 entraîne la radiation de la liste des établissements classés de
-tourisme.
+La radiation prévue à l'article R. 321-8 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°66-371 1966-06-13 art. 4 (sanctions - résidences)
-	  - Arrêté du 14 février 1986 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D321-4 (V)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 6
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R321-10 (VT)
 
-
-###### Article R321-10
-
-Les sanctions prévues aux articles R. 321-8 et R. 321-9 ne peuvent être prononcées sans que l'intéressé ait été préalablement
-avisé des mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 6
-
 	**Cite**:
 
 	  - Code du tourisme. - art. R321-8
-	  - Code du tourisme. - art. R321-9
-
-
-###### Article R321-11
-
-Lorsqu'une décision de classement, de déclassement ou de radiation fait l'objet d'un recours gracieux, la commission
-départementale de l'action touristique ou le Conseil national du tourisme qui a eu à en connaître est à nouveau consulté :
-les exploitants intéressés peuvent, sur leur demande, être entendus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1986-02-14 art. 13 (résidences)
-	  - Arrêté du 14 février 1986 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 6
 
 
 #### Chapitre III : Villages résidentiels de tourisme.
@@ -14671,127 +14636,148 @@ prioritaire pour une période limitée à l'intérieur de l'année.
 
 ##### Section 2 : Classement.
 
-###### Article D323-5
+###### Article D323-4
 
-Le village résidentiel de tourisme signale son classement par l'affichage d'un panonceau placé à l'extérieur des locaux
-communs, conforme à un modèle défini par arrêté.
+Pour être classé village résidentiel de tourisme, l'établissement doit comprendre des locaux meublés répartis en catégories,
+en fonction de critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et
+homologué par arrêté du ministre chargé du tourisme, ainsi que des locaux et équipements communs définis par ledit tableau et
+situés à proximité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 2001-07-19 art. 5 al. 1
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Arrêté du 2 août 2010 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+
+###### Article D323-5
+
+L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
+l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
+des documents suivants : 
+
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité par le Comité français
+d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 323-1 pour le contrôle des locaux
+d'habitation meublés et des locaux et équipements communs d'un établissement demandant son classement en village résidentiel
+de tourisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D323-6 (V)
 	  - Code du tourisme. - art. D323-7 (VD)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L323-1
+
 
 ###### Article D323-6
 
-La demande de classement, expressément formulée par l'exploitant, est adressée au préfet du département où est installé le
-village résidentiel de tourisme.
+Le certificat de visite prévu au b de l'article D. 323-5 doit comprendre : 
+
+a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
+établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
+département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 2001-07-19 art. 6 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
 
 	**Cité par**:
 
 	  - Arrêté du 2 août 2010 - art. 3 (VD)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. D323-5
+
 
 ###### Article D323-7
 
-La décision de classement est prise par arrêté du préfet, après avis de la commission départementale de l'action touristique,
-dans des conditions fixées par arrêté.
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente section. 
 
-Le classement est prononcé pour cinq ans. A l'issue de cette période, il expire d'office et peut être renouvelé conformément
-à la procédure définie par arrêté.
+Il transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique, du dossier de demande
+de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 2001-07-19 art. 7 al. 1 et al. 3
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D323-8
 
-Pour la vérification de sa conformité aux conditions requises pour son classement, le village résidentiel de tourisme admet
-la visite des agents de l'Etat et des personnes habilitées par le préfet.
+Les établissements classés villages résidentiels de tourisme apposent obligatoirement à l'extérieur des locaux communs un
+panonceau selon un modèle établi par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du
+tourisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 2001-07-19 art. 4
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R323-10 (V)
 
 
-###### Article R323-4
-
-Un arrêté conjoint du ministre chargé des finances et du ministre chargé du tourisme fixe les normes de classement des locaux
-d'habitation meublés et des locaux et équipements communs des villages résidentiels de tourisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-343 2001-04-19 art. 1 al. 4 en ce qui concerne les normes de classement
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cité par**:
-
-	  - Arrêté du 2 août 2010 - art. 1 (V)
-
-
 ##### Section 3 : Sanctions.
 
 ###### Article R323-9
 
-Des sanctions peuvent être prononcées par le préfet pour défaut ou insuffisance grave d'entretien de l'immeuble et des
-installations et, d'une façon générale, lorsque l'exploitation cesse d'être assurée dans des conditions satisfaisantes
-d'accueil, de moralité et de compétence professionnelle.
+Le préfet peut prononcer la radiation de la liste des établissements classés villages résidentiels de tourisme pour défaut ou
+insuffisance grave d'entretien des bâtiments et des installations. 
 
-Toutes les réclamations faisant état de tels manquements sont soumises au préfet. Après avis de la commission départementale
-de l'action touristique, le préfet peut, après avertissement, prononcer un déclassement ou une radiation temporaire ou
-définitive.
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 2001-07-19 art. 11
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 7
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 	**Cité par**:
 
@@ -14801,67 +14787,22 @@ définitive.
 
 ###### Article R323-10
 
-Le non-respect de l'obligation prévue à l'article D. 323-8 entraîne la radiation de la liste des établissements classés de
-tourisme.
+La radiation prévue à l'article R. 323-9 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 2001-07-19 art. 4 (sanctions)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D323-8 (V)
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 7
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R323-11 (VT)
 
-
-###### Article R323-11
-
-Les sanctions prévues aux articles R. 323-9 et R. 323-10 ne peuvent être prononcées sans que l'intéressé ait été
-préalablement avisé des mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 7
-
 	**Cite**:
 
-	  - Code du tourisme. - art. R323-10
 	  - Code du tourisme. - art. R323-9
-
-
-###### Article R323-12
-
-Lorsqu'une décision de classement, de déclassement ou de radiation fait l'objet d'un recours gracieux, la commission
-départementale peut entendre, sur leur demande, les exploitants intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 2001-07-19 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 7
 
 
 #### Chapitre IV : Meublés de tourisme et chambres d'hôtes.
@@ -14893,6 +14834,35 @@ mois, et qui n'y élit pas domicile.
 	  - Code général des impôts, CGI. - art. 1407 (V)
 
 
+###### Article D324-1-1
+
+La déclaration de location d'un meublé de tourisme prévue à l'article L. 324-1-1 est adressée au maire de la commune où est
+situé le meublé par tout moyen permettant d'en obtenir un accusé de réception. 
+
+La déclaration précise l'identité et l'adresse du déclarant, l'adresse du meublé de tourisme, le nombre de pièces composant
+le meublé, le nombre de lits et la ou les périodes prévisionnelles de location. 
+
+Tout changement concernant les éléments d'information que comporte la déclaration fait l'objet d'une nouvelle déclaration en
+mairie. 
+
+La liste des meublés de tourisme est consultable en mairie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 14
+
+	**Cité par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
+	  - Décret n°2017-678 du 28 avril 2017 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L324-1-1
+
+
 ###### Article R324-1-2
 
 Le fait, pour une personne qui offre à la location un meublé de tourisme au sens de l'article D. 324-1, de ne pas respecter
@@ -14915,42 +14885,42 @@ classe.
 
 ###### Article D324-2
 
-Les meublés de tourisme sont répartis dans l'une des catégories exprimées par un nombre d'étoiles croissant suivant leur
-confort fixées par arrêté.
+Les meublés de tourisme sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
+critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
+ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1976-12-28 art. 1 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
 	  - Arrêté du 2 août 2010 - art. 1 (V)
 	  - Code général des impôts, CGI. - art. 1407 (M)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
 
 ###### Article D324-3
 
-Afin d'obtenir le classement, le loueur du meublé ou son mandataire est tenu de déposer ou d'adresser au secrétariat de la
-mairie de la commune où est situé le meublé une déclaration conforme à un modèle fixé par arrêté, à laquelle il joint le
-certificat de visite délivré par un organisme agréé et un état descriptif du meublé et de ses conditions de location conforme
-à un modèle fixé par le même arrêté. Le maire délivre en retour un accusé de réception et un numéro d'identification. Il
-transmet au préfet du département chaque dossier de demande de classement d'un meublé.
+Le loueur du meublé ou son mandataire qui souhaite obtenir le classement adresse au représentant de l'Etat dans le
+département où est situé le meublé, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de
+classement constitué des documents suivants : 
+
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des meublés par le
+Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 324-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1976-12-28 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
@@ -14959,84 +14929,123 @@ transmet au préfet du département chaque dossier de demande de classement d'un
 	  - Code du tourisme. - art. D324-8 (Ab)
 	  - Code du tourisme. - art. R324-11 (VT)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L324-1
+
 
 ###### Article D324-4
 
-La décision de classement est prise par arrêté du préfet après consultation de la commission départementale de l'action
-touristique.
+Le certificat de visite prévu au b de l'article D. 324-3 doit comprendre : 
 
-Si la catégorie de classement demandée ne correspond pas aux caractéristiques du meublé, le préfet classe ledit meublé dans
-la catégorie correspondant à ses caractéristiques.
+a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur pour la catégorie demandée ; ce
+rapport de contrôle est établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au
+représentant de l'Etat dans le département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1976-12-28 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
 	  - Arrêté du 2 août 2010 - art. 5 (VD)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. D324-3
+
 
 ###### Article D324-5
 
-Le loueur du meublé ou son mandataire est tenu d'adresser au préfet du département, tous les cinq ans, à la date du
-classement initial, un certificat de visite de son meublé.
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente section. 
+
+Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
+sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1976-12-28 art. 3-1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D324-8 (Ab)
 	  - Code du tourisme. - art. R324-10 (VT)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
 
 ###### Article D324-6
 
-En cas de litige portant sur la conformité du meublé aux normes, le préfet peut être saisi par le locataire par lettre
-recommandée avec demande d'avis de réception dans un délai de huit jours à compter du début de la location.
-
-Il peut faire effectuer une visite des locaux par les personnes qu'il aura habilitées à cet effet.
+Le loueur du meublé ou son mandataire peut signaler le classement de son meublé par l'affichage d'un panonceau selon un
+modèle établi par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme. Il doit
+afficher, de manière visible à l'intérieur du meublé, l'arrêté de classement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1976-12-28 art. 5
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D324-7
 
-Les exploitants des meublés de tourisme sont autorisés à signaler le classement de leurs meublés par l'affichage d'un
-panonceau conforme à un modèle déterminé par arrêté. Le loueur du meublé ou son mandataire doit afficher, de manière visible
-à l'intérieur du meublé, l'arrêté de classement et le dernier certificat de visite.
+Est réputé détenir l'accréditation mentionnée au troisième alinéa de l'article L. 324-1 tout organisme qui, à la date de la
+promulgation de la loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques, était
+titulaire : 
+
+1° Soit de l'agrément délivré par le représentant de l'Etat dans le département, conformément aux dispositions de l'article
+D. 324-8 dans sa rédaction en vigueur à la date du 22 juillet 2009, dès lors qu'il justifie de son adhésion à cette même date
+à un réseau national de promotion et de contrôle des meublés signataire d'une convention passée avec le ministre chargé du
+tourisme en application de l'article R. 324-9 dans sa rédaction en vigueur à la date du 22 juillet 2009 ; 
+
+2° Soit de l'agrément délivré par le ministre chargé du tourisme, conformément aux dispositions de l'article R. 324-9 dans sa
+rédaction en vigueur à la date du 22 juillet 2009. 
+
+Au plus tard à compter du 1er janvier 2011, les visites de contrôle effectuées dans ce cadre doivent être réalisées selon une
+procédure bénéficiant d'un niveau de certification fixé par arrêté du ministre chargé du tourisme. 
+
+Le représentant de l'Etat dans le département procède au retrait de l'agrément : 
+
+1° En cas de non-respect des obligations figurant dans la convention d'agrément ; 
+
+2° Lorsque la délivrance du certificat de visite est liée ou subordonnée, soit directement, soit indirectement, à une
+adhésion audit organisme ou à une offre de commercialisation proposée par ledit organisme. 
+
+Le retrait de l'agrément entraîne la perte définitive du bénéfice de la disposition prévue au premier alinéa du présent
+article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Arrêté 1976-12-28 art. 9
+	  - Loi n°2009-888 du 22 juillet 2009
+	  - Code du tourisme. - art. L324-1
+	  - Code du tourisme. - art. R*324-9
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
@@ -15081,134 +15090,52 @@ qu'il a agréés.
 	  - Code du tourisme. - art. D324-6-1 (VD)
 
 
-###### Article R*324-9
+##### Sous-section 3 : Sanctions.
 
-Le ministre chargé du tourisme peut agréer des organismes de promotion et de contrôle des meublés, représentatifs au plan
-national. Cet agrément est subordonné à la signature d'une convention avec le ministre chargé du tourisme.
+###### Article R324-7
+
+Le préfet peut prononcer la radiation de la liste des meublés classés meublés de tourisme pour défaut ou insuffisance grave
+d'entretien du meublé et de ses installations. 
+
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1976-12-28 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2006-1228 du 6 octobre 2006 - art. 1 (V) JORF 7 octobre 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1650 du 23 décembre 2009 - art. 8
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code du tourisme. - art. D324-6-1 (VD)
-
-
-##### Sous-section 3 : Sanctions.
-
-###### Article R324-10
-
-A la réception du certificat de visite du meublé mentionné à l'article D. 324-5, le préfet prononce selon le cas le maintien
-du classement ou, après avis de la commission départementale de l'action touristique :
-
-- le reclassement ou le déclassement du meublé, dans la catégorie dont il possède toutes les caractéristiques ;
-
-- la radiation, si ses caractéristiques ne correspondent plus aux exigences de la catégorie la plus basse fixée par arrêté.
-
-En cas de non-présentation du certificat de visite, le préfet adresse au loueur de meublé ou à son mandataire une mise en
-demeure de produire le certificat dans un délai de deux mois ; au terme de ce délai, il prend, après avis de la commission
-susmentionnée, un arrêté de radiation du meublé.
-
-**Liens relatifs à cet article**
+	  - Code du tourisme. - art. L141-2
 
 	**Anciens textes**:
 
-	  - Arrêté 1976-12-28 art. 3-1 al. 2 à al. 5
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 8
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D324-5
+	  - Code du tourisme. - art. R324-10 (VT)
 
 	**Cité par**:
-
-	  - Code du tourisme. - art. R324-12 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R324-7 (VD)
-
-
-###### Article R324-11
-
-En cas de litige portant sur la conformité du meublé aux normes, le préfet, après consultation de la commission
-départementale de l'action touristique, peut prononcer selon le cas le déclassement dans la catégorie correspondant au niveau
-de confort ou la radiation de la liste des meublés classés.
-
-Si les renseignements produits dans la déclaration mentionnée à l'article D. 324-3 sont inexacts, le préfet peut, après avis
-de la commission départementale de l'action touristique, radier ledit meublé de la liste des meublés classés.
-
-Le loueur du meublé ou son mandataire ne peut alors engager une nouvelle procédure de classement qu'à l'expiration d'un délai
-d'un an à compter de la notification de la radiation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1976-12-28 art. 5 (sanctions)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 8
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D324-3
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R324-12 (VT)
-
-	**Nouveaux textes**:
 
 	  - Code du tourisme. - art. R324-8 (VD)
 
 
-###### Article R324-12
+###### Article R324-8
 
-Les sanctions prévues aux articles R. 324-10 et R. 324-11 ne peuvent être prononcées sans que l'intéressé ait été
-préalablement avisé des mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
+La radiation prévue à l'article R. 324-7 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1650 du 23 décembre 2009 - art. 8
 
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. R324-11 (VT)
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R324-10
-	  - Code du tourisme. - art. R324-11
+	  - Code du tourisme. - art. R324-7
 
 
 ##### Section 2 : Chambres d'hôtes.
@@ -15265,36 +15192,29 @@ La location est assortie, au minimum, de la fourniture du linge de maison.
 
 La déclaration de location d'une ou plusieurs chambres d'hôtes prévue à l'article L. 324-4 est adressée au maire de la
 commune du lieu de l'habitation concernée par voie électronique, lettre recommandée ou dépôt en mairie et doit faire l'objet
-d'un accusé de réception.
+d'un accusé de réception. 
 
 La déclaration précise l'identité du déclarant, l'identification du domicile de l'habitant, le nombre de chambres mises en
-location, le nombre maximal de personnes susceptibles d'être accueillies et la ou les périodes prévisionnelles de location.
+location, le nombre maximal de personnes susceptibles d'être accueillies et la ou les périodes prévisionnelles de location. 
 
 Tout changement concernant les éléments d'information que comporte la déclaration fait l'objet d'une nouvelle déclaration en
-mairie.
-
-Le maire communique une fois par an au préfet de région, au président du conseil régional et au président du conseil général
-les données statistiques relatives aux déclarations de chambres d'hôtes.
+mairie. 
 
 La liste des chambres d'hôtes est consultable en mairie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Créé par**:
-
-	  - Décret n°2007-1173 du 3 août 2007 - art. 1 () JORF 4 août 2007
-
 	**Cité par**:
 
 	  - Décret n°2007-1173 du 3 août 2007 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 14
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L324-4 (V)
+	  - Code du tourisme. - art. L324-4
 
 
 ###### Article R324-16
@@ -15402,8 +15322,8 @@ exploités que pour des activités correspondant à l'objet des statuts de ces g
 
 ###### Article D325-4
 
-Les villages de vacances sont répartis en catégories selon une procédure et des normes fixées par arrêté conjoint du ministre
-chargé du tourisme et du ministre chargé de l'économie et des finances.
+Les villages de vacances sont répartis en catégories selon des critères fixés par un tableau de classement élaboré par
+l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
@@ -15411,193 +15331,173 @@ chargé du tourisme et du ministre chargé de l'économie et des finances.
 
 	  - Décret n°68-476 du 25 mai 1968 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 1 (V)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
 
 ###### Article D325-5
 
-Un panonceau officiel dont les caractéristiques et les modalités de distribution sont fixées par arrêté du ministre chargé du
-tourisme est obligatoirement apposé sur la façade des réalisations classées villages de vacances.
+L'exploitant d'un village de vacances qui souhaite obtenir le classement adresse au représentant de l'Etat dans le
+département où est installé l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de
+demande de classement constitué des documents suivants : 
+
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des villages de
+vacances par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L.
+325-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°68-476 1968-05-25 art. 7 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D325-6 (VD)
 	  - Code du tourisme. - art. D325-7 (V)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. L325-1
+
 
 ###### Article D325-6
 
-Les demandes de classement formulées par les promoteurs ou les exploitants des villages de vacances sont déposées à la
-préfecture du département. Un rapport de visite doit être établi par un agent désigné par le préfet. La demande et le rapport
-de visite sont présentés à l'examen de la commission départementale de l'action touristique.
+Le certificat de visite prévu au b de l'article D. 325-5 doit comprendre : 
+
+a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
+établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
+département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1982-12-08 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
 
+	**Cite**:
+
+	  - Code du tourisme. - art. D325-5
+
 
 ###### Article D325-7
 
-Le classement est prononcé par un arrêté de classement qui précise la catégorie, la capacité et mentionne éventuellement s'il
-s'agit d'un village de vacances en hébergement dispersé ou en hébergement léger.
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente sous-section.
+
+L'arrêté précise la catégorie de classement, la capacité et mentionne éventuellement s'il s'agit d'un village de vacances en
+hébergement dispersé ou en hébergement léger. 
+
+Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique,
+du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1982-12-08 art. 6
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D325-8
 
-Les agents des ministres chargés du tourisme, de l'économie et des finances, de l'urbanisme, du logement, de la santé, de la
-jeunesse et des sports, porteurs d'un ordre de mission, sont habilités à visiter les villages de vacances classés.
+Les établissements classés villages de vacances apposent obligatoirement sur leur façade un panonceau selon un modèle établi
+par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1982-12-08 art. 10
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Code du tourisme. - art. L141-2
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R325-11 (VT)
 
 
-###### Article D325-9
+##### Sous-section 3 : Sanctions.
 
-L'arrêté de classement est pris par le préfet du département après avis de la commission départementale de l'action
-touristique dans des conditions fixées par arrêté.
+###### Article R325-9
+
+Le préfet peut prononcer la radiation de la liste des établissements classés villages de vacances pour défaut ou insuffisance
+grave d'entretien des bâtiments et des installations. 
+
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 9
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R325-10 (VD)
+
 	**Anciens textes**:
 
-	  - Arrêté 1982-12-08 art. 7 al. 1
+	  - Code du tourisme. - art. R325-10 (VT)
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
-
-
-##### Sous-section 3 : Sanctions.
 
 ###### Article R325-10
 
-En cas d'inobservation des dispositions de la présente section, le préfet du département réexamine le classement, le modifie
-ou le retire, par arrêté, après avis de la commission départementale de l'action touristique.
+La radiation prévue à l'article R. 325-9 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°68-476 du 25 mai 1968 - art. 9 (Ab)
+	  - Code du tourisme. - art. R325-11 (VT)
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 9
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R325-12 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R325-9 (VD)
-
-
-###### Article R325-11
-
-Le refus de la visite mentionnée à l'article D. 325-8 peut entraîner la radiation temporaire ou définitive du classement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1982-12-08 art. 10 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 9
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D325-8
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R325-10 (VD)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R325-12 (VT)
-
-
-###### Article R325-12
-
-Les sanctions prévues aux articles R. 325-10 et R. 325-11 ne peuvent être prononcées sans que l'intéressé ait été
-préalablement avisé des mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2009-1650 du 23 décembre 2009 - art. 9
 
+	**Cité par**:
+
+	  - Code du tourisme. - art. R325-12 (VT)
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R325-10
-	  - Code du tourisme. - art. R325-11
+	  - Code du tourisme. - art. R325-9
 
 
 ##### Section 2 : Maisons familiales de vacances.
@@ -16102,21 +16002,11 @@ la cinquième classe.
 
 ###### Article D332-1
 
-Les terrains aménagés de camping et caravanage sont classés en catégories exprimées par un nombre d'étoiles croissant avec le
-confort des aménagements.
-
-Des arrêtés pris à l'initiative du ministre chargé du tourisme fixent les normes d'équipement et de fonctionnement propres à
-chaque catégorie de terrains aménagés de camping et caravanage. Ils précisent les conditions de la décision de classement.
+Les terrains de camping sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
+critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
+ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-134 1968-02-09 art. 8 al. 1, al. 2
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 	**Cité par**:
 
@@ -16126,27 +16016,39 @@ chaque catégorie de terrains aménagés de camping et caravanage. Ils précisen
 	  - Code du tourisme. - art. R331-8 (V)
 	  - Code du tourisme. - art. R332-11 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+
+##### Section 2 : Procédure de classement.
 
 ###### Article D332-2
 
-Les terrains aménagés de camping et caravanage et les terrains destinés uniquement à la réception de caravanes sont classés
-terrains de camping avec la mention " tourisme " si plus de la moitié du nombre d'emplacements dénommés emplacements "
-tourisme " est destinée à la location à la nuitée, à la semaine ou au mois pour une clientèle de passage.
+L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
+l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
+des documents suivants : 
 
-Sont classés terrains de camping avec la mention " loisirs " les terrains mentionnés à l'alinéa précédent si plus de la
-moitié du nombre des emplacements dénommés emplacements " loisirs " est destinée à une occupation généralement supérieure au
-mois par une clientèle qui n'y élit pas domicile.
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des terrains
+aménagés de camping et caravanage par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent
+conformément à l'article L. 332-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°68-134 du 9 février 1968 - art. 2 (Ab)
 	  - Arrêté du 11 janvier 1993 - art. 2 (Ab)
+	  - Code du tourisme. - art. D332-3 (VT)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 	**Cité par**:
 
@@ -16154,207 +16056,145 @@ mois par une clientèle qui n'y élit pas domicile.
 	  - Code du tourisme. - art. D332-4 (VD)
 	  - Code du tourisme. - art. D333-5-3 (VD)
 
+	**Cite**:
 
-##### Section 2 : Procédure de classement.
+	  - Code du tourisme. - art. L332-1
+
 
 ###### Article D332-3
 
-A compter de la date du dépôt de la demande à la préfecture, l'arrêté de classement doit être pris dans un délai de trois
-mois, après avis de la commission départementale de l'action touristique.
+Le certificat de visite prévu au b de l'article D. 332-2 doit comprendre : 
 
-Faute pour l'autorité administrative de notifier sa décision de classement dans les délais susmentionnés, celle-ci est
-réputée accordée dans la catégorie demandée.
+a) un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
+établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
+département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme
+évaluateur ; 
+
+c) Le projet de règlement intérieur conforme aux modèles arrêtés par le ministre chargé du tourisme.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°68-134 1968-02-09 art. 8 al. 3, al. 4
+	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du tourisme. - art. D332-2 (VD)
+	  - Code du tourisme. - art. D332-2
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. D332-4 (VT)
 
 
 ###### Article D332-4
 
-Des projets de règlements intérieurs conformes aux types généraux agréés par le ministère chargé du tourisme doivent être
-joints aux demandes de classement.
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente section.
+
+L'arrêté porte approbation, après modifications éventuelles, du règlement intérieur et précise le nombre d'emplacements
+autorisés compte tenu de la superficie et des aménagements du terrain. 
+
+Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique,
+du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans. 
+
+Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 332-2, son classement
+demeure jusqu'à la notification de la nouvelle décision relative à ce classement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°68-134 1968-02-09 art. 8 al. 5 1ère phrase
+	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. Annexe I (VD)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du tourisme. - art. D332-3 (VD)
+	  - Code du tourisme. - art. D332-2
+	  - Code du tourisme. - art. L141-2
+
+	**Anciens textes**:
+
+	  - Code du tourisme. - art. D332-5 (VT)
 
 
 ###### Article D332-5
 
-L'arrêté de classement porte approbation, après modifications éventuelles, du règlement intérieur et précise le nombre
-d'emplacements autorisés compte tenu de la superficie et des aménagements du terrain.
+Les établissements classés terrains de camping apposent obligatoirement à leur entrée un panonceau selon un modèle établi par
+l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 12
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
+
 	**Anciens textes**:
 
-	  - Décret n°68-134 1968-02-09 art. 8 al. 5 2ème phrase
+	  - Code du tourisme. - art. D332-6 (VT)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D332-4 (VD)
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D332-6
-
-Dès réception de la demande de classement, les préfets peuvent, sur demande de l'intéressé, accorder un classement
-provisoire.
-
-Ce classement est valable pendant les délais de l'instruction du dossier de classement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-134 1968-02-09 art. 8 al. 6, al. 7
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. D332-5 (VD)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R361-3 (V)
-	  - Code du tourisme. - art. R363-3 (V)
-
-
-###### Article D332-7
-
-La décision de classement est prise par arrêté du préfet, après avis de la commission départementale de l'action touristique,
-dans des conditions fixées par arrêté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1993-01-11 art. 6 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
-
-
-###### Article D332-9
-
-Un panonceau officiel, dont les caractéristiques et les modalités de distribution sont fixées par le ministre chargé du
-tourisme, est obligatoirement apposé à l'entrée des terrains aménagés de camping et caravanage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-134 1968-02-09 art. 14 al. 1
-	  - Décret n°68-134 du 9 février 1968 - art. 14 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R332-11 (VT)
-	  - Code du tourisme. - art. R363-3 (M)
-
-
-###### Article D332-10
 
 Les règles relatives au camping, à la circulation et au stationnement de véhicules motorisés ou de caravanes, dans les forêts
 de protection au sens de l'article L. 411-1 du code forestier, sont fixées par l'article R. 412-16 du code forestier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 	**Liens**:
 
 	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 12
+
+	**Modifié par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 	**Cite**:
 
 	  - Code forestier - art. L411-1
 	  - Code forestier - art. R*412-16
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du tourisme. - art. D332-6 (VD)
+	  - Code du tourisme. - art. D332-10 (VT)
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R361-3 (V)
-	  - Code du tourisme. - art. R363-4 (V)
-
-
-###### Article R332-8
-
-L'exploitant d'un terrain aménagé de camping et caravanage peut demander la révision de classement de son terrain.
-
-A compter de la date de réception de sa demande, la décision doit être prise dans un délai de trois mois, après avis de la
-commission départementale de l'action touristique.
-
-Si l'autorité administrative n'a pas notifié sa décision dans les délais susmentionnés, celle-ci est réputée accordée dans la
-catégorie de classement demandée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-134 du 9 février 1968 - art. 10 (M)
-	  - Décret n°68-134 du 9 février 1968 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
+	  - Code du tourisme. - art. R363-3 (V)
 
 
 ##### Section 3 : Sanctions.
@@ -16381,74 +16221,50 @@ de l'article R. 412-17 du code forestier.
 	  - Code du tourisme. - art. R363-4 (V)
 
 
-###### Article R332-11
+###### Article R332-7
 
-Le déclassement ou, en cas de récidive, le retrait de classement provisoire ou définitif peut être prononcé par le préfet,
-après avis de la commission départementale de l'action touristique et notamment :
+Le préfet peut prononcer la radiation de la liste des établissements classés terrains de camping pour défaut ou insuffisance
+grave d'entretien des aménagements. 
 
-1° Dans le cas de non-conformité aux caractéristiques fixées par les arrêtés mentionnés à l'article D. 332-1 ;
-
-2° Pour défaut ou insuffisance grave d'entretien des aménagements ;
-
-3° Pour faute grave de l'exploitant dans l'accueil des usagers et sur le vu de réclamations justifiées ;
-
-4° Pour non-observation des décisions de classement ;
-
-5° Pour non-respect des dispositions concernant les panonceaux mentionnés à l'article D. 332-9 ;
-
-6° En cas de fermeture temporaire du terrain et d'évacuation des emplacements décidée par l'autorité compétente en
-application de l'article R. 480-7 du code de l'urbanisme.
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 10
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
 
 	**Anciens textes**:
 
-	  - Décret n°68-134 du 9 février 1968 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 10
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D332-1
-	  - Code du tourisme. - art. D332-9
+	  - Code du tourisme. - art. R332-11 (VT)
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. R332-12 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R332-7 (VD)
+	  - Code du tourisme. - art. R332-8 (VD)
 
 
-###### Article R332-12
+###### Article R332-8
 
-Les sanctions prévues à l'article R. 332-11 ne peuvent être prononcées sans que l'intéressé ait été préalablement avisé des
-mesures envisagées et invité à se faire entendre personnellement ou par mandataire.
+La radiation prévue à l'article R. 332-7 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 10
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 10
+	  - Code du tourisme. - art. R332-12 (VT)
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R332-11
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R332-8 (VD)
+	  - Code du tourisme. - art. R332-7
 
 
 #### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.
@@ -16541,49 +16357,176 @@ la semaine ou au mois, pour une clientèle qui n'y élit pas domicile.
 
 ###### Article D333-5
 
-L'exploitation d'un parc résidentiel de loisirs sous régime hôtelier est subordonnée à un arrêté de classement délivré par le
-préfet, après consultation de la commission départementale de l'action touristique, dans des conditions fixées par arrêté.
+Les parcs résidentiels de loisirs exploités sous régime hôtelier sont répartis dans l'une des catégories désignées par un
+nombre d'étoiles croissant, en fonction de critères fixés par un tableau de classement élaboré par l'organisme mentionné à
+l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Arrêté 1980-12-18 art. 4
 	  - Arrêté du 18 décembre 1980 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+
+
+###### Article D333-5-1
+
+L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
+l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
+des documents suivants : 
+
+a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+
+b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des parcs
+résidentiels de loisirs par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à
+l'article L. 333-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D333-5-2 (VD)
+	  - Code du tourisme. - art. D333-5-3 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L333-1
+
+
+###### Article D333-5-2
+
+Le certificat de visite prévu au b de l'article D. 333-5-1 doit comprendre : 
+
+a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
+classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
+établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
+département du dossier complet de demande de classement ; 
+
+b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+
+L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
+l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
+visite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
+
+	**Cité par**:
+
+	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
+	  - Code du tourisme. - art. D333-5-3 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D333-5-1
+
+
+###### Article D333-5-3
+
+Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
+du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
+classement conformément aux prescriptions de la présente sous-section. 
+
+Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
+sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Le classement est prononcé pour une durée de cinq ans. 
+
+Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 333-5-2, son
+classement demeure jusqu'à la notification de la nouvelle décision de classement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
+
+	**Cité par**:
+
+	  - Arrêté du 6 juillet 2010 - art. Annexe unique tableau A (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D333-5-2
+	  - Code du tourisme. - art. L141-2
+
+
+###### Article D333-5-4
+
+Les parcs résidentiels de loisirs classés apposent obligatoirement à leur entrée un panonceau selon un modèle établi par
+l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
 
 
 ##### Sous-section 3 : Sanctions.
 
 ###### Article R333-6
 
-Le retrait de classement peut être prononcé par le préfet, après avis de la commission départementale de l'action
-touristique, dans des conditions définies par arrêté interministériel.
+Le préfet peut prononcer la radiation de la liste des parcs résidentiels de loisirs classés pour défaut ou insuffisance grave
+d'entretien des aménagements. 
 
-Une telle sanction ne peut être prononcée sans que l'intéressé ait été préalablement avisé de la mesure envisagée et invité à
-se faire entendre personnellement ou par mandataire.
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Arrêté 1980-12-18 art. 5
 	  - Arrêté du 18 décembre 1980 - art. 5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 11
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R333-6-1 (VD)
+
+
+###### Article R333-6-1
+
+La radiation prévue à l'article R. 333-6 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et
+invité à se faire entendre personnellement ou par mandataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 11
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R333-6
 
 
 ##### Section 3 : Résidences mobiles de loisirs.
