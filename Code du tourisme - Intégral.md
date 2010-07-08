@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-09
 
 # Partie législative
 
@@ -8627,8 +8627,6 @@ Elle peut entendre toute personne invitée à l'initiative de sa présidence.
 
 ##### Section 2 : Institutions déconcentrées.
 
-##### Sous-section 1 : Délégation régionale au tourisme.
-
 ##### Sous-section 1 : Services déconcentrés en région.
 
 ###### Article R122-29
@@ -13982,7 +13980,7 @@ L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Et
 l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
 des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des hôtels par le
 Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 311-6.
@@ -13999,11 +13997,7 @@ Comité français d'accréditation (COFRAC) ou tout organisme européen équival
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. D311-7 (T)
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 
 ###### Article D311-7
@@ -14337,21 +14331,17 @@ précédant sa fermeture.
 ###### Article D321-1
 
 La résidence de tourisme est un établissement commercial d'hébergement classé, faisant l'objet d'une exploitation permanente
-ou saisonnière. Elle est constituée d'un ensemble homogène de chambres ou d'appartements meublés, disposés en unités
-collectives ou pavillonnaires, offerts en location pour une occupation à la nuitée, à la semaine ou au mois, à une clientèle
-touristique qui n'y élit pas domicile. Elle est dotée d'un minimum d'équipements et de services communs. Elle est gérée dans
-tous les cas par une seule personne physique ou morale.
+ou saisonnière. Elle est constituée d'un ou plusieurs bâtiments d'habitation individuels ou collectifs regroupant, en un
+ensemble homogène, des locaux d'habitation meublés et des locaux à usage collectif. Les locaux d'habitation meublés sont
+proposés à une clientèle touristique qui n'y élit pas domicile, pour une occupation à la journée, à la semaine ou au mois.
+Elle est dotée d'un minimum d'équipements et de services communs. Elle est gérée dans tous les cas par une seule personne
+physique ou morale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1986-02-14 art. 1 II a)
-	  - Arrêté du 14 février 1986 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 1 (V)
 
 	**Cité par**:
 
@@ -14368,31 +14358,27 @@ La résidence de tourisme peut être placée sous le statut de copropriété des
 juillet 1965 modifiée ou sous le régime des sociétés d'attribution d'immeubles en jouissance à temps partagé défini par la
 loi n° 86-18 du 6 janvier 1986 relative aux sociétés d'attribution d'immeubles en jouissance à temps partagé, sous réserve
 que le règlement de copropriété ou les documents prévus par l'article 8 de la loi n° 86-18 du 6 janvier 1986 prévoient
-expressément :
+expressément : 
 
 1° Une destination et des conditions de jouissance des parties tant privatives que communes conformes au mode d'utilisation
 défini au présent article pour ce type de classement et comportant une obligation durable de location d'au moins 70 % des
-chambres ou appartements meublés qui ne saurait être inférieure à neuf ans, les copropriétaires ou les associés des sociétés
-d'attribution pouvant bénéficier d'une réservation prioritaire ;
+locaux d'habitation meublés qui ne saurait être inférieure à neuf ans, les copropriétaires ou les associés des sociétés
+d'attribution pouvant bénéficier d'une réservation prioritaire ; 
 
 2° Une gestion assurée pour l'ensemble de la résidence de tourisme par une seule personne physique ou morale, liée par un
 contrat de louage ou mandat aux copropriétaires ou associés des sociétés d'attribution.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 1986-02-14 art. 1 II b)
-	  - Arrêté du 14 février 1986 - art. 1 (Ab)
-
 	**Cite**:
 
-	  - Loi n°65-557 1965-07-10
-	  - Loi n°86-18 1986-01-06 art. 8
+	  - Loi n°65-557 du 10 juillet 1965 (V)
+	  - Loi n°86-18 du 6 janvier 1986 (V)
+	  - Loi n°86-18 du 6 janvier 1986 - art. 8 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 1 (V)
 
 	**Cité par**:
 
@@ -14435,7 +14421,7 @@ L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Et
 l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
 des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des établissements
 demandant leur classement en résidences de tourisme, par le Comité français d'accréditation (COFRAC) ou par tout organisme
@@ -14445,7 +14431,7 @@ européen équivalent conformément à l'article L. 321-1.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -14664,7 +14650,7 @@ L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Et
 l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
 des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité par le Comité français
 d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 323-1 pour le contrôle des locaux
@@ -14675,7 +14661,7 @@ de tourisme.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -14911,7 +14897,7 @@ Le loueur du meublé ou son mandataire qui souhaite obtenir le classement adress
 département où est situé le meublé, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de
 classement constitué des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des meublés par le
 Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 324-1.
@@ -14920,7 +14906,7 @@ Comité français d'accréditation (COFRAC) ou tout organisme européen équival
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -15008,16 +14994,14 @@ afficher, de manière visible à l'intérieur du meublé, l'arrêté de classeme
 	  - Code du tourisme. - art. L141-2
 
 
-###### Article D324-7
+###### Article D324-6-1
 
 Est réputé détenir l'accréditation mentionnée au troisième alinéa de l'article L. 324-1 tout organisme qui, à la date de la
 promulgation de la loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques, était
 titulaire : 
 
 1° Soit de l'agrément délivré par le représentant de l'Etat dans le département, conformément aux dispositions de l'article
-D. 324-8 dans sa rédaction en vigueur à la date du 22 juillet 2009, dès lors qu'il justifie de son adhésion à cette même date
-à un réseau national de promotion et de contrôle des meublés signataire d'une convention passée avec le ministre chargé du
-tourisme en application de l'article R. 324-9 dans sa rédaction en vigueur à la date du 22 juillet 2009 ; 
+D. 324-8 dans sa rédaction en vigueur à la date du 22 juillet 2009 ; 
 
 2° Soit de l'agrément délivré par le ministre chargé du tourisme, conformément aux dispositions de l'article R. 324-9 dans sa
 rédaction en vigueur à la date du 22 juillet 2009. 
@@ -15045,7 +15029,7 @@ article.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 7
 
 	**Cité par**:
 
@@ -15054,40 +15038,6 @@ article.
 	  - Arrêté du 6 décembre 2010 - art. 1 (VD)
 	  - Arrêté du 6 décembre 2010 - art. Annexe I (VD)
 	  - Arrêté du 7 mai 2012 (V)
-
-
-###### Article D324-8
-
-L'organisme chargé de la délivrance des certificats de visite mentionné aux articles D. 324-3 et D. 324-5 est agréé par le
-préfet. La convention d'agrément conclue entre le préfet et l'organisme mentionne notamment les obligations réciproques des
-parties. En cas de non-respect de ses obligations par l'organisme, le préfet procède au retrait de l'agrément. Pour être
-agréé, l'organisme doit justifier d'une représentativité au niveau national ou départemental dans le domaine du tourisme, en
-particulier dans le secteur des meublés. Celle-ci est appréciée notamment en fonction de l'activité et de l'expérience de
-l'organisme. Chaque année, le préfet publie au recueil des actes administratifs de la préfecture la liste des organismes
-qu'il a agréés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1976-12-28 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 7
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D324-3
-	  - Code du tourisme. - art. D324-5
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D324-6-1 (VD)
 
 
 ##### Sous-section 3 : Sanctions.
@@ -15318,6 +15268,89 @@ exploités que pour des activités correspondant à l'objet des statuts de ces g
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
+###### Article D325-3-1
+
+Tous les éléments constitutifs d'un village de vacances sont regroupés sur un même terrain et comportent des bâtiments
+construits en matériaux traditionnels sur fondations, sous réserve des dispositions des articles D. 325-3-2, D. 325-3-3 et D.
+325-3-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 2
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D325-3-2
+	  - Code du tourisme. - art. D325-3-3
+	  - Code du tourisme. - art. D325-3-4
+
+
+###### Article D325-3-2
+
+Un village de vacances peut comprendre des locaux d'hébergement constitués en totalité ou en partie de logements répartis sur
+le territoire de la commune où sont installés le bureau d'accueil et les bâtiments collectifs ou sur le territoire de
+communes contiguës. Il est, dans ce cas, dénommé " village de vacances ” avec la mention " hébergement dispersé ”. Cette
+mention doit être précisée sur tous les panonceaux et documents d'information ou de publicité concernant ce village de
+vacances. 
+
+Les logements appartenant à des tiers peuvent être pris en compte pour le classement si par convention ceux-ci les mettent à
+la disposition de l'exploitant pour être soumis pendant au moins dix ans aux dispositions des articles D. 325-1 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 2
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D325-1
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D325-3-1 (V)
+
+
+###### Article D325-3-3
+
+Un village de vacances peut comprendre en totalité ou en partie des locaux d'hébergement dépourvus de fondations,
+démontables, transportables ou tractables. Ces locaux doivent être installés par l'exploitant sur des emplacements fixes
+pendant toute la durée d'ouverture annuelle du village de vacances. Le village est, dans ce cas, dénommé " village de
+vacances ” avec la mention " hébergement léger ”. Cette mention doit être précisée sur tous les panonceaux et documents
+d'information ou de publicité concernant ce village de vacances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 17 février 2014 - art. (V)
+	  - Code du tourisme. - art. D325-3-1 (V)
+
+
+###### Article D325-3-4
+
+Les équipements collectifs d'animation appartenant à une commune ou à des tiers et situés en dehors du terrain où est
+installé le village de vacances peuvent être pris en compte pour le classement si une convention conclue entre cette commune
+ou ces tiers et l'exploitant stipule pour une durée minimale de dix ans leur libre accès aux usagers du village de vacances
+dans le cadre du prix forfaitaire de séjour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 2
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D325-3-1 (V)
+
+
 ##### Sous-section 2 : Classement.
 
 ###### Article D325-4
@@ -15350,7 +15383,7 @@ L'exploitant d'un village de vacances qui souhaite obtenir le classement adresse
 département où est installé l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de
 demande de classement constitué des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des villages de
 vacances par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L.
@@ -15360,7 +15393,7 @@ vacances par le Comité français d'accréditation (COFRAC) ou tout organisme eu
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -15406,10 +15439,7 @@ visite.
 
 Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
 du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente sous-section.
-
-L'arrêté précise la catégorie de classement, la capacité et mentionne éventuellement s'il s'agit d'un village de vacances en
-hébergement dispersé ou en hébergement léger. 
+classement conformément aux prescriptions de la présente sous-section. 
 
 Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique,
 du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
@@ -15420,7 +15450,7 @@ Le classement est prononcé pour une durée de cinq ans.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 3
 
 	**Cite**:
 
@@ -15788,6 +15818,34 @@ Lorsque le refuge n'est pas gardé, cet espace offre également un hébergement 
 
 #### Chapitre Ier : Ouverture et aménagement.
 
+#### Chapitre Ier :  Dispositions générales
+
+###### Article D331-1-1
+
+Les terrains aménagés de camping et de caravanage sont destinés à l'accueil de tentes, de caravanes, de résidences mobiles de
+loisirs et d'habitations légères de loisirs. Ils sont constitués d'emplacements nus ou équipés de l'une de ces installations
+ainsi que d'équipements communs.
+
+Ils font l'objet d'une exploitation permanente ou saisonnière et accueillent une clientèle qui n'y élit pas domicile.
+
+Ils doivent disposer d'un règlement intérieur conforme à un modèle arrêté par le ministre chargé du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 17 février 2014 (V)
+	  - Arrêté du 17 février 2014 - art. 1 (V)
+	  - Arrêté du 17 février 2014 - art. 2 (V)
+	  - Arrêté du 24 décembre 2014 - art. 1 (V)
+	  - Arrêté du 24 décembre 2014 - art. 3 (V)
+	  - Code du tourisme. - art. D332-1-2 (VD)
+
+
 ###### Article D331-2
 
 L'aménagement de terrains de camping ou de stationnement de caravanes est soumis à la procédure d'étude d'impact et de notice
@@ -16025,6 +16083,29 @@ ministre chargé du tourisme.
 	  - Code du tourisme. - art. L141-2
 
 
+###### Article D332-1-1
+
+Sont classés terrains de camping :
+
+a) Avec la mention "tourisme" les terrains aménagés de camping et de caravanage si plus de la moitié du nombre des
+emplacements dénommés emplacements "tourisme" est destinée à la location à la nuitée, à la semaine ou au mois pour une
+clientèle de passage ;
+
+b) Avec la mention "loisirs" les terrains aménagés de camping et de caravanage si plus de la moitié du nombre des
+emplacements dénommés emplacements "loisirs" est destinée à la location supérieure au mois par une clientèle qui n'y élit pas
+domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 4
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D332-2 (VD)
+
+
 ##### Section 2 : Procédure de classement.
 
 ###### Article D332-2
@@ -16033,7 +16114,7 @@ L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Et
 l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
 des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des terrains
 aménagés de camping et caravanage par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent
@@ -16044,11 +16125,10 @@ conformément à l'article L. 332-1.
 	**Anciens textes**:
 
 	  - Arrêté du 11 janvier 1993 - art. 2 (Ab)
-	  - Code du tourisme. - art. D332-3 (VT)
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -16073,43 +16153,30 @@ département du dossier complet de demande de classement ;
 b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme
 évaluateur ; 
 
-c) Le projet de règlement intérieur conforme aux modèles arrêtés par le ministre chargé du tourisme.
-
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
 l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
 visite.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 12
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
-
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 4
+
 	**Cite**:
 
 	  - Code du tourisme. - art. D332-2
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. D332-4 (VT)
 
 
 ###### Article D332-4
 
 Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
 du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente section.
-
-L'arrêté porte approbation, après modifications éventuelles, du règlement intérieur et précise le nombre d'emplacements
-autorisés compte tenu de la superficie et des aménagements du terrain. 
+classement conformément aux prescriptions de la présente section. 
 
 Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique,
 du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
@@ -16119,28 +16186,24 @@ Le classement est prononcé pour une durée de cinq ans.
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 332-2, son classement
 demeure jusqu'à la notification de la nouvelle décision relative à ce classement.
 
+En cas d'augmentation supérieure à 10 % du nombre d'emplacements exploités indiqué par la décision de classement,
+l'exploitant, s'il souhaite disposer d'un classement, est tenu de demander un nouveau classement auprès de l'autorité
+administrative compétente.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1652 du 23 décembre 2009 - art. 12
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. Annexe I (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 4
+
 	**Cite**:
 
 	  - Code du tourisme. - art. D332-2
 	  - Code du tourisme. - art. L141-2
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. D332-5 (VT)
 
 
 ###### Article D332-5
@@ -16332,18 +16395,20 @@ l'article R. 480-7 du code de l'urbanisme.
 
 ###### Article D333-4
 
-Les installations d'un parc résidentiel de loisirs exploité sous régime hôtelier sont destinées à la location à la nuitée, à
-la semaine ou au mois, pour une clientèle qui n'y élit pas domicile.
+Les parcs résidentiels de loisirs exploités sous régime hôtelier sont destinés à l'accueil d'habitations légères de loisirs,
+de résidences mobiles de loisirs et de caravanes. Ils sont constitués d'emplacements nus ou équipés de l'une de ces
+installations, destinés à la location pour une durée pouvant être supérieure au mois, ainsi que d'équipements communs. Ils
+accueillent une clientèle qui n'y élit pas domicile.
+
+Un parc résidentiel de loisirs ne peut être exploité sous régime hôtelier qu'à la double condition qu'une seule personne
+physique ou morale ait la propriété ou la jouissance du terrain et que l'exploitation en soit assurée par une seule personne
+physique ou morale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1980-12-18 art. 3 1ère phrase, al. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 5
 
 	**Cité par**:
 
@@ -16386,7 +16451,7 @@ L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Et
 l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
 des documents suivants : 
 
-a) Le formulaire de demande de classement conforme à un modèle fixé par arrêté du ministre chargé du tourisme ; 
+a) Le formulaire de demande de classement            ; 
 
 b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des parcs
 résidentiels de loisirs par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à
@@ -16394,9 +16459,9 @@ l'article L. 333-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -16453,15 +16518,19 @@ Le classement est prononcé pour une durée de cinq ans.
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 333-5-2, son
 classement demeure jusqu'à la notification de la nouvelle décision de classement.
 
+En cas d'augmentation supérieure à 10 % du nombre d'emplacements exploités indiqué par la décision de classement,
+l'exploitant, s'il souhaite disposer d'un classement, est tenu de demander un nouveau classement auprès de l'autorité
+administrative compétente.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. Annexe unique tableau A (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2010-759 du 6 juillet 2010 - art. 5
 
 	**Cite**:
 
