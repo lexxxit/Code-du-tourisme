@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-07-09
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -1732,12 +1732,19 @@ fixées aux I A et I de l'article L. 4424-32 du code général des collectivité
 " I A.-La dénomination des communes touristiques mentionnées aux articles L. 133-11 et L. 134-3 du code du tourisme est
 accordée, par arrêté du président du conseil exécutif de Corse pris pour une durée de cinq ans, à la demande de la commune ou
 de l'établissement public de coopération intercommunale compétent en matière de tourisme et après consultation du conseil des
-sites et de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques.
+sites et de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques. 
 
 I.-Le classement des stations mentionnées aux articles L. 133-13 et L. 134-3 du même code est prononcé par délibération de
 l'Assemblée de Corse à la demande de la commune ou de l'établissement public de coopération intercommunale compétent en
 matière de tourisme et après consultation du conseil départemental d'hygiène et du conseil des sites et après enquête
-publique. La durée de validité du classement est de douze ans. "
+publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. La durée de validité du
+classement est de douze ans. "
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -1749,23 +1756,15 @@ publique. La durée de validité du classement est de douze ans. "
 	  - Code général des collectivités territoriales - art. L5216-5 (VT)
 	  - Code général des collectivités territoriales - art. L5218-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4424-32 (Ab)
+	  - Code du tourisme. - art. L133-11 (V)
 	  - Code du tourisme. - art. L133-13 (V)
-	  - Code du tourisme. - art. L134-3 (M)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-32 (V)
+	  - Code du tourisme. - art. L134-3 (V)
 
 
 ###### Article L151-4
@@ -1773,22 +1772,23 @@ publique. La durée de validité du classement est de douze ans. "
 Les règles relatives à l'agrément ou au classement de certains équipements et organismes par l'Assemblée de Corse sont fixées
 au II de l'article L. 4424-32 du code général des collectivités territoriales ci-après reproduit : 
 
-" Art.L. 4424-32 du code général des collectivités territoriales. 
+" Art. L. 4424-32 du code général des collectivités territoriales. 
 
-II.-Par dérogation au deuxième alinéa de l'article L. 121-1 du code du tourisme, l'Assemblée de Corse détermine les règles de
-procédure relatives à l'instruction des demandes d'agrément ou de classement des équipements et organismes suivants : 
+II.-Par dérogation au deuxième alinéa de l'article L. 121-1 du code du tourisme portant répartition des compétences dans le
+domaine du tourisme, l'Assemblée de Corse détermine les règles de procédure relatives à l'instruction des demandes d'agrément
+ou de classement des équipements et organismes suivants : 
 
 a) Les hôtels et résidences de tourisme ; 
 
-b) Les terrains de camping aménagés ; 
+b) Les terrains de campings aménagés ; 
 
 c) Les villages de vacances ; 
 
 d) Les villas, appartements et chambres meublés, qui sont loués à la semaine ; 
 
-e) Les restaurants de tourisme ; 
+e) (abrogé) ; 
 
-f) (Abrogé) ; 
+f) (abrogé) 
 
 g) Les offices de tourisme au sens des articles L. 133-1 à L. 133-10 et L. 134-5 du code du tourisme. 
 
@@ -1797,18 +1797,19 @@ exécutif de Corse. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4424-32 (Ab)
-	  - Code général des collectivités territoriales L4424-32, L121-1, L133-1 à L133-10, L134-5
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-32 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L121-1 (V)
+	  - Code du tourisme. - art. L133-1 (V)
+	  - Code du tourisme. - art. L134-5 (V)
 
 
 ###### Article L151-5
@@ -4689,35 +4690,26 @@ l'échéancier des recettes et des dépenses.
 
 Conformément aux dispositions de l'article L. 1411-2 du code général des collectivités territoriales, la durée de ces
 contrats est modulée en fonction de la nature et de l'importance des investissements consentis par l'aménageur ou
-l'exploitant.
+l'exploitant. 
 
 Lorsque la durée résiduelle d'un contrat portant sur le service des remontées mécaniques défini à l'article L. 342-9 est
 insuffisante pour permettre l'amortissement normal d'investissements supplémentaires demandés par la personne publique
 délégante pour moderniser les infrastructures existantes, y compris lorsque cette durée peut être prolongée en application
-des deuxième à cinquième alinéas de l'article L. 1411-2 du code général des collectivités territoriales, les parties peuvent
+des deuxième à dixième alinéas de l'article L. 1411-2 du code général des collectivités territoriales, les parties peuvent
 convenir, par voie d'avenant, des conditions d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas
 amortis au terme du contrat. La personne publique peut se faire rembourser tout ou partie du montant de cette indemnisation
 par le nouveau cocontractant désigné pour poursuivre l'exploitation du service.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 10
-	  - Loi n°85-30 1985-01-09 art. 42, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 24 () JORF 15 avril 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 85
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-2 (M)
-	  - Code du tourisme. - art. L342-9 (M)
+	  - Code général des collectivités territoriales - art. L1411-2 (V)
+	  - Code du tourisme. - art. L342-9 (V)
 
 
 ###### Article L342-4
@@ -7954,13 +7946,13 @@ durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 Outre son président, le Conseil national du tourisme est composé des membres, nommés pour une période de cinq ans par arrêté
 du ministre chargé du tourisme, ainsi répartis : 
 
-1° Représentants du Parlement et du Conseil économique et social :
+1° Représentants du Parlement et du Conseil économique, social et environnemental :
 
 - cinq députés désignés par le président de l'Assemblée nationale ;
 
 - cinq sénateurs désignés par le président du Sénat ;
 
-- deux membres du Conseil économique et social désignés par son président ; 
+- deux membres du Conseil économique, social et environnemental désignés par son président ; 
 
 2° Représentants des collectivités territoriales :
 
@@ -7985,10 +7977,10 @@ nationale des comités départementaux du tourisme ou leurs représentants ;
 - sept présidents d'offices de tourisme et syndicats d'initiative (OTSI) désignés sur proposition du président de la
 Fédération nationale des offices de tourisme et syndicats d'initiative (FNOTSI) ou leurs représentants ;
 
-- le président de l'Assemblée des conseils économiques et sociaux régionaux de France ou son représentant ;
+- le président de l'Assemblée des conseils économiques, sociaux et environnementaux régionaux de France ou son représentant ;
 
-- sept présidents de conseils économiques et sociaux régionaux (CESR) désignés sur proposition du président de l'Assemblée
-des conseils économiques et sociaux régionaux de France ou leurs représentants ;
+- sept présidents de conseils économiques, sociaux et environnementaux régionaux (CESR) désignés sur proposition du président
+de l'Assemblée des conseils économiques, sociaux et environnementaux régionaux de France ou leurs représentants ;
 
 - le président de l'Association des maires de France (AMF) ou son représentant ;
 
@@ -8133,7 +8125,7 @@ représentant ;
 
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
-- le président de l'     institution mentionnée à l'article L. 5312-1 du code du travail  (ANPE) ou son représentant ;
+- le président de l'institution mentionnée à l'article L. 5312-1 du code du travail (ANPE) ou son représentant ;
 
 - le président du Centre d'études et de recherche sur les qualifications (CEREQ) ou son représentant ;
 
@@ -8229,7 +8221,8 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
+	  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
 
 
 ###### Article D122-8
@@ -15815,8 +15808,6 @@ Lorsque le refuge n'est pas gardé, cet espace offre également un hébergement 
 
 
 ### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.
-
-#### Chapitre Ier : Ouverture et aménagement.
 
 #### Chapitre Ier :  Dispositions générales
 
