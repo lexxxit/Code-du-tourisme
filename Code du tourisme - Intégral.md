@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-07-24
+Version Consolidée au 2010-07-25
 
 # Partie législative
 
@@ -4085,26 +4085,6 @@ pour une ou plusieurs nuitées, assorties de prestations.
 	  - Code du tourisme. - art. D324-13 (V)
 	  - Code général des impôts, CGI. - art. 1383 E bis (V)
 	  - Code général des impôts, CGI. - art. 1407 (V)
-
-
-###### Article L324-3-1
-
-L'Etat détermine les procédures de classement des chambres d'hôtes dans des conditions fixées par décret.
-
-**Nota:**
-
-Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
-publication de la présente loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 43
 
 
 ###### Article L324-4
