@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-07-29
+Version Consolidée au 2010-10-21
 
 # Partie législative
 
@@ -11502,9 +11502,8 @@ La garantie financière prévue au a du II de l'article L. 211-18 résulte d'un 
 
 2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière ; 
 
-3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif, immatriculé au registre mentionné au a de
-l'article L. 141-3 et ayant fait l'objet d'une autorisation particulière par un arrêté du ministre chargé du tourisme et
-disposant d'un fonds de solidarité suffisant. 
+3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif ayant fait l'objet d'une autorisation
+particulière par un arrêté du ministre chargé du tourisme et disposant d'un fonds de solidarité suffisant. 
 
 La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'opérateur de voyages au
 titre des engagements qu'il a contractés à l'égard de sa clientèle ou de ses membres pour des prestations en cours ou à
@@ -11515,13 +11514,12 @@ L'engagement de garantie financière doit répondre à toutes les dispositions r
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2010-1223 du 11 octobre 2010 - art. 9
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L141-3
 	  - Code du tourisme. - art. L211-18
 
 	**Cité par**:
@@ -11530,10 +11528,6 @@ L'engagement de garantie financière doit répondre à toutes les dispositions r
 	  - Code du tourisme. - art. R211-27 (V)
 	  - Code du tourisme. - art. R211-43 (V)
 	  - Code du tourisme. - art. R211-51 (V)
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-28 (T)
 
 
 ###### Article R211-27
@@ -13682,21 +13676,25 @@ administrative compétente.
 
 ###### Article R231-13
 
-Est puni de l'amende prévue pour les contraventions de la troisième classe le fait d'exercer l'activité d'exploitant de
-voitures de tourisme avec chauffeur : 
+1° Est puni de l'amende prévue pour les contraventions de la 5e classe le fait d'exercer l'activité d'exploitant de voitures
+de tourisme avec chauffeur :
 
-― sans être immatriculé au registre mentionné au b de l'article L. 141-3 ; 
+- sans être immatriculé au registre mentionné au b de l'article L. 141-3 ;
 
-― en utilisant des véhicules non conformes aux caractéristiques prévues aux premier et deuxième alinéas de l'article D. 231-1
-ou qui ne comportent pas la signalétique prévue au dernier alinéa du même article ; 
+- en employant des chauffeurs qui ne sont pas titulaires de la carte professionnelle prévue à l'article D. 231-12 ;
 
-― en employant des chauffeurs qui ne sont pas titulaires de la carte professionnelle prévue à l'article D. 231-12.
+- en utilisant des véhicules non conformes aux caractéristiques prévues aux premier et deuxième alinéas de l'article D.
+231-1 ; 
+
+2° Le fait d'exercer l'activité d'exploitant de voitures de tourisme avec chauffeur en utilisant des véhicules sans la
+signalétique prévue au dernier alinéa de l'article D. 231-1 est puni de l'amende prévue pour les contraventions de la 3e
+classe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+	  - Décret n°2010-1223 du 11 octobre 2010 - art. 10
 
 	**Cité par**:
 
@@ -13704,23 +13702,37 @@ ou qui ne comportent pas la signalétique prévue au dernier alinéa du même ar
 
 	**Cite**:
 
+	  - Code du tourisme. - art. D231-1
+	  - Code du tourisme. - art. D231-12
 	  - Code du tourisme. - art. L141-3
 
 
 ###### Article R231-14
 
-Le fait d'exercer l'activité de chauffeur de voitures de tourisme sans être titulaire de la carte professionnelle prévue à
-l'article D. 231-12 est puni de l'amende prévue pour les contraventions de la troisième classe.
+1° Le fait, pour tout chauffeur d'une voiture de tourisme, de ne pas présenter immédiatement aux agents de l'autorité
+compétente sa carte professionnelle en cours de validité, prévue à l'article D. 231-12, est puni de l'amende prévue pour les
+contraventions de la 1re classe ; 
+
+2° Le fait, pour tout chauffeur visé au 1°, invité à justifier dans un délai de cinq jours de la possession de la carte
+professionnelle prévue à l'article D. 231-12, de ne pas présenter ce document avant l'expiration de ce délai, est puni de
+l'amende prévue pour les contraventions de la 4e classe ; 
+
+3° Le fait d'exercer l'activité de chauffeur d'une voiture de tourisme, sans être titulaire de la carte professionnelle en
+cours de validité, prévue à l'article D. 231-12, est puni de l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+	  - Décret n°2010-1223 du 11 octobre 2010 - art. 11
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R48-1 (VD)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D231-12
 
 
 #### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.
