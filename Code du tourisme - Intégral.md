@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-12-01
 
 # Partie législative
 
@@ -4985,36 +4985,43 @@ Sont dénommés " remontées mécaniques " tous les appareils de transports publ
 
 ###### Article L342-8
 
-Sont applicables aux remontées mécaniques les dispositions du premier alinéa de l'article 1er, des articles 5 et 6, du III de
-l'article 7, des articles 9, 14, 16 et 17 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs,
-les dispositions du titre III de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes de
-transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques, les
-prescriptions prévues aux articles L. 342-1 à L. 342-5 du présent code ainsi que, le cas échéant, les dispositions du titre
-Ier de l'ordonnance n° 2004-1198 du 12 novembre 2004 portant diverses dispositions d'adaptation au droit communautaire dans
-le domaine des installations à câbles transportant des personnes et relatives aux remontées mécaniques en montagne.
+Sont applicables aux remontées mécaniques les articles L. 342-1 à L. 342-5 ainsi que les dispositions suivantes du code des
+transports : 
+
+a) Le chapitre Ier du titre Ier du livre V de la première partie ; 
+
+b) Le titre II du livre VI de la première partie ; 
+
+c) Le titre Ier du livre II de la deuxième partie ; 
+
+d) Les articles L. 1000-2, L. 1111-1, L. 1211-4, L. 1211-5, 
+L. 1221-3, L. 1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L. 1611-1.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°82-1153 1982-12-30 art. 9, art. 14, art. 16, art. 17, art. 1, art. 5, art. 6, art. 7
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 17 (M)
-	  - Loi n°2002-3 2002-01-03
-	  - Ordonnance 2004-1198 2004-11-12
-	  - Code du tourisme L342-1 à L342-5
-
 	**Anciens textes**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 45 (M)
 	  - Loi n°85-30 du 9 janvier 1985 - art. 45 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 23 () JORF 15 avril 2006
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 6
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-1 (V)
+	  - Code des transports - art. L1000-2 (V)
+	  - Code des transports - art. L1111-1 (V)
+	  - Code des transports - art. L1211-4 (V)
+	  - Code des transports - art. L1221-3 (V)
+	  - Code des transports - art. L1221-9 (V)
+	  - Code des transports - art. L1311-3 (V)
+	  - Code des transports - art. L1431-2 (V)
+	  - Code des transports - art. L1521-1 (V)
 
 
 ###### Article L342-9
@@ -5162,14 +5169,10 @@ occasionnées directement ou indirectement par l'installation de la ou des remon
 
 ###### Article L342-15
 
-Les services de remontées mécaniques sont soumis aux dispositions de la loi du 15 juillet 1845, à l'exception de l'article 4
-de ladite loi, et aux dispositions relatives à la police, à la sécurité et à l'exploitation des chemins de fer.
+Les services de remontées mécaniques sont soumis aux dispositions des titres III et IV du livre II de la deuxième partie du
+code des transports, à l'exception des articles L. 2231-1, L. 2231-4, L. 2240-1 et L. 2241-8.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1845-07-15 art. 4
 
 	**Anciens textes**:
 
@@ -5177,7 +5180,18 @@ de ladite loi, et aux dispositions relatives à la police, à la sécurité et �
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L2231-1 (V)
+	  - Code des transports - art. L2231-4 (V)
+	  - Code des transports - art. L2240-1 (V)
+	  - Code des transports - art. L2241-8 (V)
 
 
 ###### Article L342-16
