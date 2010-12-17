@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-18
 
 # Partie législative
 
@@ -1166,21 +1166,25 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 
 ###### Article L134-1
 
-La communauté urbaine et la communauté d'agglomération exercent de plein droit, en lieu et place des communes membres, les
-compétences en matière de développement économique, notamment création, aménagement, entretien et gestion de zones d'activité
-touristique qui sont d'intérêt communautaire au sens du 2° du I de l'article L. 5215-20-1 du code général des collectivités
-territoriales et du 1° du I de l'article L. 5216-5 du même code.
+La communauté urbaine, la métropole et la communauté d'agglomération exercent de plein droit, en lieu et place des communes
+membres, les compétences en matière de développement économique, notamment création, aménagement, entretien et gestion de
+zones d'activité touristique qui sont d'intérêt communautaire au sens du 2° du I de l'article L. 5215-20-1 du code général
+des collectivités territoriales et du 1° du I de l'article L. 5216-5 du même code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5215-20-1 (M)
-	  - Code général des collectivités territoriales - art. L5216-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5215-20-1 (VT)
+	  - Code général des collectivités territoriales - art. L5216-5 (V)
 
 	**Cité par**:
 
@@ -4411,34 +4415,30 @@ relative à la répartition des compétences entre les communes, les départemen
 
 Les règles relatives aux compétences des communes, communautés de communes, communautés urbaines et communautés
 d'agglomération pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la plaisance sont fixées
-au III de l'article L. 601-1 du code des ports maritimes ci-après reproduit :
+à l'article L. 5314-4 du code des transports ci-après reproduit : 
 
-" Art. L. 601-1 du code des ports maritimes.
+" Art. L. 5314-4 du code des transports. 
 
-III. - Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines ou les communautés
-d'agglomération sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la
-plaisance. Elles sont également compétentes pour aménager et exploiter les ports de commerce et de pêche qui leur ont été
-transférés en application de la loi n° 2004-809 du 13 août 2004 précitée.
+Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines, les métropoles ou les communautés
+d'agglomération, sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la
+plaisance. 
 
-Toutefois, les compétences exercées à la date de promulgation de la loi n° 2004-809 du 13 août 2004 précitée par d'autres
-collectivités territoriales ou groupements de collectivités territoriales sur les ports maritimes dont l'activité principale
-est la plaisance ne peuvent être transférées aux communes ou, le cas échéant, aux communautés de communes, aux communautés
-urbaines ou aux communautés d'agglomération sans l'accord exprès de ces autres collectivités territoriales ou groupements de
-collectivités territoriales.
+Elles sont également compétentes pour aménager et exploiter les ports maritimes de commerce et de pêche qui leur sont
+transférés. 
+
+Toutefois, les compétences exercées par d'autres collectivités territoriales ou groupements de collectivités territoriales
+sur les ports maritimes dont l'activité principale est la plaisance ne peuvent être transférées aux communes ou, le cas
+échéant, aux communautés de communes, aux communautés urbaines, aux métropoles ou aux communautés d'agglomération, sans
+l'accord exprès de ces autres collectivités territoriales ou groupements de collectivités territoriales. 
 
 Le département ou un syndicat mixte peut également, à la demande d'une commune ou, le cas échéant, d'une communauté de
 communes, créer, aménager et exploiter un port maritime dont l'activité principale est la plaisance. "
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13
-	  - Code des ports maritimes - art. L601-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
 
 
 ###### Article L341-6
