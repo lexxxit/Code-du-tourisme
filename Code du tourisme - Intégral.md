@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-12-23
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -10508,6 +10508,20 @@ décret n° 2008-884 du 2 septembre 2008.
 
 ### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.
 
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.
+
+###### Article R161-1
+
+Dans les régions d'outre-mer, le ministre chargé du tourisme dispose, à titre de services déconcentrés, des directions des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1582 du 17 décembre 2010 - art. 35
+
+
 #### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.
 
 ###### Article R162-1
@@ -10597,6 +10611,18 @@ applicables sont remplacées par les références aux dispositions ayant le mêm
 
 	  - Code du tourisme. - art. R243-3 (V)
 	  - Code du tourisme. - art. R363-3 (V)
+
+
+###### Article R163-4
+
+A Mayotte, le ministre chargé du tourisme dispose, à titre de services déconcentrés, de la direction des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1582 du 17 décembre 2010 - art. 35
 
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME.
