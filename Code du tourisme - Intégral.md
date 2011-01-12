@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-13
 
 # Partie législative
 
@@ -5314,7 +5314,7 @@ Les conditions d'application du présent article sont précisées par un décret
 
 La servitude prévue aux articles L. 342-20 à L. 342-23 ne peut être établie qu'à l'intérieur des zones et des secteurs
 délimités dans les plans locaux d'urbanisme ou dans les plans d'occupation des sols en application du 6° de l'article L.
-123-1 du code de l'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de faciliter la
+123-1-5 du code de l'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de faciliter la
 pratique du ski de fond ou l'accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de nature au sens de
 l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et
 sportives ainsi que l'accès aux refuges de montagne.
@@ -5323,21 +5323,11 @@ sportives ainsi que l'accès aux refuges de montagne.
 
 	**Cite**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 50-1 (Ab)
-	  - Code du tourisme L342-20 à L342-23
-	  - Code de l'urbanisme - art. L123-1 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°85-30 1985-01-09 art. 52, II
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°84-610 du 16 juillet 1984 (Ab)
+	  - Code de l'urbanisme - art. L123-1-5 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Cité par**:
@@ -5462,7 +5452,7 @@ l'enneigement et du cours des travaux agricoles, la servitude s'applique partiel
 
 La servitude ne peut grever les terrains situés à moins de vingt mètres des bâtiments à usage d'habitation ou professionnel
 édifiés ou dont la construction a été autorisée avant la date de délimitation des zones et secteurs prévus au 6° de l'article
-L. 123-1 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de cette
+L. 123-1-5 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de cette
 délimitation sauf :
 
 - dans le cas où la construction desdits bâtiments est postérieure à l'existence effective de la piste ou des équipements ;
@@ -5471,7 +5461,7 @@ délimitation sauf :
 2005-157 du 23 février 2005 relative au développement des territoires ruraux ;
 
 - dans le cas où l'institution de la servitude est le seul moyen d'assurer la réalisation des pistes, des équipements ou des
-accès visés à l'article L. 342-20 du présent code.
+accès visés à l'article L. 342-20 du présent code. 
 
 Le bénéficiaire de la servitude est subrogé au propriétaire du fonds dans l'accomplissement de toutes les formalités
 nécessaires à l'aménagement des pistes et équipements auxquels celui-ci pourrait être tenu en application d'une autre
@@ -5479,24 +5469,14 @@ législation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 4 et 5
-	  - Loi n°85-30 1985-01-09 art. 53, al
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Cite**:
 
-	  - Loi n°2005-157 2005-02-23
-	  - Code du tourisme. - art. L342-20 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Loi n°2005-157 du 23 février 2005 (V)
+	  - Code du tourisme. - art. L342-20 (V)
+	  - Code de l'urbanisme - art. L123-1-5 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 179 () JORF 24 février 2005
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 
