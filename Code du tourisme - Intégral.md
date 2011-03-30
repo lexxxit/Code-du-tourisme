@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-01-15
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -1891,17 +1891,17 @@ Les règles relatives à la création d'établissements publics chargés d'assur
 région ainsi que le fonctionnement des services publics régionaux de Guadeloupe, de Guyane, de Martinique et de La Réunion
 sont définies à l'article L. 4433-2 du code général des collectivités territoriales ci-après reproduit : 
 
-" Art.L. 4433-2 du code général des collectivités territoriales. 
+" Art.L. 4433-2  du code général des collectivités territoriales. 
 
-Les conseils régionaux de Guadeloupe, de Guyane, de Martinique et de La Réunion peuvent créer des établissements publics
-dénommés agences, chargés d'assurer la réalisation des projets intéressant la région ainsi que le fonctionnement des services
-publics régionaux. "
+Les conseils régionaux de Guadeloupe, de Guyane, de Martinique, de Mayotte et de La Réunion peuvent créer des établissements
+publics dénommés agences, chargés d'assurer la réalisation des projets intéressant la région ainsi que le fonctionnement des
+services publics régionaux. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 5
 
 	**Liens**:
 
@@ -7783,19 +7783,35 @@ ter du code des douanes.
 ###### Article L441-3
 
 Les règles relatives au tarif de la taxe de séjour à Saint-Martin et à Saint-Barthélemy sont fixées par l'article L. 2564-1
-du code général des collectivités territoriales ci-après reproduit : 
+du code général des collectivités territoriales  ci-après reproduit : 
 
 " Art. L. 2564-1 du code général des collectivités territoriales. 
 
+Pour l'application aux communes de Mayotte de la deuxième partie du présent code : 
+
+1° La référence au département ou à la région est remplacée par la référence au Département de Mayotte ; 
+
+2° La référence au conseil régional ou aux conseils généraux est remplacée par la référence au conseil général ; 
+
+3° La référence à la valeur horaire du salaire minimum de croissance est remplacée par la référence au taux horaire du
+salaire minimum interprofessionnel garanti en vigueur à Mayotte."
+
+**Nota:**
+
+Conformément à l'article 2 de la loi n° 2010-1487 du 7 décembre 2010, l'article L. 2564-1 a été transféré à l'article L.
+2565-1, et le chapitre IV du titre VI est devenu le chapitre V du même titre.
+
+La rédaction de l'article L. 2565-1 est la suivante : 
+
 Dans les communes de Saint-Martin et de Saint-Barthélemy (Guadeloupe), le tarif de la taxe de séjour visée à l'article L.
-2333-26 est fixé à 5 % du prix perçu au titre de chaque nuitée de séjour, quelles que soient la nature et la catégorie
-d'hébergement. "
+2333-26 est fixé à 5 % du prix perçu au titre de chaque nuitée de séjour quelles que soient la nature et la catégorie
+d'hébergement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 2
 
 	**Liens**:
 
