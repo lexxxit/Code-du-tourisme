@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -1354,32 +1354,6 @@ du groupement de communes.
 
 #### Chapitre unique
 
-###### Article L141-1
-
-Des groupements d'intérêt public peuvent être constitués dans les conditions prévues par les articles L. 341-2 à L. 341-4 du
-code de la recherche en vue de contribuer à des activités de développement ou d'intérêt commun dans le domaine du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-645 1992-07-13 art. 30
-	  - Loi n°92-645 du 13 juillet 1992 - art. 30 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1391 du 20 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D141-1 (Ab)
-	  - Code du tourisme. - art. L162-2 (V)
-
-
 ###### Article L141-2
 
 Le groupement d'intérêt économique " Atout France, agence de développement touristique de la France ”, placé sous la tutelle
@@ -1981,25 +1955,24 @@ Dans ces articles, les mots : " région " et " département " sont remplacés pa
 
 ###### Article L162-2
 
-Les dispositions des articles L. 133-1 à L. 133-18, L. 134-2, L. 134-3 et L. 141-1 sont remplacées, s'il y a lieu, par les
-dispositions du code des communes applicables localement ayant le même objet.
+Les dispositions des articles L. 133-1 à L. 133-18, 
+L. 134-2 et L. 134-3 sont remplacées, s'il y a lieu, par les dispositions du code des communes applicables localement ayant
+le même objet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+	  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 	**Cite**:
 
-	  - Code du tourisme L133-1 à L133-18, L134-2, L134-3, L141-1
-	  - Code du tourisme. - art. L134-2 (V)
-	  - Code du tourisme. - art. L134-3 (M)
-	  - Code du tourisme. - art. L141-1 (V)
+	  - Code du tourisme. - art. L133-1
+	  - Code du tourisme. - art. L134-2
 
 	**Cité par**:
 
