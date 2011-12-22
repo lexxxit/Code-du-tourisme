@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-11-25
+Version Consolidée au 2011-12-23
 
 # Partie législative
 
@@ -7959,8 +7959,7 @@ politique d'aménagement touristique, mis, en tant que de besoin, à la disposit
 
 ###### Article D122-5
 
-Le Conseil national du tourisme est un organisme consultatif placé auprès du ministre chargé du tourisme, qui le préside. Le
-ministre chargé du tourisme est remplacé en cas d'absence ou d'empêchement par le directeur du tourisme.
+Le Conseil national du tourisme est un organisme consultatif placé auprès du ministre chargé du tourisme, qui le préside.
 
 **Nota:**
 
@@ -7968,23 +7967,32 @@ Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
 
+Conformément à l'article 1 du décret n° 2014-593 du 6 juin 2014, le Conseil national du tourisme est renouvelé pour une durée
+d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°74-963 du 22 novembre 1974 - art. 6 (Ab)
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 1, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
 	  - Décret n°2009-623 du 6 juin 2009 - art. Annexe (V)
 	  - Décret n°2014-593 du 6 juin 2014 - art. (V)
 	  - Décret n°2015-593 du 1er juin 2015 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-6
@@ -8051,17 +8059,17 @@ comités régionaux de tourisme ou leurs représentants ;
 
 - le président de l'Assemblée des départements de France ou son représentant ;
 
-- le président de la Fédération nationale des comités départementaux du tourisme (FNCDT) ou son représentant ;
+- le président du Réseau national des destinations départementales (RN2D) ou son représentant ;
 
-- sept présidents de comités départementaux de tourisme (CDT) désignés sur proposition du président de la Fédération
-nationale des comités départementaux du tourisme ou leurs représentants ;
+- sept présidents de comités départementaux de tourisme (CDT) désignés sur proposition du président du Réseau national des
+destinations départementales ou leurs représentants ;
 
-- le président de la Fédération nationale des loisirs accueil France (FNLAF) ou son représentant ;
+- le président de l'Association des maires des grandes villes de France (AMGVF) ou son représentant ;
 
-- le président de la Fédération nationale des offices de tourisme et syndicats d'initiative (FNOTSI) ou son représentant ;
+- le président des Offices de tourisme de France-Fédération nationale ou son représentant ;
 
-- sept présidents d'offices de tourisme et syndicats d'initiative (OTSI) désignés sur proposition du président de la
-Fédération nationale des offices de tourisme et syndicats d'initiative (FNOTSI) ou leurs représentants ;
+- sept présidents d'offices de tourisme de France désignés sur proposition du président d'Offices de tourisme de France-
+Fédération nationale ou leurs représentants ;
 
 - le président de l'Assemblée des conseils économiques, sociaux et environnementaux régionaux de France ou son représentant ;
 
@@ -8070,18 +8078,18 @@ de l'Assemblée des conseils économiques, sociaux et environnementaux régionau
 
 - le président de l'Association des maires de France (AMF) ou son représentant ;
 
-- le président de l'Assemblée des communautés de France (ACF) ou son représentant ;
+- le président de l'Assemblée des Communautés de France (AdCF) ou son représentant ;
 
 - le président de l'Association nationale des maires des stations classées et des communes touristiques (ANMSCCT) ou son
 représentant ;
 
-- le président de l'Association des maires des stations françaises de sports d'hiver et d'été (AMSFSHE) ou son représentant ;
+- le président de l'Association nationale des maires des stations de montagne (ANMSM) ou son représentant ;
 
 - le président de l'Association nationale des élus de la montagne (ANEM) ou son représentant ;
 
 - le président de l'Association nationale des élus du littoral (ANEL) ou son représentant ;
 
-- le président de la Fédération nationale des pays d'accueil touristiques (FNPAT) ou son représentant ;
+- le président de l'Union des exploitants des chemins de fer touristiques et de musées (UNECTO) ou son représentant ;
 
 - le président de la Fédération française des stations vertes de vacances et des villages de neige ou son représentant ; 
 
@@ -8105,13 +8113,13 @@ représentant ;
 
 - le président de la Fédération nationale des syndicats d'exploitants agricoles (FNSEA) ou son représentant ;
 
-- le président du Centre national des jeunes agriculteurs (CNJA) ou son représentant ; 
+- le président des jeunes agriculteurs ou son représentant ; 
 
 4° Représentants des professions touristiques et d'organismes qualifiés :
 
 - le président de la Fédération nationale des gîtes de France (FNGF) ou son représentant ;
 
-- le président de la Fédération nationale des Logis de France (FNLF) ou son représentant ;
+- le président de la Fédération internationale des Logis ou son représentant ;
 
 - le président de Clé-Vacances ou son représentant ;
 
@@ -8131,21 +8139,21 @@ représentant ;
 
 - cinq représentants d'entreprises d'hôtellerie-restauration et de résidences de tourisme ;
 
-- deux représentants de l'hôtellerie de plein air ;
+- trois représentants de l'hôtellerie de plein air ;
 
 - le président du Syndicat national des agences de voyages (SNAV) ou son représentant ;
 
-- le président du Cercle d'études des tours-opérateurs français (CETO) ou son représentant ;
+- le président de l'Association des tour-opérateurs ou son représentant ;
 
-- le président de France Ferries et croisières (FFC) ou son représentant ;
+- le président de l'Association française des compagnies de croisières (AFCC) ou son représentant ;
 
 - huit représentants d'entreprises ayant un réseau d'agences de voyages ou exerçant le métier de tour-opérateur ;
 
-- le président de la Fédération nationale des guides-interprètes (FNGI) ou son représentant ;
+- le président de la Fédération nationale des guides-interprètes et conférenciers (FNGIC) ou son représentant ;
 
 - le président de la Fédération française des techniciens et scientifiques du tourisme (FFTST) ou son représentant ;
 
-- le président de l'Association française des experts scientifiques du tourisme (AFEST) ou son représentant ;
+- le président de l'Association francophone des experts et scientifiques du tourisme (AFEST) ou son représentant ;
 
 - le président du Syndicat national de l'ingénierie loisirs-culture-tourisme (GéFIL) ou son représentant ;
 
@@ -8157,8 +8165,6 @@ représentant ;
 
 - le président de l'Union nationale des associations de tourisme (UNAT) ou son représentant ;
 
-- le président de la Bourse solidarité vacances (BSV) ou son représentant ;
-
 - le président de Vacanciel ou son représentant ;
 
 - le président de la Caisse nationale des allocations familiales (CNAF) ou son représentant ;
@@ -8169,7 +8175,7 @@ représentant ;
 
 6° Représentants d'organismes d'animation touristique et de valorisation des territoires :
 
-- le président du Centre national des monuments nationaux (CMN) ou son représentant ;
+- le président du Centre des monuments nationaux (CMN) ou son représentant ;
 
 - le président de l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ou son
 représentant ;
@@ -8182,11 +8188,11 @@ représentant ;
 
 - le président de France Congrès ou son représentant ;
 
-- le président de Foires, salons et congrès de France (FSCF) ou son représentant ;
+- le président de Foires, salons, congrès et événements de France (FSCEF) ou son représentant ;
 
-- le président de l'Association nationale des agences-conseil en événement (ANAE) ou son représentant ;
+- le président de l'Association des agences de communication événementielle (ANAé) ou son représentant ;
 
-- le président du Syndicat national des espaces de loisirs et d'attractions (SNELAC) ou son représentant ;
+- le président du Syndicat national des espaces de loisirs, d'attractions et culturels (SNELAC) ou son représentant ;
 
 - quatre représentants d'entreprises d'animation touristique ;
 
@@ -8200,9 +8206,9 @@ représentant ;
 
 - le président de l'Institut géographique national (IGN) ou son représentant ;
 
-- le président de la Conférence permanente du tourisme rural (CPTR) ou son représentant ;
+- le président du Conseil supérieur de l'œnotourisme ou son représentant ; 
 
-- le président de la Conférence permanente du tourisme urbain (CPTU) ou son représentant ;
+- le président de la Conférence nationale permanente du tourisme urbain (CNPTU) ou son représentant ;
 
 - le président de la Fédération des parcs naturels régionaux (FPNR) ou son représentant ;
 
@@ -8212,7 +8218,7 @@ représentant ;
 
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
-- le président de l'institution mentionnée à l'article L. 5312-1 du code du travail (ANPE) ou son représentant ;
+- le président de l'institution mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi) ou son représentant ;
 
 - le président du Centre d'études et de recherche sur les qualifications (CEREQ) ou son représentant ;
 
@@ -8220,36 +8226,37 @@ représentant ;
 
 - le président de l'Institut national de formation et d'application (INFA) ou son représentant ;
 
-- le président du Réseau d'appui et de capitalisation des innovations européennes (RACINE) ou son représentant ;
+- le président de l'université Paris-Est Marne-la-Vallée (Cluster tourisme) ou son représentant ;
 
 - le président de l'Institut de management hôtelier international (IMHI) du groupe ESSEC ou son représentant ;
 
-- trois représentants de centres de ressources sur l'emploi dans le tourisme ;
+- deux représentants de centres de ressources sur l'emploi dans le tourisme ;
 
-- le directeur général du CEMAGREF-Institut de recherche pour l'ingénierie de l'agriculture et de l'environnement ou son
+- le directeur général du CEMAGREF-Institut de recherche en sciences et technologies pour l'environnement ou son
 représentant ;
 
-- le président de l'Institut national de recherche sur les transports et leur sécurité (INRETS) ou son représentant ;
+- le président de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux (IFSTTAR)
+ou son représentant ;
 
-- le président du Programme de recherche et d'innovation dans les transports terrestres (PREDIT) ou son représentant ;
+- le président du Conservatoire national des arts et métiers (CNAM) ou son représentant ;
 
 - quatre représentants d'organismes de recherche universitaire en tourisme ; 
 
 8° Représentants d'organisations et d'activités professionnelles liées au tourisme :
 
-- le président du Syndicat national des entreprises de tourisme (SNET) ou son représentant ;
+- le président des Autocars de France ou son représentant ;
 
 - le président de la Fédération nationale des transports de voyageurs (FNTV) ou son représentant ;
 
 - le président du Conseil national des professions de l'automobile (CNPA), branche loueurs, ou son représentant ;
 
-- le président du Syndicat national des téléphériques de France (SNTF) ou son représentant ;
+- le président de Domaines skiables de France ou son représentant ;
 
-- sept représentants des activités de transports ou d'infrastructures de transports liées au tourisme ;
+- douze représentants des activités de transports ou d'infrastructures de transports liées au tourisme ;
 
 - le président de la Fédération bancaire française (FBF) ou son représentant ;
 
-- le directeur général de la Caisse des dépôts et consignations (CDC) ou son représentant ;
+- le directeur général du groupe Caisse des dépôts ou son représentant ;
 
 - le président-directeur général d'OSEO ou son représentant ;
 
@@ -8259,9 +8266,9 @@ représentant ;
 
 - le président du Groupement des entreprises mutuelles d'assurances (GEMA) ou son représentant ;
 
-- le président de l'Association professionnelle de solidarité du tourisme (APS) ou son représentant ;
+- le président de l'Association professionnelle de solidarité du tourisme (APST) ou son représentant ;
 
-- le président de la Fédération nationale des sociétés d'économie mixte (FNSEM) ou son représentant ;
+- le président de la Fédération nationale des entreprises publiques locales (FNEPL) ou son représentant ;
 
 - le président de la Fédération nationale de l'immobilier (FNAIM) ou son représentant ;
 
@@ -8271,9 +8278,9 @@ représentant ;
 
 - le président de l'Assemblée des chambres françaises de commerce et d'industrie (ACFCI) ou son représentant ;
 
-- le président de l'Assemblée permanente des chambres de métiers et de l'artisanat de région (APCM) ou son représentant ;
+- le président de l'Assemblée permanente des chambres de métiers et de l'artisanat (APCMA) ou son représentant ;
 
-- le président de l'Union des chambres de commerce et établissements gestionnaires d'aéroports (UCCEGA) ;
+- le président de l'Union des aéroports français (UAF) ou son représentant ;
 
 - le président du groupe AFNOR ou son représentant ;
 
@@ -8283,11 +8290,10 @@ représentant ;
 
 9° Représentants d'organisations de consommateurs et usagers :
 
-- trois représentants désignés par le collège " consommateurs " du Conseil national de la consommation ;
+- trois représentants désignés par le ministre chargé de la consommation, après avis du Conseil national de la
+consommation ; 
 
 - le président de la Fédération nationale de camping et de caravaning (FNCC) ou son représentant ;
-
-- le président du Conseil national des clients aériens (CNCA) ou son représentant ;
 
 - quatre représentants d'associations de personnes handicapées ; 
 
@@ -8308,19 +8314,18 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-8
 
-Le Conseil national du tourisme est constitué d'un comité permanent et de quatre sections : la section de l'économie
+Le Conseil national du tourisme est constitué d'un comité stratégique et de quatre sections : la section de l'économie
 touristique, la section des solidarités et politiques sociales, la section des politiques territoriales et du développement
 durable et la section des questions européennes et internationales.
 
-Pour chacune des sections, un président et un président délégué sont nommés par arrêté du ministre chargé du tourisme parmi
-les membres du Conseil national du tourisme.
+Pour chacune des sections, un président et un président délégué sont nommés par arrêté du ministre chargé du tourisme.
 
-Des formations spécialisées peuvent être constituées.
+Des commissions permanentes peuvent être constituées.
 
 **Nota:**
 
@@ -8328,31 +8333,37 @@ Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
 
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 4, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-10
 
-Le comité permanent est présidé par le ministre chargé du tourisme ou son représentant.
+Le comité stratégique est présidé par le ministre chargé du tourisme.
 
-Il est composé du président de chacune des sections du Conseil national du tourisme, de deux représentants élus au sein de
-chaque section et de huit membres du Conseil national du tourisme nommés par arrêté du ministre chargé du tourisme.
+Il est composé du président de chacune des sections du Conseil national du tourisme et de seize personnalités issues des
+secteurs représentatifs du tourisme, nommées par arrêté du ministre chargé du tourisme.
 
 En cas d'absence, un président de section est remplacé par le président délégué de la même section.
 
-Le comité permanent se réunit sur convocation de son président ou par délégation sur convocation du secrétaire général du
+Le comité stratégique se réunit sur convocation de son président ou par délégation sur convocation du secrétaire général du
 Conseil national du tourisme.
 
-Le secrétaire général du Conseil national du tourisme assiste aux séances du comité permanent.
+Le secrétaire général du Conseil national du tourisme assiste aux séances du comité stratégique.
 
 **Nota:**
 
@@ -8360,23 +8371,29 @@ Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
 
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 5, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-11
 
-Le comité permanent a compétence, par délégation du Conseil national du tourisme, pour émettre les avis requis sur les textes
-législatifs et réglementaires ou ayant une incidence sur le tourisme et sur toute autre demande d'avis à l'initiative du
-ministre chargé du tourisme.
+Le comité stratégique a compétence, par délégation du Conseil national du tourisme, pour émettre les avis requis sur les
+textes législatifs et réglementaires ou ayant une incidence sur le tourisme et sur toute autre demande d'avis à l'initiative
+du ministre chargé du tourisme.
 
 Il définit le programme de travail du Conseil national du tourisme, après consultation de ses membres.
 
@@ -8384,7 +8401,7 @@ Il suit la mise en oeuvre des recommandations et des avis du Conseil national du
 
 Il peut saisir le ministre chargé du tourisme de toute question concernant le tourisme.
 
-Sur proposition du secrétaire général, le comité permanent établit le règlement intérieur du Conseil national du tourisme.
+Sur proposition du secrétaire général, le comité stratégique établit le règlement intérieur du Conseil national du tourisme.
 
 **Nota:**
 
@@ -8392,16 +8409,22 @@ Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
 
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 6, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-12
@@ -8458,37 +8481,46 @@ durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 ###### Article D122-14
 
 Des conseillers techniques peuvent être nommés auprès d'une section par arrêté du ministre chargé du tourisme pour une durée
-d'un an.
+de cinq ans.
 
 **Nota:**
 
 Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
+
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1327 du 27 octobre 2005 - art. 9, v. init.
 	  - Décret n°2005-1327 du 27 octobre 2005 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-15
 
-Participent aux travaux du Conseil national du tourisme et du comité permanent, à titre consultatif, le chef du service du
-contrôle général économique et financier ou son représentant, le directeur du tourisme,
-le président du groupement d'intérêt économique Agence de développement touristique de la France, ou son représentant.
+Participent aux travaux du Conseil national du tourisme et du comité stratégique, à titre consultatif, le chef du service du
+contrôle général économique et financier ou son représentant, le sous-directeur du tourisme ou son représentant ainsi que le
+président du groupement d'intérêt économique Agence de développement touristique de la France, ou son représentant.
 
 **Nota:**
 
 Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
+
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -8498,7 +8530,7 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-16
@@ -8506,9 +8538,9 @@ du tourisme).
 Participent aux travaux du Conseil national du tourisme, à titre consultatif, les chefs des conseils généraux et des
 inspections générales suivants ou leurs représentants :
 
-- Conseil général des ponts et chaussées ;
+- Conseil général de l'environnement et du développement durable ;
 
--              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
+- Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
 - inspection générale de l'administration ;
 
@@ -8517,8 +8549,6 @@ inspections générales suivants ou leurs représentants :
 - inspection générale de l'administration des affaires culturelles ;
 
 - inspection générale de l'éducation nationale ;
-
-- inspection générale de l'environnement ;
 
 - inspection générale des finances ;
 
@@ -8530,6 +8560,9 @@ Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
 
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8538,7 +8571,7 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2010-141 du 10 février 2010 - art. 10 (V)
+	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
 
 
 ###### Article D122-17
