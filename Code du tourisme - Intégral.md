@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-12-23
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -8204,7 +8204,7 @@ représentant ;
 
 - le président de la Fédération française de randonnée pédestre ou son représentant ;
 
-- le président de l'Institut géographique national (IGN) ou son représentant ;
+- le président de l'Institut national de l'information géographique et forestière ou son représentant ;
 
 - le président du Conseil supérieur de l'œnotourisme ou son représentant ; 
 
@@ -8298,7 +8298,7 @@ consommation ;
 - quatre représentants d'associations de personnes handicapées ; 
 
 10° Douze personnalités qualifiées choisies par le ministre chargé du tourisme en fonction de leur compétence en matière de
-tourisme.
+tourisme
 
 **Nota:**
 
@@ -8314,7 +8314,7 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2011-1912 du 20 décembre 2011 - art. 1
+	  - Décret n°2011-1371 du 27 octobre 2011 - art. 30 (VD)
 
 
 ###### Article D122-8
@@ -13325,16 +13325,17 @@ conférenciers et après avis du Conseil national de l'enseignement supérieur e
 ###### Article D231-1
 
 Les voitures de tourisme avec chauffeur doivent comporter quatre places au moins et neuf au plus, y compris celle du
-chauffeur. 
+chauffeur.
 
 Elles doivent être âgées de moins de six ans, sauf s'il s'agit de véhicules de collection, et offrir aux passagers les
 conditions de confort et les aménagements intérieurs correspondant aux besoins de la clientèle fixés par arrêté du ministre
-chargé du tourisme. 
+chargé du tourisme.
 
-Les voitures sont soumises à un contrôle périodique dans les conditions prévues à l'article R. 323-24 du code de la route. 
+Les voitures sont soumises à un contrôle périodique dans les conditions prévues à l'article R. 323-24 du code de la route.
 
 Elles doivent être munies d'une signalétique distinctive définie par arrêté conjoint du ministre chargé du tourisme et du
-ministre chargé de l'intérieur.
+ministre chargé de l'intérieur. Cette signalétique doit être retirée ou occultée si le véhicule est utilisé pour une autre
+activité que celle de voiture de tourisme avec chauffeur.
 
 **Liens relatifs à cet article**
 
@@ -13346,13 +13347,29 @@ ministre chargé de l'intérieur.
 	  - Code du tourisme. - art. R231-13 (V)
 	  - Code du tourisme. - art. R231-5 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 2
+	  - Décret n°2011-1993 du 27 décembre 2011 - art. 1
 
 	**Cite**:
 
 	  - Code de la route. - art. R323-24
+
+
+###### Article D231-1-1
+
+La réservation d'une voiture de tourisme avec chauffeur est prouvée par tout moyen permettant à l'autorité compétente d'en
+vérifier la réalité et le caractère préalable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1993 du 27 décembre 2011 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 30 juillet 2013 - art. 1 (V)
 
 
 ##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.
@@ -13420,17 +13437,17 @@ représentants légaux, seuls habilités à présenter la demande.
 ###### Article R231-3
 
 I.-L'immatriculation est effectuée par la commission d'immatriculation mentionnée à l'article L. 141-2 dans un délai d'un
-mois à compter de la date du récépissé émis par la commission au moment de la réception du dossier complet. La commission
-notifie à l'exploitant de voitures de tourisme avec chauffeur un certificat d'immatriculation comportant son numéro
-d'immatriculation au registre et la date d'enregistrement.
+mois à compter de la date du récépissé émis par la commission au moment de la réception du dossier complet, sous réserve des
+dispositions prévues à l'article R. 231-5. La commission notifie à l'exploitant de voitures de tourisme avec chauffeur un
+certificat d'immatriculation comportant son numéro d'immatriculation au registre et la date d'enregistrement. 
 
 L'immatriculation est réputée acquise en l'absence de décision de la commission dans le délai prévu à l'alinéa précédent. La
 commission est alors tenue de délivrer sans délai un numéro d'immatriculation. 
 
 II.-Les exploitants de voitures de tourisme avec chauffeur informent la commission de tout changement dans les éléments
-d'information prévus au troisième ou quatrième alinéa de l'article R. 231-2, et notamment la cessation
-d'activité.L'information est transmise dans le mois qui précède la modification quand elle peut être anticipée ou sinon au
-plus tard dans le mois qui suit l'événement. 
+d'information prévus au troisième ou quatrième alinéa de l'article R. 231-2, et notamment la cessation d'activité.
+L'information est transmise dans le mois qui précède la modification quand elle peut être anticipée ou sinon au plus tard
+dans le mois qui suit l'événement. 
 
 III.-Lorsqu'il ressort de l'examen du dossier complet que la demande d'immatriculation n'est pas conforme aux dispositions de
 la présente section, la commission prend une décision de refus d'inscription au registre qu'elle communique au demandeur dans
@@ -13447,12 +13464,17 @@ article.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+	  - Décret n°2011-1992 du 27 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L141-2
-	  - Code du tourisme. - art. R231-2
+	  - Code du tourisme. - art. R231-2 (Ab)
+	  - Code du tourisme. - art. R231-5
 
 
 ###### Article R231-4
@@ -13486,21 +13508,31 @@ dénomination, de la raison sociale, de la forme juridique et de l'adresse du si
 
 ###### Article R231-5
 
-Lorsque l'exploitant de voitures de tourisme avec chauffeur ne satisfait plus aux conditions prévues à l'article D. 231-1, la
-commission d'immatriculation mentionnée à l'article L. 141-2 procède à la radiation du registre mentionné au b de l'article
-L. 141-3. 
+Lorsque l'exploitant de voitures de tourisme avec chauffeur ne satisfait plus aux conditions prévues à l'article D. 231-1, ou
+emploie un chauffeur non titulaire de la carte professionnelle prévue à l'article D. 231-12, la commission d'immatriculation
+mentionnée à l'article L. 141-2 procède à la radiation du registre mentionné au b de l'article L. 141-3. 
+
+La décision de radiation ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et ait été invité à
+présenter ses observations. La commission peut fixer un délai, d'une durée maximum de six mois, pendant lequel l'exploitant
+radié ne peut pas déposer une nouvelle demande d'immatriculation. 
 
 La radiation du registre est notifiée par la commission par tout moyen permettant d'en obtenir un accusé de réception à
 l'exploitant de voitures de tourisme avec chauffeur qui en fait l'objet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+	  - Décret n°2011-1992 du 27 décembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
+	  - Code du tourisme. - art. D231-1
+	  - Code du tourisme. - art. D231-12
 	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L141-3
 
@@ -19888,14 +19920,14 @@ L. 324-1 ou des gîtes ruraux, sont définies à l'article 322 FA de l'annexe II
 Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire sont fixées par les articles R. 2333-43 à R.
 2333-69 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art.R. 2333-43 du code général des collectivités territoriales. 
+" Art. R. 2333-43 du code général des collectivités territoriales. 
 
 Les communes, définies à l'article L. 2333-26, qui ont institué la taxe de séjour ou la taxe de séjour forfaitaire font
 figurer, dans un état annexe au compte administratif, les recettes procurées par cette taxe pendant l'exercice considéré et
 l'emploi de ces recettes à des actions de nature à favoriser la fréquentation touristique notamment par les offices du
 tourisme. " 
 
-" Art.R. 2333-44 du code général des collectivités territoriales. 
+" Art. R. 2333-44 du code général des collectivités territoriales. 
 
 Les natures d'hébergement mentionnées par le premier alinéa de l'article L. 2333-26 sont : 
 
@@ -19913,7 +19945,7 @@ Les natures d'hébergement mentionnées par le premier alinéa de l'article L. 2
 
 7° Les autres formes d'hébergement. " 
 
-" Art.D. 2333-45 du code général des collectivités territoriales.
+" Art. D. 2333-45 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-30, les tarifs de la taxe de séjour sont fixés par la commune conformément au barème
 suivant :
@@ -19929,36 +19961,36 @@ nuitée ;
 étoiles, de catégorie grand confort et tous les autres établissements de caractéristiques équivalentes : entre 0,30 et 0,90
 euro par personne et par nuitée ;
 
-- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de tourisme 1 étoile, villages de vacances 1, 2 et 3
+- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de tourisme 1 étoile, villages de vacances 1,2 et 3
 étoiles, de catégorie confort et tous les autres établissements de caractéristiques équivalentes : entre 0,20 et 0,75 euro
 par personne et par nuitée ;
 
 - hôtels de tourisme classés sans étoile et tous les autres établissements de caractéristiques équivalentes : entre 0,20 et
 0,40 euro par personne et par nuitée ;
 
-- terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et tout autre terrain d'hébergement de plein air
+- terrains de camping et terrains de caravanage classés en 3,4 et 5 étoiles et tout autre terrain d'hébergement de plein air
 de caractéristiques équivalentes : entre 0,20 et 0,55 euro par personne et par nuitée ;
 
 - terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d'hébergement de plein air de
-caractéristiques équivalentes, ports de plaisance : 0,20 euro par personne et par nuitée.
+caractéristiques équivalentes, ports de plaisance : 0,20 euro par personne et par nuitée. 
 
 En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
-tarif retenu pour une catégorie d'hébergement supérieure de même type.
+tarif retenu pour une catégorie d'hébergement supérieure de même type. 
 
 Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article L. 3333-1 lorsqu'elle
-est instituée." 
+est instituée. " 
 
-" Art.R. 2333-46 du code général des collectivités territoriales. 
+" Art. R. 2333-46 du code général des collectivités territoriales. 
 
 Le tarif de la taxe de séjour est affiché chez les logeurs propriétaires ou autres intermédiaires chargés de percevoir la
 taxe de séjour et tenu à la mairie à la disposition de toute personne qui désire en prendre connaissance. " 
 
-" Art.D. 2333-47 du code général des collectivités territoriales. 
+" Art. D. 2333-47 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-35, la taxe n'est pas perçue dans les colonies et centres de vacances collectives
 d'enfants tels qu'ils sont définis par arrêté du ministre de la jeunesse, de l'éducation nationale et de la recherche. " 
 
-" Art.D. 2333-48 du code général des collectivités territoriales. 
+" Art. D. 2333-48 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-35, sont exemptés de la taxe de séjour :
 
@@ -19967,7 +19999,7 @@ En application de l'article L. 2333-35, sont exemptés de la taxe de séjour :
 - les bénéficiaires des formes d'aide sociale prévues au chapitre Ier du titre III et au chapitre Ier du titre IV du livre II
 ainsi qu'aux chapitres IV et V du titre IV du livre III du code de l'action sociale et des familles. " 
 
-" Art.D. 2333-49 du code général des collectivités territoriales. 
+" Art. D. 2333-49 du code général des collectivités territoriales. 
 
 Les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24 décembre
 1940 relative aux réductions de tarifs accordées aux familles nombreuses et aux militaires réformés bénéficient des mêmes
@@ -19978,7 +20010,7 @@ Le conseil municipal peut décider d'augmenter le montant des réductions prévu
 Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
 mineurs de moins de dix-huit ans. " 
 
-" Art.R. 2333-50 du code général des collectivités territoriales. 
+" Art. R. 2333-50 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-37, lorsque les logeurs, hôteliers, propriétaires ou autres intermédiaires reçoivent le
 montant des loyers qui leur sont dus, ils perçoivent la taxe de séjour sur les assujettis définis à l'article L. 2333-29. 
@@ -19990,7 +20022,7 @@ perceptions effectuées.
 La taxe est perçue avant le départ des assujettis alors même que, du consentement du logeur, de l'hôtelier, du propriétaire
 ou du principal locataire, le paiement du loyer est différé. " 
 
-" Art.R. 2333-51 du code général des collectivités territoriales. 
+" Art. R. 2333-51 du code général des collectivités territoriales. 
 
 Les personnes qui louent au cours de la période de perception définie à l'article L. 2333-28, tout ou partie de leur
 habitation personnelle à toute personne assujettie définie à l'article L. 2333-29, en font la déclaration à la mairie dans
@@ -20001,7 +20033,7 @@ Les dispositions de l'article R. 2333-50 leur sont applicables.
 La déclaration est rédigée en double exemplaire. La date de réception à la mairie est portée sur l'exemplaire restitué au
 déclarant. " 
 
-" Art.R. 2333-52 du code général des collectivités territoriales. 
+" Art. R. 2333-52 du code général des collectivités territoriales. 
 
 En cas de départ furtif d'un assujetti, la responsabilité des personnes désignées aux articles R. 2333-50 et R. 2333-51 ne
 peut être dégagée que si elles ont avisé aussitôt le maire et déposé entre ses mains une demande en exonération adressée au
@@ -20009,12 +20041,12 @@ juge du tribunal d'instance.
 
 Le maire transmet cette demande dans les vingt-quatre heures au juge du tribunal d'instance, lequel statue sans frais. " 
 
-" Art.R. 2333-53 du code général des collectivités territoriales. 
+" Art. R. 2333-53 du code général des collectivités territoriales. 
 
-Le produit de la taxe est versé au receveur municipal aux dates fixées par délibération du conseil municipal.
+Le produit de la taxe est versé au receveur municipal aux dates fixées par délibération du conseil municipal. 
 
 A cette occasion, les logeurs, hôteliers, propriétaires ou autres intermédiaires qui ont perçu la taxe de séjour doivent
-produire une déclaration indiquant le montant total de la taxe perçue.
+produire une déclaration indiquant le montant total de la taxe perçue. 
 
 L'état prévu au deuxième alinéa de l'article R. 2333-50 est joint à la déclaration. 
 
@@ -20023,24 +20055,24 @@ Le comptable procède à l'encaissement de la taxe et en donne quittance.
 Lorsque la déclaration n'est pas accompagnée du paiement, il est remis au déclarant un reçu attestant du dépôt de la
 déclaration. " 
 
-" Art.R. 2333-55 du code général des collectivités territoriales. 
+" Art. R. 2333-55 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-39, le maire et les agents commissionnés par lui procèdent à la vérification de l'état
-dont la tenue est prévue par le deuxième alinéa de l'article R. 2333-50.
+dont la tenue est prévue par le deuxième alinéa de l'article R. 2333-50. 
 
 A cette fin, ils peuvent demander aux logeurs et hôteliers la communication des pièces et documents comptables s'y
 rapportant. " 
 
-" Art.R. 2333-56 du code général des collectivités territoriales. 
+" Art. R. 2333-56 du code général des collectivités territoriales. 
 
 Tout retard dans le versement du produit de la taxe dans les conditions prévues par l'article R. 2333-53 donne lieu à
-l'application d'un intérêt de retard égal à 0, 75 % par mois de retard. 
+l'application d'un intérêt de retard égal à 0,75 % par mois de retard. 
 
 Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal. 
 
-En cas de non-paiement, les poursuites sont effectuées comme en matière de contributions directes. " 
+En cas de non-paiement, les mesures d'exécution forcée sont effectuées comme en matière de contributions directes. " 
 
-" Art.R. 2333-57 du code général des collectivités territoriales. 
+" Art. R. 2333-57 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-40, tout assujetti qui conteste soit l'application qui lui est faite du tarif par
 l'hôtelier, logeur, propriétaire, ou principal locataire, soit la quotité de la taxe qui lui est réclamée, acquitte néanmoins
@@ -20049,7 +20081,7 @@ le montant de la taxe contestée, sauf à en obtenir le remboursement après qu'
 Ces contestations sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le ressort duquel se
 trouve la commune intéressée et sont jugées sans frais. " 
 
-" Art.R. 2333-58 du code général des collectivités territoriales. 
+" Art. R. 2333-58 du code général des collectivités territoriales. 
 
 Sera puni de la peine d'amende prévue pour les contraventions de la deuxième classe tout logeur, loueur, hôtelier,
 propriétaire ou autre intermédiaire visé au premier alinéa de l'article R. 2333-50 et au premier alinéa de l'article R.
@@ -20064,7 +20096,7 @@ ou autre intermédiaire visé au premier alinéa de l'article R. 2333-50 et au p
 pas, dans les délais, déposé la déclaration prévue au deuxième alinéa de l'article R. 2333-53 ou qui aura établi une
 déclaration inexacte ou incomplète. " 
 
-" Art.R. 2333-59 du code général des collectivités territoriales. 
+" Art. R. 2333-59 du code général des collectivités territoriales. 
 
 Pour l'application de l'article L. 2333-41, le nombre d'unités de capacité d'accueil de chaque établissement correspond au
 nombre de personnes que celui-ci est susceptible d'héberger. 
@@ -20078,7 +20110,7 @@ Lorsque l'arrêté de classement fait référence à des emplacements d'installa
 légers, le nombre d'unités de capacité d'accueil de chaque établissement d'hébergement de plein air est égal au triple du
 nombre des emplacements mentionnés par l'arrêté de classement. " 
 
-" Art.D. 2333-60 du code général des collectivités territoriales. 
+" Art. D. 2333-60 du code général des collectivités territoriales. 
 
 Les tarifs de la taxe de séjour forfaitaire sont fixés par la commune conformément au barème suivant :
 
@@ -20093,26 +20125,26 @@ unité de capacité d'accueil ;
 étoiles, de catégorie grand confort et tous les autres établissements de caractéristiques équivalentes : entre 0,30 euros et
 0,90 euros par nuitée et par unité de capacité d'accueil ;
 
-- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de tourisme 1 étoile, villages de vacances 1, 2 et 3
+- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de tourisme 1 étoile, villages de vacances 1,2 et 3
 étoiles, de catégorie confort et tous les autres établissements de caractéristiques équivalentes : entre 0,20 euros et 0,75
 euros par nuitée et par unité de capacité d'accueil ;
 
 - hôtels de tourisme classés sans étoile et tous les autres établissements de caractéristiques équivalentes : entre 0,20
 euros et 0,40 euros par nuitée et par unité de capacité d'accueil ;
 
-- terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et tout autre terrain d'hébergement de plein air
+- terrains de camping et terrains de caravanage classés en 3,4 et 5 étoiles et tout autre terrain d'hébergement de plein air
 de caractéristiques équivalentes : entre 0,20 euros et 0,55 euros par nuitée et par unité de capacité d'accueil ;
 
 - terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d'hébergement de plein air de
-caractéristiques équivalentes, ports de plaisance : 0,20 euros par nuitée et par unité de capacité d'accueil.
+caractéristiques équivalentes, ports de plaisance : 0,20 euros par nuitée et par unité de capacité d'accueil. 
 
 En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
-tarif retenu pour une catégorie d'hébergement supérieure de même type.
+tarif retenu pour une catégorie d'hébergement supérieure de même type. 
 
 Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article L. 3333-1 lorsqu'elle
-est instituée."
+est instituée. " 
 
-" Art.R. 2333-61 du code général des collectivités territoriales. 
+" Art. R. 2333-61 du code général des collectivités territoriales. 
 
 Le montant de la taxe due par chaque redevable est égal au produit des éléments suivants : 
 
@@ -20122,12 +20154,12 @@ Ce nombre d'unités fait l'objet d'un abattement de 20 %. Cet abattement est por
 comprises à la fois dans la période d'ouverture de l'établissement et la période de perception définie à l'article L. 2333-28
 est supérieur à soixante et inférieur ou égal à cent cinq et à 40 % lorsque ce nombre de nuitées est supérieur à cent cinq. 
 
-2° Le tarif de la taxe de séjour forfaitaire fixée par la commune conformément aux dispositions de l'article D. 2333-60. 
+2° Le tarif de la taxe de séjour forfaitaire fixée par la commune conformément aux dispositions de l'article D. 2333-60.
 
 3° Le nombre de nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception de la
 commune. " 
 
-" Art.R. 2333-62 du code général des collectivités territoriales. 
+" Art. R. 2333-62 du code général des collectivités territoriales. 
 
 Les redevables de la taxe de séjour forfaitaire sont tenus de faire une déclaration à la mairie au plus tard un mois avant
 chaque période de perception. 
@@ -20141,7 +20173,7 @@ Sur cette déclaration figurent obligatoirement :
 3° La capacité d'accueil de l'établissement, déterminée en nombre d'unités conformément aux dispositions de l'article R.
 2333-59. " 
 
-" Art.R. 2333-63 du code général des collectivités territoriales. 
+" Art. R. 2333-63 du code général des collectivités territoriales. 
 
 Les personnes qui louent au cours de la période de perception de la taxe tout ou partie de leur habitation personnelle à
 toute personne visée à l'article L. 2333-29 en font la déclaration à la mairie dans les quinze jours qui suivent le début de
@@ -20152,7 +20184,7 @@ Cette déclaration doit comporter les mêmes indications que celles prévues à 
 La déclaration mentionnée à l'article R. 2333-62 et au présent article est rédigée en double exemplaire. La date de réception
 par la mairie est portée sur l'exemplaire restitué au déclarant. " 
 
-" Art.R. 2333-64 du code général des collectivités territoriales. 
+" Art. R. 2333-64 du code général des collectivités territoriales. 
 
 Pour chaque période de perception, le montant de la taxe due par chaque redevable fait l'objet d'un titre de recettes adressé
 par le maire au receveur municipal. 
@@ -20161,14 +20193,14 @@ Le produit de la taxe est versé au receveur municipal aux dates fixées par dé
 
 Le comptable procède à l'encaissement de la taxe et en donne quittance. " 
 
-" Art.R. 2333-66 du code général des collectivités territoriales. 
+" Art. R. 2333-66 du code général des collectivités territoriales. 
 
 Le maire et les agents commissionnés par lui procèdent à la vérification des déclarations prévues aux articles R. 2333-62 et
-R. 2333-63.
+R. 2333-63. 
 
 A cette fin, il peut demander aux logeurs et hôteliers la communication des pièces comptables s'y rapportant. " 
 
-" Art.R. 2333-67 du code général des collectivités territoriales. 
+" Art. R. 2333-67 du code général des collectivités territoriales. 
 
 Tout redevable qui conteste le montant de la taxe qui lui est notifié acquitte néanmoins le montant de la taxe contestée,
 sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation par le maire. 
@@ -20178,27 +20210,23 @@ ressort duquel se trouve la commune intéressée et sont jugées sans frais.
 
 Toutefois, au préalable, le redevable peut adresser la réclamation au maire qui, le cas échéant, décide du remboursement. " 
 
-" Art.R. 2333-68 du code général des collectivités territoriales. 
+" Art. R. 2333-68 du code général des collectivités territoriales. 
 
 Sera puni de la peine d'amende prévue pour les contraventions de la cinquième classe tout logeur, loueur, hôtelier,
 propriétaire ou autre assujetti visé au premier alinéa de l'article R. 2333-62 et au premier alinéa de l'article R. 2333-63
 soumis à la taxe de séjour forfaitaire qui n'aura pas effectué dans les délais la déclaration prévue aux articles R. 2333-62
 et R. 2333-63 ou qui aura fait une déclaration inexacte ou incomplète. " 
 
-" Art.R. 2333-69 du code général des collectivités territoriales. 
+" Art. R. 2333-69 du code général des collectivités territoriales. 
 
 Tout retard dans le versement du produit de la taxe dans les conditions prévues par l'article R. 2333-64 donne lieu à
-l'application d'un intérêt égal à 0, 75 % par mois de retard. 
+l'application d'un intérêt égal à 0,75 % par mois de retard. 
 
 Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal. 
 
-En cas de non-paiement, les poursuites sont effectuées comme en matière de contributions directes. "
+En cas de non-paiement, les mesures d'exécution forcée sont effectuées comme en matière de contributions directes. "
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1248 du 6 octobre 2011 - art. 1
 
 	**Liens**:
 
@@ -20227,6 +20255,22 @@ En cas de non-paiement, les poursuites sont effectuées comme en matière de con
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-67 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-68 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-69 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2333-26 (V)
+	  - Code général des collectivités territoriales - art. L2333-28 (V)
+	  - Code général des collectivités territoriales - art. L2333-29 (V)
+	  - Code général des collectivités territoriales - art. L2333-30 (V)
+	  - Code général des collectivités territoriales - art. L2333-35 (V)
+	  - Code général des collectivités territoriales - art. L2333-37 (V)
+	  - Code général des collectivités territoriales - art. L2333-39 (V)
+	  - Code général des collectivités territoriales - art. L2333-40 (V)
+	  - Code général des collectivités territoriales - art. L2333-41 (V)
+	  - Code général des collectivités territoriales - art. R2333-50 (V)
+	  - Code général des collectivités territoriales - art. R2333-59 (V)
+	  - Code général des collectivités territoriales - art. R2333-62 (V)
+	  - Code général des collectivités territoriales - art. R2333-63 (V)
 
 	**Cité par**:
 
