@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2012-03-31
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -13551,9 +13551,10 @@ n'excède pas neuf mois par an en une ou plusieurs périodes.
 
 ###### Article D311-5
 
-Les hôtels de tourisme sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
-critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
-ministre chargé du tourisme. Le tableau de classement est révisé au moins tous les cinq ans. 
+Les hôtels de tourisme, quel que soit le nombre de chambres, sont répartis dans l'une des catégories désignées par un nombre
+d'étoiles croissant, en fonction de critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article
+L. 141-2 et homologué par arrêté du ministre chargé du tourisme. Le tableau de classement est révisé au moins tous les cinq
+ans. 
 
 Les éditeurs des guides et annuaires de tourisme et des indicateurs de publicité doivent respecter les classements ainsi
 faits lorsqu'ils s'y réfèrent. Aucun document de publicité touristique ne doit contenir d'indication de nature à créer une
@@ -13570,27 +13571,21 @@ faits lorsqu'ils s'y réfèrent. Aucun document de publicité touristique ne doi
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+	  - Décret n°2012-693 du 7 mai 2012 - art. 1
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L141-2
 
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R311-6 (T)
-
 
 ###### Article D311-6
 
-L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
-l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
-des documents suivants : 
+L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
+sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle
+des hôtels par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L.
+311-6. 
 
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des hôtels par le
-Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 311-6.
+Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
 **Liens relatifs à cet article**
 
@@ -13604,23 +13599,27 @@ Comité français d'accréditation (COFRAC) ou tout organisme européen équival
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
+	  - Décret n°2012-693 du 7 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. L311-6
 
 
 ###### Article D311-7
 
-Le certificat de visite prévu au b de l'article D. 311-6 doit comprendre : 
+Le certificat de visite mentionné à l'article D. 311-6 comprend : 
 
-a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
-établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
-département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée et portant mention de
+l'avis de l'organisme évaluateur sur le classement dans cette catégorie ; ce rapport de contrôle est établi sur la base d'une
+visite réalisée dans les trois mois précédant la transmission de la demande de classement à l'organisme mentionné à l'article
+L. 141-2 ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+b) La grille de contrôle renseignée par l'organisme évaluateur. 
 
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+l'établissement pour remettre à l'exploitant, sous forme numérique, le certificat de visite.
 
 **Liens relatifs à cet article**
 
@@ -13631,21 +13630,19 @@ visite.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+	  - Décret n°2012-693 du 7 mai 2012 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du tourisme. - art. R311-8 (T)
+	  - Code du tourisme. - art. D311-6
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D311-8
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente section. 
-
-Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
-sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+Dans le mois qui suit la réception du dossier complet de demande de classement, l'organisme mentionné à l'article L. 141-2
+prend la décision de classement dans la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 311-6 a émis un
+avis favorable. 
 
 Le classement est prononcé pour une durée de cinq ans.
 
@@ -13658,11 +13655,12 @@ Le classement est prononcé pour une durée de cinq ans.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 7
+	  - Décret n°2012-693 du 7 mai 2012 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du tourisme. - art. D311-9 (T)
+	  - Code du tourisme. - art. D311-6
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D311-9
@@ -14005,36 +14003,22 @@ du critère de gestion par une seule personne physique ou morale prévu à l'art
 moins 70 % des locaux d'habitation meublés prévu à l'article D. 321-2, ni du critère de capacité minimale requis pour le
 classement de la résidence de tourisme. 
 
-II.-L'autorité administrative qui a prononcé le classement de la résidence concernée est informée, soit par les
-copropriétaires dans le cas prévu au 1° du I de l'article 46 AGG bis de l'annexe 3 au code général des impôts, soit par
-l'entreprise créée dans le cas prévu au 2° du I du même article, des modifications intervenues dans l'exploitation de ladite
-résidence. 
-
-Les éléments suivants lui sont communiqués : 
-
-1° L'identification de la ou des entreprises réalisant les prestations nécessaires à l'exploitation de la résidence ; 
-
-2° La liste (nom et adresse) des copropriétaires concernés ainsi que le nombre d'appartements qu'ils détiennent ; 
-
-3° La copie des contrats conclus entre les copropriétaires ou l'entreprise qu'ils ont créée et la ou les entreprises
-réalisant les prestations nécessaires à l'exploitation de la résidence. 
-
-III.-La demande de classement est présentée soit par les copropriétaires dans le cas prévu au 1° du I de l'article 46 AGG bis
+II.-La demande de classement est présentée soit par les copropriétaires dans le cas prévu au 1° du I de l'article 46 AGG bis
 de l'annexe 3 au code général des impôts, soit par l'entreprise créée dans le cas prévu au 2° du I du même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-545 du 18 mai 2011 - art. 2
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGG bis (V)
-	  - Code général des impôts, CGI. - art. 199 decies E (V)
-	  - Code général des impôts, CGI. - art. 199 decies F (V)
-	  - Code du tourisme. - art. D321-1 (V)
-	  - Code du tourisme. - art. D321-2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGG bis
+	  - Code général des impôts, CGI. - art. 199 decies E
+	  - Code général des impôts, CGI. - art. 199 decies F
+	  - Code du tourisme. - art. D321-1
+	  - Code du tourisme. - art. D321-2
 
 
 ##### Section 2 : Classement.
@@ -14066,21 +14050,18 @@ Aucun document de publicité touristique ne doit contenir d'indication de nature
 
 ###### Article D321-4
 
-L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
-l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
-des documents suivants : 
+L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
+sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle
+des résidences de tourisme par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément
+à l'article L. 321-1. 
 
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des établissements
-demandant leur classement en résidences de tourisme, par le Comité français d'accréditation (COFRAC) ou par tout organisme
-européen équivalent conformément à l'article L. 321-1.
+Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -14090,47 +14071,45 @@ européen équivalent conformément à l'article L. 321-1.
 
 	**Cite**:
 
+	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L321-1
 
 
 ###### Article D321-5
 
-Le certificat de visite prévu au b de l'article D. 321-4 doit comprendre : 
+Le certificat de visite mentionné à l'article D. 321-4 comprend : 
 
-a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
-établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
-département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée et portant mention de
+l'avis de l'organisme évaluateur sur le classement dans cette catégorie ; ce rapport de contrôle est établi sur la base d'une
+visite réalisée dans les trois mois précédant la transmission de la demande de classement à l'organisme mentionné à l'article
+L. 141-2 ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+b) La grille de contrôle renseignée par l'organisme évaluateur. 
 
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+l'établissement pour remettre à l'exploitant, sous forme numérique, le certificat de visite.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
 
 	**Cité par**:
 
 	  - Arrêté du 4 juin 2010 - art. 3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
+
 	**Cite**:
 
 	  - Code du tourisme. - art. D321-4
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D321-6
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente section. 
-
-Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
-sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+Dans le mois qui suit la réception du dossier complet de demande de classement, l'organisme mentionné à l'article L. 141-2
+prend la décision de classement dans la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 321-4 a émis un
+avis favorable. 
 
 Le classement est prononcé pour une durée de cinq ans.
 
@@ -14138,10 +14117,11 @@ Le classement est prononcé pour une durée de cinq ans.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 8
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
+	  - Code du tourisme. - art. D321-4
 	  - Code du tourisme. - art. L141-2
 
 
@@ -14295,22 +14275,19 @@ situés à proximité.
 
 ###### Article D323-5
 
-L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
-l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
-des documents suivants : 
+L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
+sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité par le Comité
+français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 323-1 pour le contrôle
+des locaux d'habitation meublés et des locaux et équipements communs d'un établissement demandant son classement en village
+résidentiel de tourisme. 
 
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité par le Comité français
-d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 323-1 pour le contrôle des locaux
-d'habitation meublés et des locaux et équipements communs d'un établissement demandant son classement en village résidentiel
-de tourisme.
+Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -14319,47 +14296,45 @@ de tourisme.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L323-1
+	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. L321-1
 
 
 ###### Article D323-6
 
-Le certificat de visite prévu au b de l'article D. 323-5 doit comprendre : 
+Le certificat de visite mentionné à l'article D. 323-5 comprend : 
 
-a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
-établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
-département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée et portant mention de
+l'avis de l'organisme évaluateur sur le classement dans cette catégorie ; ce rapport de contrôle est établi sur la base d'une
+visite réalisée dans les trois mois précédant la transmission de la demande de classement à l'organisme mentionné à l'article
+L. 141-2 ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+b) La grille de contrôle renseignée par l'organisme évaluateur. 
 
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+l'établissement pour remettre à l'exploitant, sous forme numérique, le certificat de visite.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
 
 	**Cité par**:
 
 	  - Arrêté du 2 août 2010 - art. 3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
+
 	**Cite**:
 
-	  - Code du tourisme. - art. D323-5
+	  - Code du tourisme. - art. D323-5 (V)
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D323-7
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente section. 
-
-Il transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique, du dossier de demande
-de classement à l'organisme mentionné à l'article L. 141-2. 
+Dans le mois qui suit la réception du dossier complet de demande de classement, l'organisme mentionné à l'article L. 141-2
+prend la décision de classement dans la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 323-5 a émis un
+avis favorable. 
 
 Le classement est prononcé pour une durée de cinq ans.
 
@@ -14367,11 +14342,12 @@ Le classement est prononcé pour une durée de cinq ans.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 9
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. D323-5
+	  - Code du tourisme. - art. L141-2 (V)
 
 
 ###### Article D323-8
@@ -14471,27 +14447,29 @@ mois, et qui n'y élit pas domicile.
 
 ###### Article D324-1-1
 
-La déclaration de location d'un meublé de tourisme prévue à l'article L. 324-1-1 est adressée au maire de la commune où est
-situé le meublé par tout moyen permettant d'en obtenir un accusé de réception. 
+La déclaration de location d'un meublé de tourisme, que celui-ci soit classé ou non au sens du présent code, prévue à
+l'article L. 324-1-1 est adressée au maire de la commune où est situé le meublé par tout moyen permettant d'en obtenir un
+accusé de réception. 
 
 La déclaration précise l'identité et l'adresse du déclarant, l'adresse du meublé de tourisme, le nombre de pièces composant
-le meublé, le nombre de lits et la ou les périodes prévisionnelles de location. 
+le meublé, le nombre de lits,  la ou les périodes prévisionnelles de location et, le cas échéant, la  date de la décision de
+classement et le niveau de classement des meublés  de tourisme. 
 
 Tout changement concernant les éléments d'information que comporte la déclaration fait l'objet d'une nouvelle déclaration en
 mairie. 
 
-La liste des meublés de tourisme est consultable en mairie.
+La liste des meublés de tourisme, classés ou non au sens du présent code,  est consultable en mairie.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 14
 
 	**Cité par**:
 
 	  - Décret n°2009-1652 du 23 décembre 2009 - art. 16 (V)
 	  - Décret n°2017-678 du 28 avril 2017 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
@@ -14520,20 +14498,20 @@ classe.
 
 ###### Article D324-2
 
-Les meublés de tourisme sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
-critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
-ministre chargé du tourisme.
+Les meublés de tourisme classés sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en
+fonction de critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué
+par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
 	  - Arrêté du 2 août 2010 - art. 1 (V)
 	  - Code général des impôts, CGI. - art. 1407 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
@@ -14542,20 +14520,10 @@ ministre chargé du tourisme.
 
 ###### Article D324-3
 
-Le loueur du meublé ou son mandataire qui souhaite obtenir le classement adresse au représentant de l'Etat dans le
-département où est situé le meublé, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de
-classement constitué des documents suivants : 
-
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des meublés par le
-Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L. 324-1.
+Le loueur du meublé ou son mandataire qui souhaite obtenir le classement transmet une demande de classement en meublé de
+tourisme à un organisme de son choix parmi les organismes mentionnés aux 1° et 2° de l'article L. 324-1.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
 
 	**Cité par**:
 
@@ -14564,35 +14532,44 @@ Comité français d'accréditation (COFRAC) ou tout organisme européen équival
 	  - Code du tourisme. - art. D324-8 (Ab)
 	  - Code du tourisme. - art. R324-11 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L324-1
+	  - Code du tourisme. - art. L324-1 (V)
 
 
 ###### Article D324-4
 
-Le certificat de visite prévu au b de l'article D. 324-3 doit comprendre : 
+L'organisme  qui a effectué la visite de classement dispose d'un délai d'un mois à  compter de la date à laquelle s'est
+achevée la visite du meublé pour  remettre au loueur du meublé ou à son mandataire le certificat de  visite, qui comprend : 
 
-a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur pour la catégorie demandée ; ce
-rapport de contrôle est établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au
-représentant de l'Etat dans le département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+b) La grille de contrôle renseignée par l'organisme évaluateur ; 
 
-L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+c) Une proposition de décision de classement pour la catégorie indiquée dans le rapport de contrôle. 
+
+Le  loueur du meublé ou son mandataire dispose d'un délai de quinze jours à  compter de la réception de ce certificat de
+visite pour refuser la  proposition de classement. 
+
+A l'expiration de ce délai et en l'absence de refus, le classement est acquis. 
+
+Le classement est prononcé pour une durée de cinq ans. 
+
+Un arrêté du ministre chargé du tourisme précise la procédure de demande, la composition et le format du dossier de demande.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
 
 	**Cité par**:
 
 	  - Arrêté du 2 août 2010 - art. 5 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
@@ -14601,20 +14578,14 @@ visite.
 
 ###### Article D324-5
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente section. 
-
-Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
-sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
-
-Le classement est prononcé pour une durée de cinq ans.
+L'organisme qui a effectué la visite de classement transmet mensuellement, par voie électronique, à l'organisme mentionné à
+l'article L. 132-2, les décisions de classement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -14623,20 +14594,20 @@ Le classement est prononcé pour une durée de cinq ans.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. L132-2
 
 
 ###### Article D324-6
 
 Le loueur du meublé ou son mandataire peut signaler le classement de son meublé par l'affichage d'un panonceau selon un
 modèle établi par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme. Il doit
-afficher, de manière visible à l'intérieur du meublé, l'arrêté de classement.
+afficher, de manière visible à l'intérieur du meublé, la décision de classement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 10
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
@@ -14645,37 +14616,18 @@ afficher, de manière visible à l'intérieur du meublé, l'arrêté de classeme
 
 ###### Article D324-6-1
 
-Est réputé détenir l'accréditation mentionnée au troisième alinéa de l'article L. 324-1 tout organisme qui, à la date de la
-promulgation de la loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques, était
-titulaire : 
+Les organismes mentionnés au 2° de l'article L. 324-1 sont ceux qui, à la date du 22 juillet 2009, étaient titulaires : 
 
 1° Soit de l'agrément délivré par le représentant de l'Etat dans le département, conformément aux dispositions de l'article
-D. 324-8 dans sa rédaction en vigueur à la date du 22 juillet 2009 ; 
+D. 324-8 dans sa rédaction en vigueur le 22 juillet 2009 ; 
 
 2° Soit de l'agrément délivré par le ministre chargé du tourisme, conformément aux dispositions de l'article R. 324-9 dans sa
-rédaction en vigueur à la date du 22 juillet 2009. 
+rédaction en vigueur le 22 juillet 2009. 
 
-Au plus tard à compter du 1er avril 2011, les visites de contrôle effectuées dans ce cadre doivent être réalisées selon une
-procédure bénéficiant d'un niveau de certification fixé par arrêté du ministre chargé du tourisme. 
-
-Le représentant de l'Etat dans le département procède au retrait de l'agrément : 
-
-1° En cas de non-respect des obligations figurant dans la convention d'agrément ; 
-
-2° Lorsque la délivrance du certificat de visite est liée ou subordonnée, soit directement, soit indirectement, à une
-adhésion audit organisme ou à une offre de commercialisation proposée par ledit organisme. 
-
-Le retrait de l'agrément entraîne la perte définitive du bénéfice de la disposition prévue au premier alinéa du présent
-article.
+Les visites de contrôle effectuées par les organismes mentionnés au 2° de l'article L. 324-1 sont réalisées selon une
+procédure bénéficiant d'un niveau de certification fixé par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2009-888 du 22 juillet 2009
-	  - Code du tourisme. - art. D324-8 (Ab)
-	  - Code du tourisme. - art. L324-1
-	  - Code du tourisme. - art. R*324-9 (Ab)
 
 	**Cité par**:
 
@@ -14687,7 +14639,13 @@ article.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1602 du 20 décembre 2010 - art. 1
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D324-8
+	  - Code du tourisme. - art. L324-1
+	  - Code du tourisme. - art. R*324-9
 
 
 ##### Sous-section 3 : Sanctions.
@@ -15029,21 +14987,18 @@ l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du minis
 
 ###### Article D325-5
 
-L'exploitant d'un village de vacances qui souhaite obtenir le classement adresse au représentant de l'Etat dans le
-département où est installé l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de
-demande de classement constitué des documents suivants : 
+L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
+sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le
+classement des villages de vacances par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent
+conformément à l'article L. 325-1. 
 
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des villages de
-vacances par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à l'article L.
-325-1.
+Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cité par**:
 
@@ -15052,47 +15007,45 @@ vacances par le Comité français d'accréditation (COFRAC) ou tout organisme eu
 
 	**Cite**:
 
+	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L325-1
 
 
 ###### Article D325-6
 
-Le certificat de visite prévu au b de l'article D. 325-5 doit comprendre : 
+Le certificat de visite mentionné à l'article D. 325-5 comprend : 
 
-a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
-établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
-département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée et portant mention de
+l'avis de l'organisme évaluateur sur le classement dans cette catégorie ; ce rapport de contrôle est établi sur la base d'une
+visite réalisée dans les trois mois précédant la transmission de la demande de classement à l'organisme mentionné à l'article
+L. 141-2 ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+b) La grille de contrôle renseignée par l'organisme évaluateur. 
 
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+l'établissement pour remettre à l'exploitant, sous forme numérique, le certificat de visite.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
+
 	**Cite**:
 
 	  - Code du tourisme. - art. D325-5
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D325-7
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente sous-section. 
-
-Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique,
-du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+Dans le mois qui suit la réception du dossier complet de demande de classement, l'organisme mentionné à l'article L. 141-2
+prend la décision de classement dans la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 325-5 a émis un
+avis favorable. 
 
 Le classement est prononcé pour une durée de cinq ans.
 
@@ -15100,11 +15053,12 @@ Le classement est prononcé pour une durée de cinq ans.
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 3
+	  - Décret n°2012-693 du 7 mai 2012 - art. 2
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. D325-5 (V)
+	  - Code du tourisme. - art. L141-2 (V)
 
 
 ###### Article D325-8
@@ -15496,19 +15450,23 @@ Ils doivent disposer d'un règlement intérieur conforme à un modèle arrêté 
 
 ###### Article D331-2
 
-L'aménagement de terrains de camping ou de stationnement de caravanes est soumis à la procédure d'étude d'impact et de notice
-d'impact dans les conditions fixées respectivement par les articles R. 122-8 et R. 122-9 du code de l'environnement.
+L'aménagement de terrains de camping ou de stationnement de caravanes est soumis à l'étude d'impact définie à l'article R.
+122-5 du code de l'environnement, lorsque celle-ci est requise en application des articles R. 122-2 et R. 122-3 du même code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 8
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R122-8 (M)
-	  - Code de l'environnement - art. R122-9 (M)
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
 
 
 ###### Article D331-4
@@ -15706,6 +15664,8 @@ la cinquième classe.
 
 ##### Section 1 : Dispositions générales.
 
+##### Section 1 : Définitions.
+
 ###### Article D332-1
 
 Les terrains de camping sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
@@ -15758,15 +15718,13 @@ domicile.
 
 ###### Article D332-2
 
-L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
-l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
-des documents suivants : 
+L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
+sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle
+des terrains de camping et de caravanage par le Comité français d'accréditation (COFRAC) ou tout organisme européen
+équivalent conformément à l'article L. 321-1. Cette demande précise le nombre total d'emplacements et, le cas échéant, leur
+répartition suivant leur mode de location " tourisme ” ou " loisirs ” au sens de l'article D. 332-1-1. 
 
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des terrains
-aménagés de camping et caravanage par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent
-conformément à l'article L. 332-1.
+Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
 **Liens relatifs à cet article**
 
@@ -15776,7 +15734,13 @@ conformément à l'article L. 332-1.
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
+	  - Décret n°2012-693 du 7 mai 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du tourisme. - art. D332-1-1
+	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. L321-1
 
 	**Cité par**:
 
@@ -15784,26 +15748,20 @@ conformément à l'article L. 332-1.
 	  - Code du tourisme. - art. D332-4 (VD)
 	  - Code du tourisme. - art. D333-5-3 (VD)
 
-	**Cite**:
-
-	  - Code du tourisme. - art. L332-1
-
 
 ###### Article D332-3
 
-Le certificat de visite prévu au b de l'article D. 332-2 doit comprendre : 
+Le certificat de visite mentionné à l'article D. 332-2 comprend : 
 
-a) un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
-établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
-département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée et portant mention de
+l'avis de l'organisme évaluateur sur le classement dans cette catégorie ; ce rapport de contrôle est établi sur la base d'une
+visite réalisée dans les trois mois précédant la transmission de la demande de classement à l'organisme mentionné à l'article
+L. 141-2 ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme
-évaluateur ; 
+b) La grille de contrôle renseignée par l'organisme évaluateur. 
 
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+l'établissement pour remettre à l'exploitant, sous forme numérique, le certificat de visite.
 
 **Liens relatifs à cet article**
 
@@ -15813,30 +15771,27 @@ visite.
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 4
+	  - Décret n°2012-693 du 7 mai 2012 - art. 3
 
 	**Cite**:
 
 	  - Code du tourisme. - art. D332-2
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D332-4
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente section. 
-
-Le représentant de l'Etat transmet dans le même délai une copie de l'arrêté de classement accompagnée, sous forme numérique,
-du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+Dans le mois qui suit la réception du dossier complet de demande de classement, l'organisme mentionné à l'article L. 141-2
+prend la décision de classement dans la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 332-2 a émis un
+avis favorable. La décision de classement précise le nombre d'emplacements exploités. 
 
 Le classement est prononcé pour une durée de cinq ans. 
 
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 332-2, son classement
-demeure jusqu'à la notification de la nouvelle décision relative à ce classement.
+demeure jusqu'à la notification de la nouvelle décision relative à ce classement. 
 
-En cas d'augmentation supérieure à 10 % du nombre d'emplacements exploités indiqué par la décision de classement,
-l'exploitant, s'il souhaite disposer d'un classement, est tenu de demander un nouveau classement auprès de l'autorité
-administrative compétente.
+En cas d'augmentation supérieure à 10 % du nombre d'emplacements indiqué dans la décision de classement, l'exploitant, s'il
+souhaite conserver un classement, est tenu d'effectuer une nouvelle demande conformément à l'article D. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -15846,7 +15801,7 @@ administrative compétente.
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 4
+	  - Décret n°2012-693 du 7 mai 2012 - art. 3
 
 	**Cite**:
 
@@ -16004,6 +15959,8 @@ R. * 421-9 du code de l'urbanisme.
 
 ##### Sous-section 1 : Dispositions générales.
 
+##### Sous-section 1 : Définitions.
+
 ###### Article D333-3
 
 Un parc résidentiel de loisirs est un terrain aménagé au sens du 1° de l'article R. * 111-32 du code de l'urbanisme et soumis
@@ -16095,21 +16052,18 @@ l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 ###### Article D333-5-1
 
-L'exploitant qui souhaite obtenir le classement adresse au représentant de l'Etat dans le département où est installé
-l'établissement, en deux exemplaires dont un exemplaire sous forme numérique, son dossier de demande de classement constitué
-des documents suivants : 
+L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
+sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle
+des parcs résidentiels de loisirs par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent
+conformément à l'article L. 321-1. Cette demande précise le nombre total d'emplacements exploités. 
 
-a) Le formulaire de demande de classement            ; 
-
-b) Le certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle des parcs
-résidentiels de loisirs par le Comité français d'accréditation (COFRAC) ou tout organisme européen équivalent conformément à
-l'article L. 333-1.
+Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 6
+	  - Décret n°2012-693 du 7 mai 2012 - art. 3
 
 	**Cité par**:
 
@@ -16118,57 +16072,54 @@ l'article L. 333-1.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L333-1
+	  - Code du tourisme. - art. L141-2
+	  - Code du tourisme. - art. L321-1
 
 
 ###### Article D333-5-2
 
-Le certificat de visite prévu au b de l'article D. 333-5-1 doit comprendre : 
+Le certificat de visite mentionné à l'article D. 333-5-1 comprend : 
 
-a) Un rapport de contrôle en format homologué par arrêté du ministre chargé du tourisme attestant la conformité au tableau de
-classement dans la catégorie demandée et portant mention de l'avis de l'organisme évaluateur ; ce rapport de contrôle est
-établi sur la base d'une visite réalisée dans les trois mois précédant la transmission au représentant de l'Etat dans le
-département du dossier complet de demande de classement ; 
+a) Un rapport de contrôle attestant la conformité au tableau de classement dans la catégorie demandée et portant mention de
+l'avis de l'organisme évaluateur sur le classement dans cette catégorie ; ce rapport de contrôle est établi sur la base d'une
+visite réalisée dans les trois mois précédant la transmission de la demande de classement à l'organisme mentionné à l'article
+L. 141-2 ; 
 
-b) La grille de contrôle en format homologué par arrêté du ministre chargé du tourisme renseignée par l'organisme évaluateur.
+b) La grille de contrôle renseignée par l'organisme évaluateur. 
 
 L'organisme évaluateur dispose d'un délai de quinze jours à compter de la date à laquelle s'est achevée la visite de
-l'établissement pour remettre à l'exploitant, en deux exemplaires, dont un exemplaire sous forme numérique, le certificat de
-visite.
+l'établissement pour remettre à l'exploitant, sous forme numérique, le certificat de visite.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
 
 	**Cité par**:
 
 	  - Arrêté du 6 juillet 2010 - art. 3 (VD)
 	  - Code du tourisme. - art. D333-5-3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-693 du 7 mai 2012 - art. 3
+
 	**Cite**:
 
 	  - Code du tourisme. - art. D333-5-1
+	  - Code du tourisme. - art. L141-2
 
 
 ###### Article D333-5-3
 
-Le représentant de l'Etat dans le département établit par arrêté la décision de classement dans le mois qui suit la réception
-du dossier complet de demande. Cette décision est prise après vérification sur pièces de la complétude du dossier de
-classement conformément aux prescriptions de la présente sous-section. 
-
-Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée,
-sous forme numérique, du dossier de demande de classement à l'organisme mentionné à l'article L. 141-2. 
+Dans le mois qui suit la réception du dossier complet de demande de classement, l'organisme mentionné à l'article L. 141-2
+prend la décision de classement dans la catégorie pour laquelle l'organisme évaluateur prévu à l'article D. 333-5-1 a émis un
+avis favorable. La décision de classement précise le nombre d'emplacements exploités. 
 
 Le classement est prononcé pour une durée de cinq ans. 
 
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 333-5-2, son
-classement demeure jusqu'à la notification de la nouvelle décision de classement.
+classement demeure jusqu'à la notification de la nouvelle décision de classement. 
 
-En cas d'augmentation supérieure à 10 % du nombre d'emplacements exploités indiqué par la décision de classement,
-l'exploitant, s'il souhaite disposer d'un classement, est tenu de demander un nouveau classement auprès de l'autorité
-administrative compétente.
+En cas d'augmentation supérieure à 10 % du nombre d'emplacements indiqué dans la décision de classement, l'exploitant, s'il
+souhaite conserver un classement, est tenu d'effectuer une nouvelle demande conformément à l'article D. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -16178,10 +16129,12 @@ administrative compétente.
 
 	**Modifié par**:
 
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 5
+	  - Décret n°2012-693 du 7 mai 2012 - art. 3
 
 	**Cite**:
 
+	  - Code du tourisme. - art. D332-2
+	  - Code du tourisme. - art. D333-5-1
 	  - Code du tourisme. - art. D333-5-2
 	  - Code du tourisme. - art. L141-2
 
