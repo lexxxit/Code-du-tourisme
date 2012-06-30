@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
@@ -5869,21 +5869,17 @@ Les règles relatives à la circulation sur les cours d'eau des engins nautiques
 
 ###### Article L343-8
 
-Les règles relatives à l'accueil du public en forêt sont fixées par l'article L. 380-1 du code forestier.
+Les règles relatives à l'accueil du public en forêt sont fixées par les articles L122-9 à L122-11 du nouveau code forestier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
 
 	**Cite**:
 
-	  - Code forestier - art. L380-1 (M)
+	  - Code forestier (nouveau) - art. L122-9 (V)
 
 	**Anciens textes**:
 
@@ -7181,32 +7177,32 @@ protection et de gestion de leurs espaces naturels. "
 Les règles relatives à l'assujettissement à une taxe communale des entreprises exploitant des engins de remontée mécanique
 sont fixées par les articles L. 2333-49 à L. 2333-53 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art.L. 2333-49 du code général des collectivités territoriales. 
+" Art. L. 2333-49 du code général des collectivités territoriales. 
 
 Les entreprises exploitant des engins de remontée mécanique peuvent être assujetties en zone de montagne à une taxe communale
 portant sur les recettes brutes provenant de la vente des titres de transport et dont le produit est versé au budget
 communal. 
 
-Le montant de la taxe est inclus dans le prix du titre de transport et perçu sur l'usager.
+Le montant de la taxe est inclus dans le prix du titre de transport et perçu sur l'usager. 
 
 L'assiette de la taxe ne comprend ni le montant de celle-ci, ni celui de la taxe départementale prévue à l'article L.
 3333-4. 
 
 Elle est recouvrée par la commune comme en matière de taxe sur le chiffre d'affaires dans les conditions fixées par décret en
-Conseil d'Etat. "
+Conseil d'Etat. " 
 
-" Art.L. 2333-50 du code général des collectivités territoriales. 
+" Art. L. 2333-50 du code général des collectivités territoriales. 
 
 La taxe communale est instituée par délibération du conseil municipal qui en fixe le taux dans la limite de 3 % des recettes
-brutes provenant de la vente des titres de transport. "
+brutes provenant de la vente des titres de transport. " 
 
-" Art.L. 2333-51 du code général des collectivités territoriales. 
+" Art. L. 2333-51 du code général des collectivités territoriales. 
 
 Si l'exploitation des remontées mécaniques s'étend sur plusieurs communes ou plusieurs départements, la répartition de
 l'assiette de la taxe visée à l'article L. 2333-49 entre lesdites communes ou lesdits départements est fixée, à défaut
 d'accord entre eux, par le représentant de l'Etat dans des conditions fixées par décret en Conseil d'Etat. " 
 
-" Art.L. 2333-52 du code général des collectivités territoriales. 
+" Art. L. 2333-52 du code général des collectivités territoriales. 
 
 Les communes ou les établissements publics de coopération intercommunale qui percevaient à la date du 31 décembre 1983 la
 taxe spéciale portant sur les recettes brutes provenant de la vente des titres de transport par les entreprises exploitant
@@ -7222,9 +7218,9 @@ l'alinéa précédent, subroger le groupement de communes ou la commune pour per
 
 Lorsque le département ne perçoit pas la taxe ci-dessus, ces communes ou établissements publics de coopération intercommunale
 peuvent percevoir la taxe au taux qu'ils avaient fixé pour la taxe spéciale visée au premier alinéa au titre de l'exercice
-budgétaire 1983. "
+budgétaire 1983. " 
 
-" Art.L. 2333-53 du code général des collectivités territoriales. 
+" Art. L. 2333-53 du code général des collectivités territoriales. 
 
 Le produit annuel de la taxe communale est affecté, sous réserve des dispositions prévues au premier alinéa de l'article L.
 2333-52 : 
@@ -7242,20 +7238,21 @@ et les besoins des divers types de clientèle ainsi qu'à l'amélioration des ac
 notamment par les sociétés de secours en montagne ; 
 
 6° Aux dépenses d'équipement et de mise en valeur touristique des espaces forestiers présentant l'une des garanties de
-gestion durable mentionnées à l'article L. 8 du code forestier ; 
+gestion durable mentionnées aux articles L. 313-2, L. 124-1 à L. 124-4 du nouveau code forestier ; 
 
 7° Aux travaux de protection contre l'érosion naturelle des sols, la prévention des avalanches ou la défense des forêts
 contre les incendies qui incombent à la commune en application du 5° de l'article L. 2212-2. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 183 () JORF 24 février 2005
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
+
+	**Cite**:
+
+	  - Code forestier (nouveau) - art. L124-1 (V)
+	  - Code forestier (nouveau) - art. L313-2 (V)
 
 	**Liens**:
 
@@ -7264,10 +7261,6 @@ contre les incendies qui incombent à la commune en application du 5° de l'arti
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-51 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-52 (V)
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-53 (V)
-
-	**Cite**:
-
-	  - Code forestier - art. L8 (M)
 
 
 ###### Article L422-7
@@ -12753,7 +12746,7 @@ chauffeur.
 
 Elles doivent être âgées de moins de six ans, sauf s'il s'agit de véhicules de collection, et offrir aux passagers les
 conditions de confort et les aménagements intérieurs correspondant aux besoins de la clientèle fixés par arrêté du ministre
-chargé du tourisme.
+chargé du tourisme. Leur moteur doit avoir une puissance minimum fixée par arrêté du ministre chargé du tourisme.
 
 Les voitures sont soumises à un contrôle périodique dans les conditions prévues à l'article R. 323-24 du code de la route.
 
@@ -15662,8 +15655,6 @@ la cinquième classe.
 
 #### Chapitre II : Classement.
 
-##### Section 1 : Dispositions générales.
-
 ##### Section 1 : Définitions.
 
 ###### Article D332-1
@@ -15956,8 +15947,6 @@ R. * 421-9 du code de l'urbanisme.
 
 
 ##### Section 2 : Parcs résidentiels de loisirs.
-
-##### Sous-section 1 : Dispositions générales.
 
 ##### Sous-section 1 : Définitions.
 
