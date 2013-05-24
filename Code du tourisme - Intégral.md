@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2013-04-24
+Version Consolidée au 2013-05-25
 
 # Partie législative
 
@@ -8589,147 +8589,6 @@ durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
 	  - Décret n°2008-1260 du 3 décembre 2008 - art. 1
 
 
-##### Sous-section 5 : Commission des comptes du tourisme.
-
-###### Article D122-25
-
-Une commission des comptes du tourisme, placée auprès de la commission économique de la nation, est chargée notamment :
-
-- d'examiner les comptes du tourisme et de mettre en évidence les évolutions les plus significatives pour l'avenir de ce
-domaine d'activité et de ses différentes composantes ;
-
-- d'apprécier, dans le cadre du système de comptes nationaux et en concertation étroite avec la commission des comptes des
-transports et la commission des comptes des services, le rôle du tourisme dans l'activité nationale, sur l'aménagement de
-l'espace et sur nos comptes extérieurs ;
-
-- d'apprécier les modifications de comportement des Français quant aux départs en vacances et les moyens destinés à
-satisfaire leurs besoins ;
-
-- d'apprécier l'évolution des clientèles étrangères et les transformations de leurs demandes ;
-
-- d'examiner la position des entreprises de tourisme françaises au regard de leurs concurrentes étrangères.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-487 du 29 avril 1988 - art. 1 (M)
-	  - Décret n°88-487 du 29 avril 1988 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 du 6 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 55 (V)
-
-
-###### Article D122-26
-
-Le ministre chargé du tourisme préside la commission des comptes du tourisme. Il en nomme le vice-président en accord avec le
-ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-487 du 29 avril 1988 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 du 6 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 55 (V)
-
-
-###### Article D122-27
-
-La commission des comptes du tourisme comprend : 
-
-1° Vingt membres nommés, pour trois ans, par arrêté du ministre chargé du tourisme, à raison de :
-
-- onze personnalités représentant les différentes activités touristiques ;
-
-- trois personnalités représentant les collectivités territoriales et les organismes auxquels elles délèguent une part de
-leur compétence en matière de tourisme ;
-
-- deux personnalités représentant les salariés et les professionnels rémunérés à la vacation du secteur du tourisme ;
-
-- deux personnalités représentant les établissements d'enseignement, les organismes de formation et les organismes d'étude et
-de recherche du secteur du tourisme ;
-
-- deux personnalités choisies en fonction de leur compétence dans le domaine du tourisme ; 
-
-2° Au titre des représentants de l'administration et des organismes nationaux investis de responsabilités particulières dans
-le domaine du tourisme :
-
-- le directeur du tourisme ;
-
-- le directeur général de l'Institut national de la statistique et des études économiques (INSEE) ;
-
-- le directeur général du Trésor ;
-
-- le directeur général des collectivités locales ;
-
-- le directeur des affaires économiques, sociales et culturelles de l'outre-mer ;
-
-- le chef du service économie, statistiques et prospective de la direction chargée des transports ;
-
-- le directeur des études économiques et de l'évaluation environnementale ;
-
-- le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
-
-- le commissaire général à la stratégie et à la prospective ;
-
-- le directeur général des études et des relations internationales de la Banque de France ;
-
-- le président du Centre national des monuments historiques ;
-
-- le président de l'Agence de développement touristique de la France. 
-
-Son secrétariat est assuré par la direction chargée du tourisme au sein de laquelle est choisi le rapporteur désigné par
-arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-487 du 29 avril 1988 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
-	  - Décret n°2013-333 du 22 avril 2013 - art. 11
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 55 (V)
-
-
-###### Article D122-28
-
-La commission se réunit au moins une fois l'an sur convocation de son président.
-
-Elle peut entendre toute personne invitée à l'initiative de sa présidence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-487 du 29 avril 1988 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 du 6 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 55 (V)
-
-
 ##### Section 2 : Institutions déconcentrées.
 
 ##### Sous-section 1 : Services déconcentrés en région.
@@ -12226,49 +12085,6 @@ par an si la personne compte fournir des services d'une manière temporaire et o
 
 ##### Section 1 : Des personnes qualifiées.
 
-###### Article D221-5
-
-La Commission nationale des guides-conférenciers comprend, sous la présidence du ministre chargé du tourisme ou de son
-représentant :
-
-1° Cinq représentants des administrations publiques :
-
-- deux représentants du ministre chargé du tourisme ;
-
-- deux représentants du ministre chargé de la culture ;
-
-- un représentant du ministre chargé de l'enseignement supérieur ;
-
-2° Six représentants des professions, nommés sur proposition des associations professionnelles de guide-conférencier ;
-
-3° Six représentants d'organismes professionnels, nommés sur proposition d'organismes représentant des secteurs du tourisme
-et de la culture dont l'activité est en lien avec la profession de guide-conférencier.
-
-Les membres de la commission sont nommés par arrêté du ministre chargé du tourisme.
-
-Des suppléants sont nommés dans les mêmes conditions. En cas d'absence du titulaire, le suppléant a voix délibérative.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 du 6 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2012-337 du 7 mars 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
-
-
 ###### Article R221-1
 
 Les personnes qualifiées mentionnées à l'article L. 221-1 sont les personnes titulaires de la carte professionnelle de guide-
@@ -12398,48 +12214,6 @@ vue d'assurer la conduite des visites dans les musées et les monuments historiq
 	  - Code du tourisme. - art. R221-1
 
 
-###### Article R221-4
-
-Une Commission nationale des guides-conférenciers, constituée de représentants des administrations publiques et de
-représentants des professions et organismes professionnels du tourisme, est placée auprès du ministre chargé du tourisme. 
-
-La commission émet un avis sur la définition des aptitudes , des connaissances et des certifications requises des personnes
-qualifiées pour conduire des visites dans les musées et monuments historiques. 
-
-Elle propose la nature des épreuves d'aptitude et des stages d'adaptation mentionnés à l'article R. 221-12 ainsi que les
-règles de constitution des jurys d'évaluation.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-490 du 15 juin 1994 - art. 88 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 28 mars 2007 - art. 2 (V)
-	  - Décret n°2009-623 du 6 juin 2009 - art. (V)
-	  - Code du tourisme. - art. R221-18 (VT)
-
-	**Modifié par**:
-
-	  - Décret n°2011-930 du 1er août 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R221-15
-
-
 ##### Section 2 : De la profession de guide-conférencier
 
 ###### Article R221-11
@@ -12551,16 +12325,15 @@ la demande. Il accuse réception du dossier de demande de carte professionnelle 
 Il se prononce dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le
 préfet pendant plus de quatre mois vaut octroi de la carte professionnelle. 
 
-Le programme et la composition des jurys mentionnés à l'article R. 221-4, les modalités d'organisation de l'épreuve
-d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté des
-ministres chargés de la culture et du tourisme.
+Le programme et la composition des jurys, les modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation et la
+composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté des ministres chargés de la culture et du
+tourisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°94-490 du 15 juin 1994 - art. 91 (Ab)
-	  - Code du tourisme. - art. R221-18 (VT)
 
 	**Codifié par**:
 
@@ -12568,7 +12341,11 @@ ministres chargés de la culture et du tourisme.
 
 	**Modifié par**:
 
-	  - Décret n°2011-930 du 1er août 2011 - art. 3
+	  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R211-12 (V)
 
 	**Cité par**:
 
@@ -12724,8 +12501,8 @@ Les représentants des milieux professionnels sont désignés par le chef de l'�
 ###### Article D221-24
 
 Les modalités de la formation et les conditions de délivrance du diplôme national de guide-interprète national sont définies
-par arrêté du ministre chargé de l'enseignement supérieur, après avis de la Commission nationale des guides-interprètes et
-conférenciers et après avis du Conseil national de l'enseignement supérieur et de la recherche.
+par arrêté du ministre chargé de l'enseignement supérieur, après avis du Conseil national de l'enseignement supérieur et de
+la recherche.
 
 **Liens relatifs à cet article**
 
@@ -12733,9 +12510,9 @@ conférenciers et après avis du Conseil national de l'enseignement supérieur e
 
 	  - Décret n°95-673 du 9 mai 1995 - art. 7 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
+	  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
 
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.
@@ -18668,24 +18445,6 @@ conseil d'administration.
 
 ##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.
 
-###### Article D412-5
-
-La Commission nationale d'agrément transmet au ministre chargé du tourisme son avis sur la demande de délivrance de
-l'agrément déposée par l'organisme demandeur.
-
-La commission peut auditionner, sur sa propre initiative ou sur demande, l'organisme demandeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 57 (V)
-
-
 ###### Article R*412-1
 
 Les associations et mutuelles ayant des activités dans le domaine du tourisme social et familial, et satisfaisant aux
@@ -18717,36 +18476,32 @@ respectent les mêmes conditions.
 ###### Article R*412-7
 
 S'il constate que l'organisme bénéficiaire de l'agrément ne satisfait plus aux conditions mentionnées à l'article R. 412-2,
-le ministre chargé du tourisme peut suspendre cet agrément pour une année au plus, par une décision motivée, prise après avis
-de la Commission nationale d'agrément. Cette décision précise les prescriptions auxquelles l'organisme doit se conformer.
+le ministre chargé du tourisme peut suspendre cet agrément pour une année au plus, par une décision motivée. Cette décision
+précise les prescriptions auxquelles l'organisme doit se conformer.
 
 Le ministre chargé du tourisme met fin à la suspension de l'agrément dès que l'organisme en cause a satisfait à ces
 prescriptions.
 
 Dans le cas où l'organisme ne s'est pas conformé dans le délai d'un an aux prescriptions qui lui ont été notifiées, son
-agrément est retiré par le ministre chargé du tourisme, après avis de la Commission nationale d'agrément. L'agrément reste
-suspendu jusqu'à l'intervention de cette décision, la durée de cette prolongation ne pouvant toutefois excéder six mois.
+agrément est retiré par le ministre chargé du tourisme. L'agrément reste suspendu jusqu'à l'intervention de cette décision,
+la durée de cette prolongation ne pouvant toutefois excéder six mois.
 
 L'organisme bénéficiaire d'un agrément qu'il est envisagé de suspendre ou de retirer est préalablement appelé à présenter ses
 observations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-624 du 25 avril 2002 - art. 6, v. init.
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-1228 du 6 octobre 2006 - art. 1 (V) JORF 7 octobre 2006
+	  - Décret n°2013-420 du 23 mai 2013 - art. 57 (V)
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R412-2 (V)
+	  - Code du tourisme. - art. R412-2
 
 
 ###### Article R412-2
@@ -18789,7 +18544,7 @@ proposée, notamment aux enfants, et la contribution de l'organisme par ses acti
 
 ###### Article R412-3
 
-L'agrément est délivré pour une durée de cinq ans, après avis de la commission nationale définie à l'article R. 412-4.
+L'agrément est délivré pour une durée de cinq ans.
 
 La décision accordant l'agrément est publiée au Bulletin officiel du ministère chargé du tourisme et au Bulletin officiel du
 ministère chargé des affaires sociales.
@@ -18799,72 +18554,17 @@ des ministres chargés du tourisme et des affaires sociales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-624 du 25 avril 2002 - art. 3, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R412-4 (V)
-
-
-###### Article R412-4
-
-La Commission nationale d'agrément est présidée par le ministre chargé du tourisme ou son représentant. Elle est composée des
-membres énumérés ci-après :
-
-1° Deux représentants du ministre chargé des affaires sociales, dont un nommé au titre de la famille et de l'enfance ;
-
-2° Un représentant du ministre de l'intérieur ;
-
-3° Un représentant du ministre chargé de la jeunesse ;
-
-4° Un maire désigné par l'Association des maires de France ;
-
-5° Trois représentants de l'Union nationale des associations de tourisme et de plein air ;
-
-6° Un représentant de la Caisse nationale des allocations familiales.
-
-Les membres de la commission sont nommés par arrêté du ministre chargé du tourisme pour une durée de trois ans, sur
-proposition des ministres ou organismes représentés. Pour chaque titulaire, un suppléant est désigné dans les mêmes
-conditions. Si, en cours de mandat, un membre perd la qualité en raison de laquelle il a été nommé, décède ou démissionne,
-son remplaçant est désigné pour la durée de mandat restant à courir.
-
-La commission se réunit sur convocation de son président pour examiner les demandes d'agrément. En cas de partage égal des
-voix, celui-ci a voix prépondérante.
-
-La commission peut également être consultée sur toute question relative au développement du tourisme social et familial.
-
-La direction du tourisme assure son secrétariat.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-d'agrément délivré à des organismes de tourisme social et familial).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-624 du 25 avril 2002 - art. 4, v. init.
-
 	**Codifié par**:
 
 	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Cité par**:
-
-	  - Décret n°2009-623 du 6 juin 2009 - art. Annexe (V)
-	  - Code du tourisme. - art. R412-3 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2013-420 du 23 mai 2013 - art. 57 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R412-4
 
 
 ###### Article R412-6
