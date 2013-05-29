@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-05-30
 
 # Partie législative
 
@@ -4717,7 +4717,8 @@ prévoient à peine de nullité :
 1° L'objet du contrat, sa durée et les conditions dans lesquelles il peut éventuellement être prorogé ou révisé ;
 
 2° Les conditions de résiliation, de déchéance et de dévolution, le cas échéant, des biens en fin de contrat ainsi que les
-conditions d'indemnisation du cocontractant. Dans le cas des conventions de remontées mécaniques, l'indemnisation pour les
+conditions d'indemnisation du cocontractant dont, le cas échéant, celles relatives aux biens financés par l'aménageur ou
+l'exploitant et non amortis en fin de contrat. Dans le cas des conventions de remontées mécaniques, l'indemnisation pour les
 biens matériels est préalable à la résiliation du contrat ;
 
 3° Les obligations de chacune des parties et, le cas échéant, le montant de leurs participations financières ;
@@ -4732,18 +4733,13 @@ l'échéancier des recettes et des dépenses.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 4 à 9
-	  - Loi n°85-30 1985-01-09 art. 42, al
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+	  - Loi n°2013-431 du 28 mai 2013 - art. 9
 
 
 ###### Article L342-3
