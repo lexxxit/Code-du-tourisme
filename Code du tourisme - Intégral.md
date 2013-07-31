@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2013-08-01
 
 # Partie législative
 
@@ -12567,6 +12567,78 @@ vérifier la réalité et le caractère préalable.
 	  - Arrêté du 30 juillet 2013 - art. 1 (V)
 
 
+###### Article R231-1-2
+
+Est interdit le fait d'utiliser à bord d'une voiture de tourisme avec chauffeur un appareil, dispositif ou produit de nature
+à créer, dans l'esprit du public, une confusion avec le compteur horokilométrique homologué prévu à l'
+article 1er du décret n° 95-935 du 17 août 1995
+portant application de la 
+loi n° 95-66 du 20 janvier 1995
+relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-66 du 20 janvier 1995
+	  - Décret n°95-935 du 17 août 1995 - art. 1
+
+	**Créé par**:
+
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R231-13 (V)
+
+
+###### Article R231-1-3
+
+Est interdit le fait d'utiliser sur une voiture de tourisme avec chauffeur un appareil, dispositif ou produit de nature à
+créer, dans l'esprit du public, une confusion avec le dispositif extérieur lumineux prévu à l'
+article 1er du décret n° 95-935 du 17 août 1995
+portant application de la 
+loi n° 95-66 du 20 janvier 1995
+relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-66 du 20 janvier 1995
+	  - Décret n°95-935 du 17 août 1995 - art. 1
+
+	**Créé par**:
+
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R231-13 (V)
+
+
+###### Article R231-1-4
+
+Sans préjudice de la possibilité de commandes complémentaires facturées ultérieurement, les conditions fixées à l'avance
+mentionnées à l'article L. 231-1 comprennent le prix total de la prestation ayant motivé la commande qui doit être communiqué
+au client au moment de la réservation préalable. 
+
+La méconnaissance de cette obligation est punie dans les conditions prévues à l'
+article R. 113-1 du code de la consommation
+.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de la consommation - art. R113-1
+	  - Code du tourisme. - art. L231-1
+
+
 ##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.
 
 ##### Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.
@@ -12853,20 +12925,29 @@ et secours civiques de niveau 1” prévue par arrêté du ministre de l'intéri
 
 ###### Article D231-10
 
-Nul ne peut exercer la profession de chauffeur de voiture de tourisme si figure au bulletin n° 2 de son casier judiciaire :
+Nul ne peut exercer la profession de chauffeur de voiture de tourisme si figure au bulletin n° 2 de son casier judiciaire ou
+son équivalent pour les non-nationaux :
 
 1° Soit une condamnation définitive pour un délit sanctionné dans le code de la route par une réduction de la moitié du
 nombre maximal de points du permis de conduire ;
 
 2° Soit une condamnation définitive par une juridiction française ou étrangère à une peine criminelle ou à une peine
-correctionnelle d'au moins six mois d'emprisonnement sans sursis pour vol, escroquerie, abus de confiance, atteinte
-volontaire à l'intégrité de la personne, agression sexuelle ou infraction à la législation sur les stupéfiants.
+correctionnelle d'au moins six mois d'emprisonnement pour vol, escroquerie, abus de confiance, atteinte volontaire à
+l'intégrité de la personne, agression sexuelle ou infraction à la législation sur les stupéfiants ;
+
+3° Soit une condamnation définitive pour conduite d'un véhicule sans être titulaire du permis correspondant à la catégorie du
+véhicule considéré ou malgré l'annulation ou l'interdiction d'obtenir la délivrance du permis de conduire, ou pour refus de
+restituer son permis de conduire après invalidation ou annulation de celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+	  - Décret n°2013-691 du 30 juillet 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
 ###### Article D231-11
@@ -12959,7 +13040,11 @@ de tourisme avec chauffeur :
 - en employant des chauffeurs qui ne sont pas titulaires de la carte professionnelle prévue à l'article D. 231-12 ;
 
 - en utilisant des véhicules non conformes aux caractéristiques prévues aux premier et deuxième alinéas de l'article D.
-231-1 ; 
+231-1 ;
+
+- en utilisant, à bord de ses véhicules, l'un des appareils, dispositifs ou produits prohibés par l'article R. 231-1-2 ;
+
+- en utilisant sur ses véhicules l'un des appareils, dispositifs ou produits prohibés par l'article R. 231-1-3 ; 
 
 2° Le fait d'exercer l'activité d'exploitant de voitures de tourisme avec chauffeur en utilisant des véhicules sans la
 signalétique prévue au dernier alinéa de l'article D. 231-1 est puni de l'amende prévue pour les contraventions de la 3e
@@ -12969,7 +13054,7 @@ classe.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1223 du 11 octobre 2010 - art. 10
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 5
 
 	**Cité par**:
 
@@ -12980,6 +13065,8 @@ classe.
 	  - Code du tourisme. - art. D231-1
 	  - Code du tourisme. - art. D231-12
 	  - Code du tourisme. - art. L141-3
+	  - Code du tourisme. - art. R231-1-2 (V)
+	  - Code du tourisme. - art. R231-1-3 (V)
 
 
 ###### Article R231-14
