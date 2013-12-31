@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2013-10-01
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -1049,7 +1049,7 @@ produire leurs effets dans les conditions suivantes :
 
 1° (Abrogé) ; 
 
-2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de produire leurs effets le 1er janvier 2014 ; 
+2° Ceux dont la publication est intervenue avant le 1er janvier 1969 cessent de produire leurs effets le 1er janvier 2018 ; 
 
 3° Ceux dont la publication est intervenue à compter du 1er janvier 1969 cessent de produire leurs effets le 1er janvier
 2018. 
@@ -1076,7 +1076,7 @@ Lorsqu'une commune est classée à plusieurs titres, il est pris en compte la da
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 94
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 88
 
 	**Anciens textes**:
 
@@ -2840,11 +2840,11 @@ a) Justifier, à l'égard des clients, d'une garantie financière suffisante, sp
 reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
 sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
 crédit ou d'une entreprise d'assurance établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord sur l'Espace économique européen. Elle doit couvrir les frais de rapatriement éventuel. Le
-remboursement peut être remplacé, avec l'accord du client, par la fourniture d'une prestation différente en remplacement de
-la prestation prévue. Cette prestation différente proposée par l'organisme de garantie financière ne requiert pas, en
-situation d'urgence, l'accord exprès du client, dès lors que sa mise en œuvre n'entraîne pas une modification substantielle
-du contrat ; 
+Etat partie à l'accord     sur l'Espace économique européen ou d'une société de financement. Elle doit couvrir les frais de
+rapatriement éventuel. Le remboursement peut être remplacé, avec l'accord du client, par la fourniture d'une prestation
+différente en remplacement de la prestation prévue. Cette prestation différente proposée par l'organisme de garantie
+financière ne requiert pas, en situation d'urgence, l'accord exprès du client, dès lors que sa mise en œuvre n'entraîne pas
+une modification substantielle du contrat ; 
 
 b) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ; 
 
@@ -2879,10 +2879,6 @@ transport lié au séjour.
 
 	  - Loi n°92-645 du 13 juillet 1992 - art. 24 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
 	**Cité par**:
 
 	  - Loi n°2009-888 du 22 juillet 2009 - art. 3 (V)
@@ -2908,10 +2904,14 @@ transport lié au séjour.
 	  - Code du tourisme. - art. R211-51 (V)
 	  - Code du tourisme. - art. R212-37 (T)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 17
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L227-4
-	  - Code du tourisme. - art. L141-3 (V)
+	  - Code du tourisme. - art. L141-3
 
 
 ##### Section 5 : De la liberté d'établissement
@@ -12551,31 +12551,44 @@ activité que celle de voiture de tourisme avec chauffeur.
 	  - Code de la route. - art. R323-24
 
 
-###### Article D231-1-1
+###### Article R231-1-1
 
-La justification de la réservation préalable d'une voiture de tourisme avec chauffeur, prévue à l'
-article L. 231-3 du code du tourisme
-, ne peut résulter que d'un support papier ou électronique, permettant à l'autorité compétente d'en vérifier la réalité et le
-caractère préalable, comportant les mentions prévues par arrêté du ministre chargé du tourisme, et que le conducteur est tenu
-de présenter à toute réquisition des agents de cette autorité.
+I.-La réservation préalable d'une voiture de tourisme avec chauffeur, prévue à l'article L. 231-3, est caractérisée par le
+respect d'un délai minimal de quinze minutes entre la réservation du véhicule et la prise en charge effective du client. 
+
+Ce délai n'est pas applicable aux réservations de voitures de tourisme avec chauffeur effectuées par : 
+
+1° L'exploitant d'un hôtel de tourisme, classé conformément à l'article D. 311-5 du code du tourisme dans l'une des deux plus
+hautes catégories désignées par le nombre d'étoiles et disposant d'un service permanent de prise en charge des véhicules de
+la clientèle de l'établissement, pour la prise en charge d'un client au départ de cet établissement ; 
+
+2° L'organisateur d'un salon professionnel prévu à l'article L. 762-2 du code de commerce, disposant d'un service de prise en
+charge des véhicules des visiteurs et des exposants. 
+
+II.-La justification de la réservation prévue au premier alinéa est assurée au moyen d'un support durable, permettant à
+l'autorité compétente d'en vérifier la réalité et le caractère préalable. Le conducteur est tenu de le présenter à toute
+réquisition des agents de cette autorité. Un arrêté du ministre chargé du tourisme précise les mentions que comporte ce
+support.
 
 **Nota:**
 
-Conformément à l'article 2 de l'arrêté du 30 juillet 2013 (nor : acti1318927a), les dispositions de l'article 2 du décret n°
-2013-691 du 30 juillet 2013 entrent en vigueur le 1er octobre 2013.
+L’exécution du présent article est suspendue, en application de la décision n° 374524, 374554 du Conseil d’Etat en date du 5
+février 2014.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Arrêté du 30 juillet 2013 - art. 1 (V)
+	  - Décret n°2013-1251 du 27 décembre 2013 - art. 1
 
-	**Modifié par**:
+	**Annulé par**:
 
-	  - Décret n°2013-691 du 30 juillet 2013 - art. 2
+	  - DÉCISION n°374525 et 374553 du 17 décembre 2014, v. init.
 
 	**Cite**:
 
+	  - Code de commerce - art. L762-2
+	  - Code du tourisme. - art. D311-5
 	  - Code du tourisme. - art. L231-3
 
 
@@ -12760,7 +12773,16 @@ article.
 
 Dans le mois suivant l'immatriculation au registre mentionné au b de l'article L. 141-3, l'agence mentionnée à l'article L.
 141-2 procède à la mise en ligne d'un avis informant les tiers de l'identité du déclarant, du numéro d'immatriculation, de la
-dénomination, de la raison sociale, de la forme juridique et de l'adresse du siège social de l'entreprise.
+dénomination, de la raison sociale, de la forme juridique et de l'adresse du siège social de l'entreprise. 
+
+Elle assure également la publication annuelle du nombre d'entreprises immatriculées au registre, de cartes professionnelles
+délivrées aux chauffeurs et de véhicules utilisés pour l'activité de voitures de tourisme avec chauffeur.
+
+**Nota:**
+
+Conformément à l'article 8-I du décret n° 2013-690 du 30 juillet 2013, les dispositions de l'article R. 231-4 issues de
+l'article 3 dudit décret entrent en vigueur à une date fixée par arrêté du ministre chargé du tourisme et, au plus tard, le
+1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -12775,7 +12797,11 @@ dénomination, de la raison sociale, de la forme juridique et de l'adresse du si
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
@@ -12851,16 +12877,19 @@ concernée fait l'objet d'une liquidation judiciaire définitivement prononcée.
 
 Les chauffeurs de voiture de tourisme au sens du présent chapitre doivent justifier :
 
-― soit de la réalisation d'un stage de formation professionnelle effectué auprès d'un centre de formation et répondant à des
-critères fixés par arrêté du ministre chargé du tourisme qui ne peut être d'une durée inférieure à trois mois ;
+- soit de la réalisation d'un stage de formation professionnelle effectué auprès d'un centre de formation agréé, dans des
+conditions fixées par arrêté du ministre chargé du tourisme ;
 
-― soit d'une expérience professionnelle d'une durée minimale d'un an dans des fonctions de chauffeur professionnel au cours
-des dix années précédant la demande de carte professionnelle ;
-
-― soit de la possession d'un diplôme, titre ou certificat figurant sur une liste fixée par arrêté pris par les ministres
-chargés du tourisme, de l'éducation et de l'enseignement supérieur.
+- soit d'une expérience professionnelle d'une durée minimale d'un an dans des fonctions de chauffeur professionnel de
+personnes au cours des dix années précédant la demande de carte professionnelle.
 
 Le stage de formation professionnelle mentionné au deuxième alinéa doit comporter des cours d'au moins une langue étrangère.
+
+**Nota:**
+
+Conformément à l'article 7 III 4° du décret n° 2014-1725 du 30 décembre 2014, entrent en vigueur à une date fixée par un
+arrêté des ministres chargés, respectivement, de l'économie et des transports et du ministre de l'intérieur et au plus tard
+au 1er janvier 2016, l'abrogation des dispositions de l'article D. 231-7 du code du tourisme.
 
 **Liens relatifs à cet article**
 
@@ -12873,9 +12902,13 @@ Le stage de formation professionnelle mentionné au deuxième alinéa doit compo
 	  - Code du tourisme. - art. D231-11 (V)
 	  - Code du tourisme. - art. D231-12 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+	  - Décret n°2013-691 du 30 juillet 2013 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
 ###### Article D231-8
@@ -12967,24 +13000,29 @@ restituer son permis de conduire après invalidation ou annulation de celui-ci.
 L'aptitude professionnelle prévue à l'article L. 231-2 est réputée acquise pour tout ressortissant d'un autre Etat membre de
 la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dès lors qu'il justifie : 
 
-― soit de la réalisation d'un stage de formation professionnelle effectué dans un autre Etat membre de la Communauté
+- soit de la réalisation d'un stage de formation professionnelle effectué dans un autre Etat membre de la Communauté
 européenne ou dans un Etat partie à l'accord sur l'Espace économique européen permettant l'exercice de la profession de
 chauffeur professionnel dans le cadre de l'activité mentionnée à l'article L. 231-1 et dont l'attestation est délivrée par
 une autorité compétente de cet Etat ; 
 
-― soit d'une expérience professionnelle d'une durée minimale d'un an dans l'un de ces Etats au cours des dix années précédant
-la présentation de la demande de carte professionnelle dans des fonctions de chauffeur professionnel ; 
+- soit d'une expérience professionnelle d'une durée minimale d'un an dans l'un de ces Etats au cours des dix années précédant
+la présentation de la demande de carte professionnelle dans des fonctions de chauffeur professionnel de personnes.
 
-― soit de la possession d'un diplôme, titre ou certificat délivré par une autorité compétente de l'un de ces Etats permettant
-l'exercice de la profession de chauffeur professionnel dans le cadre de l'activité mentionnée à l'article L. 231-1 et
-attestant d'un niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur à celui exigé en
-application de l'article D. 231-7.
+**Nota:**
+
+Conformément à l'article 7 III 4° du décret n° 2014-1725 du 30 décembre 2014, entrent en vigueur à une date fixée par un
+arrêté des ministres chargés, respectivement, de l'économie et des transports et du ministre de l'intérieur et au plus tard
+au 1er janvier 2016, l'abrogation des dispositions de l'article D. 231-11 du code du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+	  - Décret n°2013-691 du 30 juillet 2013 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 	**Cité par**:
 
@@ -12993,9 +13031,88 @@ application de l'article D. 231-7.
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D231-7
 	  - Code du tourisme. - art. L231-1
 	  - Code du tourisme. - art. L231-2
+
+
+###### Article R231-7-1
+
+Tout chauffeur de voiture de tourisme au sens du présent chapitre est tenu de suivre tous les cinq ans un stage de formation
+continue dispensé par une école agréée. Le contenu de cette formation est défini par un arrêté du ministre chargé du
+tourisme. Cette formation continue est sanctionnée par la délivrance d'une attestation d'une validité de cinq ans.
+
+**Nota:**
+
+Conformément au décret n° 2013-690, article 8 III : les conducteurs de voitures de tourisme ayant obtenu leur carte
+professionnelle antérieurement à l'entrée en vigueur des dispositions de l'article 4 du présent décret sont tenus de suivre
+cette formation continue dans un délai de deux ans à compter de cette entrée en vigueur.
+
+Conformément à l'article 8-I du même décret, cette date d'entrée en vigueur est fixée par arrêté du ministre chargé du
+tourisme et, au plus tard, au 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 25 octobre 2013 (Ab)
+	  - Arrêté du 25 octobre 2013 - art. 1 (Ab)
+	  - Arrêté du 25 octobre 2013 - art. Annexe II (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+
+
+###### Article R231-7-2
+
+I. - L'exploitation d'une école de formation préparant aux stages de formation professionnelle, initiale et continue, de
+chauffeur de voiture de tourisme au sens du présent chapitre est subordonnée à un agrément délivré par le préfet du
+département dans lequel l'école de formation a son siège ou, à Paris, par le préfet de police. 
+
+Cet agrément est délivré pour une période de cinq ans. 
+
+Le silence gardé pendant deux mois par l'autorité administrative sur une demande d'agrément vaut décision d'acceptation. 
+
+La procédure et les conditions d'agrément sont définies par arrêté du ministre chargé du tourisme, notamment les clauses
+obligatoires du règlement intérieur de l'établissement, les exigences minimales concernant la qualification des formateurs,
+les locaux, les matériels et véhicules utilisés, ainsi que le programme et le contenu des formations. 
+
+II. - L'agrément peut être suspendu pour une durée maximale de six mois ou retiré par l'autorité qui l'a délivré lorsqu'une
+des conditions mises à sa délivrance cesse d'être remplie. 
+
+La suspension ou le retrait de l'agrément ne peuvent être décidés qu'après que le gestionnaire de l'école de formation,
+préalablement informé des griefs susceptibles d'être retenus à l'encontre de son école, aura été mis à même de présenter ses
+observations écrites et, le cas échéant, sur sa demande, des observations orales. Celui-ci peut se faire assister par un
+conseil ou se faire représenter par le mandataire de son choix. 
+
+La décision de suspension ou de retrait de l'agrément est notifiée au représentant légal de l'école de formation.
+
+**Nota:**
+
+Conformément au décret n° 2013-690, article 8 III : les conducteurs de voitures de tourisme ayant obtenu leur carte
+professionnelle antérieurement à l'entrée en vigueur des dispositions de l'article 4 du présent décret sont tenus de suivre
+cette formation continue dans un délai de deux ans à compter de cette entrée en vigueur.
+
+Conformément à l'article 8-I du même décret, cette date d'entrée en vigueur est fixée par arrêté du ministre chargé du
+tourisme et, au plus tard, au 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-690 du 30 juillet 2013 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 25 octobre 2013 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
 ##### Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme
@@ -13008,21 +13125,26 @@ délivrée conformément aux dispositions du présent article.
 La demande de carte de chauffeur de voiture de tourisme est adressée par écrit au préfet du département dans lequel le
 demandeur a élu domicile. Pour le département de Paris, l'autorité compétente est le préfet de police. 
 
-La demande est accompagnée des pièces justifiant les conditions d'aptitude définies aux articles D. 231-7 à D. 231-9 et, le
-cas échéant, D. 231-11. 
+La demande est accompagnée des pièces justifiant les conditions d'aptitude définies aux articles D. 231-7, D. 231-8, D. 231-9
+et, le cas échéant, D. 231-11. 
 
 Le préfet remet une carte professionnelle de chauffeur de voiture de tourisme dans un délai maximum de deux mois suivant la
 réception du dossier complet. 
 
 La carte professionnelle doit être restituée lorsque le conducteur cesse définitivement son activité professionnelle ou
-lorsqu'une des conditions prévues pour sa délivrance cesse d'être remplie.A défaut, celle-ci est retirée par l'autorité
+lorsqu'une des conditions prévues pour sa délivrance cesse d'être remplie. A défaut, celle-ci est retirée par l'autorité
 administrative compétente.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2013-691 du 30 juillet 2013, les dispositions modifiées par l'article 6 dudit décret
+entrent en vigueur à une date fixée par arrêté du ministre chargé du tourisme, et au plus tard, le 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+	  - Décret n°2013-691 du 30 juillet 2013 - art. 6
 
 	**Cité par**:
 
@@ -13035,6 +13157,8 @@ administrative compétente.
 
 	  - Code du tourisme. - art. D231-11
 	  - Code du tourisme. - art. D231-7
+	  - Code du tourisme. - art. D231-8
+	  - Code du tourisme. - art. D231-9
 
 
 ##### Section 4 : Sanctions.
