@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -3248,9 +3248,10 @@ chauffeur, suivant des conditions fixées à l'avance entre les parties.
 
 Les entreprises mentionnées à l'article L. 231-1 doivent disposer d'une ou plusieurs voitures répondant à des conditions
 techniques et de confort, ainsi que d'un ou plusieurs chauffeurs titulaires du permis B et justifiant de conditions
-d'aptitude professionnelle définies par décret. 
+d'aptitude professionnelle définies par décret.  
 
-Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3.
+Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3 et elles déclarent sur ce même registre les
+voitures qu'elles utilisent.
 
 **Liens relatifs à cet article**
 
@@ -3260,7 +3261,7 @@ Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3.
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
 
 	**Cité par**:
 
@@ -3268,26 +3269,28 @@ Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3.
 	  - Code du tourisme. - art. D231-11 (VT)
 	  - Code du tourisme. - art. D231-8 (VT)
 
-	**Cite**:
-
-	  - Code du tourisme. - art. L141-3 (V)
-	  - Code du tourisme. - art. L231-1 (V)
-
 
 ###### Article L231-3
 
-Les voitures de tourisme avec chauffeur ne peuvent ni stationner sur la voie publique si elles n'ont pas fait l'objet d'une
-location préalable, ni être louées à la place.
+Les voitures de tourisme avec chauffeur ne peuvent pas être louées à la place.
+
+Elles ne peuvent prendre en charge un client que si leur conducteur peut justifier d'une réservation préalable.
+
+Elles ne peuvent ni stationner, ni circuler sur la voie publique en quête de clients.
+
+Elles ne peuvent stationner à l'abord des gares et aérogares, dans le respect des règles du code de la route ou des
+règlements édictés par l'autorité compétente, que si leur conducteur peut justifier de la réservation préalable mentionnée au
+deuxième alinéa.
+
+Sous la même condition de réservation préalable mentionnée au deuxième alinéa, elles ne peuvent stationner à l'abord des
+gares et des aérogares ou, le cas échéant, dans l'enceinte de celles-ci au-delà d'une durée précédant la prise en charge de
+leur clientèle. La durée de ce stationnement est fixée par décret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°55-961 du 15 juillet 1955 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
 
 	**Cité par**:
 
@@ -3297,10 +3300,19 @@ location préalable, ni être louées à la place.
 	  - Code du tourisme. - art. D231-1-5 (V)
 	  - Code du tourisme. - art. R231-1-1 (An)
 
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+
 
 ###### Article L231-4
 
-Les conditions d'application du présent chapitre sont fixées par décret.
+L'exercice de l'activité de chauffeur de voiture de tourisme est subordonné à la délivrance d'une carte professionnelle par
+l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -3310,7 +3322,70 @@ Les conditions d'application du présent chapitre sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+
+
+###### Article L231-5
+
+En cas de violation par un chauffeur de voiture de tourisme de la réglementation applicable à la profession, l'autorité
+administrative peut lui donner un avertissement ou procéder au retrait, temporaire ou définitif, de sa carte professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+
+
+###### Article L231-6
+
+I.-Le fait de contrevenir à l'article L. 231-3 est puni d'un an d'emprisonnement et d'une amende de 15 000 €. 
+
+II.-Les personnes physiques reconnues coupables de l'infraction prévue au I encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; 
+
+2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ; 
+
+3° La confiscation du véhicule qui a servi à commettre l'infraction. 
+
+III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction prévue au I du présent article encourent, outre l'amende, suivant les modalités prévues à l'article 131-38 du
+même code, les peines prévues aux 8° et 9° de l'article 131-39 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+
+
+###### Article L231-7
+
+Les conditions d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER
@@ -3324,18 +3399,18 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon :
 - aux articles L. 211-18, L. 211-19 et L. 211-20, les mots : " ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen " ;
 
-- les articles L. 231-1 à L. 231-4.
+- les articles L. 231-1 à L. 231-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 2
+	  - Loi n°2014-344 du 17 mars 2014 - art. 134
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-18 (V)
-	  - Code du tourisme. - art. L231-1 (V)
+	  - Code du tourisme. - art. L211-18
+	  - Code du tourisme. - art. L231-1
 
 
 ###### Article L242-2
