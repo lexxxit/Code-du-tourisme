@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-03-28
 
 # Partie législative
 
@@ -12653,6 +12653,22 @@ activité que celle de voiture de tourisme avec chauffeur.
 	**Cite**:
 
 	  - Code de la route. - art. R323-24
+
+
+###### Article D231-1-5
+
+Est fixée à une heure la durée maximale de stationnement précédant l'heure de prise en charge souhaitée par le client prévue
+au cinquième alinéa de l'article L. 231-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-371 du 26 mars 2014 - art. 2
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L231-3
 
 
 ###### Article R231-1-1
