@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-04-01
+Version Consolidée au 2014-05-25
 
 # Partie législative
 
@@ -8306,7 +8306,7 @@ représentant ;
 
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
-- le président de l'institution mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi) ou son représentant ;
+- le président du conseil d'administration de Pôle emploi ou son représentant ;
 
 - le président du Centre d'études et de recherche sur les qualifications (CEREQ) ou son représentant ;
 
@@ -8386,13 +8386,16 @@ consommation ;
 - quatre représentants d'associations de personnes handicapées ; 
 
 10° Douze personnalités qualifiées choisies par le ministre chargé du tourisme en fonction de leur compétence en matière de
-tourisme
+tourisme.
 
 **Nota:**
 
 Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
 du tourisme).
+
+Conformément à l'article 1 du décret n° 2014-593 du 6 juin 2014, le Conseil national du tourisme est renouvelé pour une durée
+d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
 
 **Liens relatifs à cet article**
 
@@ -8402,7 +8405,7 @@ du tourisme).
 
 	**Modifié par**:
 
-	  - Décret n°2011-1371 du 27 octobre 2011 - art. 30 (VD)
+	  - Décret n°2014-524 du 22 mai 2014 - art. 26
 
 
 ###### Article D122-8
