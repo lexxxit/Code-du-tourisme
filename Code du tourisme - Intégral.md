@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-06-14
+Version Consolidée au 2014-10-03
 
 # Partie législative
 
@@ -3217,46 +3217,16 @@ dans l'Etat d'établissement, le prestataire fait mention de son titre de format
 
 #### Chapitre unique : Exploitation de voitures de tourisme avec chauffeur.
 
-###### Article L231-1
-
-Le présent chapitre s'applique aux entreprises qui mettent à la disposition de leur clientèle des voitures de tourisme avec
-chauffeur, suivant des conditions fixées à l'avance entre les parties.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 4 (V)
-
-	**Cité par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 (V)
-	  - Arrêté du 2 mars 2017 - art. 34
-	  - Code des transports - art. L3122-1 (M)
-	  - Code du tourisme. - art. D231-11 (VT)
-	  - Code du tourisme. - art. L141-2 (V)
-	  - Code du tourisme. - art. L141-3 (V)
-	  - Code du tourisme. - art. L242-1 (V)
-	  - Code du tourisme. - art. R141-10 (M)
-	  - Code du tourisme. - art. R231-1-4 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
-
-
 ###### Article L231-2
-
-Les entreprises mentionnées à l'article L. 231-1 doivent disposer d'une ou plusieurs voitures répondant à des conditions
-techniques et de confort, ainsi que d'un ou plusieurs chauffeurs titulaires du permis B et justifiant de conditions
-d'aptitude professionnelle définies par décret.  
 
 Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3 et elles déclarent sur ce même registre les
 voitures qu'elles utilisent.
+
+**Nota:**
+
+Aux termes de l'article 16 II de la loi n° 2014-1104 du 1er octobre 2014, l'article L. 231-2 est abrogé par l'article 8 4° de
+ladite loi, hormis son second alinéa qui sera abrogé à compter de la date mentionnée à son article 16 I et, au plus tard, à
+compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -3266,131 +3236,13 @@ voitures qu'elles utilisent.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 	**Cité par**:
 
 	  - Loi n°2014-1104 du 1er octobre 2014 - art. 16 (V)
 	  - Code du tourisme. - art. D231-11 (VT)
 	  - Code du tourisme. - art. D231-8 (VT)
-
-
-###### Article L231-3
-
-Les voitures de tourisme avec chauffeur ne peuvent pas être louées à la place.
-
-Elles ne peuvent prendre en charge un client que si leur conducteur peut justifier d'une réservation préalable.
-
-Elles ne peuvent ni stationner, ni circuler sur la voie publique en quête de clients.
-
-Elles ne peuvent stationner à l'abord des gares et aérogares, dans le respect des règles du code de la route ou des
-règlements édictés par l'autorité compétente, que si leur conducteur peut justifier de la réservation préalable mentionnée au
-deuxième alinéa.
-
-Sous la même condition de réservation préalable mentionnée au deuxième alinéa, elles ne peuvent stationner à l'abord des
-gares et des aérogares ou, le cas échéant, dans l'enceinte de celles-ci au-delà d'une durée précédant la prise en charge de
-leur clientèle. La durée de ce stationnement est fixée par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 3 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2013-691 du 30 juillet 2013 (V)
-	  - Décret n°2014-371 du 26 mars 2014 (Ab)
-	  - Code du tourisme. - art. D231-1-1 (Ab)
-	  - Code du tourisme. - art. D231-1-5 (V)
-	  - Code du tourisme. - art. R231-1-1 (An)
-
-	**Modifié par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
-
-
-###### Article L231-4
-
-L'exercice de l'activité de chauffeur de voiture de tourisme est subordonné à la délivrance d'une carte professionnelle par
-l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
-
-
-###### Article L231-5
-
-En cas de violation par un chauffeur de voiture de tourisme de la réglementation applicable à la profession, l'autorité
-administrative peut lui donner un avertissement ou procéder au retrait, temporaire ou définitif, de sa carte professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
-
-
-###### Article L231-6
-
-I.-Le fait de contrevenir à l'article L. 231-3 est puni d'un an d'emprisonnement et d'une amende de 15 000 €. 
-
-II.-Les personnes physiques reconnues coupables de l'infraction prévue au I encourent également les peines complémentaires
-suivantes : 
-
-1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; 
-
-2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ; 
-
-3° La confiscation du véhicule qui a servi à commettre l'infraction. 
-
-III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
-l'infraction prévue au I du présent article encourent, outre l'amende, suivant les modalités prévues à l'article 131-38 du
-même code, les peines prévues aux 8° et 9° de l'article 131-39 dudit code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
-
-
-###### Article L231-7
-
-Les conditions d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER
