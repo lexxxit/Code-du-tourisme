@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-10-03
+Version Consolidée au 2014-10-16
 
 # Partie législative
 
@@ -12520,22 +12520,6 @@ activité que celle de voiture de tourisme avec chauffeur.
 	  - Code de la route. - art. R323-24
 
 
-###### Article D231-1-5
-
-Est fixée à une heure la durée maximale de stationnement précédant l'heure de prise en charge souhaitée par le client prévue
-au cinquième alinéa de l'article L. 231-3.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-371 du 26 mars 2014 - art. 2
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L231-3
-
-
 ###### Article R231-1-1
 
 I.-La réservation préalable d'une voiture de tourisme avec chauffeur, prévue à l'article L. 231-3, est caractérisée par le
@@ -12575,78 +12559,6 @@ février 2014.
 	  - Code de commerce - art. L762-2
 	  - Code du tourisme. - art. D311-5
 	  - Code du tourisme. - art. L231-3
-
-
-###### Article R231-1-2
-
-Est interdit le fait d'utiliser à bord d'une voiture de tourisme avec chauffeur un appareil, dispositif ou produit de nature
-à créer, dans l'esprit du public, une confusion avec le compteur horokilométrique homologué prévu à l'
-article 1er du décret n° 95-935 du 17 août 1995
-portant application de la 
-loi n° 95-66 du 20 janvier 1995
-relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°95-66 du 20 janvier 1995
-	  - Décret n°95-935 du 17 août 1995 - art. 1
-
-	**Créé par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 2
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R231-13 (V)
-
-
-###### Article R231-1-3
-
-Est interdit le fait d'utiliser sur une voiture de tourisme avec chauffeur un appareil, dispositif ou produit de nature à
-créer, dans l'esprit du public, une confusion avec le dispositif extérieur lumineux prévu à l'
-article 1er du décret n° 95-935 du 17 août 1995
-portant application de la 
-loi n° 95-66 du 20 janvier 1995
-relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°95-66 du 20 janvier 1995
-	  - Décret n°95-935 du 17 août 1995 - art. 1
-
-	**Créé par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 2
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R231-13 (V)
-
-
-###### Article R231-1-4
-
-Sans préjudice de la possibilité de commandes complémentaires facturées ultérieurement, les conditions fixées à l'avance
-mentionnées à l'article L. 231-1 comprennent le prix total de la prestation ayant motivé la commande qui doit être communiqué
-au client au moment de la réservation préalable. 
-
-La méconnaissance de cette obligation est punie dans les conditions prévues à l'
-article R. 113-1 du code de la consommation
-.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code de la consommation - art. R113-1
-	  - Code du tourisme. - art. L231-1
 
 
 ##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.
@@ -13098,52 +13010,6 @@ tourisme et, au plus tard, au 1er janvier 2014.
 	**Abrogé par**:
 
 	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-
-##### Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme
-
-###### Article D231-12
-
-L'exercice de la profession de chauffeur de voiture de tourisme nécessite d'être titulaire d'une carte professionnelle
-délivrée conformément aux dispositions du présent article. 
-
-La demande de carte de chauffeur de voiture de tourisme est adressée par écrit au préfet du département dans lequel le
-demandeur a élu domicile. Pour le département de Paris, l'autorité compétente est le préfet de police. 
-
-La demande est accompagnée des pièces justifiant les conditions d'aptitude définies aux articles D. 231-7, D. 231-8, D. 231-9
-et, le cas échéant, D. 231-11. 
-
-Le préfet remet une carte professionnelle de chauffeur de voiture de tourisme dans un délai maximum de deux mois suivant la
-réception du dossier complet. 
-
-La carte professionnelle doit être restituée lorsque le conducteur cesse définitivement son activité professionnelle ou
-lorsqu'une des conditions prévues pour sa délivrance cesse d'être remplie. A défaut, celle-ci est retirée par l'autorité
-administrative compétente.
-
-**Nota:**
-
-Conformément à l'article 7 du décret n° 2013-691 du 30 juillet 2013, les dispositions modifiées par l'article 6 dudit décret
-entrent en vigueur à une date fixée par arrêté du ministre chargé du tourisme, et au plus tard, le 1er janvier 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-691 du 30 juillet 2013 - art. 6
-
-	**Cité par**:
-
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Code du tourisme. - art. R231-13 (V)
-	  - Code du tourisme. - art. R231-14 (V)
-	  - Code du tourisme. - art. R231-5 (Ab)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D231-11
-	  - Code du tourisme. - art. D231-7
-	  - Code du tourisme. - art. D231-8
-	  - Code du tourisme. - art. D231-9
 
 
 ##### Section 4 : Sanctions.
