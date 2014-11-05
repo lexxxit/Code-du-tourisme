@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-11-01
+Version Consolidée au 2014-11-06
 
 # Partie législative
 
@@ -11058,7 +11058,8 @@ La garantie financière prévue au a du II de l'article L. 211-18 résulte d'un 
 1° Soit par un organisme de garantie collective doté de la personnalité juridique, au moyen d'un fonds de garantie constitué
 à cet effet ; 
 
-2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière ; 
+2° Soit par un  établissement de crédit, une société de financement ou une entreprise d'assurances habilités à donner une
+garantie financière ; 
 
 3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif ayant fait l'objet d'une autorisation
 particulière par un arrêté du ministre chargé du tourisme et disposant d'un fonds de solidarité suffisant. 
@@ -11066,7 +11067,7 @@ particulière par un arrêté du ministre chargé du tourisme et disposant d'un 
 La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'opérateur de voyages au
 titre des engagements qu'il a contractés à l'égard de sa clientèle ou de ses membres pour des prestations en cours ou à
 servir et permet d'assurer, notamment en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des
-voyageurs.
+voyageurs. 
 
 L'engagement de garantie financière doit répondre à toutes les dispositions réglementaires de la présente section.
 
@@ -11074,7 +11075,7 @@ L'engagement de garantie financière doit répondre à toutes les dispositions r
 
 	**Modifié par**:
 
-	  - Décret n°2010-1223 du 11 octobre 2010 - art. 9
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 17
 
 	**Cite**:
 
@@ -11261,28 +11262,24 @@ des demandes excéderait le montant de la garantie.
 
 Toutefois, si la personne garantie fait l'objet d'une procédure collective pendant le délai fixé au premier alinéa, le
 règlement des créances peut être différé jusqu'au dépôt de l'état des créances au greffe du tribunal dans les conditions
-prévues aux articles R. 624-8 à R. 624-11 du code de commerce.
+prévues aux articles R. 624-8 à R. 624-11 du code de commerce. 
 
-L'organisme de garantie collective, l'entreprise d'assurances, l'établissement de crédit ou un groupement d'associations ou
-d'organismes sans caractère lucratif dont la garantie a été mise en jeu est subrogé de plein droit à tous les droits du
-créancier désintéressé, ainsi qu'il est dit à l'article 2306 du code civil, en ce qui concerne la dette de la personne
-garantie et dans la limite du remboursement ou de la restitution faite par lui.
+L'organisme de garantie collective, l'entreprise d'assurances,    l'établissement de crédit, la société de financement ou un
+groupement d'associations ou d'organismes sans caractère lucratif dont la garantie a été mise en jeu est subrogé de plein
+droit à tous les droits du créancier désintéressé, ainsi qu'il est dit à l'article 2306 du code civil, en ce qui concerne la
+dette de la personne garantie et dans la limite du remboursement ou de la restitution faite par lui.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 17
 
 	**Cite**:
 
 	  - Code de commerce - art. R624-8
 	  - Code civil - art. 2306
-	  - Code du tourisme. - art. R211-33
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-33 (T)
+	  - Code du tourisme. - art. R211-33 (V)
 
 
 ###### Article R211-33
@@ -11290,10 +11287,10 @@ garantie et dans la limite du remboursement ou de la restitution faite par lui.
 La garantie cesse par son exécution ou pour les raisons suivantes :
 
 - perte de la qualité d'adhérent à l'organisme de garantie collective ou à un groupement d'associations ou d'organismes sans
-caractère lucratif ou dénonciation de l'engagement de garantie financière pris par un établissement de crédit ou une
-entreprise d'assurances ;
+caractère lucratif ou dénonciation de l'engagement de garantie financière pris par un  établissement de crédit, une société
+de financement ou une entreprise d'assurances ;
 
-- radiation du registre mentionné au a de l'article L. 141-3.
+- radiation du registre mentionné au a de l'article L. 141-3. 
 
 L'organisme garant informe, sans délai, la commission d'immatriculation mentionnée à l'article L. 141-2, par tout moyen
 permettant d'en obtenir un accusé de réception, de la cessation de la garantie financière. 
@@ -11312,9 +11309,9 @@ apposé sur son local.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 17
 
 	**Cite**:
 
@@ -11327,10 +11324,6 @@ apposé sur son local.
 	  - Code du tourisme. - art. R211-32 (VD)
 	  - Code du tourisme. - art. R211-34 (V)
 	  - Code du tourisme. - art. R211-47 (V)
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-34 (T)
 
 
 ###### Article R211-34
