@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-12-17
+Version Consolidée au 2014-12-22
 
 # Partie législative
 
@@ -3042,7 +3042,7 @@ l'article L. 211-18.
 
 ###### Article L211-23
 
-I.-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait :
+I.-Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait :
 
 - de se livrer ou d'apporter son concours à l'une des opérations mentionnées aux articles L. 211-1 et L. 211-4 sans respecter
 ou en ayant cessé de remplir les conditions prévues au présent chapitre ;
@@ -3069,20 +3069,25 @@ délai de six mois.
 
 La mesure de fermeture provisoire est levée de plein droit en cas de classement sans suite de l'affaire par le procureur de
 la République, d'ordonnance de non-lieu rendue par une juridiction d'instruction ou lors du prononcé du jugement rendu en
-premier ressort par la juridiction saisie.
+premier ressort par la juridiction saisie. 
+
+III.-Tout manquement à la section 2 du présent chapitre est passible d'une amende administrative dont le montant ne peut
+excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions
+prévues à l'article L. 141-1-2 du code de la consommation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 55
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-60 (V)
+	  - Code de la consommation - art. L121-60
+	  - Code de la consommation - art. L141-1-2
 	  - Code du tourisme. - art. L211-1 (V)
-	  - Code du tourisme. - art. L211-18 (V)
-	  - Code du tourisme. - art. L211-24 (V)
+	  - Code du tourisme. - art. L211-18
+	  - Code du tourisme. - art. L211-24
 	  - Code du tourisme. - art. L211-4 (V)
 
 
@@ -12364,42 +12369,6 @@ la recherche.
 
 #### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.
 
-##### Section 1 : Dispositions générales.
-
-###### Article D231-1
-
-Les voitures de tourisme avec chauffeur doivent comporter quatre places au moins et neuf au plus, y compris celle du
-chauffeur.
-
-Elles doivent être âgées de moins de six ans, sauf s'il s'agit de véhicules de collection, et offrir aux passagers les
-conditions de confort et les aménagements intérieurs correspondant aux besoins de la clientèle fixés par arrêté du ministre
-chargé du tourisme. Leur moteur doit avoir une puissance minimum fixée par arrêté du ministre chargé du tourisme.
-
-Les voitures sont soumises à un contrôle périodique dans les conditions prévues à l'article R. 323-24 du code de la route.
-
-Elles doivent être munies d'une signalétique distinctive définie par arrêté conjoint du ministre chargé du tourisme et du
-ministre chargé de l'intérieur. Cette signalétique doit être retirée ou occultée si le véhicule est utilisé pour une autre
-activité que celle de voiture de tourisme avec chauffeur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 23 décembre 2009 - art. 3 (Ab)
-	  - Arrêté du 6 septembre 2010 - art. 1 (VD)
-	  - Arrêté du 7 novembre 2013 (V)
-	  - Code du tourisme. - art. R231-13 (V)
-	  - Code du tourisme. - art. R231-5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2011-1993 du 27 décembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de la route. - art. R323-24
-
-
 ##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.
 
 ##### Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.
@@ -12849,78 +12818,6 @@ tourisme et, au plus tard, au 1er janvier 2014.
 	**Abrogé par**:
 
 	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-
-##### Section 4 : Sanctions.
-
-
-
-
-###### Article R231-13
-
-1° Est puni de l'amende prévue pour les contraventions de la 5e classe le fait d'exercer l'activité d'exploitant de voitures
-de tourisme avec chauffeur :
-
-- sans être immatriculé au registre mentionné au b de l'article L. 141-3 ;
-
-- en employant des chauffeurs qui ne sont pas titulaires de la carte professionnelle prévue à l'article D. 231-12 ;
-
-- en utilisant des véhicules non conformes aux caractéristiques prévues aux premier et deuxième alinéas de l'article D.
-231-1 ;
-
-- en utilisant, à bord de ses véhicules, l'un des appareils, dispositifs ou produits prohibés par l'article R. 231-1-2 ;
-
-- en utilisant sur ses véhicules l'un des appareils, dispositifs ou produits prohibés par l'article R. 231-1-3 ; 
-
-2° Le fait d'exercer l'activité d'exploitant de voitures de tourisme avec chauffeur en utilisant des véhicules sans la
-signalétique prévue au dernier alinéa de l'article D. 231-1 est puni de l'amende prévue pour les contraventions de la 3e
-classe.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 5
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R48-1 (VD)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D231-1
-	  - Code du tourisme. - art. D231-12
-	  - Code du tourisme. - art. L141-3
-	  - Code du tourisme. - art. R231-1-2 (V)
-	  - Code du tourisme. - art. R231-1-3 (V)
-
-
-###### Article R231-14
-
-1° Le fait, pour tout chauffeur d'une voiture de tourisme, de ne pas présenter immédiatement aux agents de l'autorité
-compétente sa carte professionnelle en cours de validité, prévue à l'article D. 231-12, est puni de l'amende prévue pour les
-contraventions de la 1re classe ; 
-
-2° Le fait, pour tout chauffeur visé au 1°, invité à justifier dans un délai de cinq jours de la possession de la carte
-professionnelle prévue à l'article D. 231-12, de ne pas présenter ce document avant l'expiration de ce délai, est puni de
-l'amende prévue pour les contraventions de la 4e classe ; 
-
-3° Le fait d'exercer l'activité de chauffeur d'une voiture de tourisme, sans être titulaire de la carte professionnelle en
-cours de validité, prévue à l'article D. 231-12, est puni de l'amende prévue pour les contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-1223 du 11 octobre 2010 - art. 11
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R48-1 (VD)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D231-12
 
 
 #### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.
