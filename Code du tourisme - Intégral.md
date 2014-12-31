@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -1360,6 +1360,53 @@ compter des impositions dues au titre de 2015.
 	  - Code général des collectivités territoriales - art. L2333-53 (V)
 
 
+#### Chapitre 5 : La métropole de Lyon
+
+###### Article L135-1
+
+La métropole de Lyon exerce les compétences mentionnées aux articles L. 132-1 à L. 132-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 28
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L132-1 (VT)
+
+
+###### Article L135-2
+
+La métropole de Lyon peut créer un ou plusieurs offices de tourisme sur tout ou partie de son territoire. 
+
+Les périmètres de compétence de chaque office de tourisme ne peuvent se superposer. 
+
+Lorsque le conseil métropolitain décide d'instituer un office de tourisme unique compétent sur l'ensemble du territoire
+métropolitain :
+
+- il prend la dénomination d'" office de tourisme métropolitain " ;
+
+- il se substitue à l'ensemble des offices de tourisme préexistants et constitue un comité départemental du tourisme au sens
+de l'article L. 132-2 ;
+
+- les autres offices de tourisme des communes touristiques et des stations classées de tourisme sont transférés à la
+métropole de Lyon et transformés en bureau d'information mentionné à l'article L. 133-3-1 du code du tourisme, sauf
+lorsqu'ils deviennent le siège de l'office ainsi créé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 28
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L132-2 (VT)
+	  - Code du tourisme. - art. L133-3-1 (V)
+
+
 ### TITRE IV : GROUPEMENTS
 
 #### Chapitre unique
@@ -1381,9 +1428,9 @@ conseiller en matière de formation, de recherche, d'innovation et de développe
 exporter son savoir-faire à l'international ; 
 
 ― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de promotion des territoires et destinations de
-la métropole et des collectivités ultramarines sur les marchés étranger et national. A  ce titre, l'agence promeut la qualité
-de l'offre touristique dans les  hébergements, la restauration, l'accueil des touristes et les  prestations annexes, conduit
-les procédures de classement prévues au  livre III du présent code et prononce le classement des hébergements  touristiques
+la métropole et des collectivités ultramarines sur les marchés étranger et national. A ce titre, l'agence promeut la qualité
+de l'offre touristique dans les hébergements, la restauration, l'accueil des touristes et les prestations annexes, conduit
+les procédures de classement prévues au livre III du présent code et prononce le classement des hébergements touristiques
 marchands concernés, à l'exception des meublés de tourisme ; 
 
 ― observer les phénomènes touristiques, mettre en place des données chiffrées fiables et utilisables par ses membres,
@@ -1398,8 +1445,7 @@ des meublés de tourisme.
 L'Etat, les collectivités territoriales ainsi que leurs établissements publics peuvent par convention confier à l'agence
 d'autres missions d'intérêt général compatibles avec son objet.
 
-L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à l'article L. 211-1
-et les exploitants de voitures de tourisme avec chauffeur visés à l'article L. 231-1. 
+L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à  l'article L. 211-1.
 
 Elle comprend également une commission de l'hébergement touristique marchand. Les missions, les conditions de fonctionnement
 et les modalités de participation des organismes représentatifs du secteur de l'hébergement touristique aux travaux de cette
@@ -1419,9 +1465,14 @@ code de commerce.
 Le contrat constitutif de l'agence de développement touristique de la France est approuvé par arrêté du ministre chargé du
 tourisme.
 
-Le  directeur général de l'agence, nommé par le ministre chargé du tourisme  sur proposition du conseil d'administration,
-assure, sous l'autorité de  ce conseil et de son président, le fonctionnement du groupement. Dans  les rapports avec les
-tiers, le directeur général engage le groupement  pour tout acte entrant dans l'objet de celui-ci.
+Le directeur général de l'agence, nommé par le ministre chargé du tourisme sur proposition du conseil d'administration,
+assure, sous l'autorité de ce conseil et de son président, le fonctionnement du groupement. Dans les rapports avec les tiers,
+le directeur général engage le groupement pour tout acte entrant dans l'objet de celui-ci.
+
+**Nota:**
+
+Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
+vigueur à la date fixée au paragraphe I du même article.
 
 **Liens relatifs à cet article**
 
@@ -1537,28 +1588,22 @@ tiers, le directeur général engage le groupement  pour tout acte entrant dans 
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 94
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 	**Cite**:
 
 	  - Code de commerce - art. L251-12
-	  - Code du tourisme. - art. L211-1
-	  - Code du tourisme. - art. L231-1
 
 
 ###### Article L141-3
 
 La commission mentionnée au huitième alinéa de l'article L. 141-2 instruit les demandes d'immatriculation des personnes
-mentionnées aux articles L. 211-1 et L. 231-1 et les enregistre, après vérification du respect des obligations qui leur sont
-imposées, respectivement dans : 
-
-a) Un registre d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours ; 
-
-b) Un registre d'immatriculation des exploitants de voitures de tourisme avec chauffeur. 
+mentionnées aux articles L. 211-1 à L. 211-6 et les enregistre, après vérification du respect des obligations qui leur sont
+imposées, dans un registre d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. 
 
 La commission est composée de membres nommés en raison de leur compétence et de leur indépendance par arrêté du ministre
 chargé du tourisme. Elle ne peut comprendre des opérateurs économiques dont l'activité est subordonnée à l'immatriculation
-sur ces registres. 
+sur ce registre. 
 
 Tout membre de la commission informe le président des intérêts qu'il détient et de la fonction qu'il exerce dans une activité
 économique. 
@@ -1570,14 +1615,19 @@ L'immatriculation, renouvelable tous les trois ans, est subordonnée au paiement
 d'immatriculation fixés par arrêté du ministre chargé du tourisme dans la limite d'une somme fixée par décret. Ces frais
 d'immatriculation sont recouvrés par l'agence. Leur paiement intervient au moment du dépôt de la demande d'immatriculation ou
 de la demande de renouvellement. Le produit résultant du paiement des frais d'immatriculation est exclusivement affecté au
-financement de la tenue des registres. 
+financement de la tenue du registre. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il précise notamment les conditions
-d'immatriculation et de radiation sur les registres. Il détermine les informations qui doivent être rendues publiques, ainsi
+d'immatriculation et de radiation sur le registre. Il détermine les informations qui doivent être rendues publiques, ainsi
 que celles qui sont librement et à titre gratuit accessibles au public par voie électronique. Il précise les garanties
-d'indépendance et d'impartialité des membres de la commission chargée des immatriculations aux registres, notamment celles de
-son président, ainsi que la durée de leur mandat et détermine les modalités de la tenue des registres dans des conditions
+d'indépendance et d'impartialité des membres de la commission chargée des immatriculations au registre, notamment celles de
+son président, ainsi que la durée de leur mandat et détermine les modalités de la tenue du registre dans des conditions
 objectives, transparentes et non discriminatoires.
+
+**Nota:**
+
+Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
+vigueur à la date fixée au paragraphe I du même article.
 
 **Liens relatifs à cet article**
 
@@ -1612,14 +1662,9 @@ objectives, transparentes et non discriminatoires.
 	  - Code du tourisme. - art. R231-4 (Ab)
 	  - Code du tourisme. - art. R231-5 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 7
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1 (V)
-	  - Code du tourisme. - art. L231-1 (V)
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
@@ -2846,8 +2891,8 @@ des titres de transport aérien, soit à d'autres titres de transport sur ligne 
 
 ###### Article L211-18
 
-I.-Les personnes physiques ou morales mentionnées à l'article L. 211-1 sont immatriculées au registre prévu au a de l'article
-L. 141-3. 
+I.-Les personnes physiques ou morales mentionnées à l'article L. 211-1 sont immatriculées au registre mentionné au premier
+alinéa de l'article L. 141-3. 
 
 II.-Afin d'être immatriculées, ces personnes doivent : 
 
@@ -2855,7 +2900,7 @@ a) Justifier, à l'égard des clients, d'une garantie financière suffisante, sp
 reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
 sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
 crédit ou d'une entreprise d'assurance établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord     sur l'Espace économique européen ou d'une société de financement. Elle doit couvrir les frais de
+Etat partie à l'accord sur l'Espace économique européen ou d'une société de financement. Elle doit couvrir les frais de
 rapatriement éventuel. Le remboursement peut être remplacé, avec l'accord du client, par la fourniture d'une prestation
 différente en remplacement de la prestation prévue. Cette prestation différente proposée par l'organisme de garantie
 financière ne requiert pas, en situation d'urgence, l'accord exprès du client, dès lors que sa mise en œuvre n'entraîne pas
@@ -2887,6 +2932,11 @@ c) Les associations et organismes sans but lucratif organisant sur le territoire
 à caractère éducatif conformément à l'article L. 227-4 du code de l'action sociale et des familles ou ceux gérant des
 villages de vacances ou des maisons familiales agréées, dans le cadre exclusif de leurs activités propres, y compris le
 transport lié au séjour.
+
+**Nota:**
+
+Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
+vigueur à la date fixée au paragraphe I du même article.
 
 **Liens relatifs à cet article**
 
@@ -2921,12 +2971,12 @@ transport lié au séjour.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 17
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L227-4
-	  - Code du tourisme. - art. L141-3
+	  - Code du tourisme. - art. L141-3 (V)
 
 
 ##### Section 5 : De la liberté d'établissement
@@ -3228,38 +3278,6 @@ dans l'Etat d'établissement, le prestataire fait mention de son titre de format
 	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 7
 
 
-### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME
-
-#### Chapitre unique : Exploitation de voitures de tourisme avec chauffeur.
-
-###### Article L231-2
-
-Elles sont immatriculées sur le registre mentionné au b de l'article L. 141-3 et elles déclarent sur ce même registre les
-voitures qu'elles utilisent.
-
-**Nota:**
-
-Aux termes de l'article 16 II de la loi n° 2014-1104 du 1er octobre 2014, l'article L. 231-2 est abrogé par l'article 8 4° de
-ladite loi, hormis son second alinéa qui sera abrogé à compter de la date mentionnée à son article 16 I et, au plus tard, à
-compter du 1er janvier 2015.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 2 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
-
-	**Cité par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 16 (V)
-	  - Code du tourisme. - art. D231-11 (VT)
-	  - Code du tourisme. - art. D231-8 (VT)
-
-
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER
 
 #### Chapitre 2 : Dispositions relatives à Saint-Pierre-et-Miquelon
@@ -3269,20 +3287,22 @@ compter du 1er janvier 2015.
 Ne sont pas applicables à Saint-Pierre-et-Miquelon :
 
 - aux articles L. 211-18, L. 211-19 et L. 211-20, les mots : " ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen " ;
+européen ".
 
-- les articles L. 231-1 à L. 231-7.
+**Nota:**
+
+Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
+vigueur à la date fixée au paragraphe I du même article qui ne peut être postérieure au 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 134
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L211-18
-	  - Code du tourisme. - art. L231-1
 
 
 ###### Article L242-2
@@ -5464,7 +5484,7 @@ L'indemnité est fixée, à défaut d'accord amiable, par le juge de l'expropria
 1° La consistance des biens à la date de la décision instituant la servitude en fonction des atteintes portées à leur
 utilisation habituelle et des modifications apportées à l'état des lieux antérieur ; 
 
-2° Leur qualification éventuelle de terrain à bâtir, au sens de l'article L. 13-15 du code de l'expropriation pour cause
+2° Leur qualification éventuelle de terrain à bâtir, au sens de l'article L. 322-3 du code de l'expropriation pour cause
 d'utilité publique, à la date d'institution de la servitude ou, lorsque la servitude a été établie à l'intérieur des zones
 pouvant être aménagées en vue de la pratique du ski ou des secteurs de remontées mécaniques délimités par un plan local
 d'urbanisme ou par un plan d'occupation des sols opposable, à la date de publication du plan ou, si ces zones et secteurs ont
@@ -5472,10 +5492,6 @@ d'urbanisme ou par un plan d'occupation des sols opposable, à la date de public
 modification a été soumise à l'enquête publique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-30 1985-01-09 art. 54, al
 
 	**Cité par**:
 
@@ -5485,11 +5501,15 @@ modification a été soumise à l'enquête publique.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-15 (VT)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L322-3
 
 
 ###### Article L342-26
@@ -6895,182 +6915,36 @@ général des impôts.
 
 Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire sont fixées par les articles L. 2333-26 à L.
 2333-32, L. 2333-34 à L. 2333-37, L. 2333-39 à L. 2333-44, L. 2333-46 et L. 2333-46-1 du code général des collectivités
-territoriales, ci-après reproduits : 
-
-" Art. L. 2333-26 du code général des collectivités territoriales. 
-
-Dans les stations classées et dans les communes touristiques relevant de la section 2 du chapitre III du titre III du livre
-Ier du code du tourisme, dans les communes littorales au sens de l'article L. 321-2 du code de l'environnement, dans les
-communes de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la
-montagne, dans les communes qui réalisent des actions de promotion en faveur du tourisme et dans celles qui réalisent des
-actions de protection et de gestion de leurs espaces naturels, le conseil municipal peut instituer, pour chaque nature
-d'hébergement à titre onéreux, soit une taxe de séjour perçue dans les conditions prévues aux articles L. 2333-30 à L.
-2333-40 et L. 2564-1, soit une taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L. 2333-41 à L.
-2333-46. Les natures d'hébergement sont fixées par décret en Conseil d'Etat. 
-
-Les délibérations prises en application du premier alinéa précisent les natures d'hébergement auxquelles s'appliquent les
-taxes. " 
-
-" Art. L. 2333-27 du code général des collectivités territoriales. 
-
-Sous réserve de l'application des dispositions de l'article L. 133-7 du code du tourisme, le produit de la taxe de séjour ou
-de la taxe de séjour forfaitaire est affecté aux dépenses destinées à favoriser la fréquentation touristique de la commune. 
-
-Dans les communes qui ont institué la taxe de séjour ou la taxe de séjour forfaitaire au titre des actions de protection et
-de gestion de leurs espaces naturels, le produit de la taxe peut être affecté, sous réserve des dispositions de l'article L.
-133-7 du code du tourisme, aux dépenses destinées à favoriser la protection et la gestion de leurs espaces naturels à des
-fins touristiques. Lorsque ces communes sont situées dans leur intégralité ou en partie sur le territoire d'un parc national
-ou d'un parc naturel régional géré par un établissement public administratif, le produit de la taxe peut être reversé par la
-commune ou l'établissement public de coopération intercommunale à l'organisme gestionnaire du parc dans le cadre d'une
-convention. 
-
-Lorsqu'un établissement public de coopération intercommunale doté d'une compétence en matière de développement économique est
-composé d'au moins une commune de montagne mentionnée à l'article L. 2333-26, l'ensemble des communes membres peuvent
-reverser à cet établissement public tout ou partie de la taxe qu'elles perçoivent. " 
-
-" Art. L. 2333-28 du code général des collectivités territoriales. 
-
-La période de perception de la taxe de séjour et de la taxe de séjour forfaitaire est fixée, pour chaque station, par
-délibération du conseil municipal. " 
-
-" Art. L. 2333-29 du code général des collectivités territoriales. 
-
-La taxe de séjour est établie sur les personnes qui ne sont pas domiciliées dans la commune et n'y possèdent pas une
-résidence à raison de laquelle elles sont passibles de la taxe d'habitation. " 
-
-" Art. L. 2333-30 du code général des collectivités territoriales. 
-
-Le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée
-de séjour. 
-
-Il est arrêté par délibération du conseil municipal conformément à un barème établi par décret sur la base du classement
-officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. 
-
-Le tarif ne peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par personne et par nuitée. " 
-
-" Art. L. 2333-31 du code général des collectivités territoriales. 
-
-Sont exemptés de la taxe de séjour les enfants de moins de treize ans. " 
-
-" Art. L. 2333-32 du code général des collectivités territoriales. 
-
-Sont exemptés de la taxe de séjour dans les stations hydrominérales, climatiques et uvales : 
-
-1° Les personnes qui sont exclusivement attachées aux malades ; 
-
-2° Les mutilés, les blessés et les malades du fait de la guerre. " 
-
-" Art. L. 2333-34 du code général des collectivités territoriales. 
-
-Le conseil municipal peut, par délibération, prévoir l'exemption des personnes : 
-
-1° Qui, par leur travail ou leur profession, participent au fonctionnement et au développement de la station ; 
-
-2° Qui occupent des locaux dont le loyer est inférieur à un montant qu'il détermine. " 
-
-" Art. L. 2333-35 du code général des collectivités territoriales. 
-
-Le décret qui fixe le barème détermine, s'il y a lieu, les catégories d'établissements dans lesquels la taxe de séjour n'est
-pas perçue et les atténuations et exemptions autorisées pour certaines catégories de personnes. " 
-
-" Art. L. 2333-36 du code général des collectivités territoriales. 
-
-Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-30, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29. " 
-
-" Art. L. 2333-37 du code général des collectivités territoriales. 
-
-La taxe de séjour est perçue par les logeurs, hôteliers, propriétaires ou autres intermédiaires qui versent, aux dates fixées
-par délibération du conseil municipal, sous leur responsabilité, au receveur municipal, le montant de la taxe calculé
-conformément aux dispositions des articles L. 2333-29 à L. 2333-36. " 
-
-" Art. L. 2333-39 du code général des collectivités territoriales. 
-
-Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers, propriétaires ou autres intermédiaires
-et les justificatifs qu'ils doivent fournir pour le versement de la taxe de séjour. 
-
-Ce décret fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-37 dans la
-limite du quadruple du droit dont la commune a été privée. " 
-
-" Art. L. 2333-40 du code général des collectivités territoriales. 
-
-Un décret en Conseil d'Etat détermine les modalités suivant lesquelles sont exercées les poursuites auxquelles il y a lieu de
-procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi que les conditions dans
-lesquelles sont jugées les réclamations. " 
-
-" Art. L. 2333-41 du code général des collectivités territoriales. 
-
-La taxe de séjour forfaitaire est établie sur les logeurs, hôteliers et propriétaires qui hébergent les personnes visées à
-l'article L. 2333-29. Elle est assise sur la capacité d'accueil et le nombre de nuitées comprises à la fois dans la période
-d'ouverture de l'établissement et la période de perception mentionnée à l'article L. 2333-28. 
-
-La capacité d'accueil de chaque établissement est déterminée conformément aux règles fixées par décret en Conseil d'Etat. " 
-
-" Art. L. 2333-41-1 du code général des collectivités territoriales. 
-
-Sont exemptés de la taxe de séjour forfaitaire les établissements exploités depuis moins de deux ans. " 
-
-" Art. L. 2333-42 du code général des collectivités territoriales. 
-
-Le tarif de la taxe de séjour forfaitaire est fixé avant le début de la période de perception, par délibération du conseil
-municipal, conformément à un barème établi par décret pour chaque nature et pour chaque catégorie d'hébergement sur la base
-du classement officiel des hébergements et installations accueillant les personnes visées à l'article L. 2333-29. Le tarif ne
-peut être inférieur à 0,2 euro, ni supérieur à 1,5 euro, par unité de capacité d'accueil et par nuitée. 
-
-Le montant total de la taxe peut être réduit par application d'un coefficient destiné à tenir compte de la fréquentation
-habituelle des établissements d'hébergement pendant la période de perception. Le conseil municipal fixe le coefficient par
-nature d'hébergement et pour tout le territoire de la commune au plus tard deux mois avant le premier jour de la période de
-perception. " 
-
-" Art. L. 2333-43 du code général des collectivités territoriales. 
-
-Des arrêtés du maire répartissent, par référence au barème mentionné à l'article L. 2333-42, les villas, locaux et autres
-installations accueillant les personnes visées à l'article L. 2333-29. " 
-
-" Art. L. 2333-44 du code général des collectivités territoriales. 
-
-La taxe de séjour forfaitaire est versée au receveur municipal par les logeurs, hôteliers et propriétaires aux dates fixées
-par délibération du conseil municipal. " 
-
-" Art. L. 2333-46 du code général des collectivités territoriales. 
-
-Un décret en Conseil d'Etat fixe les formalités à remplir par les logeurs, hôteliers et propriétaires ainsi que les
-justificatifs qu'ils doivent fournir au moment du versement de la taxe. 
-
-Il fixe les pénalités pour infraction à ces dispositions et aux obligations prévues à l'article L. 2333-44 dans la limite du
-triple du droit dont la commune a été privée et détermine les modalités suivant lesquelles sont exercées les poursuites
-auxquelles il y a lieu de procéder en cas d'infraction, pour le recouvrement du principal et des pénalités de la taxe, ainsi
-que les conditions dans lesquelles sont jugées les réclamations. " 
-
-" Art. L. 2333-46-1 du code général des collectivités territoriales. 
-
-Lorsque, en raison de circonstances exceptionnelles, la fréquentation touristique des établissements concernés a été
-anormalement inférieure à leur capacité d'accueil, le conseil municipal peut autoriser le maire à accorder des dégrèvements
-de taxe de séjour forfaitaire aux établissements qui en font la demande. 
-
-Pour pouvoir bénéficier de ces dégrèvements, les logeurs, hôteliers, propriétaires doivent justifier que les circonstances
-visées au premier alinéa ont entraîné une baisse importante de leur chiffre d'affaires. "
+territoriales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°85-30 du 9 janvier 1985 (V)
-	  - Code général des collectivités territoriales - art. L2333-26 (V)
-	  - Code général des collectivités territoriales - art. L2333-28 (V)
-	  - Code général des collectivités territoriales - art. L2333-29 (V)
-	  - Code général des collectivités territoriales - art. L2333-30 (V)
-	  - Code général des collectivités territoriales - art. L2333-37 (V)
-	  - Code général des collectivités territoriales - art. L2333-41 (V)
-	  - Code général des collectivités territoriales - art. L2333-42 (V)
-	  - Code général des collectivités territoriales - art. L2333-44 (V)
-	  - Code général des collectivités territoriales - art. L2564-1 (V)
-	  - Code du tourisme. - art. L133-7 (V)
-	  - Code de l'environnement - art. L321-2 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 33
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 67
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-26
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-27 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-28 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-29
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-30 (M)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-31 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-32 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-34 (M)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-35 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-36 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-37 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-39 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-40 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-41 (M)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-41-1 (Ab)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-42 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-43 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-44 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-46 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-46-1 (Ab)
 
 	**Cité par**:
 
@@ -7081,32 +6955,13 @@ visées au premier alinéa ont entraîné une baisse importante de leur chiffre 
 
 Les règles relatives à la taxe de séjour et la taxe de séjour forfaitaire pour les établissements publics de coopération
 intercommunale érigés en stations classées sont fixées par l'article L. 5211-21 du code général des collectivités
-territoriales ci-après reproduit : 
-
-" Art. L. 5211-21 du code général des collectivités territoriales. 
-
-Dans les établissements publics de coopération intercommunale érigés en stations classées, dans ceux bénéficiant de l'une des
-dotations prévues à l'article L. 5211-24, dans ceux qui réalisent des actions de promotion en faveur du tourisme ainsi que
-dans ceux qui réalisent, dans la limite de leurs compétences, des actions de protection et de gestion de leurs espaces
-naturels, la taxe de séjour ou la taxe de séjour forfaitaire peut être instituée par décision de l'organe délibérant dans les
-conditions prévues à l'article L. 2333-26. 
-
-Les communes membres d'un établissement public de coopération intercommunale ayant institué la taxe de séjour ou la taxe de
-séjour forfaitaire ne peuvent percevoir celles-ci. 
-
-Dans les établissements publics de coopération intercommunale qui ont institué la taxe de séjour au titre des actions de
-protection et de gestion de leurs espaces naturels, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire peut
-être affecté, sous réserve des dispositions de l'article L. 133-7 du code du tourisme, aux dépenses destinées à favoriser la
-protection et la gestion de leurs espaces naturels à des fins touristiques. Lorsque ces établissements publics de coopération
-intercommunale sont situés dans leur intégralité ou en partie sur le territoire d'un parc national ou d'un parc naturel
-régional géré par un établissement public administratif, le produit de la taxe peut être reversé par les établissements
-publics de coopération intercommunale à l'organisme gestionnaire du parc dans le cadre d'une convention. "
+territoriales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 67 (V)
 
 	**Liens**:
 
@@ -7114,8 +6969,7 @@ publics de coopération intercommunale à l'organisme gestionnaire du parc dans 
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5211-24 (V)
-	  - Code du tourisme. - art. L133-7 (V)
+	  - Code général des collectivités territoriales - art. L5211-21 (V)
 
 
 ###### Article L422-5
@@ -9949,24 +9803,24 @@ qui en a été faite au commissaire du Gouvernement.
 ###### Article R141-10
 
 La commission d'immatriculation mentionnée à l'article L. 141-2 est chargée de l'établissement, de la tenue et de la mise à
-jour permanente des registres mentionnés à l'article L. 141-3.
+jour permanente du registre mentionné à l'article L. 141-3. 
 
 A ce titre, elle reçoit les dossiers de demande d'immatriculation ou de renouvellement de l'immatriculation, statue sur ces
-demandes, effectue les radiations des registres et procède à l'envoi des notifications aux intéressés selon les dispositions
-du titre Ier et du chapitre Ier du titre III du livre II. 
+demandes, effectue les radiations du registre et procède à l'envoi des notifications aux intéressés selon les dispositions du
+titre Ier. 
 
 La commission d'immatriculation est composée de sept membres, dont son président, nommés en raison de leur compétence et de
 leur indépendance pour une durée de trois ans par arrêté du ministre chargé du tourisme. 
 
-Nul ne peut être membre de la commission d'immatriculation s'il est immatriculé à l'un des registres mentionnés à l'article
-L. 141-3 ou dirigeant, mandataire social ou salarié d'une société ou d'un organisme immatriculé à l'un de ces registres. Les
-membres de la commission perçoivent une indemnité forfaitaire dont le montant est fixé par arrêté conjoint du ministre chargé
-du tourisme et du ministre chargé du budget. Cette somme est imputée au budget de l'agence. 
+Nul ne peut être membre de la commission d'immatriculation s'il est immatriculé au registre mentionné à l'article L. 141-3 ou
+dirigeant, mandataire social ou salarié d'une société ou d'un organisme immatriculé à ce registre. Les membres de la
+commission perçoivent une indemnité forfaitaire dont le montant est fixé par arrêté conjoint du ministre chargé du tourisme
+et du ministre chargé du budget. Cette somme est imputée au budget de l'agence. 
 
 Sans préjudice des dispositions mentionnées à l'alinéa précédent, ces personnes adressent au président de la commission, à
 l'occasion de leur nomination ou de leur entrée en fonctions, une déclaration mentionnant leurs liens, directs ou indirects,
-avec les entreprises ou établissements dont les activités relèvent de l'article L. 211-1 et de l'article L. 231-1. Cette
-déclaration est actualisée à leur initiative dès qu'une modification intervient.
+avec les entreprises ou établissements dont les activités relèvent de l'article L. 211-1. Cette déclaration est actualisée à
+leur initiative dès qu'une modification intervient.
 
 **Liens relatifs à cet article**
 
@@ -9974,16 +9828,15 @@ déclaration est actualisée à leur initiative dès qu'une modification intervi
 
 	  - Arrêté du 23 décembre 2009 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 4
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L141-3
 	  - Code du tourisme. - art. L211-1
-	  - Code du tourisme. - art. L231-1
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
@@ -12369,208 +12222,6 @@ la recherche.
 
 #### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.
 
-##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.
-
-##### Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.
-
-###### Article D231-3-1
-
-La limite mentionnée au septième alinéa de l'article L. 141-3 est fixée à 150 euros.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L141-3
-
-
-###### Article R231-2
-
-La demande d'immatriculation au registre mentionné au b de l'article L. 141-3 est adressée par écrit, le cas échéant sous
-forme électronique, à la commission d'immatriculation mentionnée à l'article L. 141-2.
-
-L'exploitant de voitures de tourisme avec chauffeur doit joindre à sa demande d'immatriculation un état prévisionnel du
-nombre de chauffeurs et de voitures de tourisme retenu pour l'exercice de son activité. 
-
-Lorsque la demande d'immatriculation est formulée par une personne physique, elle mentionne l'état civil, la profession et le
-domicile du demandeur ainsi que l'adresse du siège de ses activités. 
-
-Lorsque la demande d'immatriculation est présentée au nom d'une personne morale, elle mentionne la dénomination sociale, la
-forme juridique, le montant du capital social, l'adresse du siège social, ainsi que l'état civil et le domicile du ou des
-représentants légaux, seuls habilités à présenter la demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L141-2
-	  - Code du tourisme. - art. L141-3
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R231-3 (Ab)
-
-
-###### Article R231-3
-
-I.-L'immatriculation est effectuée par la commission d'immatriculation mentionnée à l'article L. 141-2 dans un délai d'un
-mois à compter de la date du récépissé émis par la commission au moment de la réception du dossier complet, sous réserve des
-dispositions prévues à l'article R. 231-5. La commission notifie à l'exploitant de voitures de tourisme avec chauffeur un
-certificat d'immatriculation comportant son numéro d'immatriculation au registre et la date d'enregistrement. 
-
-L'immatriculation est réputée acquise en l'absence de décision de la commission dans le délai prévu à l'alinéa précédent. La
-commission est alors tenue de délivrer sans délai un numéro d'immatriculation. 
-
-II.-Les exploitants de voitures de tourisme avec chauffeur informent la commission de tout changement dans les éléments
-d'information prévus au troisième ou quatrième alinéa de l'article R. 231-2, et notamment la cessation d'activité.
-L'information est transmise dans le mois qui précède la modification quand elle peut être anticipée ou sinon au plus tard
-dans le mois qui suit l'événement. 
-
-III.-Lorsqu'il ressort de l'examen du dossier complet que la demande d'immatriculation n'est pas conforme aux dispositions de
-la présente section, la commission prend une décision de refus d'inscription au registre qu'elle communique au demandeur dans
-le délai prévu au I du présent article. 
-
-IV.-Il est procédé, tous les trois ans, au renouvellement de l'immatriculation selon les modalités fixées au I du présent
-article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2011-1992 du 27 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L141-2
-	  - Code du tourisme. - art. R231-2 (Ab)
-	  - Code du tourisme. - art. R231-5
-
-
-###### Article R231-4
-
-Dans le mois suivant l'immatriculation au registre mentionné au b de l'article L. 141-3, l'agence mentionnée à l'article L.
-141-2 procède à la mise en ligne d'un avis informant les tiers de l'identité du déclarant, du numéro d'immatriculation, de la
-dénomination, de la raison sociale, de la forme juridique et de l'adresse du siège social de l'entreprise. 
-
-Elle assure également la publication annuelle du nombre d'entreprises immatriculées au registre, de cartes professionnelles
-délivrées aux chauffeurs et de véhicules utilisés pour l'activité de voitures de tourisme avec chauffeur.
-
-**Nota:**
-
-Conformément à l'article 8-I du décret n° 2013-690 du 30 juillet 2013, les dispositions de l'article R. 231-4 issues de
-l'article 3 dudit décret entrent en vigueur à une date fixée par arrêté du ministre chargé du tourisme et, au plus tard, le
-1er janvier 2014.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 7 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 19 (V)
-	  - Code du tourisme. - art. R231-6 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L141-2
-	  - Code du tourisme. - art. L141-3
-
-
-##### Sous-section 2 : Radiation.
-
-###### Article R231-5
-
-Lorsque l'exploitant de voitures de tourisme avec chauffeur ne satisfait plus aux conditions prévues à l'article D. 231-1, ou
-emploie un chauffeur non titulaire de la carte professionnelle prévue à l'article D. 231-12, la commission d'immatriculation
-mentionnée à l'article L. 141-2 procède à la radiation du registre mentionné au b de l'article L. 141-3. 
-
-La décision de radiation ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et ait été invité à
-présenter ses observations. La commission peut fixer un délai, d'une durée maximum de six mois, pendant lequel l'exploitant
-radié ne peut pas déposer une nouvelle demande d'immatriculation. 
-
-La radiation du registre est notifiée par la commission par tout moyen permettant d'en obtenir un accusé de réception à
-l'exploitant de voitures de tourisme avec chauffeur qui en fait l'objet.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1992 du 27 décembre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D231-1
-	  - Code du tourisme. - art. D231-12
-	  - Code du tourisme. - art. L141-2
-	  - Code du tourisme. - art. L141-3
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R231-3 (Ab)
-
-
-###### Article R231-6
-
-La radiation intervient à la demande de la personne physique ou morale immatriculée au registre ou lorsque la personne morale
-concernée fait l'objet d'une liquidation judiciaire définitivement prononcée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-961 du 15 juillet 1955 - art. 8 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-
 ##### Section 3 : Conduite de voitures de tourisme avec chauffeur.
 
 
@@ -12653,53 +12304,6 @@ au 1er janvier 2016, l'abrogation des  dispositions du premier alinéa de l'arti
 	  - Code de la route. - art. R221-10
 
 
-###### Article D231-9
-
-Les chauffeurs de voiture de tourisme doivent être titulaires depuis moins de deux ans de l'unité d'enseignement "prévention
-et secours civiques de niveau 1” prévue par arrêté du ministre de l'intérieur et du ministre chargé de la santé.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D231-12 (VD)
-
-
-###### Article D231-10
-
-Nul ne peut exercer la profession de chauffeur de voiture de tourisme si figure au bulletin n° 2 de son casier judiciaire ou
-son équivalent pour les non-nationaux :
-
-1° Soit une condamnation définitive pour un délit sanctionné dans le code de la route par une réduction de la moitié du
-nombre maximal de points du permis de conduire ;
-
-2° Soit une condamnation définitive par une juridiction française ou étrangère à une peine criminelle ou à une peine
-correctionnelle d'au moins six mois d'emprisonnement pour vol, escroquerie, abus de confiance, atteinte volontaire à
-l'intégrité de la personne, agression sexuelle ou infraction à la législation sur les stupéfiants ;
-
-3° Soit une condamnation définitive pour conduite d'un véhicule sans être titulaire du permis correspondant à la catégorie du
-véhicule considéré ou malgré l'annulation ou l'interdiction d'obtenir la délivrance du permis de conduire, ou pour refus de
-restituer son permis de conduire après invalidation ou annulation de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-691 du 30 juillet 2013 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-
 ###### Article D231-11
 
 L'aptitude professionnelle prévue à l'article L. 231-2 est réputée acquise pour tout ressortissant d'un autre Etat membre de
@@ -12738,86 +12342,6 @@ au 1er janvier 2016, l'abrogation des dispositions de l'article D. 231-11 du cod
 
 	  - Code du tourisme. - art. L231-1
 	  - Code du tourisme. - art. L231-2
-
-
-###### Article R231-7-1
-
-Tout chauffeur de voiture de tourisme au sens du présent chapitre est tenu de suivre tous les cinq ans un stage de formation
-continue dispensé par une école agréée. Le contenu de cette formation est défini par un arrêté du ministre chargé du
-tourisme. Cette formation continue est sanctionnée par la délivrance d'une attestation d'une validité de cinq ans.
-
-**Nota:**
-
-Conformément au décret n° 2013-690, article 8 III : les conducteurs de voitures de tourisme ayant obtenu leur carte
-professionnelle antérieurement à l'entrée en vigueur des dispositions de l'article 4 du présent décret sont tenus de suivre
-cette formation continue dans un délai de deux ans à compter de cette entrée en vigueur.
-
-Conformément à l'article 8-I du même décret, cette date d'entrée en vigueur est fixée par arrêté du ministre chargé du
-tourisme et, au plus tard, au 1er janvier 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 4
-
-	**Cité par**:
-
-	  - Arrêté du 25 octobre 2013 (Ab)
-	  - Arrêté du 25 octobre 2013 - art. 1 (Ab)
-	  - Arrêté du 25 octobre 2013 - art. Annexe II (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-
-###### Article R231-7-2
-
-I. - L'exploitation d'une école de formation préparant aux stages de formation professionnelle, initiale et continue, de
-chauffeur de voiture de tourisme au sens du présent chapitre est subordonnée à un agrément délivré par le préfet du
-département dans lequel l'école de formation a son siège ou, à Paris, par le préfet de police. 
-
-Cet agrément est délivré pour une période de cinq ans. 
-
-Le silence gardé pendant deux mois par l'autorité administrative sur une demande d'agrément vaut décision d'acceptation. 
-
-La procédure et les conditions d'agrément sont définies par arrêté du ministre chargé du tourisme, notamment les clauses
-obligatoires du règlement intérieur de l'établissement, les exigences minimales concernant la qualification des formateurs,
-les locaux, les matériels et véhicules utilisés, ainsi que le programme et le contenu des formations. 
-
-II. - L'agrément peut être suspendu pour une durée maximale de six mois ou retiré par l'autorité qui l'a délivré lorsqu'une
-des conditions mises à sa délivrance cesse d'être remplie. 
-
-La suspension ou le retrait de l'agrément ne peuvent être décidés qu'après que le gestionnaire de l'école de formation,
-préalablement informé des griefs susceptibles d'être retenus à l'encontre de son école, aura été mis à même de présenter ses
-observations écrites et, le cas échéant, sur sa demande, des observations orales. Celui-ci peut se faire assister par un
-conseil ou se faire représenter par le mandataire de son choix. 
-
-La décision de suspension ou de retrait de l'agrément est notifiée au représentant légal de l'école de formation.
-
-**Nota:**
-
-Conformément au décret n° 2013-690, article 8 III : les conducteurs de voitures de tourisme ayant obtenu leur carte
-professionnelle antérieurement à l'entrée en vigueur des dispositions de l'article 4 du présent décret sont tenus de suivre
-cette formation continue dans un délai de deux ans à compter de cette entrée en vigueur.
-
-Conformément à l'article 8-I du même décret, cette date d'entrée en vigueur est fixée par arrêté du ministre chargé du
-tourisme et, au plus tard, au 1er janvier 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2013-690 du 30 juillet 2013 - art. 4
-
-	**Cité par**:
-
-	  - Arrêté du 25 octobre 2013 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
 #### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.
@@ -12879,21 +12403,17 @@ livre et les dispositions suivantes :
 
 1° Le 2° de l'article R. 221-15 ; 
 
-2° Le chapitre Ier du titre III du présent livre.
+2° (Abrogé).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 16
+	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
 	  - Code du tourisme. - art. R221-15
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R242-3 (T)
 
 
 ###### Article R242-3
