@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-03-13
 
 # Partie législative
 
@@ -17954,209 +17954,340 @@ sociales.
 ###### Article R412-8
 
 Sont définies comme " vacances adaptées organisées ", au sens du I de l'article L. 412-2, les activités de vacances avec
-hébergement d'une durée supérieure à cinq jours destinées spécifiquement à des groupes constitués de plus de trois personnes
-handicapées majeures au sens de l'article L. 114 du code de l'action sociale et des familles.
+hébergement en France ou à l'étranger, d'une durée supérieure à cinq jours destinées exclusivement à des groupes constitués
+de plus de trois personnes handicapées majeures au sens de l'article L. 114 du code de l'action sociale et des familles.
+Lorsqu'il fait partie de la prestation de l'organisateur, le transport jusqu'au lieu de séjour est inclus dans ces activités.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1759 2005-12-29 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L114 (V)
-	  - Code du tourisme. - art. L412-2 (V)
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D344-5-7 (V)
 	  - Code de l'action sociale et des familles - art. D344-5-8 (V)
-	  - Code du tourisme. - art. R412-10 (M)
+	  - Code du tourisme. - art. R412-10 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L412-2
 
 
 ###### Article R412-9
 
 Toute personne physique ou morale qui organise, en les réalisant ou en les faisant réaliser par un intermédiaire, des "
-vacances adaptées organisées " pour accueillir des personnes handicapées majeures sollicite un agrément auprès du préfet de
-région de son lieu d'implantation ou de son siège social, au plus tard quatre mois avant la date du premier séjour organisé.
+vacances adaptées organisées " pour accueillir des personnes handicapées majeures sollicite par tout moyen permettant de lui
+conférer date certaine un agrément auprès du préfet de région de son lieu d'implantation ou de son siège social, au plus tard
+quatre mois avant la date du premier séjour organisé.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1759 2005-12-29 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 
 ###### Article R412-10
 
-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+Tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen peut se livrer ou apporter son concours aux activités mentionnées à l'article R. 412-8, sans être établi sur le
-territoire national, dès lors qu'il est titulaire de l'agrément " vacances adaptées organisées ".
+territoire national, dès lors qu'il est titulaire de l'agrément "vacances adaptées organisées".
 
-La demande d'agrément " vacances adaptées organisées " est adressée au préfet de la région Ile-de-France et est accompagnée,
-outre le dossier prévu à l'article R. 412-11, de la licence d'agent de voyages mentionnée aux articles R.* 212-42 à R.
-212-44.
+La demande d'agrément "vacances adaptées organisées" est adressée au préfet de la région Ile-de-France.
+
+La demande d'agrément, les pièces jointes et les éventuels justificatifs sont rédigés en langue française, ou, à défaut,
+accompagnés d'une traduction.
+
+Le demandeur qui a obtenu dans son pays d'origine un titre d'effet équivalent à l'agrément "vacances adaptées organisées"
+produit les justificatifs nécessaires pour en attester.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1759 2005-12-29 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du tourisme R412-8, R412-11, R212-42 à R212-44
-	  - Code du tourisme. - art. R412-11 (V)
+	  - Code du tourisme.
+	  - Code du tourisme. - art. R412-11
 	  - Code du tourisme. - art. R412-8 (V)
 
 
 ###### Article R412-11
 
+La demande d'agrément donne lieu à la délivrance d'un récépissé dès lors que le dossier est complet.
+
+La demande d'agrément présentée par une personne physique mentionne l'état civil, la profession et le domicile du demandeur
+ainsi que l'adresse du siège de ses activités.
+
+La demande d'agrément présentée au nom d'une personne morale mentionne la dénomination sociale, la forme juridique, les
+statuts, l'adresse du siège social et de ses établissements secondaires ou délégations locales ainsi que l'état civil et le
+domicile du ou des représentants légaux ou statutaires seuls habilités à présenter la demande.
+
 La demande d'agrément est accompagnée d'un dossier comportant :
 
-1° Une présentation de l'organisme demandeur, faisant apparaître ses statuts et ses moyens financiers et retraçant également
-ses principales activités et, le cas échéant, son expérience en matière d'organisation de séjours de vacances pour des
-personnes majeures handicapées ;
+1° Un document présentant les motivations du demandeur et retraçant également ses principales activités et, le cas échéant,
+sa compétence et son expérience en matière d'organisation de séjours de vacances et de séjours adaptés pour des personnes
+handicapées majeures ;
 
-2° Une note apportant à titre prévisionnel les informations suivantes :
+2° Une note apportant à titre prévisionnel les informations et pièces suivantes :
 
-a) Le nombre et les lieux de séjours de vacances envisagés au cours de l'année suivante ;
+a) Le certificat d'immatriculation mentionné au I de l'article R. 211-21, le cas échéant ;
 
-b) Le nombre de personnes susceptibles d'être accueillies par séjour ;
+b) L'attestation d'assurance responsabilité civile couvrant les activités des séjours envisagés ainsi que l'attestation
+d'assurance en cas de rapatriement ;
 
-c) Le nombre, les compétences et l'expérience des accompagnants prévus par lieux de vacances, notamment pour ce qui concerne
-l'encadrement de certaines activités sportives ;
+c) La présentation générale des projets de séjours envisagés comportant notamment les éléments détaillés mentionnés aux d à l
+du présent article ;
 
-d) Les compétences et, le cas échéant, l'expérience du responsable de l'organisation du séjour sur le lieu de vacances ;
+d) Le nombre et les lieux de séjours de vacances envisagés au cours de l'année suivante, indiquant à titre indicatif leur
+chronologie et périodicité ;
 
-e) Les mesures envisagées au cas où des accompagnants supplémentaires devraient être recrutés en urgence ;
+e) Le nombre de personnes susceptibles d'être accueillies par séjour en tenant compte des différents types de déficiences ;
 
-f) Les animations et activités prévues au cours des séjours ;
+f) Le nombre, les compétences et l'expérience des accompagnants prévus par lieux de vacances, notamment pour ce qui concerne
+l'encadrement de certaines activités sportives ainsi que les compétences et, le cas échéant, l'expérience du responsable du
+déroulement du séjour sur le lieu de vacances ;
 
-g) Les moyens de transport utilisés par les personnes accueillies pour rejoindre le lieu de vacances et se déplacer au cours
-du séjour ;
+g) Les mesures envisagées au cas où des accompagnants supplémentaires devraient être recrutés en urgence ;
 
-h) Le suivi médical envisagé en fonction des personnes accueillies, et notamment les mesures prévues pour la distribution des
-médicaments, ainsi que les accords passés avec un cabinet paramédical ou un médecin à proximité du lieu de séjour de vacances
-organisé ;
+h) Les animations et activités prévues au cours des séjours ;
 
-i) L'existence d'un protocole, afin de permettre, en cas de besoin, l'évacuation et le rapatriement des personnes accueillies
-au cours du séjour ;
+i) Les conditions d'organisation des transports du lieu habituel de résidence au lieu de vacances de même que lors du retour,
+et, durant le séjour, du lieu d'hébergement au lieu des activités ;
+
+j) Le suivi médical envisagé en fonction des besoins et de la demande des personnes accueillies, et notamment les mesures
+prévues pour la distribution et le stockage des médicaments, ainsi que les accords passés avec un cabinet paramédical ou un
+médecin à proximité du lieu de séjour de vacances organisé ;
+
+k) L'existence d'un protocole, afin de permettre, en cas de besoin, la réorientation, l'évacuation et le rapatriement des
+personnes accueillies au cours du séjour ;
+
+l) Si la personne handicapée en fait la demande, les conditions de la gestion sur place du budget personnel des personnes
+accueillies ;
 
 3° Le modèle de questionnaire adressé préalablement à la tenue du séjour à la personne accueillie, ou à son représentant
 légal, afin de connaître ses besoins ou ses problèmes de santé.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R412-10 (V)
 	  - Code du tourisme. - art. R412-12 (V)
-	  - Code du tourisme. - art. R412-13 (M)
+	  - Code du tourisme. - art. R412-13 (V)
 
 
 ###### Article R412-12
 
 Le préfet de région dispose d'un délai de deux mois pour délivrer l'agrément ou faire connaître son refus motivé, s'il
-considère que l'organisme n'assure pas des conditions de sécurité et une qualité des prestations offertes en adéquation avec
-le nombre et le handicap des personnes accueillies au cours des séjours. Il peut, au vu du dossier prévu à l'article R.
-412-11, demander à l'organisme qui a sollicité l'agrément des précisions complémentaires et formuler des observations. Le
-silence gardé pendant deux mois, à compter de la date de réception de la demande ou, le cas échéant, des informations
-complémentaires, par l'autorité administrative sur une demande d'agrément vaut décision d'acceptation.
+considère que l'organisme n'assure pas des conditions de sécurité des personnes handicapées majeures et ne garantit pas la
+prise en compte de leur état de santé ainsi que de leur intégrité et de leur bien-être physique et moral. Il en est de même
+s'il considère que l'organisme ne présente pas de garanties suffisantes, notamment financières, pour assurer les prestations
+ou n'assure pas une qualité des prestations offertes en adéquation avec le nombre et les déficiences des personnes
+accueillies au cours des séjours. Il peut, au vu du dossier prévu à l'article R. 412-11, demander à l'organisme qui a
+sollicité l'agrément des précisions complémentaires et formuler des observations. Le silence gardé pendant deux mois, à
+compter de la date de réception de la demande ou, le cas échéant, des informations complémentaires, par l'autorité
+administrative sur une demande d'agrément vaut décision d'acceptation.
+
+L'agrément précise le bénéficiaire de l'agrément délivré, la date de délivrance, l'organisation des séjours en France ou à
+l'étranger.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1759 2005-12-29 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R412-11 (V)
+	  - Code du tourisme. - art. R412-11
 
 
 ###### Article R412-13
 
-L'agrément " vacances adaptées organisées " est délivré par le préfet pour une durée de trois ans. Toutefois, au cours de
-cette période, l'organisme agréé est tenu de transmettre au préfet, chaque année, le programme de ses activités pour l'année
-suivante en lui indiquant les informations mentionnées au 2° de l'article R. 412-11.
+L'agrément " vacances adaptées organisées " est délivré par le préfet pour une durée de cinq ans. Au cours de cette période,
+la personne physique ou morale agréée est tenue de transmettre au préfet, par tous moyens, y compris par télécopie ou par
+courrier électronique, un bilan circonstancié quantitatif, qualitatif et financier des activités de vacances adaptées
+organisées mises en œuvre dans le courant de l'année écoulée.
+
+Le bilan précise les moyens mis en œuvre pour remédier aux dysfonctionnements éventuellement constatés lors des contrôles.
+
+Il est tenu compte des bilans des quatre dernières années lors de l'examen de la demande de renouvellement d'agrément.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1759 2005-12-29 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cite**:
 
 	  - Code du tourisme. - art. R412-11 (V)
+
+
+###### Article R412-13-1
+
+Le préfet de région est informé par la personne physique ou morale agréée dans un délai de deux mois de tout changement
+substantiel affectant les éléments matériels au vu desquels l'agrément a été délivré.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 
 ###### Article R412-14
 
 Deux mois avant le déroulement d'un séjour de vacances, toute personne physique ou morale détentrice de l'agrément " vacances
-adaptées organisées " est tenue d'informer, sur la base d'un formulaire conforme à un modèle prévu par arrêté des ministres
-chargés des personnes handicapées et du tourisme, le ou les préfets des départements où est organisé ce séjour. Elle joint
-également à cette déclaration une copie de l'agrément qui lui a été délivré. Ce délai peut être réduit à un mois en cas
-d'urgence motivée.
+adaptées organisées " est tenue d'informer, par tous moyens, y compris par télécopie ou par courrier électronique, sur la
+base d'un formulaire conforme à un modèle prévu par arrêté des ministres chargés des personnes handicapées et du tourisme, le
+ou les préfets des départements où est organisé ce séjour. Elle joint également à cette déclaration une copie de l'agrément
+qui lui a été délivré. Ce délai peut être réduit à un mois en cas d'urgence motivée.
+
+Huit jours avant la date prévue pour l'organisation du séjour, le titulaire de l'agrément en confirme le déroulement auprès
+du ou des préfets des départements du ou des lieux concernés en renseignant le formulaire conforme à un modèle prévu par
+l'arrêté mentionné au premier alinéa.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1759 2005-12-29 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. R412-15 (M)
+	  - Code du tourisme. - art. R412-15 (V)
+
+
+###### Article R412-14-1
+
+Les personnes responsables de l'organisation du séjour sur le lieu de vacances sont tenues d'informer sans délai le préfet du
+département du lieu de séjour de tout accident grave ainsi que de toute situation présentant ou ayant présenté des risques
+graves pour la santé, l'intégrité ou le bien-être physique et moral des personnes handicapées majeures.
+
+Le préfet de région qui a délivré l'agrément est informé de cette transmission.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 
 ###### Article R412-15
 
 Les inspecteurs de l'action sanitaire et sociale, les médecins inspecteurs de santé publique ou les inspecteurs des agences
-régionales de santé ayant la qualité de médecin exercent le contrôle des lieux de vacances et vérifient notamment
-l'exactitude des informations transmises au préfet dans les conditions prévues à R. 412-14. Il leur appartient notamment de
-s'assurer de la sécurité des lieux et des personnes ainsi que de l'état de santé, d'intégrité ou de bien-être physique et
-moral de celles-ci.
+régionales de santé ayant la qualité de médecin exercent le contrôle des séjours et des lieux de vacances ainsi que des lieux
+de regroupement des vacanciers avant leur départ sur le lieu de vacances et vérifient notamment l'exactitude des informations
+transmises au préfet dans les conditions prévues à R. 412-14. Il leur appartient notamment de s'assurer de la sécurité des
+lieux et des personnes ainsi que de l'état de santé, d'intégrité ou de bien-être physique et moral de celles-ci.
 
 A l'issue de leur contrôle, ils établissent soit un constat de conformité, soit des observations précises pour améliorer
 l'organisation et l'accompagnement des personnes accueillies, soit un rapport circonstancié au préfet de département, si les
 conditions d'accueil ne sont pas conformes et sont de nature à mettre en danger les personnes accueillies.
 
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-344 du 31 mars 2010 - art. 349
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cite**:
 
@@ -18164,29 +18295,39 @@ conditions d'accueil ne sont pas conformes et sont de nature à mettre en danger
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. R412-16 (M)
+	  - Code du tourisme. - art. R412-16 (V)
 
 
 ###### Article R412-16
 
-Le préfet du département, au vu du rapport mentionné à l'article R. 412-15, peut procéder à des injonctions. Si les
-injonctions, adressées conjointement à l'organisme agréé et au responsable du séjour mis en cause, ne sont pas suivies des
-effets indiqués par le préfet dans les délais qu'il a mentionnés, celui-ci met fin à ce séjour. 
+Le préfet du département, au vu des signalements effectués en application de l'article R. 412-14-1 ou du rapport mentionné à
+l'article R. 412-15, peut procéder à des injonctions. Si les injonctions, adressées conjointement à la personne physique ou
+morale agréée à l'organisme agréé et au responsable du séjour mis en cause, ne sont pas suivies des effets indiqués par le
+préfet dans les délais qu'il a mentionnés, celui-ci met fin à ce séjour. 
 
 En cas d'urgence, le préfet du département peut décider la cessation immédiate du séjour. 
 
+L'organisateur du séjour met en œuvre les conditions d'évacuation ou de rapatriement des personnes accueillies vers leur lieu
+de résidence habituelle ou vers un autre lieu géré par un organisme de vacances adaptées organisées agréé.
+
 Dans le cadre d'un contrôle d'un séjour, s'il est constaté soit que l'agrément " vacances adaptées organisées " n'a pas été
-obtenu ou n'est plus valable, soit que l'organisme à l'origine du déroulement d'un séjour n'en a pas informé le préfet de
-département concerné, le préfet peut autoriser la poursuite du séjour au vu d'un contrôle sur place et d'un rapport
-circonstancié d'un inspecteur de l'action sanitaire et sociale, d'un médecin inspecteur de santé publique ou d'un inspecteur
-de l'agence régionale de santé ayant la qualité de médecin et en prenant en compte la situation et l'intérêt des personnes
-accueillies.
+obtenu, comporte des informations mensongères ou inexactes ou n'est plus valable, soit que l'organisme à l'origine du
+déroulement d'un séjour n'en a pas informé le préfet de département concerné, le préfet peut autoriser la poursuite du séjour
+au vu d'un contrôle sur place et d'un rapport circonstancié d'un inspecteur de l'action sanitaire et sociale, d'un médecin
+inspecteur de santé publique ou d'un inspecteur de l'agence régionale de santé ayant la qualité de médecin et en prenant en
+compte la situation et l'intérêt des personnes accueillies.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-344 du 31 mars 2010 - art. 349
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 	**Cite**:
 
@@ -18211,6 +18352,24 @@ du jour de publication de l'arrêté.
 	**Codifié par**:
 
 	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+
+###### Article R412-17-1
+
+La décision d'agrément, la suspension et le retrait d'agrément sont publiés au recueil des actes administratifs de la
+préfecture.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
+reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
+d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 
 ### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.
