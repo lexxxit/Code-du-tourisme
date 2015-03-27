@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-03-28
 
 # Partie législative
 
@@ -641,19 +641,22 @@ L'office de tourisme est administré par un comité de direction et dirigé par 
 
 ###### Article L133-5
 
-Les membres représentant la collectivité territoriale détiennent la majorité des sièges du comité de direction de l'office de
-tourisme.
+Les membres représentant la collectivité territoriale ou l'établissement public de coopération intercommunale détiennent la
+majorité des sièges du comité de direction de l'office de tourisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
 
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L2231-12 (MMN)
-	  - Code général des collectivités territoriales art. L2231-12
 
 
 ###### Article L133-6
@@ -664,13 +667,17 @@ Il est nommé dans les conditions fixées par décret.
 
 Il ne peut être conseiller municipal.
 
-Sa nomination et son licenciement sont soumis à l'avis du comité de direction.
+Sa nomination et son licenciement sont décidés par délibération du comité de direction sur proposition du président.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
 
 	**Cité par**:
 
@@ -679,7 +686,6 @@ Sa nomination et son licenciement sont soumis à l'avis du comité de direction.
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L2231-13 (MMN)
-	  - Code général des collectivités territoriales art. L2231-13
 
 
 ###### Article L133-7
@@ -744,18 +750,22 @@ compter des impositions dues au titre de 2015.
 
 ###### Article L133-8
 
-Le budget et les comptes de l'office, délibérés par le comité de direction, sont soumis à l'approbation du conseil municipal.
+Le budget et les comptes de l'office, délibérés par le comité de direction, sont soumis à l'approbation du conseil municipal
+ou de l'organe délibérant de l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
 
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L2231-15 (MMN)
-	  - Code général des collectivités territoriales art. L2231-15
 
 
 ###### Article L133-9
@@ -779,33 +789,29 @@ l'accueil et l'information, déléguer tout ou partie de cette mission aux organ
 
 ###### Article L133-10
 
-Des décrets en Conseil d'Etat déterminent les conditions d'application de la présente section et ses modalités
-d'adaptation : 
-
-1° Aux différentes catégories de stations classées, notamment :
+Des décrets en Conseil d'Etat déterminent les conditions d'application de la présente section et ses modalités d'adaptation
+aux différentes catégories de stations classées, notamment : 
 
 - aux stations dont le ressort s'étend sur plusieurs communes ou fractions de commune. Dans ce cas, ils doivent prescrire la
 consultation préalable des conseils municipaux intéressés ainsi que, le cas échéant, leur représentation équitable dans le
 comité de direction ;
 
 - aux stations dont l'équipement et l'exploitation ont fait l'objet de concessions de la commune ou des communes
-intéressées ; 
-
-2° Aux communes littorales, au sens de l'article L. 321-2 du code de l'environnement, qui ne sont pas des stations classées.
+intéressées ;
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
 
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. L2231-16 (MMN)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L321-2 (V)
 
 
 ##### Sous-section 4 : Classement des offices
@@ -1181,10 +1187,11 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 
 ###### Article L134-1
 
-La communauté urbaine, la métropole et la communauté d'agglomération exercent de plein droit, en lieu et place des communes
-membres, les compétences en matière de développement économique, notamment création, aménagement, entretien et gestion de
-zones d'activité touristique qui sont d'intérêt communautaire au sens du 2° du I de l'article L. 5215-20-1 du code général
-des collectivités territoriales et du 1° du I de l'article L. 5216-5 du même code.
+Les communautés urbaines, les communautés d'agglomération, les métropoles et la métropole de Lyon exercent de plein droit, en
+lieu et place des communes membres, les compétences en matière de développement économique, notamment création, aménagement,
+entretien et gestion de zones d'activité touristique qui sont d'intérêt communautaire au sens du 1° du I de l'article L.
+5215-20, du 2° du I de l'article L. 5215-20-1, du 1° du I de l'article L. 5216-5, du 1° du I de l'article L. 5217-2 et du 1°
+du I de l'article L. 3641-1 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -1194,17 +1201,63 @@ des collectivités territoriales et du 1° du I de l'article L. 5216-5 du même 
 
 	**Modifié par**:
 
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5215-20-1 (VT)
-	  - Code général des collectivités territoriales - art. L5216-5 (V)
+	  - Code général des collectivités territoriales - art. L3641-1
+	  - Code général des collectivités territoriales - art. L5215-20
+	  - Code général des collectivités territoriales - art. L5215-20-1
+	  - Code général des collectivités territoriales - art. L5216-5
+	  - Code général des collectivités territoriales - art. L5217-2
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. L163-10 (Ab)
 	  - Code du tourisme. - art. L163-3 (M)
+
+
+###### Article L134-1-1
+
+Les communautés urbaines, les métropoles et la métropole de Lyon exercent de plein droit, en lieu et place des communes
+membres, la compétence promotion du tourisme, dont la création d'offices de tourisme au sens du 1° du I de l'article L.
+5215-20, du 2° du I de l'article L. 5215-20-1, du 1° du I de l'article L. 5217-2 et du 1° du I de l'article L. 3641-1 du code
+général des collectivités territoriales. 
+
+Dans les conditions prévues à l'article L. 134-5, les communautés urbaines, les métropoles et la métropole de Lyon peuvent
+créer un ou plusieurs offices de tourisme sur tout ou partie de leur territoire. 
+
+Les périmètres de compétence de chaque office de tourisme ne peuvent se superposer. 
+
+Lorsqu'il est institué un office de tourisme unique compétent sur l'ensemble du territoire des communautés urbaines, des
+métropoles ou de la métropole de Lyon, celui-ci prend la dénomination de “ office de tourisme métropolitain ” ou de “ office
+de tourisme communautaire ” et exerce la compétence mentionnée au premier alinéa. 
+
+Les communautés urbaines, les métropoles ou la métropole de Lyon se prononcent sur le maintien des offices de tourisme
+existants dans le délai de six mois à compter de la date à laquelle ils leur sont rattachés. En cas de maintien, la
+délibération de l'organe délibérant des communautés urbaines, des métropoles ou de la métropole de Lyon fixe les modalités
+d'organisation des offices de tourisme concernés dans les conditions prévues à l'article L. 134-5. 
+
+Tout office de tourisme institué par une commune touristique ou une station classée de tourisme est transformé en bureau
+d'information mentionné à l'article L. 133-3-1 lorsqu'il lui est substitué un nouvel office de tourisme exerçant ses
+compétences sur un territoire élargi à d'autres communes membres. Cette disposition ne s'applique pas lorsque le siège de
+l'office de tourisme de substitution est fixé sur le territoire de la commune touristique ou de la station classée de
+tourisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3641-1
+	  - Code général des collectivités territoriales - art. L5215-20
+	  - Code général des collectivités territoriales - art. L5215-20-1
+	  - Code général des collectivités territoriales - art. L5217-2
+	  - Code du tourisme. - art. L133-3-1
+	  - Code du tourisme. - art. L134-5
 
 
 ###### Article L134-2
@@ -1298,17 +1351,10 @@ communes en vue d'obtenir la création d'une station intercommunale.
 
 ###### Article L134-5
 
-Un groupement de communes peut, par délibération de l'organe délibérant, instituer un organisme chargé de la promotion du
-tourisme, dénommé office de tourisme, dans les conditions prévues aux articles L. 133-2 à L. 133-10-1.
-
-Dans les mêmes conditions, plusieurs groupements de communes désirant s'associer pour la promotion du tourisme peuvent créer
-un syndicat mixte en vue d'instituer un office de tourisme.
+Dans les conditions prévues aux articles L. 133-2 à L. 133-10-1, plusieurs groupements de communes désirant s'associer pour
+la promotion du tourisme peuvent instituer un office de tourisme par délibérations concordantes de leurs organes délibérants.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 6
 
 	**Cité par**:
 
@@ -1318,9 +1364,13 @@ un syndicat mixte en vue d'instituer un office de tourisme.
 	  - Code du tourisme. - art. L151-4 (V)
 	  - Code général des collectivités territoriales - art. L4424-32 (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L133-2 (V)
+	  - Code du tourisme. - art. L133-2
 
 
 ##### Sous-section 2 : Dispositions particulières applicables aux offices de tourisme intercommunaux constitués sous la forme d'un établissement public industriel et commercial.
@@ -1421,7 +1471,7 @@ lorsqu'ils deviennent le siège de l'office ainsi créé.
 
 Le groupement d'intérêt économique " Atout France, agence de développement touristique de la France ”, placé sous la tutelle
 du ministre chargé du tourisme, est soumis aux dispositions du présent article et de l'article L. 141-3 et, en tant qu'elles
-n'y sont pas contraires, aux dispositions du chapitre Ier du titre V du livre II du code de commerce.
+n'y sont pas contraires, aux dispositions du chapitre Ier du titre V du livre II du code de commerce. 
 
 L'agence poursuit un triple objectif de promotion du tourisme en France, de réalisation d'opérations d'ingénierie touristique
 et de mise en œuvre d'une politique de compétitivité et de qualité des entreprises du secteur. Elle définit la stratégie
@@ -1443,19 +1493,19 @@ marchands concernés, à l'exception des meublés de tourisme ;
 produire des études, notamment prospectives, sur l'offre et la demande dans les filières et les territoires touristiques,
 diffuser le résultat de ses travaux par tous moyens qu'elle juge appropriés ; 
 
-― concevoir et tenir à jour les tableaux de classement des offices de tourisme, des hôtels, des résidences de tourisme, des
-meublés de tourisme, des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage
-et des parcs résidentiels de loisirs, et diffuser librement et gratuitement la liste des hébergements classés, à l'exception
-des meublés de tourisme.
+― concevoir et tenir à jour les tableaux de classement     des hôtels, des résidences de tourisme, des meublés de tourisme,
+des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage et des parcs
+résidentiels de loisirs, et diffuser librement et gratuitement la liste des hébergements classés, à l'exception des meublés
+de tourisme. 
 
 L'Etat, les collectivités territoriales ainsi que leurs établissements publics peuvent par convention confier à l'agence
-d'autres missions d'intérêt général compatibles avec son objet.
+d'autres missions d'intérêt général compatibles avec son objet. 
 
-L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à  l'article L. 211-1.
+L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à l'article L. 211-1. 
 
 Elle comprend également une commission de l'hébergement touristique marchand. Les missions, les conditions de fonctionnement
 et les modalités de participation des organismes représentatifs du secteur de l'hébergement touristique aux travaux de cette
-commission sont déterminées par décret.
+commission sont déterminées par décret. 
 
 L'agence assure sa représentation au niveau territorial en s'appuyant, le cas échéant, sur des structures existantes. 
 
@@ -1463,22 +1513,17 @@ Les collectivités territoriales, leurs établissements publics et les organisme
 l'agence de développement touristique de la France. 
 
 Un commissaire du Gouvernement est désigné auprès de l'agence. Sa mission et les modalités de sa désignation sont fixées par
-décret en Conseil d'Etat.
+décret en Conseil d'Etat. 
 
 L'agence est soumise au contrôle économique et financier de l'Etat, sans préjudice des dispositions de l'article L. 251-12 du
 code de commerce. 
 
 Le contrat constitutif de l'agence de développement touristique de la France est approuvé par arrêté du ministre chargé du
-tourisme.
+tourisme. 
 
 Le directeur général de l'agence, nommé par le ministre chargé du tourisme sur proposition du conseil d'administration,
 assure, sous l'autorité de ce conseil et de son président, le fonctionnement du groupement. Dans les rapports avec les tiers,
 le directeur général engage le groupement pour tout acte entrant dans l'objet de celui-ci.
-
-**Nota:**
-
-Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
-vigueur à la date fixée au paragraphe I du même article.
 
 **Liens relatifs à cet article**
 
@@ -1594,7 +1639,7 @@ vigueur à la date fixée au paragraphe I du même article.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
 
 	**Cite**:
 
@@ -1615,13 +1660,17 @@ Tout membre de la commission informe le président des intérêts qu'il détient
 économique. 
 
 Aucun membre de la commission ne peut délibérer dans une affaire à laquelle il a un intérêt personnel et direct ou s'il
-représente ou a représenté une des parties intéressées.
+représente ou a représenté une des parties intéressées. 
 
-L'immatriculation, renouvelable tous les trois ans, est subordonnée au paiement préalable, auprès de l'agence, de frais
-d'immatriculation fixés par arrêté du ministre chargé du tourisme dans la limite d'une somme fixée par décret. Ces frais
-d'immatriculation sont recouvrés par l'agence. Leur paiement intervient au moment du dépôt de la demande d'immatriculation ou
-de la demande de renouvellement. Le produit résultant du paiement des frais d'immatriculation est exclusivement affecté au
-financement de la tenue du registre. 
+L'immatriculation, renouvelable tous les trois ans, est subordonnée au paiement préalable, auprès de l'organisme mentionné à
+l'article L. 141-2, de frais d'immatriculation fixés par arrêté du ministre chargé du tourisme dans la limite de 150 €. Ces
+frais d'immatriculation sont recouvrés par l'organisme mentionné à l'article L. 141-2. Leur paiement intervient au moment du
+dépôt du dossier complet de la demande d'immatriculation ou de la demande de renouvellement. 
+
+Le produit résultant du paiement des frais d'immatriculation est exclusivement affecté au financement de la tenue du
+registre. L'ensemble des opérations liées au recouvrement des frais d'immatriculation et à leur affectation fait l'objet
+d'une comptabilité distincte tenue par l'organisme mentionné à l'article L. 141-2. Les contestations relatives aux frais
+d'immatriculation sont présentées, instruites et jugées selon les règles applicables en matière d'imposition directe. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il précise notamment les conditions
 d'immatriculation et de radiation sur le registre. Il détermine les informations qui doivent être rendues publiques, ainsi
@@ -1629,11 +1678,6 @@ que celles qui sont librement et à titre gratuit accessibles au public par voie
 d'indépendance et d'impartialité des membres de la commission chargée des immatriculations au registre, notamment celles de
 son président, ainsi que la durée de leur mandat et détermine les modalités de la tenue du registre dans des conditions
 objectives, transparentes et non discriminatoires.
-
-**Nota:**
-
-Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
-vigueur à la date fixée au paragraphe I du même article.
 
 **Liens relatifs à cet article**
 
@@ -1670,7 +1714,11 @@ vigueur à la date fixée au paragraphe I du même article.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L211-1
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
@@ -2059,25 +2107,6 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 #### Chapitre 3 : Dispositions relatives à Mayotte.
 
-###### Article L163-1
-
-Les titres Ier et II du présent livre sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-	**Modifié par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 4
-
-
 ###### Article L163-2
 
 La collectivité départementale définit les actions qu'elle entend mener en matière de tourisme et de loisirs, après avis ou
@@ -2263,42 +2292,6 @@ Le comité du tourisme de Mayotte soumet annuellement son rapport financier au c
 	**Créé par**:
 
 	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
-
-
-###### Article L163-10
-
-Les articles L. 133-1 à L. 141-1 sont applicables à Mayotte dans les conditions suivantes : 
-
-1° Pour l'application de l'article L. 134-1, la référence à l'article L. 5215-20-1 du code général des collectivités
-territoriales n'est pas applicable à Mayotte et l'article L. 5216-5 du même code est applicable à Mayotte dans les conditions
-prévues à l'article L. 5832-21 du même code ; 
-
-2° Pour l'application de l'article L. 134-2, le 2° du I de l'article L. 5214-16 du code général des collectivités
-territoriales est applicable à compter de la date d'entrée en vigueur à Mayotte du code général des impôts prévue par
-l'article 68 de la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 68
-	  - Code général des collectivités territoriales - art. L5214-16
-	  - Code général des collectivités territoriales - art. L5216-5
-	  - Code du tourisme. - art. L133-1
-	  - Code du tourisme. - art. L134-1
-	  - Code du tourisme. - art. L134-2
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1391 du 20 décembre 2004
-
-	**Créé par**:
-
-	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 4
 
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME
@@ -6030,34 +6023,55 @@ ayant le même objet.
 
 ###### Article L363-1
 
-Les dispositions des titres Ier à III du présent livre sont applicables dans les conditions suivantes : 
+Les dispositions    des titres Ier à III et du titre VII du présent livre sont applicables dans les conditions suivantes : 
 
 1° Pour l'application de l'article L. 313-1, les articles L. 3331-1, L. 3331-2, L. 3332-11, L. 3335-3 et L. 3335-4 du code de
 la santé publique sont respectivement remplacés par les articles L. 3813-12, L. 3813-13, 
 L. 3813-26, L. 3813-35 et L. 3813-36 du même code ; 
 
-2° Les articles du code de l'environnement mentionnés dans le présent livre sont applicables dans les conditions prévues par
-le droit applicable à Mayotte ; 
-
-3° Les articles du code de l'urbanisme mentionnés dans le présent livre sont applicables dans les conditions prévues par le
-droit applicable à Mayotte.
+2° Les dispositions du code de la construction et de l'habitation mentionnées dans le présent livre sont applicables dans les
+conditions prévues par le droit applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 18 (V) JORF 15 avril 2006
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 4
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L3813-12 (V)
-	  - Code de la santé publique - art. L3813-26 (V)
-	  - Code de la santé publique - art. L3813-35 (V)
-	  - Code du tourisme. - art. L313-1 (V)
+	  - Code de la santé publique - art. L3813-12
+	  - Code de la santé publique - art. L3813-26
+	  - Code de la santé publique - art. L3813-35
+	  - Code du tourisme. - art. L313-1
+
+
+### TITRE VII : DISPOSITIONS COMMUNES 
+
+###### Article L371-1
+
+Les  diagnostics, études et travaux rendus obligatoires dans les  hébergements touristiques marchands existants, pour des
+motifs autres  que la sécurité, la santé publique et l'accessibilité, peuvent être  réalisés dans un délai de six ans à
+compter de l'entrée en vigueur des  dispositions législatives ou réglementaires les prescrivant, lorsque  l'échéance maximale
+prévue par celles-ci est inférieure. 
+
+L'alinéa précédent n'est pas applicable lorsque l'échéance de réalisation : 
+
+- est imposée par une norme internationale ou de droit de l'Union européenne ; 
+
+- est antérieure au 31 mars 2015 ; 
+
+- est prescrite par une disposition entrant en vigueur après le 31 mars 2021.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 2
 
 
 ## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.
@@ -6071,16 +6085,17 @@ droit applicable à Mayotte.
 ###### Article L411-1
 
 Les salariés des entreprises, sociétés et organismes soumis aux dispositions des articles L. 3141-1 et L. 3141-2 du code du
-travail, des 3° et 4° de l'article L. 5424-1 et de l'article L. 5423-3 du même code, les chefs d'entreprise de moins de
-cinquante salariés, leurs conjoints, leurs concubins ou leurs partenaires liés à eux par un pacte civil de solidarité ainsi
-que les personnes à leur charge, telles qu'elles sont définies aux articles 6 et 196 du code général des impôts, peuvent,
-avec la contribution de leur employeur, acquérir des titres nominatifs appelés chèques-vacances.
+travail, des 3° et 4° de l'article L. 5424-1 et de l'         article L. 5423-3 du même code, les salariés des particuliers
+employeurs, les chefs d'entreprise de moins de cinquante salariés, leurs conjoints, leurs concubins ou leurs partenaires liés
+à eux par un pacte civil de solidarité ainsi que les personnes à leur charge, telles qu'elles sont définies aux articles 6 et
+196 du code général des impôts, peuvent, avec la contribution de leur employeur, acquérir des titres nominatifs appelés
+chèques-vacances.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cite**:
 
@@ -6092,6 +6107,7 @@ avec la contribution de leur employeur, acquérir des titres nominatifs appelés
 
 	**Cité par**:
 
+	  - Code du tourisme. - art. L411-5 (V)
 	  - Code du tourisme. - art. L411-6 (V)
 	  - Code du tourisme. - art. L411-8 (V)
 	  - Code du tourisme. - art. R411-19 (V)
@@ -6099,9 +6115,9 @@ avec la contribution de leur employeur, acquérir des titres nominatifs appelés
 
 ###### Article L411-2
 
-Ces chèques-vacances peuvent être remis en paiement des dépenses effectuées sur le territoire national aux collectivités
-publiques et aux prestataires de services agréés par les bénéficiaires pour leurs vacances, pour les transports en commun,
-leur hébergement, leurs repas, leurs activités de loisirs. 
+Les chèques-vacances peuvent être remis aux collectivités publiques et aux prestataires de services conventionnés en paiement
+des dépenses effectuées sur le territoire national par les bénéficiaires pour leurs vacances, pour les transports, leur
+hébergement, leurs repas ou leurs activités de loisirs. 
 
 Les chèques-vacances peuvent également être remis en paiement des dépenses effectuées sur le territoire des Etats membres de
 l'Union européenne aux prestataires qui ont signé, selon les conditions fixées par décret, des conventions avec
@@ -6109,15 +6125,9 @@ l'établissement public institué par l'article L. 411-13.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 2 et 3
-	  - Ordonnance 82-283 1982-03-26 art. 1, al
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Cité par**:
 
@@ -6127,6 +6137,10 @@ l'établissement public institué par l'article L. 411-13.
 	  - Code du tourisme. - art. R411-17 (V)
 	  - Code du tourisme. - art. R411-26 (M)
 	  - Code du tourisme. - art. R411-7 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 
 ###### Article L411-3
@@ -6162,25 +6176,28 @@ la qualité de leurs services.
 
 ###### Article L411-5
 
-L'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances par les salariés est exonéré de
-l'impôt sur le revenu, dans la limite du salaire minimum de croissance apprécié sur une base mensuelle.
+L'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances par les bénéficiaires mentionnés
+à l'article L. 411-1 est exonéré de l'impôt sur le revenu, dans la limite du salaire minimum de croissance apprécié sur une
+base mensuelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 1
-	  - Ordonnance 82-283 1982-03-26 art. 2, II al
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 2, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 (VT)
 	  - Code du tourisme. - art. L411-6 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L411-1 (V)
 
 
 ###### Article L411-6
@@ -6207,66 +6224,47 @@ conditions et limites fixées par les articles L. 411-9 et L. 411-10.
 	  - Code du tourisme. - art. L411-9 (V)
 
 
-###### Article L411-7
-
-Les chèques-vacances sont dispensés du timbre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - 3
-	  - Ordonnance 82-283 1982-03-26 art. 2, II al
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 2, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1391 du 20 décembre 2004
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
-
-
 ###### Article L411-8
 
 L'employeur, après consultation du comité d'entreprise ou, à défaut, des délégués du personnel ou de toute autre instance de
 concertation ayant compétence en matière d'oeuvres sociales, définit, sous réserve des dispositions du 2° de l'article L.
-411-10, les modalités de l'attribution éventuelle de chèques-vacances à ses salariés.
+411-10, les modalités de l'attribution éventuelle de chèques-vacances aux bénéficiaires mentionnés à l'article L. 411-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cite**:
 
+	  - Code du tourisme. - art. L411-1
 	  - Code du tourisme. - art. L411-10
 
 
 ###### Article L411-9
 
 Dans les entreprises de moins de cinquante salariés, dépourvues de comité d'entreprise et qui ne relèvent pas d'un organisme
-paritaire mentionné à l'article L. 411-20, l'avantage résultant de la contribution de l'employeur à l'acquisition des
-chèques-vacances par les salariés est exonéré des cotisations et contributions prévues par la législation du travail et de la
-sécurité sociale, à l'exception de la contribution sociale généralisée et de la contribution pour le remboursement de la
-dette sociale. Le montant de l'avantage donnant droit à exonération, qui ne peut excéder les plafonds fixés au dernier alinéa
-de l'article L. 411-11, est limité, par salarié et par an, à 30 % du salaire minimum de croissance apprécié sur une base
-mensuelle. Lorsqu'un redressement de cotisations sociales a pour origine la mauvaise application de cette exonération, ce
-redressement ne porte que sur la fraction des cotisations et contributions indûment exonérées ou réduites, sauf en cas de
-mauvaise foi ou d'agissements répétés du cotisant.
+paritaire mentionné à l'article L. 411-20, et pour ce qui concerne le particulier employeur,  l'avantage résultant de la
+contribution de l'employeur à l'acquisition des chèques-vacances par les bénéficiaires mentionnés à l'article L. 411-1  est
+exonéré des cotisations et contributions prévues par la législation du travail et de la sécurité sociale, à l'exception de la
+contribution sociale généralisée et de la contribution pour le remboursement de la dette sociale. Le montant de l'avantage
+donnant droit à exonération, qui ne peut excéder les plafonds fixés au dernier alinéa de l'article L. 411-11, est limité, par
+bénéficiaire  et par an, à 30 % du salaire minimum de croissance apprécié sur une base mensuelle. Lorsqu'un redressement de
+cotisations sociales a pour origine la mauvaise application de cette exonération, ce redressement ne porte que sur la
+fraction des cotisations et contributions indûment exonérées ou réduites, sauf en cas de mauvaise foi ou d'agissements
+répétés du cotisant.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L137-15 (V)
-	  - Code du tourisme. - art. L411-10 (M)
+	  - Code du tourisme. - art. L411-10 (V)
 	  - Code du tourisme. - art. L411-6 (V)
 
 	**Cite**:
@@ -6285,28 +6283,28 @@ rémunérations sont les plus faibles ;
 2° Le montant de la contribution de l'employeur et les modalités de son attribution, notamment la modulation définie
 conformément au 1° ci-dessus, font l'objet soit d'un accord collectif de branche au niveau national, régional ou local
 prévoyant des modalités de mise en oeuvre dans les entreprises de moins de cinquante salariés, soit d'un accord conclu dans
-les conditions prévues à l'article L. 132-30 du code du travail, soit d'un accord d'entreprise conclu avec un ou plusieurs
-délégués du personnel désignés comme délégués syndicaux ou, en l'absence d'une telle représentation syndicale et d'un accord
-collectif de branche, d'une proposition du chef d'entreprise soumise à l'ensemble des salariés ; 
+les conditions prévues aux articles L. 2234-1 à L. 2234-3 du code du travail, soit d'un accord d'entreprise conclu avec un ou
+plusieurs délégués du personnel désignés comme délégués syndicaux ou, en l'absence d'une telle représentation syndicale et
+d'un accord collectif de branche, d'une proposition du chef d'entreprise soumise à l'ensemble des salariés ; 
 
-3° La contribution de l'employeur ne se substitue à aucun élément faisant partie de la rémunération versée dans l'entreprise,
-au sens de l'article L. 242-1 du code de la sécurité sociale, ou prévu pour l'avenir par des stipulations contractuelles
-individuelles ou collectives.
+3° La contribution de l'employeur ne se substitue à aucun élément faisant partie de la rémunération, au sens de l'article L.
+242-1 du code de la sécurité sociale, ou prévu pour l'avenir par des stipulations contractuelles individuelles ou
+collectives.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 82-283 1982-03-26 art. 2-1, II
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 2-1 (M)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L242-1 (V)
+	  - Code du travail - art. L2234-1
+	  - Code de la sécurité sociale. - art. L242-1
 	  - Code du tourisme. - art. L411-9 (V)
 
 	**Cité par**:
@@ -6354,8 +6352,8 @@ troisième mois suivant l'expiration de leur période de validité seront périm
 Leur contre-valeur sera affectée au bénéfice de catégories sociales défavorisées notamment sous la forme de bourses de
 vacances.
 
-Le salarié titulaire de chèques-vacances peut, sur sa demande motivée, obtenir le remboursement immédiat de sa contribution à
-l'achat de ces titres.
+Le bénéficiaire peut, sur sa demande motivée présentée avant l'émission des titres, obtenir le remboursement de sa
+contribution à l'achat de ces derniers auprès de l'organisme qui se propose de les lui attribuer.
 
 **Liens relatifs à cet article**
 
@@ -6365,12 +6363,16 @@ l'achat de ces titres.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Cité par**:
 
 	  - Arrêté du 11 avril 2007 - art. 3 (T)
 	  - Code du tourisme. - art. R411-22 (M)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 
 ##### Section 2 : Agence nationale pour les chèques-vacances
@@ -6421,21 +6423,25 @@ notamment par des aides destinées aux équipements de tourisme et de loisirs à
 
 ###### Article L411-14
 
-L'agence a pour mission de gérer et développer le dispositif des chèques-vacances dans les entreprises. Elle concourt à la
-mise en œuvre des politiques sociales du tourisme. 
+L'agence est habilitée à exercer toutes activités qui se rattachent directement ou indirectement à sa mission de gérer et
+développer le dispositif des chèques-vacances. Elle concourt à la mise en œuvre des politiques sociales du tourisme. 
 
 L'agence conclut des conventions avec des prestataires afin d'assurer la promotion et la commercialisation des chèques-
 vacances dans les entreprises de moins de cinquante salariés. 
 
 Conformément aux orientations définies par son conseil d'administration, elle attribue des aides à vocation sociale en faveur
 des actions relatives aux équipements de tourisme et de loisirs ainsi qu'en faveur des actions contribuant à l'accès de tous
-aux vacances.
+aux vacances. 
+
+Elle assure la promotion du dispositif des chèques-vacances à l'international en exportant son savoir-faire auprès des pays
+qui la sollicitent pour créer ou gérer un système de chèques-vacances et en répondant aux appels d'offres lui permettant de
+réaliser des opérations d'ingénierie touristique. Ces prestations sont rétribuées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 30
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cité par**:
 
@@ -6566,22 +6572,22 @@ caisses de mutualité sociale agricole, les centres communaux d'action sociale, 
 d'entreprise, les mutuelles ou les services sociaux de l'Etat, des collectivités publiques ou de leurs établissements
 publics, peuvent être versées sous forme de chèques-vacances. 
 
-Les aides aux vacances attribuées, le cas échéant, par les centres d'aide par le travail mentionnés à l'article L. 344-2 du
-code de l'action sociale et des familles peuvent être versées sous forme de chèques-vacances.
+Les aides aux vacances attribuées, le cas échéant, par les établissements mentionnés à l'article L. 344-2 du code de l'action
+sociale et des familles peuvent être versées sous forme de chèques-vacances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 6, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L344-2 (V)
+	  - Code de l'action sociale et des familles - art. L344-2
 
 	**Cité par**:
 
@@ -6616,23 +6622,21 @@ organismes.
 
 Peuvent également être versées sous forme de chèques-vacances les aides aux vacances accordées par tout organisme paritaire
 de gestion d'une ou plusieurs activités sociales, dont la création et les principes de fonctionnement sont prévus par un
-accord collectif de branche, ou territorial, conclu conformément aux articles L. 132-1 et suivants du code du travail.
+accord collectif de branche, ou territorial, conclu conformément aux articles L. 2221-1 et suivants du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 3
-	  - Ordonnance 82-283 1982-03-26 art. 6, al
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 6, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - Code du travail - art. L132-1 (M)
+	  - Code du travail - art. L2221-1
 
 	**Cité par**:
 
@@ -6643,7 +6647,8 @@ accord collectif de branche, ou territorial, conclu conformément aux articles L
 
 Des décrets en Conseil d'Etat fixent, en tant que de besoin, les conditions d'application des dispositions du présent
 chapitre et, en particulier, la composition de l'établissement mentionné à l'article L. 411-13, les modalités de son
-organisation, de son fonctionnement et de son contrôle ainsi que les conditions d'agrément des prestataires de services.
+organisation, de son fonctionnement et de son contrôle ainsi que les conditions de conventionnement avec  des prestataires de
+services.
 
 **Liens relatifs à cet article**
 
@@ -6653,11 +6658,15 @@ organisation, de son fonctionnement et de son contrôle ainsi que les conditions
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L411-13 (V)
+	  - Code du tourisme. - art. L411-13
 
 
 #### Chapitre 2 : Agrément d'organismes ou de personnes physiques concourant au tourisme social.
