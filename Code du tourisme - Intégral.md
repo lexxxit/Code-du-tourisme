@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-03-28
+Version Consolidée au 2015-04-01
 
 # Partie législative
 
@@ -13094,6 +13094,14 @@ défini au présent article pour ce type de classement et comportant une obligat
 locaux d'habitation meublés qui ne saurait être inférieure à neuf ans, les copropriétaires ou les associés des sociétés
 d'attribution pouvant bénéficier d'une réservation prioritaire ; 
 
+A titre dérogatoire, l'obligation durable de location d'au moins 70 % des locaux d'habitation meublés est fixée à 55 % pour :
+
+- les résidences de tourisme exploitées depuis plus de neuf ans, dont le classement est arrivé à échéance à la date d'entrée
+en vigueur du décret n° 2015-298 du 16 mars 2015 modifiant les conditions de classement des résidences de tourisme ;
+
+- les établissements non classés répondant aux caractéristiques fixées à l'article D. 321-1, exploités depuis plus de neuf
+ans. 
+
 2° Une gestion assurée pour l'ensemble de la résidence de tourisme par une seule personne physique ou morale, liée par un
 contrat de louage ou mandat aux copropriétaires ou associés des sociétés d'attribution.
 
@@ -13101,13 +13109,10 @@ contrat de louage ou mandat aux copropriétaires ou associés des sociétés d'a
 
 	**Cite**:
 
-	  - Loi n°65-557 du 10 juillet 1965 (V)
-	  - Loi n°86-18 du 6 janvier 1986 (V)
-	  - Loi n°86-18 du 6 janvier 1986 - art. 8 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-759 du 6 juillet 2010 - art. 1 (V)
+	  - Loi n°65-557 du 10 juillet 1965
+	  - Loi n°86-18 du 6 janvier 1986
+	  - Loi n°86-18 du 6 janvier 1986 - art. 8
+	  - Code du tourisme. - art. D321-1
 
 	**Cité par**:
 
@@ -13115,6 +13120,10 @@ contrat de louage ou mandat aux copropriétaires ou associés des sociétés d'a
 	  - Code du tourisme. - art. D321-2-1 (VD)
 	  - Code du tourisme. - art. R363-4 (Ab)
 	  - Code du tourisme. - art. R363-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-298 du 16 mars 2015 - art. 1
 
 
 ###### Article D321-2-1
