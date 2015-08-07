@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-05-17
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -3355,7 +3355,9 @@ dispositions ayant le même objet applicables localement.
 
 #### Chapitre 1er : Hôtels
 
-##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie
+##### Section 1 : Des contrats relatifs à l'hôtellerie
+
+##### Sous-section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie
 
 ###### Article L311-1
 
@@ -3388,27 +3390,19 @@ d'immeubles.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 10
-
-	**Cite**:
-
-	  - Code de commerce - art. L720-5
+	  - DEPLACE: Loi n°2015-990 du 6 août 2015 - art. 133
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. L311-2 (V)
 	  - Code du tourisme. - art. L311-3 (V)
 	  - Code du tourisme. - art. L311-4 (V)
-	  - Code du tourisme. - art. L311-5 (VD)
+	  - Code du tourisme. - art. L311-5 (V)
 	  - Code du tourisme. - art. L361-1 (V)
 	  - Code du tourisme. - art. L362-1 (V)
 	  - Code du tourisme. - art. R311-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. L311-2 (VT)
 
 
 ###### Article L311-2
@@ -3424,11 +3418,10 @@ accord.
 	**Anciens textes**:
 
 	  - Loi n°64-645 du 1 juillet 1964 - art. 1 (Ab)
-	  - Code du tourisme. - art. L311-3 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 10
+	  - DEPLACE: Loi n°2015-990 du 6 août 2015 - art. 133
 
 	**Cite**:
 
@@ -3436,7 +3429,7 @@ accord.
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L311-3 (VD)
+	  - Code du tourisme. - art. L311-3 (V)
 	  - Code du tourisme. - art. L311-4 (VT)
 	  - Code du tourisme. - art. L311-5 (VT)
 	  - Code du tourisme. - art. L311-6 (M)
@@ -3456,16 +3449,15 @@ L. 311-1.
 	**Anciens textes**:
 
 	  - Loi n°64-645 du 1 juillet 1964 - art. 2 (Ab)
-	  - Code du tourisme. - art. L311-4 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 10
+	  - DEPLACE: Loi n°2015-990 du 6 août 2015 - art. 133
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L311-1
-	  - Code du tourisme. - art. L311-2
+	  - Code du tourisme. - art. L311-2 (V)
 
 	**Cité par**:
 
@@ -3487,11 +3479,10 @@ l'article L. 311-1.
 	**Anciens textes**:
 
 	  - Loi n°64-645 du 1 juillet 1964 - art. 3 (Ab)
-	  - Code du tourisme. - art. L311-5 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 10
+	  - DEPLACE: Loi n°2015-990 du 6 août 2015 - art. 133
 
 	**Cite**:
 
@@ -3510,16 +3501,111 @@ suspensives de cette exécution.
 	**Anciens textes**:
 
 	  - Loi n°64-645 du 1 juillet 1964 - art. 4 (Ab)
-	  - Code du tourisme. - art. L311-6 (M)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 10
+	  - DEPLACE: Loi n°2015-990 du 6 août 2015 - art. 133
 
 	**Cite**:
 
 	  - Code de commerce - art. L145-56
-	  - Code du tourisme. - art. L311-1
+	  - Code du tourisme. - art. L311-1 (V)
+
+
+##### Sous-section 2 : Des rapports entre hôteliers et plateformes de réservation en ligne
+
+###### Article L311-5-1
+
+Le contrat entre un hôtelier et une personne physique ou morale exploitant une plateforme de réservation en ligne portant sur
+la location de chambres d'hôtel aux clients ne peut être conclu qu'au nom et pour le compte de l'hôtelier et dans le cadre
+écrit du contrat de mandat mentionné aux articles 1984 et suivants du code civil. 
+
+Nonobstant le premier alinéa du présent article, l'hôtelier conserve la liberté de consentir au client tout rabais ou
+avantage tarifaire, de quelque nature que ce soit, toute clause contraire étant réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 133
+
+	**Cite**:
+
+	  - Code civil - art. 1984 (V)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L311-5-2 (V)
+	  - Code du tourisme. - art. L311-5-3 (V)
+
+
+###### Article L311-5-2
+
+Le contrat prévu à l'article L. 311-5-1 fixe les conditions de rémunération du mandataire ainsi que les prix de la location
+des chambres et de tout autre service. 
+
+La rémunération du mandataire est déterminée librement entre l'hôtelier et la plateforme de réservation en ligne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 133
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L311-5-1 (V)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L311-5-3 (V)
+
+
+###### Article L311-5-3
+
+Est puni d'une amende de 30 000 €, pouvant être portée à 150 000 € s'il s'agit d'une personne morale, le fait pour le
+représentant légal de la plateforme de réservation en ligne d'opérer sans contrat conclu conformément à l'article L.
+311-5-1. 
+
+Le non-respect de l'article L. 311-5-2 est puni d'une amende de 7 500 €, pouvant être portée à 30 000 € pour une personne
+morale. 
+
+Les infractions précitées sont constatées par les agents mentionnés à l'
+article L. 450-1 du code de commerce 
+et dans les conditions prévues au même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 133
+
+	**Cite**:
+
+	  - Code de commerce - art. L450-1
+	  - Code du tourisme. - art. L311-5-1 (V)
+	  - Code du tourisme. - art. L311-5-2 (V)
+
+
+###### Article L311-5-4
+
+La présente sous-section s'applique quel que soit le lieu d'établissement de la plateforme de réservation en ligne dès lors
+que la location est réalisée au bénéfice d'un hôtel établi en France.
+
+Les contrats entre hôteliers et plateformes de réservation en ligne conclus avant la publication de la 
+loi n° 2015-990 du 6 août 2015
+ pour la croissance, l'activité et l'égalité des chances économiques cessent de produire leurs effets dès l'entrée en vigueur
+de la même loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2015-990 du 6 août 2015
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 133
 
 
 ##### Section 2 : Classement
