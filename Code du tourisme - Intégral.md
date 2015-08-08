@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-09
 
 # Partie législative
 
@@ -516,29 +516,37 @@ plénière.
 Une commune peut, par délibération du conseil municipal, instituer un organisme chargé de la promotion du tourisme, dénommé
 office de tourisme, dans les conditions prévues aux articles L. 133-2 à L. 133-10 du présent code.
 
+Lorsque coexistent sur le territoire d'une même commune ou d'un même établissement public de coopération intercommunale à
+fiscalité propre plusieurs marques territoriales protégées distinctes par leur situation, leur appellation ou leur mode de
+gestion, la commune est autorisée à créer un office de tourisme pour chacun des sites disposant d'une marque territoriale
+protégée.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-1341 1992-12-23 art. 10
 	  - Loi n°92-1341 du 23 décembre 1992 - art. 10 (MMN)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2010 - art. 4 (V)
 	  - Code du tourisme. - art. D133-20 (V)
 	  - Code du tourisme. - art. L151-4 (V)
-	  - Code du tourisme. - art. L162-2 (M)
+	  - Code du tourisme. - art. L162-2 (V)
 	  - Code du tourisme. - art. L163-10 (Ab)
 	  - Code général des collectivités territoriales - art. L4424-32 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L133-2 (V)
+	  - Code du tourisme. - art. L133-2
 
 
 ###### Article L133-2
@@ -1187,11 +1195,13 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 
 ###### Article L134-1
 
-Les communautés urbaines, les communautés d'agglomération, les métropoles et la métropole de Lyon exercent de plein droit, en
-lieu et place des communes membres, les compétences en matière de développement économique, notamment création, aménagement,
-entretien et gestion de zones d'activité touristique qui sont d'intérêt communautaire au sens du 1° du I de l'article L.
-5215-20, du 2° du I de l'article L. 5215-20-1, du 1° du I de l'article L. 5216-5, du 1° du I de l'article L. 5217-2 et du 1°
-du I de l'article L. 3641-1 du code général des collectivités territoriales.
+La communauté de communes, la communauté d'agglomération, la communauté urbaine, la métropole ou la métropole de Lyon exerce
+de plein droit, en lieu et place de ses communes membres, dans les conditions prévues, respectivement, aux articles L.
+5214-16, L. 5216-5, L. 5215-20 et L. 5215-20-1, L. 5217-2 et L. 3641-1 du code général des collectivités territoriales :
+
+1° La compétence en matière de création, d'aménagement, d'entretien et de gestion de zones d'activité touristique ;
+
+2° La compétence en matière de promotion du tourisme, dont la création d'offices de tourisme.
 
 **Liens relatifs à cet article**
 
@@ -1201,12 +1211,13 @@ du I de l'article L. 3641-1 du code général des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
+	  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3641-1
-	  - Code général des collectivités territoriales - art. L5215-20
+	  - Code général des collectivités territoriales - art. L3641-1 (VD)
+	  - Code général des collectivités territoriales - art. L5214-16
+	  - Code général des collectivités territoriales - art. L5215-20 (M)
 	  - Code général des collectivités territoriales - art. L5215-20-1
 	  - Code général des collectivités territoriales - art. L5216-5
 	  - Code général des collectivités territoriales - art. L5217-2
@@ -1219,11 +1230,6 @@ du I de l'article L. 3641-1 du code général des collectivités territoriales.
 
 ###### Article L134-1-1
 
-Les communautés urbaines, les métropoles et la métropole de Lyon exercent de plein droit, en lieu et place des communes
-membres, la compétence promotion du tourisme, dont la création d'offices de tourisme au sens du 1° du I de l'article L.
-5215-20, du 2° du I de l'article L. 5215-20-1, du 1° du I de l'article L. 5217-2 et du 1° du I de l'article L. 3641-1 du code
-général des collectivités territoriales. 
-
 Dans les conditions prévues à l'article L. 134-5, les communautés urbaines, les métropoles et la métropole de Lyon peuvent
 créer un ou plusieurs offices de tourisme sur tout ou partie de leur territoire. 
 
@@ -1231,7 +1237,7 @@ Les périmètres de compétence de chaque office de tourisme ne peuvent se super
 
 Lorsqu'il est institué un office de tourisme unique compétent sur l'ensemble du territoire des communautés urbaines, des
 métropoles ou de la métropole de Lyon, celui-ci prend la dénomination de “ office de tourisme métropolitain ” ou de “ office
-de tourisme communautaire ” et exerce la compétence mentionnée au premier alinéa. 
+de tourisme communautaire ” et exerce la compétence mentionnée au 2° de l'article L. 134-1 du présent code. 
 
 Les communautés urbaines, les métropoles ou la métropole de Lyon se prononcent sur le maintien des offices de tourisme
 existants dans le délai de six mois à compter de la date à laquelle ils leur sont rattachés. En cas de maintien, la
@@ -1246,35 +1252,44 @@ tourisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 1
+	  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3641-1
-	  - Code général des collectivités territoriales - art. L5215-20
-	  - Code général des collectivités territoriales - art. L5215-20-1
-	  - Code général des collectivités territoriales - art. L5217-2
 	  - Code du tourisme. - art. L133-3-1
 	  - Code du tourisme. - art. L134-5
 
 
 ###### Article L134-2
 
-Les règles relatives à l'exercice de plein droit par la communauté de communes, en lieu et place des communes membres, pour
-la conduite d'actions d'intérêt communautaire, des compétences en matière d'aménagement, gestion et entretien des zones
-d'activité touristique, sont définies à l'article L. 5214-16 du code général des collectivités territoriales.
+Les communautés de communes et les communautés d'agglomération exercent de plein droit, en lieu et place des communes
+membres, la compétence en matière de promotion du tourisme, dont la création d'offices de tourisme, au sens du 2° du I de
+l'article L. 5214-16 et du 1° du I de l'article L. 5216-5 du code général des collectivités territoriales. 
+
+A l'occasion du transfert de cette compétence aux communautés de communes et aux communautés d'agglomération, les offices de
+tourisme des communes touristiques et des stations classées de tourisme sont transformés en bureaux d'information de l'office
+de tourisme intercommunal, sauf lorsqu'ils deviennent le siège de cet office. L'organe délibérant de l'établissement public
+de coopération intercommunale à fiscalité propre peut cependant décider, au plus tard trois mois avant l'entrée en vigueur du
+transfert de la compétence, de maintenir des offices de tourisme distincts pour des stations classées de tourisme, en
+définissant les modalités de mutualisation des moyens et des ressources des offices de tourisme intercommunaux existant sur
+son territoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L5214-16 (VT)
+	  - Code général des collectivités territoriales - art. L5216-5
 
 	**Cité par**:
 
@@ -2069,9 +2084,8 @@ Dans ces articles, les mots : " région " et " département " sont remplacés pa
 
 ###### Article L162-2
 
-Les dispositions des articles L. 133-1 à L. 133-18, 
-L. 134-2 et L. 134-3 sont remplacées, s'il y a lieu, par les dispositions du code des communes applicables localement ayant
-le même objet.
+Les dispositions des articles L. 133-1 à L. 133-18 et L. 134-3 sont remplacées, s'il y a lieu, par les dispositions du code
+des communes applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -2081,12 +2095,12 @@ le même objet.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 119
+	  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L133-1
-	  - Code du tourisme. - art. L134-2
+	  - Code du tourisme. - art. L133-1 (V)
+	  - Code du tourisme. - art. L134-3 (V)
 
 	**Cité par**:
 
@@ -4471,32 +4485,19 @@ relative à la répartition des compétences entre les communes, les départemen
 
 ###### Article L341-5
 
-Les règles relatives aux compétences des communes, communautés de communes, communautés urbaines et communautés
+Les règles relatives aux compétences des communes, communautés de communes, communautés urbaines, métropoles et communautés
 d'agglomération pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la plaisance sont fixées
-à l'article L. 5314-4 du code des transports ci-après reproduit : 
-
-" Art. L. 5314-4 du code des transports. 
-
-Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines, les métropoles ou les communautés
-d'agglomération, sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la
-plaisance. 
-
-Elles sont également compétentes pour aménager et exploiter les ports maritimes de commerce et de pêche qui leur sont
-transférés. 
-
-Toutefois, les compétences exercées par d'autres collectivités territoriales ou groupements de collectivités territoriales
-sur les ports maritimes dont l'activité principale est la plaisance ne peuvent être transférées aux communes ou, le cas
-échéant, aux communautés de communes, aux communautés urbaines, aux métropoles ou aux communautés d'agglomération, sans
-l'accord exprès de ces autres collectivités territoriales ou groupements de collectivités territoriales. 
-
-Le département ou un syndicat mixte peut également, à la demande d'une commune ou, le cas échéant, d'une communauté de
-communes, créer, aménager et exploiter un port maritime dont l'activité principale est la plaisance. "
+à l'article L. 5314-4 du code des transports.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code des transports - art. L5314-4
+
 	**Modifié par**:
 
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
+	  - Loi n°2015-991 du 7 août 2015 - art. 22 (V)
 
 
 ###### Article L341-6
