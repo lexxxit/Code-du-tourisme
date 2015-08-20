@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-08-21
 
 # Partie législative
 
@@ -8497,24 +8497,28 @@ ne peut porter atteinte aux stipulations des contrats en vigueur.
 ###### Article R133-3
 
 La composition du comité de direction de l'office de tourisme et les modalités de désignation de ses membres sont fixées par
-délibération du conseil municipal.
+délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-33 (M)
 	  - Code général des collectivités territoriales - art. R2231-33 (Ab)
 
 
 ###### Article R133-4
 
-Les conseillers municipaux membres du comité de direction de l'office sont élus par le conseil municipal pour la durée de
-leur mandat.
+Les conseillers municipaux ou les membres de l'établissement public de coopération intercommunale qui sont membres du comité
+de direction de l'office sont élus par le conseil municipal ou par l'organe délibérant de l'établissement public de
+coopération intercommunale pour la durée de leur mandat.
 
 Les fonctions des autres membres prennent fin lors du renouvellement du conseil municipal.
 
@@ -8522,34 +8526,40 @@ Les fonctions des autres membres prennent fin lors du renouvellement du conseil 
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. R2231-35 (M)
-	  - Code général des collectivités territoriales - art. R2231-35 (Ab)
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R134-16 (V)
 
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. R2231-35 (Ab)
+
 
 ###### Article R133-5
 
-Le comité élit un président et un vice-président parmi ses membres.
+Le comité élit un président et au plus deux vice-présidents parmi ses membres.
 
-Hormis la présidence de la séance du comité en cas d'empêchement du président, le vice-président ne peut exercer d'autres
+Hormis la présidence de la séance du comité en cas d'empêchement du président, chaque vice-président ne peut exercer d'autres
 pouvoirs que ceux qui lui ont été délégués par le président.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-36 (M)
 	  - Code général des collectivités territoriales - art. R2231-36 (Ab)
 
 
@@ -8666,30 +8676,37 @@ sur :
 
 ###### Article R133-11
 
-Le directeur de l'office de tourisme est recruté par contrat.
+Le directeur de l'office de tourisme est recruté par contrat. 
 
-Il est nommé par le président, après avis du comité.
+Il est nommé dans les conditions fixées à l'article L. 133-6. 
 
-Le contrat est conclu pour une durée de trois ans, renouvelable par reconduction expresse ; il peut être résilié sans préavis
-ni indemnité pendant les trois premiers mois d'exercice de la fonction.
-
-La limite d'âge du directeur est celle prévue pour les agents non titulaires des communes.
+Le contrat est conclu pour une durée maximale de trois ans, renouvelable par reconduction expresse dans la durée maximale de
+six ans. Si, à l'issue de cette durée, le contrat est reconduit, il ne peut l'être que pour une durée indéterminée et par
+décision expresse prise dans les conditions fixées à l'article L. 133-6. Le contrat peut être résilié sans préavis ni
+indemnité pendant les trois premiers mois d'exercice de la fonction.
 
 En cas de non-renouvellement du contrat, l'intéressé perçoit une indemnité de licenciement calculée selon les dispositions en
-vigueur relatives au licenciement des agents civils non fonctionnaires des administrations de l'Etat.
+vigueur relatives au licenciement des agents civils non fonctionnaires des administrations de l'Etat. 
 
-Dans tous les cas, la décision de licenciement ou de non-renouvellement du contrat est prise par le président, après avis du
-comité.
+Dans tous les cas, la décision de licenciement ou de non-renouvellement du contrat est prise dans les conditions fixées à
+l'article L. 133-6.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-6
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-42 (M)
 	  - Code général des collectivités territoriales - art. R2231-42 (Ab)
 
 
@@ -8730,27 +8747,33 @@ Le directeur assure le fonctionnement de l'office dans les conditions prévues n
 R. 2221-28 et R. 2221-29 du code général des collectivités territoriales. 
 
 Dans la limite des emplois prévus au budget, il recrute et licencie le personnel de l'office avec l'agrément du président. En
-fonction des secteurs d'activité existant dans la commune, un ou plusieurs directeurs peuvent être nommés par le président,
-sur proposition du directeur. 
+fonction des secteurs d'activités existants dans la commune ou sur le territoire de l'établissement public de coopération
+intercommunale, un ou plusieurs directeurs de structure ou de service peuvent être nommés par le directeur de l'office de
+tourisme après avis du comité de direction. 
 
-Le directeur fait chaque année un rapport sur l'activité de l'office qui est soumis au comité de direction par le président,
-puis au conseil municipal. 
+Le directeur de l'office de tourisme fait chaque année un rapport sur l'activité de l'office qui est soumis au comité de
+direction par le président, puis au conseil municipal ou à l'organe délibérant de l'établissement public de coopération
+intercommunale. 
 
-Le directeur peut être appelé à participer à l'organisation générale, réglementée par le maire, de la police de la sécurité
-des différents sports de la station. Il exécute en outre les ordres particuliers que le maire, en cette qualité, lui donne
-pour assurer cette sécurité.
+Le directeur peut être appelé à participer à l'organisation générale de la sécurité, réglementée par l'autorité compétente en
+matière de police, dans la zone géographique d'intervention de l'office de tourisme. Il exécute en outre les ordres
+particuliers que l'autorité compétente en matière de police lui donne pour assurer cette sécurité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. R2221-22 (V)
-	  - Code général des collectivités territoriales - art. R2221-24 (V)
-	  - Code général des collectivités territoriales - art. R2221-28 (V)
+	  - Code général des collectivités territoriales - art. R2221-22
+	  - Code général des collectivités territoriales - art. R2221-24
+	  - Code général des collectivités territoriales - art. R2221-28
 
 	**Anciens textes**:
 
@@ -8793,38 +8816,60 @@ créés par lui sur ses fonds propres ;
 
 ###### Article R133-15
 
-Le budget, préparé par le directeur de l'office, est présenté par le président au comité de direction, qui en délibère avant
-le 15 novembre.
+Le budget préparé par le directeur de l'office de tourisme se conforme aux dispositions des articles 
+L. 1612-2
+, 
+L. 2221-5
+ et 
+L. 2312-1
+ du code général des collectivités territoriales. 
 
-Si le conseil municipal, saisi à fin d'approbation, n'a pas fait connaître sa décision dans un délai de trente jours, le
-budget est considéré comme approuvé.
+Si le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale, saisi à fin
+d'approbation, n'a pas fait connaître sa décision dans un délai de trente jours, le budget est considéré comme approuvé.
+
+**Nota:**
+
+Aux termes du 1° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux délibérations
+relatives au budget de l'année 2016 et des années suivantes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1612-2
+	  - Code général des collectivités territoriales - art. L2221-5
+	  - Code général des collectivités territoriales - art. L2312-1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-46 (M)
 	  - Code général des collectivités territoriales - art. R2231-46 (Ab)
 
 
 ###### Article R133-16
 
 Le compte financier de l'exercice écoulé est présenté par le président au comité de direction, qui en délibère et le transmet
-au conseil municipal pour approbation.
+au conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale pour approbation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-47 (M)
 	  - Code général des collectivités territoriales - art. R2231-47 (Ab)
 
 
@@ -8848,17 +8893,21 @@ ministre chargé du tourisme.
 
 ###### Article R133-18
 
-La dissolution de l'office de tourisme est prononcée par délibération du conseil municipal.
+La dissolution de l'office de tourisme est prononcée par délibération du conseil municipal ou de l'organe délibérant de
+l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-49 (M)
 	  - Code général des collectivités territoriales - art. R2231-49 (Ab)
 
 
@@ -8866,22 +8915,59 @@ La dissolution de l'office de tourisme est prononcée par délibération du cons
 
 ###### Article R133-19
 
-La délibération du conseil municipal doit au moins fixer :
+La délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale doit
+au moins fixer :
 
 - le statut juridique de l'office de tourisme ;
 
-- la composition de l'organe délibérant avec le nombre des membres représentant la collectivité et le nombre des membres
-représentant les professions et activités intéressées par le tourisme dans la commune.
+- la composition de l'organe délibérant de l'office de tourisme, notamment :
+
+Le nombre des membres représentant la collectivité ou l'établissement public de coopération intercommunale.
+
+Le nombre des membres représentant les professions et activités intéressées par le tourisme dans la commune ou sur le
+territoire de l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales - art. R2231-57-1 (Ab)
+
+
+###### Article R133-19-1
+
+Par dérogation au dernier alinéa de l'article R. 133-19, lorsque l'office de tourisme est constitué sous la forme d'une
+société publique locale dont les statuts imposent que chaque administrateur de la société représente une partie du capital
+social, les représentants des professions et activités intéressées par le tourisme dans la commune ou sur le territoire de
+l'établissement public de coopération intercommunale siègent au sein du directoire ou d'un comité technique chargé de
+formuler des avis destinés aux administrateurs. 
+
+La délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale fixe
+le nombre des membres représentant les professions et activités intéressées par le tourisme au sein de l'organe concerné de
+la société publique locale.
+
+**Nota:**
+
+Aux termes du 2° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux délibérations de la
+collectivité sollicitant son classement postérieures au 1er janvier 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-19
 
 
 ##### Sous-section 4 : Classement des offices.
@@ -9378,13 +9464,14 @@ et à mettre en valeur des ressources dans les conditions mentionnées à l'arti
 
 a) Offrir des hébergements touristiques de nature et de catégories variées ; 
 
-b) Offrir des créations et animations culturelles, faciliter les activités physiques et sportives utilisant et respectant
-leurs ressources patrimoniales, naturelles ou bâties ainsi que, le cas échéant, celles du territoire environnant, pour tous
-les publics et pendant les périodes touristiques, et mettre notamment en valeur les savoir-faire professionnels ayant un
-caractère traditionnel, historique, gastronomique ou régional ; 
+b) Pour tous les publics et pendant les périodes touristiques, offrir des créations et animations culturelles, faciliter les
+activités physiques et sportives utilisant et respectant leurs ressources patrimoniales, naturelles ou bâties ainsi que, le
+cas échéant, celles du territoire environnant et mettre notamment en valeur les savoir-faire professionnels ayant un
+caractère traditionnel, historique, gastronomique, régional ou toutes actions relatives au tourisme de séminaires et
+d'affaires ou de découverte économique, industrielle ou technologique ;
 
-c) Offrir à toutes les catégories de touristes des commerces de proximité et des structures de soins, adaptées notamment aux
-activités touristiques pratiquées, soit dans la commune, soit peu éloignés ; 
+c) Offrir à toutes les catégories de touristes des commerces et services de proximité ainsi que des structures de soins
+adaptées notamment aux activités touristiques pratiquées, soit dans la commune, soit peu éloignés ; 
 
 d) Disposer d'un document d'urbanisme et d'un plan de zonage d'assainissement collectif et non collectif, et s'engager à
 mettre en œuvre des actions en matière d'environnement, d'embellissement du cadre de vie, de conservation des sites et
@@ -9394,8 +9481,13 @@ e) Organiser l'information, en plusieurs langues, des touristes sur les activit�
 lieux d'intérêt touristique de la commune et de ses environs, et leur assurer l'accès à cette information ; 
 
 f) Faciliter l'accès à la commune et la circulation à l'intérieur de celle-ci pour tous publics par l'amélioration des
-infrastructures et de l'offre de transport, assurer l'entretien et la sécurité des équipements, la mise en place d'une
-signalisation appropriée de l'office de tourisme et des principaux lieux d'intérêt touristique.
+infrastructures et de l'offre de transport, assurer la mise en place d'une signalisation appropriée de l'office de tourisme
+et des principaux lieux d'intérêt touristique.
+
+**Nota:**
+
+Aux termes du 2° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux délibérations de la
+collectivité sollicitant son classement postérieures au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
@@ -9405,12 +9497,12 @@ signalisation appropriée de l'office de tourisme et des principaux lieux d'int�
 	  - Arrêté du 2 septembre 2008 - art. 4 (V)
 	  - Arrêté du 22 janvier 2015 (V)
 	  - Arrêté du 22 janvier 2015 - art. 3 (V)
-	  - Code du tourisme. - art. R133-42 (M)
+	  - Code du tourisme. - art. R133-42 (V)
 	  - Code général de la propriété des personnes publ... - art. R2124-17 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Cite**:
 
@@ -9425,15 +9517,20 @@ signalisation appropriée de l'office de tourisme et des principaux lieux d'int�
 ###### Article R133-38
 
 La délibération sollicitant le classement en station de tourisme, accompagnée du dossier de demande, est adressée par le
-maire au préfet par voie électronique ou, à défaut, par voie postale. 
+maire au préfet de département par voie électronique ou, à défaut, par voie postale. 
 
 La délibération délimite le territoire faisant l'objet de la demande de classement. Un plan lui est annexé.
+
+**Nota:**
+
+Aux termes du 2° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux délibérations de la
+collectivité sollicitant son classement postérieures au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
@@ -9442,11 +9539,22 @@ La délibération délimite le territoire faisant l'objet de la demande de class
 
 ###### Article R133-39
 
-Lorsque le dossier est incomplet, le préfet en avise le demandeur dans le délai de deux mois en lui précisant les pièces
-manquantes. 
+Lorsque le dossier est incomplet, le préfet de département en avise le demandeur dans le délai de deux mois en lui précisant
+les pièces manquantes. 
 
-Dans le délai de six mois à compter de la date de réception du dossier complet, le préfet adresse au ministre chargé du
-tourisme, accompagné de son avis, le dossier de demande complet, ainsi que les avis qu'il a éventuellement recueillis.
+Dès la complétude du dossier, le préfet de département adresse au préfet de région le dossier de demande complet.
+
+Dans le délai de huit mois à compter de la date à laquelle le dossier est déclaré complet par le préfet de département, le
+préfet de région instruit la demande. En cas de conformité, il transmet au ministre chargé du tourisme la proposition de
+classement accompagné du dossier de demande, des avis éventuellement recueillis et de son rapport d'instruction.
+
+En cas de non-conformité de la commune aux critères de classement, le préfet de région transmet au ministre chargé du
+tourisme son avis défavorable, accompagné de son rapport d'instruction.
+
+**Nota:**
+
+Aux termes du 2° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux délibérations de la
+collectivité sollicitant son classement postérieures au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
@@ -9456,7 +9564,7 @@ tourisme, accompagné de son avis, le dossier de demande complet, ainsi que les 
 
 	**Modifié par**:
 
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
@@ -9466,8 +9574,8 @@ tourisme, accompagné de son avis, le dossier de demande complet, ainsi que les 
 ###### Article R133-40
 
 La décision de classer la commune touristique en station de tourisme est prononcée pour une durée de douze ans par décret
-pris sur le rapport du ministre chargé du tourisme dans le délai d'un an à compter de la date de réception par le préfet du
-dossier de demande complet. 
+pris sur le rapport du ministre chargé du tourisme dans le délai d'un an à compter de la date de réception par le préfet de
+département du dossier de demande complet. 
 
 Le décret délimite le territoire classé. Lorsque celui-ci ne se confond pas avec le territoire communal, un plan est annexé
 au décret. 
@@ -9475,13 +9583,17 @@ au décret.
 Le rejet de la demande de classement fait l'objet d'une décision motivée du ministre chargé du tourisme. Cette décision est
 notifiée par le préfet au maire. 
 
-Le silence vaut rejet au-delà de l'expiration du délai mentionné au premier alinéa du présent article.
+Le silence vaut rejet au-delà de l'expiration du délai mentionné au premier alinéa du présent article. 
+
+La commune, la fraction de commune ou l'établissement public de coopération intercommunale ayant obtenu le classement comme
+station de tourisme doit ériger le panonceau dont le modèle est fixé par arrêté du ministre chargé du tourisme, signalant la
+station classée de tourisme aux entrées de l'agglomération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
@@ -9523,9 +9635,7 @@ substitué au maire.
 
 ###### Article R133-42
 
-Un arrêté conjoint des ministres chargés du tourisme, de l'intérieur, des collectivités territoriales, de l'environnement, de
-l'aménagement du territoire, de l'urbanisme, des transports, de l'outre-mer, de l'agriculture, de la santé, des sports, et de
-la culture précise :
+Un arrêté conjoint des ministres chargés du tourisme et des collectivités territoriales précise :
 
 - les conditions d'application des articles R. 133-37 à R. 133-41, et notamment les modalités de classement en station de
 tourisme au regard des critères énoncés à l'article R. 133-37 ;
@@ -9534,9 +9644,14 @@ tourisme au regard des critères énoncés à l'article R. 133-37 ;
 
 - la liste des pièces nécessaires à la constitution du dossier de demande de classement en station de tourisme ;
 
-- le modèle national de dossier de demande de dénomination de commune touristique ;
+- le formulaire de demande de dénomination de commune touristique ;
 
-- le modèle national de dossier de demande de classement en station de tourisme.
+- le formulaire de demande de classement en station de tourisme.
+
+**Nota:**
+
+Aux termes du 1° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux délibérations
+relatives au budget de l'année 2016 et des années suivantes.
 
 **Liens relatifs à cet article**
 
@@ -9548,11 +9663,11 @@ tourisme au regard des critères énoncés à l'article R. 133-37 ;
 
 	**Modifié par**:
 
-	  - Décret n°2008-884 du 2 septembre 2008 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R133-37
+	  - Code du tourisme. - art. R133-37 (V)
 
 	**Anciens textes**:
 
@@ -9705,19 +9820,21 @@ Les dispositions de l'article R. 133-4 sont applicables aux offices de tourisme 
 
 ###### Article R134-17
 
-Le budget préparé par le directeur est présenté par le président au comité de direction avant le 15 novembre.
-
-Copie en est transmise, pour approbation, avant le 30 novembre aux conseils municipaux des communes membres de l'office.
+Le budget préparé par le directeur de l'office de tourisme se conforme aux dispositions des articles L. 1612-2, L. 2221-5 et
+L. 2312-1 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 1
 
 	**Anciens textes**:
 
-	  - Code général des collectivités territoriales - art. R2231-54 (M)
 	  - Code général des collectivités territoriales - art. R2231-54 (Ab)
 
 
@@ -9736,27 +9853,6 @@ connaître son désaccord dans un délai de trente jours à compter de la récep
 
 	  - Code général des collectivités territoriales - art. R2231-55 (M)
 	  - Code général des collectivités territoriales - art. R2231-55 (Ab)
-
-
-###### Article R134-19
-
-Le compte financier est présenté par le président au comité de direction qui en délibère et le transmet aux conseils
-municipaux pour approbation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1002 du 18 août 2015 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. R2231-56 (M)
-	  - Code général des collectivités territoriales - art. R2231-56 (Ab)
 
 
 ###### Article R134-20
@@ -10013,6 +10109,25 @@ entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 	  - Décret n°2010-1582 du 17 décembre 2010 - art. 35
 
 
+###### Article R161-2
+
+1° Pour l'application du présent livre en Guyane et à la Martinique, les mots : "préfet de région" ou : "préfet de
+département" sont remplacés par le mot : "préfet" ;
+
+2° Les dispositions du 1° sont applicables à compter de la première réunion suivant la première élection de l'assemblée de
+Guyane et de l'assemblée de Martinique créées en application des dispositions de la loi n° 2011-884 du 27 juillet 2011.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2011-884 du 27 juillet 2011
+
+	**Créé par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
+
+
 #### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.
 
 ###### Article R162-1
@@ -10053,34 +10168,20 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 #### Chapitre III : Dispositions relatives à Mayotte.
 
-###### Article R163-1
-
-Le présent livre est applicable à Mayotte, sous réserve des dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1002 du 18 août 2015 - art. 5
-
-
 ###### Article R163-2
 
-Pour l'application du présent livre :
-
-1° Les mots : " région " ou " département " sont remplacés par les mots : " collectivité départementale " ;
-
-2° Les mots : " préfet de région " ou " préfet de département " sont remplacés par le mot : " préfet ".
+Pour l'application du présent livre, les mots : "préfet de région" ou : "préfet de département" sont remplacés par le mot :
+"préfet".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
 ###### Article R163-3
@@ -10879,6 +10980,15 @@ Lorsque la demande d'immatriculation est présentée au nom d'une personne moral
 forme juridique, le cas échéant le montant du capital social, l'adresse du siège social et de ses établissements secondaires,
 ainsi que l'état civil et le domicile du ou des représentants légaux ou statutaires, seuls habilités à présenter la demande.
 
+Lorsque la demande d'immatriculation est présentée au nom d'une fédération ou union d'associations, elle mentionne le nom et
+l'adresse du siège des associations ou des organismes sans but lucratif qui en sont membres et dont elle assume la
+responsabilité.
+
+**Nota:**
+
+Aux termes du 3° de l'article 7 de la loi n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux demandes
+d'immatriculation présentées à compter du 1er octobre 2015.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10887,14 +10997,14 @@ ainsi que l'état civil et le domicile du ou des représentants légaux ou statu
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 2
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L141-3
-	  - Code du tourisme. - art. R211-26 (V)
-	  - Code du tourisme. - art. R211-41 (V)
+	  - Code du tourisme. - art. R211-26
+	  - Code du tourisme. - art. R211-41
 
 	**Cité par**:
 
@@ -10903,35 +11013,65 @@ ainsi que l'état civil et le domicile du ou des représentants légaux ou statu
 
 ###### Article R211-21
 
-I. ― L'immatriculation est effectuée par la commission d'immatriculation mentionnée à l'article L. 141-2 dans un délai d'un
-mois à compter de la date du récépissé émis par la commission au moment de la réception du dossier complet. La commission
-notifie à l'opérateur de voyages un certificat d'immatriculation comportant son numéro d'immatriculation au registre et la
-date d'enregistrement.
+I. - Lorsque le dossier de demande d'immatriculation comporte toutes les pièces définies à l'article R. 211-20, la commission
+d'immatriculation mentionnée à l'article L. 141-2 émet un récépissé qu'elle communique au demandeur.
 
-L'immatriculation est réputée acquise en l'absence de décision de la commission dans le délai prévu à l'alinéa précédent. La
-commission est alors tenue de délivrer sans délai un numéro d'immatriculation. 
+La commission dispose d'un délai d'un mois à compter de la date du récépissé pour :
 
-II. ― Lorsqu'il ressort de l'examen du dossier complet que la demande d'immatriculation n'est pas conforme aux dispositions
-du II de l'article L. 211-18, la commission refuse l'inscription par une décision qu'elle communique au demandeur dans le
-délai prévu au I du présent article. 
+- procéder à l'immatriculation lorsqu'il ressort de l'examen du dossier que la demande est conforme aux dispositions du II de
+l'article L. 211-18. La commission notifie à l'opérateur de voyages un certificat d'immatriculation comportant son numéro
+d'immatriculation au registre et la date d'enregistrement ;
 
-III. ― Toute fédération ou union d'associations immatriculée au registre mentionné au a de l'article L. 141-3 communique à la
-commission d'immatriculation mentionnée à l'article L. 141-2 le nom et l'adresse du siège des associations ou des organismes
-sans but lucratif qui en sont membres et dont elle assume la responsabilité. 
+- refuser l'immatriculation par une décision qu'elle communique au demandeur, lorsqu'il ressort de l'examen du dossier
+complet que la demande d'immatriculation n'est pas conforme aux dispositions du II de l'article L. 211-18.
 
-IV. ― Les opérateurs de voyages informent la commission d'immatriculation mentionnée à l'article L. 141-2 de tout événement
-pouvant avoir des conséquences sur leur immatriculation, et notamment la cessation d'activité.L'information est transmise
-dans le mois qui précède la modification quand elle peut être anticipée ou sinon au plus tard dans le mois qui suit
-l'événement.
+L'immatriculation est réputée acquise en l'absence de notification de la décision de la commission dans le délai prévu au
+deuxième alinéa. La commission est alors tenue de délivrer sans délai un numéro d'immatriculation.
 
-V. ― Il est procédé, tous les trois ans, au renouvellement de l'immatriculation selon les modalités fixées au I du présent
-article.
+II. - Dans le cas où le récépissé a été remis ou transmis en application des dispositions de l'article R. 123-10 du code de
+commerce, le délai prévu au I peut être interrompu si, compte tenu de la situation particulière du demandeur, les pièces
+jointes au dossier ne permettent pas d'instruire sa demande d'immatriculation.
+
+La date d'interruption du délai est celle du courrier par lequel la commission d'immatriculation mentionnée à l'article L.
+141-2 informe le demandeur ou son mandataire, par tout moyen permettant d'en obtenir un accusé de réception, de la nécessité
+de joindre à son dossier les pièces permettant l'instruction de sa demande ainsi que du délai dans lequel ces pièces devront
+lui être communiquées.
+
+Dès réception des pièces demandées, la commission émet un nouveau récépissé et la demande d'immatriculation est instruite
+conformément aux alinéas deux et suivants du I.
+
+Lorsque les pièces complémentaires demandées ne sont pas produites dans le délai fixé par la commission, celle-ci renvoie le
+dossier au demandeur et informe expressément ce dernier qu'il lui appartient, s'il souhaite être immatriculé, de déposer une
+nouvelle demande accompagnée de la totalité des pièces qui lui sont signalées.
+
+III. - Lorsque le dossier de demande d'immatriculation est incomplet, la commission d'immatriculation mentionnée à l'article
+L. 141-2 transmet au demandeur, par tout moyen permettant d'en obtenir un accusé de réception, un courrier indiquant les
+pièces manquantes qui doivent être produites dans un délai de quinze jours ouvrables courant à compter de la réception de ce
+courrier.
+
+Dès réception des pièces demandées, la commission émet un récépissé et la demande d'immatriculation est instruite
+conformément au I.
+
+Lorsque les pièces complémentaires demandées ne sont pas produites à l'expiration du délai indiqué dans le courrier de la
+commission, celle-ci renvoie le dossier au demandeur et informe expressément ce dernier qu'il lui appartient, s'il souhaite
+être immatriculé, de déposer une nouvelle demande accompagnée de la totalité des pièces qui lui sont signalées.
+
+IV. - Les opérateurs de voyages informent la commission d'immatriculation mentionnée à l'article L. 141-2 de tout changement
+dans les éléments prévus à l'article R. 211-20, et notamment de la cessation d'activité. L'information est transmise dans le
+mois qui précède la modification quand elle peut être anticipée ou sinon au plus tard dans le mois qui suit l'événement.
+
+V. - Il est procédé, tous les trois ans, au renouvellement de l'immatriculation selon les modalités fixées aux I, II et III.
+
+**Nota:**
+
+Aux termes du 3° de l'article 7 du décret n° 2015-1002 du 18 août 2015, ces dispositions s'appliquent aux demandes
+d'immatriculation présentées à compter du 1er octobre 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 2
 
 	**Cite**:
 
@@ -10991,17 +11131,18 @@ l'entreprise ou de l'organisme ainsi que des noms et adresses de son garant et d
 
 ###### Article R211-24
 
-La commission d'immatriculation mentionnée à l'article L. 141-2 procède à la radiation du registre lorsque l'opérateur de
-voyages ne satisfait plus aux conditions prévues au II de l'article L. 211-18. 
+Après avoir mis l'intéressé en mesure de présenter des observations écrites en défense, la commission d'immatriculation
+mentionnée à l'article L. 141-2 procède à la radiation du registre en cas de déclaration frauduleuse ou lorsque l'opérateur
+de voyages ne satisfait plus aux conditions prévues au II de l'article L. 211-18. 
 
 La radiation du registre est notifiée par la commission, par tout moyen permettant d'en obtenir un accusé de réception, à
 l'opérateur qui en fait l'objet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 2
 
 	**Cite**:
 
@@ -11012,13 +11153,18 @@ l'opérateur qui en fait l'objet.
 ###### Article R211-25
 
 La radiation intervient également à la demande de la personne physique ou morale immatriculée au registre ou lorsque la
-personne morale concernée fait l'objet d'une liquidation judiciaire définitivement prononcée.
+personne morale concernée fait l'objet d'une dissolution par l'effet d'un jugement ordonnant la clôture de la liquidation
+judiciaire, notifiée par le liquidateur à la commission d'immatriculation mentionnée à l'article L. 141-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1002 du 18 août 2015 - art. 2
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L141-2
 
 
 ##### Section 6 : Garantie financière.
@@ -11942,8 +12088,8 @@ département du lieu de leur établissement. Elle est délivrée par le préfet 
 
 Le préfet informe le demandeur le cas échéant de tout document manquant, dans le délai d'un mois à compter de la réception de
 la demande. Il accuse réception du dossier de demande de carte professionnelle lorsque celui-ci est complet. Il se prononce
-dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le préfet pendant
-plus de quatre mois vaut octroi de la carte professionnelle. 
+dans les deux mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le préfet pendant
+plus de deux mois vaut octroi de la carte professionnelle. 
 
 La carte professionnelle est conforme à un modèle établi par arrêté conjoint des ministres respectivement chargés du tourisme
 et de la culture.
@@ -11954,23 +12100,19 @@ et de la culture.
 
 	  - Décret n°94-490 du 15 juin 1994 - art. 86 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2011-930 du 1er août 2011 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2011-930 du 1er août 2011 - art. 4 (VD)
 	  - Arrêté du 7 mars 2012 - art. 1 (VD)
 	  - Code du tourisme. - art. R221-3 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - RECTIFICATION: Décret n°2011-930 du 1er août 2011, v. init.
+	  - Décret n°2015-1002 du 18 août 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R221-1 (VD)
+	  - Code du tourisme. - art. R221-1
 
 
 ###### Article R221-2-1
@@ -12138,8 +12280,8 @@ formation et, le cas échéant, de l'attestation de l'expérience professionnell
 Le préfet informe le demandeur le cas échéant de tout document manquant, dans le délai d'un mois à compter de la réception de
 la demande. Il accuse réception du dossier de demande de carte professionnelle lorsque celui-ci est complet. 
 
-Il se prononce dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le
-préfet pendant plus de quatre mois vaut octroi de la carte professionnelle. 
+Il se prononce dans les deux mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le
+préfet pendant plus de deux mois vaut octroi de la carte professionnelle. 
 
 Le programme et la composition des jurys, les modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation et la
 composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté des ministres chargés de la culture et du
@@ -12157,11 +12299,11 @@ tourisme.
 
 	**Modifié par**:
 
-	  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
+	  - Décret n°2015-1002 du 18 août 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R211-12 (V)
+	  - Code du tourisme. - art. R211-12
 
 	**Cité par**:
 
@@ -12492,6 +12634,27 @@ définies par arrêté du ministre chargé des transports.
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.
 
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.
+
+###### Article R241-1
+
+1° Pour l'application du présent livre en Guyane et à la Martinique, les mots : "préfet de région" ou : "préfet de
+département" sont remplacés par le mot : "préfet" ;
+
+2° Les dispositions du 1° sont applicables à compter de la première réunion suivant la première élection de l'assemblée de
+Guyane et de l'assemblée de Martinique créées en application des dispositions de la loi n° 2011-884 du 27 juillet 2011.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2011-884 du 27 juillet 2011
+
+	**Créé par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
+
+
 #### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.
 
 ###### Article R242-1
@@ -12547,9 +12710,10 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 #### Chapitre III : Dispositions relatives à Mayotte.
 
-###### Article R243-1
+###### Article R243-2
 
-Le présent livre est applicable à Mayotte, sous réserve des dispositions du présent chapitre.
+Pour l'application du présent livre, les mots : "préfet de région" ou : "préfet de département" sont remplacés par le mot :
+"préfet".
 
 **Liens relatifs à cet article**
 
@@ -12557,52 +12721,9 @@ Le présent livre est applicable à Mayotte, sous réserve des dispositions du p
 
 	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Abrogé par**:
-
-	  - Décret n°2015-1002 du 18 août 2015 - art. 5
-
-
-###### Article R243-2
-
-Pour l'application du présent livre :
-
-1° Les mots : " région " ou " département " sont remplacés par les mots : " collectivité départementale " ;
-
-2° Les mots : " préfet de région " ou " préfet de département " sont remplacés par le mot : " préfet ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-
-###### Article R243-3
-
-Ne sont pas applicables les références faites dans le présent livre à l'accord instituant l'Espace économique européen et les
-dispositions suivantes : 
-
-1° La section 5 du chapitre Ier du titre Ier ; 
-
-2° Le 2° de l'article R. 221-15.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 16
-
-	**Abrogé par**:
-
 	  - Décret n°2015-1002 du 18 août 2015 - art. 5
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R221-15
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R243-4 (T)
 
 
 ###### Article R243-4
@@ -13878,21 +13999,13 @@ procédure bénéficiant d'un niveau de certification fixé par arrêté du mini
 Le préfet peut prononcer la radiation de la liste des meublés classés meublés de tourisme pour défaut ou insuffisance grave
 d'entretien du meublé et de ses installations. 
 
-Il informe de sa décision l'organisme mentionné à l'article L. 141-2.
+Il informe de sa décision le comité départemental du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 8
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L141-2
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R324-10 (VT)
+	  - Décret n°2015-1002 du 18 août 2015 - art. 3
 
 	**Cité par**:
 
@@ -14821,50 +14934,51 @@ Il peut être pratiqué sur des terrains aménagés, dans les conditions prévue
 
 ###### Article R331-8
 
-Les préfets peuvent, par arrêté pris après avis de la commission départementale de l'action touristique, imposer des normes
-spéciales d'équipement et de fonctionnement en vue de la protection contre les dangers d'incendie et les risques naturels et
-technologiques majeurs. 
+Les préfets peuvent, par arrêté, imposer des normes spéciales d'équipement et de fonctionnement en vue de la protection
+contre les dangers d'incendie et les risques naturels et technologiques majeurs. 
 
 Les préfets peuvent, dans certaines zones des stations classées, n'autoriser que les terrains aménagés de camping et
-caravanage classés au minimum dans la catégorie " 2 étoiles " conformément à l'article D. 332-1, après avis de la commission
-départementale de l'action touristique.
+caravanage classés au minimum dans la catégorie " 2 étoiles " conformément à l'article D. 332-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-134 1968-02-09 art. 4 al. 2, al. 3
-
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 3
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D332-1 (V)
+	  - Code du tourisme. - art. D332-1
 
 
 ###### Article R331-10
 
-A l'exception des personnes mentionnées à l'article R. 443-15 du code de l'urbanisme, nul ne peut pénétrer sur un terrain
+A l'exception des personnes mentionnées à l'article R. 443-12 du code de l'urbanisme, nul ne peut pénétrer sur un terrain
 aménagé de camping et caravanage et s'y installer sans l'accord du gestionnaire du terrain ou de son préposé. 
 
-Nul ne peut y demeurer s'il ne respecte le règlement intérieur approuvé par l'arrêté de classement.
+Nul ne peut y demeurer s'il ne respecte le règlement intérieur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°68-134 du 9 février 1968 - art. 12 (M)
 	  - Décret n°68-134 du 9 février 1968 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
+
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*443-15 (Ab)
+	  - Code de l'urbanisme - art. R443-12
 
 
 ###### Article R331-11
@@ -16907,18 +17021,37 @@ l'action de l'Etat en mer.
 
 ###### Article R361-3
 
-Les articles D. 332-6, D. 332-9 et D. 343-6 ne sont pas applicables à la Guyane.
+Les articles D. 332-6 et D. 343-6 ne sont pas applicables à la Guyane.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 	**Cite**:
 
 	  - Code du tourisme. - art. D332-6
 	  - Code du tourisme. - art. D343-6
+
+
+###### Article R361-4
+
+1° Pour l'application du présent livre en Guyane et à la Martinique, les mots : "préfet de région" ou : "préfet de
+département" sont remplacés par le mot : "préfet" ;
+
+2° Les dispositions du 1° sont applicables à compter de la première réunion suivant la première élection de l'assemblée de
+Guyane et de l'assemblée de Martinique créées en application des dispositions de la loi n° 2011-884 du 27 juillet 2011.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2011-884 du 27 juillet 2011
+
+	**Créé par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
 #### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.
@@ -16991,84 +17124,44 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 ###### Article R363-1
 
-Les titres Ier à III du présent livre sont applicables à Mayotte, sous réserve des dispositions du présent chapitre.
+Le chapitre II du titre IV du présent livre n'est pas applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
 ###### Article R363-2
 
-Pour l'application des dispositions des titres Ier à III du présent livre :
-
-1° Les mots : " région " ou " département " sont remplacés par les mots : " collectivité départementale " ;
-
-2° Les mots : " préfet de région " ou " préfet de département " sont remplacés par le mot : " préfet ".
+Pour l'application du présent livre, les mots : " préfet de région " ou " préfet de département " sont remplacés par le mot :
+" préfet ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
 ###### Article R363-3
 
 Pour l'application de l'article D. 332-6, les références aux articles L. 411-1 et R. 412-16 du code forestier sont
-respectivement remplacées par celles aux articles L. 411-1 et R. * 412-14 du code forestier de Mayotte. 
-
-Pour l'application de l'article D. 332-9, la référence au 2° de l'article R. 412-17 du code forestier est remplacée par celle
-au dernier alinéa de l'article R. * 412-15 du code forestier de Mayotte.
+respectivement remplacées par celles aux articles L. 411-1 et R. * 412-14 du code forestier de Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
-
-	**Cite**:
-
-	  - Code forestier - art. L411-1
-	  - Code forestier - art. R412-17
-	  - Code forestier de Mayotte - art. L411-1
-	  - Code forestier de Mayotte - art. R*412-14
-	  - Code forestier de Mayotte - art. R*412-15
-	  - Code du tourisme. - art. D332-6
-	  - Code du tourisme. - art. D332-9
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R363-4 (T)
-
-
-###### Article R363-4
-
-Ne sont pas applicables les dispositions suivantes : 
-
-1° L'article D. 321-2 ; 
-
-2° Le chapitre III du titre II.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 17
-
-	**Abrogé par**:
 
 	  - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 	**Cite**:
 
-	  - Code du tourisme. - art. D321-2
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R363-5 (T)
+	  - Code forestier - art. L411-1
+	  - Code forestier de Mayotte - art. L411-1
+	  - Code forestier de Mayotte - art. R*412-14
+	  - Code du tourisme. - art. D332-6
 
 
 ###### Article R363-5
@@ -17128,8 +17221,8 @@ pour les chèques-vacances.
 Pour signer cette convention, les prestataires de services doivent justifier qu'ils exercent leur activité conformément à la
 réglementation qui leur est applicable et qu'ils présentent des garanties de moralité et de solvabilité.
 
-Cette convention, conclue pour cinq ans et renouvelable dans des conditions qu'elle fixe, doit notamment prévoir le respect
-par les prestataires de services des engagements prévus par le dernier alinéa de l'article L. 411-3.
+Cette convention, conclue pour une durée indéterminée, doit notamment prévoir le respect par les prestataires de services des
+engagements prévus par le dernier alinéa de l'article L. 411-3.
 
 Les prestataires de services qui ont signé cette convention sont réputés remplir les conditions d'utilisation des chèques-
 vacances fixées à l'article L. 411-2.
@@ -17138,21 +17231,21 @@ vacances fixées à l'article L. 411-2.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-107 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
+	  - Décret n°2015-1002 du 18 août 2015 - art. 4
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L411-2 (V)
-	  - Code du tourisme. - art. L411-3 (M)
+	  - Code du tourisme. - art. L411-2
+	  - Code du tourisme. - art. L411-3
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R411-2 (V)
-	  - Code du tourisme. - art. R411-3 (M)
+	  - Code du tourisme. - art. R411-3 (V)
 	  - Code du tourisme. - art. R411-7 (V)
 
 
@@ -17185,26 +17278,27 @@ fournis, l'agence peut résilier la convention, après avoir donné au prestatai
 ###### Article R411-3
 
 Toute cession ou cessation d'une activité ayant fait l'objet d'une convention doit être déclarée sans délai à l'agence par le
-prestataire. Cette déclaration vaut résiliation de plein droit de la convention.
+prestataire. Cette cession ou cessation d'activité vaut résiliation de plein droit de la convention.
 
 En cas de cession, l'acquéreur doit conclure une nouvelle convention dans les conditions prévues à l'article R. 411-1.
 
-A défaut de respect de ces obligations, le prestataire, ou le cédant en cas de cession, s'expose aux sanctions pénales
-prévues à l'article R. 411-7.
+L'absence de présentation au remboursement de chèques-vacances par le prestataire pendant deux ans vaut résiliation de plein
+droit de la convention. L'Agence nationale pour les chèques-vacances en informe le prestataire de services par tout moyen
+permettant d'en obtenir un accusé de réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-107 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
+	  - Décret n°2015-1002 du 18 août 2015 - art. 4
 
 	**Cite**:
 
-	  - Code du tourisme. - art. R411-1 (M)
+	  - Code du tourisme. - art. R411-1 (V)
 
 	**Cité par**:
 
@@ -17452,18 +17546,18 @@ Le conseil d'administration élit un président parmi les personnalités qualifi
 
 ###### Article R411-13
 
-Les membres du conseil d'administration exercent leur fonction à titre gratuit. Ils bénéficient du remboursement des frais de
-déplacement et de séjour dans les conditions prévues par la réglementation applicable aux fonctionnaires civils de l'Etat.
+Les membres du conseil d'administration exercent leur fonction à titre gratuit. Le remboursement de leurs frais de
+déplacement et de séjour est pris en charge par l'agence dans les conditions prévues pour le personnel de l'agence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+	  - Décret n°2015-1002 du 18 août 2015 - art. 4
 
 	**Cité par**:
 
@@ -17568,13 +17662,11 @@ séance du conseil d'administration qui suit, des décisions qu'il a prises en v
 
 ###### Article R411-16
 
-I.-Les délibérations mentionnées aux 5°, 6° et 9° de l'article R. 411-15 doivent faire l'objet d'une approbation expresse du
-ministre chargé de l'économie et des finances et du ministre chargé du tourisme pour devenir exécutoires. Les délibérations
-portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n°
-2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
+I.-Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre
+III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les autres délibérations sont exécutoires si le ministre chargé de l'économie et des finances ou le ministre chargé du
-tourisme n'y a pas fait opposition dans un délai de quinze jours suivant la notification qui lui en a été faite. 
+tourisme n'y a pas fait opposition dans un délai de trente  jours suivant la notification qui lui en a été faite. 
 
 II.-Le ministre chargé de l'économie et des finances, le ministre chargé du budget et le ministre chargé du tourisme peuvent
 fixer chaque année, après l'arrêté des comptes, le montant du dividende prélevé sur le résultat net comptable et sur les
@@ -17601,11 +17693,11 @@ l'économie et des finances et du ministre chargé du tourisme.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 44
+	  - Décret n°2015-1002 du 18 août 2015 - art. 4
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. R411-17 (M)
+	  - Code du tourisme. - art. R411-17 (V)
 
 
 ##### Sous-section 4 : Directeur général
@@ -17613,76 +17705,80 @@ l'économie et des finances et du ministre chargé du tourisme.
 ###### Article R411-17
 
 Le directeur général de l'agence est nommé par décret sur le rapport du ministre de l'économie et des finances et du ministre
-chargé du tourisme.
+chargé du tourisme. 
 
-Il organise et dirige l'agence. Il est notamment compétent pour :
+Il organise et dirige l'agence. Il est notamment compétent pour : 
 
-1° Proposer et mettre en oeuvre les orientations de l'agence ;
+1° Proposer et mettre en oeuvre les orientations de l'agence ; 
 
-2° Assurer le fonctionnement des services de l'agence ;
+2° Assurer le fonctionnement des services de l'agence ; 
 
-3° Exercer l'autorité sur le personnel de l'agence qu'il engage, nomme et licencie ;
+3° Exercer l'autorité sur le personnel de l'agence qu'il engage, nomme et licencie ; 
 
-4° Elaborer le programme et le rapport annuel d'activités de l'agence ;
+4° Elaborer le programme et le rapport annuel d'activités de l'agence ; 
 
-5° Préparer les délibérations du conseil d'administration et veiller à leur exécution ;
+5° Préparer les délibérations du conseil d'administration et veiller à leur exécution ; 
 
 6° Préparer l'état annuel de prévision des recettes et des dépenses ainsi que les décisions modificatives et présenter le
-compte financier ;
+compte financier ; 
 
-7° Représenter l'agence en justice, dans tous les actes de la vie civile et dans ses rapports avec les tiers ;
+7° Représenter l'agence en justice, dans tous les actes de la vie civile et dans ses rapports avec les tiers ; 
 
-8° Ordonnancer les recettes et les dépenses de l'agence et nommer des ordonnateurs secondaires ;
+8° Ordonnancer les recettes et les dépenses de l'agence et nommer des ordonnateurs secondaires ; 
 
 9° Instruire les demandes, attribuer, dans le respect des conditions générales d'attribution déterminées par le conseil
 d'administration, les aides destinées aux équipements de tourisme et de loisirs à vocation sociale et aux actions mentionnées
-aux articles L. 411-13 et L. 411-14, et les ordonnancer ;
+aux articles L. 411-13 et L. 411-14, et les ordonnancer ; 
 
-10° Etablir les conventions avec les partenaires de l'agence en matière d'aide à la personne ;
+10° Etablir les conventions avec les partenaires de l'agence en matière d'aide à la personne ; 
 
 11° Après consultation du conseil d'administration, proposer aux autorités de tutelle les taux de commission appliqués à la
-vente et au remboursement des chèques-vacances dans les conditions prévues au III de l'article R. 411-16 ;
+vente et au remboursement des chèques-vacances dans les conditions prévues au III de l'article R. 411-16 ; 
 
-12° Passer au nom de l'agence tout acte, contrat, accord, convention ou marché ;
+12° Passer au nom de l'agence tout acte, contrat, accord, convention ou marché ou conclure tous baux de location ; 
 
 13° Procéder, sous réserve de la délibération du conseil d'administration prévue à l'article R. 411-15, à tout achat ou vente
-d'immeubles, conclure tous baux de location, contracter tous emprunts, constituer nantissements ou hypothèques ;
+d'immeubles, contracter tous emprunts, constituer nantissements ou hypothèques ; 
 
-14° Organiser la gestion des fonds disponibles dans les conditions fixées à l'article R. 411-23.
+14° Organiser la gestion des fonds disponibles dans les conditions fixées à l'article R. 411-23 ; 
 
-Le directeur général peut déléguer sa signature.
+15° Fixer le montant maximum de chèques-vacances susceptibles, sur une période donnée, d'être remis en paiement des dépenses
+mentionnées à l'article L. 411-2.
 
-Il peut nommer des ordonnateurs secondaires après avis du conseil d'administration.
+Le directeur général peut déléguer sa signature. 
+
+Il peut nommer des ordonnateurs secondaires après avis du membre du contrôle général économique et financier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
 	  - Décret n°2007-107 du 29 janvier 2007 - art. 3 (V)
 	  - Code du tourisme. - art. R411-16 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 4
+
 	**Cite**:
 
-	  - Code du tourisme. - art. L411-13 (M)
-	  - Code du tourisme. - art. L411-14 (M)
-	  - Code du tourisme. - art. R411-15 (M)
-	  - Code du tourisme. - art. R411-23 (M)
+	  - Code du tourisme. - art. L411-13
+	  - Code du tourisme. - art. L411-14
+	  - Code du tourisme. - art. L411-2
+	  - Code du tourisme. - art. R411-15
+	  - Code du tourisme. - art. R411-23
 
 
 ##### Sous-section 5 : Commission d'attribution des aides
 
 ###### Article R411-18
 
-La commission d'attribution prévue à l'article L. 411-15 comprend neuf membres nommés pour un an renouvelable par arrêté du
-ministre chargé de l'économie et des finances et du ministre chargé du tourisme :
+La commission d'attribution des aides prévue à l'article L. 411-15 comprend neuf membres nommés pour trois ans renouvelables
+par arrêté du ministre chargé de l'économie et des finances et du ministre chargé du tourisme :
 
 - trois représentants des bénéficiaires de chèques-vacances, désignés sur proposition conjointe des organisations syndicales
 représentées au conseil d'administration ;
@@ -17703,15 +17799,15 @@ aides accordées par l'agence.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+	  - Décret n°2015-1002 du 18 août 2015 - art. 4
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L411-15 (M)
+	  - Code du tourisme. - art. L411-15
 
 
 ##### Sous-section 6 : Régime financier et comptable
@@ -19342,6 +19438,27 @@ répartition de l'assiette de la taxe lorsque l'exploitation s'étend sur plusie
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.
 
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.
+
+###### Article R441-1
+
+1° Pour l'application du présent livre en Guyane et à la Martinique, les mots : "préfet de région" ou : "préfet de
+département" sont remplacés par le mot : "préfet" ;
+
+2° Les dispositions du 1° sont applicables à compter de la première réunion suivant la première élection de l'assemblée de
+Guyane et de l'assemblée de Martinique créées en application des dispositions de la loi n° 2011-884 du 27 juillet 2011.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2011-884 du 27 juillet 2011
+
+	**Créé par**:
+
+	  - Décret n°2015-1002 du 18 août 2015 - art. 5
+
+
 #### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.
 
 ###### Article R442-1
@@ -19385,9 +19502,10 @@ n'y sont pas applicables sont remplacées par les références aux dispositions 
 
 #### Chapitre III : Dispositions relatives à Mayotte.
 
-###### Article R443-1
+###### Article R443-2
 
-Sont applicables à Mayotte les articles D. 422-3 et D. 422-4.
+Pour l'application du présent livre, les mots : "préfet de région" ou : "préfet de département" sont remplacés par le mot :
+"préfet".
 
 **Liens relatifs à cet article**
 
@@ -19395,55 +19513,9 @@ Sont applicables à Mayotte les articles D. 422-3 et D. 422-4.
 
 	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2015-1002 du 18 août 2015 - art. 5
-
-	**Cite**:
-
-	  - Code du tourisme. - art. D422-3
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. R443-2 (M)
-
-
-###### Article R443-2
-
-Pour l'application des dispositions mentionnées à l'article R. 443-1 :
-
-1° Les mots : " région " ou " département " sont remplacés par les mots : " collectivité départementale " ;
-
-2° Les mots : " préfet de région " ou " préfet de département " sont remplacés par le mot : " préfet ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code du tourisme. - art. R443-1 (V)
-
-
-###### Article R443-3
-
-Les références faites dans le présent livre à l'accord instituant l'Espace économique européen ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1002 du 18 août 2015 - art. 5
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D333-1 (M)
 
 
 ###### Article R443-4
