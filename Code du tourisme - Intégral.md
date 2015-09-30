@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-08-21
+Version Consolidée au 2015-10-01
 
 # Partie législative
 
@@ -11182,18 +11182,34 @@ garantie financière ;
 3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif ayant fait l'objet d'une autorisation
 particulière par un arrêté du ministre chargé du tourisme et disposant d'un fonds de solidarité suffisant. 
 
-La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'opérateur de voyages au
-titre des engagements qu'il a contractés à l'égard de sa clientèle ou de ses membres pour des prestations en cours ou à
-servir et permet d'assurer, notamment en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des
-voyageurs. 
+La garantie financière est affectée au remboursement de l'intégralité des fonds reçus par l'opérateur de voyages et de
+séjours au titre des engagements qu'il a contractés à l'égard du consommateur final pour des prestations en cours ou à servir
+et permet d'assurer, notamment en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des
+voyageurs et la prise en charge des frais de séjour supplémentaires qui résulteraient directement de l'organisation du
+rapatriement. 
 
 L'engagement de garantie financière doit répondre à toutes les dispositions réglementaires de la présente section.
+
+Un arrêté conjoint des ministres chargés de l'économie et du tourisme fixe, en proportion de la moyenne des primes ou
+cotisations encaissées et de la charge des sinistres, les règles prudentielles applicables aux organismes mentionnés au 1° et
+au 3° du présent article qui permettent de garantir un niveau de solvabilité équivalent à celui des entités soumises au
+contrôle d'une autorité de contrôle prudentiel pratiquant l'activité à laquelle se rattache l'engagement de cautionnement
+mentionné au premier alinéa.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
+
+L'arrêté prévu au dernier alinéa de l'article R211-26 est publié au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 17
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
@@ -11262,44 +11278,67 @@ sont réputés avoir un siège en France.
 ###### Article R211-29
 
 Lorsque la garantie financière résulte de l'appartenance à un groupement d'associations ou d'organismes sans but lucratif
-immatriculé au registre mentionné au a de l'article L. 141-3, l'association ou l'organisme sans but lucratif doit détenir
-dans ses livres une attestation par laquelle le garant s'engage à se substituer à l'association ou à l'organisme sans but
-lucratif défaillant pour le règlement des créances et le rapatriement éventuel des membres.
+immatriculé au registre mentionné à l'article L. 141-3, l'association ou l'organisme sans but lucratif doit détenir dans ses
+livres une attestation par laquelle le garant s'engage à se substituer à l'association ou à l'organisme sans but lucratif
+défaillant pour le règlement des créances et le rapatriement éventuel des membres. 
+
+L'attestation doit être portée par l'association à la connaissance de ses adhérents bénéficiaires des prestations prévues à
+l'article L. 211-1 par tout moyen. 
 
 L'engagement de cautionnement prend fin suivant les modalités prévues à l'article R. 211-33.
 
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L141-3
+	  - Code du tourisme. - art. L211-1
 	  - Code du tourisme. - art. R211-33
 
 
 ###### Article R211-30
 
-Toute personne physique ou morale immatriculée au registre mentionné au a de l'article L. 141-3 doit posséder une garantie
+Toute personne physique ou morale immatriculée au registre mentionné à l'article L. 141-3 doit posséder une garantie
 financière délivrée par un seul garant. La garantie financière s'étend aux activités qui sont exercées par les établissements
-secondaires tels que succursale ou point de vente. 
+secondaires tels que succursale ou point de vente et aux associations ou organismes sans but lucratif membres d'une
+fédération ou d'une union d'associations immatriculée au registre et qui en assume la responsabilité. 
 
-Un arrêté du ministre chargé du tourisme détermine le montant minimum de la garantie financière en fonction de la nature des
-activités. Il définit, en outre, les modalités de calcul de la garantie en fonction du volume d'affaires réalisé annuellement
-par l'opérateur de voyages. 
+La garantie suffisante prévue par l'article L. 211-18 se définit comme la garantie de la totalité des fonds reçus du
+consommateur final au titre des forfaits touristiques et des prestations énumérées à l'article L. 211-1 qui ne portent pas
+uniquement sur des titres de transport. 
 
-Sauf en ce qui concerne la garantie applicable au contrat de jouissance d'immeuble à temps partagé prévue à l'article R.
-211-44, le montant de la garantie financière de chaque personne physique ou morale immatriculée au registre mentionné au a de
-l'article L. 141-3 est calculé annuellement par l'opérateur de voyages en application des règles définies par la présente
-section. A défaut d'exercice antérieur de référence, il est fait application du montant minimum de garantie mentionné à
-l'alinéa précédent. 
+Les fonds nécessaires au rapatriement s'entendent comme les fonds nécessaires au transport des consommateurs ainsi que les
+frais de séjour raisonnables supplémentaires qui découleraient directement de l'organisation du rapatriement au regard des
+modalités de transport prévues au contrat. 
 
-En cas de modification importante d'activité en cours d'année, la personne physique ou morale immatriculée est tenue d'en
-informer le garant. Le montant de la garantie financière doit être ajusté en conséquence. 
+La personne physique ou morale immatriculée communique à la commission d'immatriculation mentionnée au huitième alinéa de
+l'article L. 141-2 une attestation annuelle de garantie financière délivrée par le garant. En cas de changement de garant,
+une nouvelle attestation doit être communiquée à cette commission. 
 
-L'arrêté prévu au deuxième alinéa fixe les conditions dans lesquelles s'effectuent ces réévaluations.
+La personne physique ou morale garantie doit transmettre chaque année à son garant tous les documents nécessaires à une juste
+évaluation du risque susceptible d'être supporté par le garant. Elle est tenue d'informer le garant en cas de modification
+importante d'activité en cours d'année. 
+
+Les dispositions du présent article ne sont pas applicables à la garantie relative au contrat de jouissance d'immeuble à
+temps partagé prévu à l'article L. 211-24
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
@@ -11307,25 +11346,28 @@ L'arrêté prévu au deuxième alinéa fixe les conditions dans lesquelles s'eff
 
 	  - Arrêté du 23 décembre 2009 - art. 4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
+	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L141-3
-	  - Code du tourisme. - art. R211-44 (V)
+	  - Code du tourisme. - art. L211-1
+	  - Code du tourisme. - art. L211-18
+	  - Code du tourisme. - art. L211-24
 
 
 ###### Article R211-31
 
 La garantie intervient sur les seules justifications présentées par le créancier à l'organisme garant établissant que la
-créance est certaine et exigible et que l'opérateur de voyages est défaillant, sans que le garant puisse opposer au créancier
-le bénéfice de division et de discussion. 
+créance est certaine et exigible et que l'opérateur de voyages et de séjours  est défaillant, sans que le garant puisse
+opposer au créancier le bénéfice de division et de discussion. 
 
-La défaillance de l'opérateur de voyages peut résulter soit d'un dépôt de bilan, soit d'une sommation de payer par exploit
-d'huissier ou lettre recommandée avec demande d'avis de réception, suivie de refus ou demeurée sans effet pendant un délai de
-quarante-cinq jours à compter de la signification de la sommation. 
+La défaillance de l'opérateur de voyages et de séjours  peut résulter soit d'un dépôt de bilan, soit d'une sommation de payer
+par exploit d'huissier ou lettre recommandée avec demande d'avis de réception, suivie de refus ou demeurée sans effet pendant
+un délai de quarante-cinq jours à compter de la signification de la sommation. 
 
 En cas d'instance en justice, le demandeur doit aviser le garant de l'assignation par lettre recommandée avec demande d'avis
 de réception. 
@@ -11334,8 +11376,8 @@ Si le garant conteste l'existence des conditions d'ouverture du droit au paiemen
 peut assigner directement devant la juridiction compétente. 
 
 Par dérogation aux dispositions qui précèdent, la mise en oeuvre, en urgence, de la garantie en vue d'assurer le rapatriement
-des clients ou des membres d'un opérateur de voyages est décidée par le préfet qui requiert le garant de libérer,
-immédiatement et par priorité, les fonds nécessaires pour couvrir les frais inhérents à l'opération de rapatriement.
+des clients ou des membres d'un opérateur de voyages et de séjours  est décidée par le préfet qui requiert le garant de
+libérer, immédiatement et par priorité, les fonds nécessaires pour couvrir les frais inhérents à l'opération de rapatriement.
 Toutefois, si la garantie financière résulte d'un organisme de garantie collective mentionné à l'article R. 211-27, cet
 organisme assure la mise en oeuvre immédiate de la garantie par tous moyens en cas d'urgence dûment constatée par le préfet. 
 
@@ -11343,14 +11385,23 @@ Les informations nécessaires à la mise en œuvre des dispositions de l'alinéa
 besoin, au préfet par l'organisme mentionné à l'article L. 141-2. 
 
 Les compétences dévolues par le présent article au préfet sont exercées par le préfet du département du lieu d'établissement
-de l'opérateur de vente de voyages et de séjours concerné. Pour les opérateurs dont le lieu d'établissement est situé dans la
-région Ile-de-France, ces compétences sont exercées par le préfet de région.
+de l'opérateur de voyages et de séjours  concerné. Pour les opérateurs dont le lieu d'établissement est situé dans la région
+Ile-de-France, ces compétences sont exercées par le préfet de région. Pour les opérateurs dont le lieu d'établissement est
+situé à l'étranger sans représentation sur le territoire national, ces compétences sont exercées par le ministre chargé du
+tourisme.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
@@ -11362,21 +11413,14 @@ région Ile-de-France, ces compétences sont exercées par le préfet de région
 	  - Code du tourisme. - art. R211-28 (V)
 	  - Code du tourisme. - art. R211-34 (V)
 
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-32 (T)
-
 
 ###### Article R211-32
 
-Sauf cas de rapatriement, le paiement est effectué par le garant dans un délai de trois mois à compter de la présentation de
-la demande écrite, accompagnée des justificatifs. 
+Sauf cas de rapatriement dont le paiement des frais est effectué sans délai, le paiement est effectué par le garant dans un
+délai de trois mois à compter de la présentation de la demande écrite, accompagnée des justificatifs. 
 
 En cas de cessation de la garantie avant l'expiration de ce délai, le point de départ de celui-ci est reporté à la date de
 publication de l'avis prévu à l'article R. 211-33. 
-
-Si plusieurs demandes sont reçues pendant ce délai, une répartition a lieu au marc le franc dans le cas où le montant total
-des demandes excéderait le montant de la garantie. 
 
 Toutefois, si la personne garantie fait l'objet d'une procédure collective pendant le délai fixé au premier alinéa, le
 règlement des créances peut être différé jusqu'au dépôt de l'état des créances au greffe du tribunal dans les conditions
@@ -11387,17 +11431,24 @@ groupement d'associations ou d'organismes sans caractère lucratif dont la garan
 droit à tous les droits du créancier désintéressé, ainsi qu'il est dit à l'article 2306 du code civil, en ce qui concerne la
 dette de la personne garantie et dans la limite du remboursement ou de la restitution faite par lui.
 
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 17
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. R624-8
 	  - Code civil - art. 2306
-	  - Code du tourisme. - art. R211-33 (V)
+	  - Code du tourisme. - art. R211-33
 
 
 ###### Article R211-33
@@ -11405,31 +11456,31 @@ dette de la personne garantie et dans la limite du remboursement ou de la restit
 La garantie cesse par son exécution ou pour les raisons suivantes :
 
 - perte de la qualité d'adhérent à l'organisme de garantie collective ou à un groupement d'associations ou d'organismes sans
-caractère lucratif ou dénonciation de l'engagement de garantie financière pris par un  établissement de crédit, une société
-de financement ou une entreprise d'assurances ;
+caractère lucratif ou dénonciation de l'engagement de garantie financière pris par un établissement de crédit, une société de
+financement ou une entreprise d'assurances ;
 
-- radiation du registre mentionné au a de l'article L. 141-3. 
-
-L'organisme garant informe, sans délai, la commission d'immatriculation mentionnée à l'article L. 141-2, par tout moyen
-permettant d'en obtenir un accusé de réception, de la cessation de la garantie financière. 
+- radiation du registre mentionné à l'article L. 141-3. 
 
 Un avis annonçant la cessation de la garantie et précisant qu'elle cessera à l'expiration d'un délai de trois jours suivant
-la publication dudit avis est publié à la diligence du garant dans deux journaux, dont un quotidien, distribués dans le ou
-les départements où sont installés le siège de l'opérateur de voyages garanti et, le cas échéant, ses établissements
-secondaires. L'avis indique qu'un délai de trois mois est ouvert aux créanciers éventuels pour produire leurs créances. 
-
-Ces avis sont communiqués le même jour par le garant à la commission d'immatriculation mentionnée à l'article L. 141-2 qui en
-assure la publicité sur le site internet de l'agence mentionnée au même article. 
+la publication dudit avis est notifié, à la diligence du garant par tout moyen permettant d'en obtenir un accusé de réception
+à la commission mentionnée à l'article L. 141-2 qui le publie sur internet. L'avis indique qu'un délai de trois mois est
+ouvert aux créanciers éventuels pour produire leurs créances. 
 
 Si l'opérateur de voyages immatriculé bénéficie d'une nouvelle garantie accordée par un autre organisme, il doit en informer
-la commission d'immatriculation mentionnée à l'article L. 141-2 et le public par insertion d'un avis publié dans la presse ou
-apposé sur son local.
+la commission d'immatriculation mentionnée à l'article L. 141-2 qui met à jour le registre.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1315 du 3 novembre 2014 - art. 17
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
@@ -11595,25 +11646,28 @@ Lorsque le contrat prévoit une franchise à la charge de l'assuré, elle n'est 
 
 ###### Article R211-39
 
-En cas de résiliation du contrat d'assurance ou de suspension de la garantie, l'assuré est tenu d'en informer la commission
-d'immatriculation mentionnée à l'article L. 141-2 quinze jours au moins avant la date à laquelle la garantie cessera d'avoir
-effet. Il doit, dans le même délai, informer l'organisme auprès duquel a été contractée la garantie financière prévue au b du
-II de l'article L. 211-18.
+En cas de cessation  du contrat d'assurance  l'organisme assureur  est tenu d'en informer par tout moyen permettant d'en
+obtenir un accusé de réception  la commission d'immatriculation mentionnée à l'article L. 141-2 quinze jours au moins avant
+la date à laquelle la garantie cessera d'avoir effet. Il doit, dans le même délai, informer l'organisme auprès duquel a été
+contractée la garantie financière prévue au a du II de l'article L. 211-18.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2015-1111 du 2 septembre 2015, les présentes dispositions entrent en vigueur le 1er
+octobre 2015 en ce qui concerne les nouvelles garanties financières souscrites et celles qui sont renouvelées à partir de
+cette date. Toutefois, pour les garanties financières souscrites avant le 1er octobre 2015, ces dispositions s'appliquent à
+la date de leur renouvellement annuel et au plus tard au 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L141-2
 	  - Code du tourisme. - art. L211-18
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-40 (T)
 
 
 ###### Article R211-40
