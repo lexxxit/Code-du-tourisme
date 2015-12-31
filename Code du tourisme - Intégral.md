@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-12-18
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -2937,18 +2937,7 @@ différente en remplacement de la prestation prévue. Cette prestation différen
 financière ne requiert pas, en situation d'urgence, l'accord exprès du client, dès lors que sa mise en œuvre n'entraîne pas
 une modification substantielle du contrat ; 
 
-b) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ; 
-
-c) Justifier, pour la personne physique ou pour le représentant de la personne morale, de conditions d'aptitude
-professionnelle par :
-
-- la réalisation d'un stage de formation professionnelle d'une durée minimale définie par décret ;
-
-- ou l'exercice d'une activité professionnelle, d'une durée minimale fixée par décret, en rapport avec les opérations
-mentionnées au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique ;
-
-- ou la possession d'un diplôme, titre ou certificat mentionné sur une liste fixée par arrêté pris par les ministres chargés
-du tourisme, de l'éducation et de l'enseignement supérieur. 
+b) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle. 
 
 III.-Ne sont pas tenus de satisfaire aux conditions prévues aux I et II : 
 
@@ -2963,11 +2952,6 @@ c) Les associations et organismes sans but lucratif organisant sur le territoire
 à caractère éducatif conformément à l'article L. 227-4 du code de l'action sociale et des familles ou ceux gérant des
 villages de vacances ou des maisons familiales agréées, dans le cadre exclusif de leurs activités propres, y compris le
 transport lié au séjour.
-
-**Nota:**
-
-Conformément à l'article 16 paragraphe II de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions entrent en
-vigueur à la date fixée au paragraphe I du même article.
 
 **Liens relatifs à cet article**
 
@@ -3002,23 +2986,20 @@ vigueur à la date fixée au paragraphe I du même article.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 8
+	  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 16
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L227-4
-	  - Code du tourisme. - art. L141-3 (V)
 
 
 ##### Section 5 : De la liberté d'établissement
 
 ###### Article L211-19
 
-Pour s'établir en France, est considéré comme répondant aux conditions d'aptitude visées au c du II de l'article L. 211-18
-tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen, dès lors qu'il produit les pièces justificatives émanant de l'autorité compétente d'un de ces Etats prouvant qu'il
-possède l'expérience professionnelle ou un diplôme, titre ou certificat pour l'exercice d'activités mentionnées au I de
-l'article L. 211-1 ou d'activités de prestations d'hébergement touristique ou de transport touristique.
+Pour s'établir en France, tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen est soumis aux obligations et conditions d'immatriculation fixées à la section 4 du présent
+chapitre.
 
 **Liens relatifs à cet article**
 
@@ -3041,12 +3022,7 @@ l'article L. 211-1 ou d'activités de prestations d'hébergement touristique ou 
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L211-1 (V)
-	  - Code du tourisme. - art. L211-18 (V)
+	  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 16
 
 
 ##### Section 6 : De la libre prestation de services
@@ -3055,11 +3031,7 @@ l'article L. 211-1 ou d'activités de prestations d'hébergement touristique ou 
 
 Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen, légalement établi dans l'un de ces Etats, pour l'exercice d'activités mentionnées au I de l'article L. 211-1, peut
-exercer ces activités de façon temporaire et occasionnelle en France. 
-
-Toutefois, lorsque les activités mentionnées à l'article L. 211-1 ou la formation y conduisant ne sont pas réglementées dans
-l'Etat dans lequel est établi le prestataire, celui-ci doit avoir exercé cette activité dans cet Etat pendant au moins deux
-ans au cours des dix années qui précèdent la prestation.
+exercer ces activités de façon temporaire et occasionnelle en France.
 
 **Liens relatifs à cet article**
 
@@ -3069,11 +3041,11 @@ ans au cours des dix années qui précèdent la prestation.
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+	  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 16
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L211-1
 
 
 ###### Article L211-21
@@ -4312,21 +4284,21 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 ###### Article L331-1
 
 Les règles relatives à l'ouverture et l'aménagement des terrains de camping et caravanage sont fixées par les articles L.
-443-1 et L. 443-2 du code de l'urbanisme, ainsi que, en ce qui concerne les zones de montagne, les articles L. 145-2 et L.
-145-5 du code de l'urbanisme et, en ce qui concerne le littoral, les articles L. 146-1 à L. 146-7 et L. 146-9 du même code.
+443-1 et L. 443-2 du code de l'urbanisme, ainsi que, en ce qui concerne le littoral et les zones de montagne, les chapitres
+Ier et II du titre II du livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-2 (V)
-	  - Code de l'urbanisme - art. L145-5 (V)
-	  - Code de l'urbanisme - art. L146-1 (V)
-	  - Code de l'urbanisme - art. L146-9 (V)
 	  - Code de l'urbanisme - art. L443-1 (V)
 
 
@@ -4761,13 +4733,17 @@ articles L. 321-9 du code de l'environnement et L. 2124-4 du code général de l
 ###### Article L341-15
 
 Les règles relatives aux servitudes de passage affectant les propriétés privées riveraines du domaine public maritime sont
-fixées par les articles L. 160-6, L. 160-6-1, L. 160-7 et L. 160-8 du code de l'urbanisme.
+fixées par les articles L. 121-31 à L. 121-37 et L. 121-51 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cité par**:
 
@@ -4775,7 +4751,8 @@ fixées par les articles L. 160-6, L. 160-6-1, L. 160-7 et L. 160-8 du code de l
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L160-6 (V)
+	  - Code de l'urbanisme - art. L121-31 (VD)
+	  - Code de l'urbanisme - art. L121-51 (VD)
 
 
 #### Chapitre 2 : Montagne.
@@ -4916,106 +4893,18 @@ Les conditions d'application de la présente section sont, en tant que de besoin
 
 ###### Article L342-6
 
-Les règles relatives aux unités touristiques nouvelles sont fixées au IV de l'article L. 145-3 et par les articles L. 145-9 à
-L. 145-13 du code de l'urbanisme ci-après reproduits : 
-
-" Art. L. 145-3 du code de l'urbanisme. 
-
-IV.-Le développement touristique et, en particulier, la création d'une unité touristique nouvelle doivent prendre en compte
-les communautés d'intérêt des collectivités locales concernées et contribuer à l'équilibre des activités économiques et de
-loisirs, notamment en favorisant l'utilisation rationnelle du patrimoine bâti existant et des formules de gestion locative
-pour les constructions nouvelles. 
-
-Leur localisation, leur conception et leur réalisation doivent respecter la qualité des sites et les grands équilibres
-naturels. "
-
-" Art. L. 145-9 du code de l'urbanisme. 
-
-Est considérée comme unité touristique nouvelle toute opération de développement touristique, en zone de montagne, ayant pour
-objet ou pour effet, en une ou plusieurs tranches : 
-
-1° Soit de construire des surfaces destinées à l'hébergement touristique ou de créer un équipement touristique comprenant des
-surfaces de plancher ; 
-
-2° Soit de créer des remontées mécaniques ; 
-
-3° Soit de réaliser des aménagements touristiques ne comprenant pas de surfaces de plancher dont la liste est fixée par
-décret en Conseil d'Etat. "
-
-" Art. L. 145-10 du code de l'urbanisme. 
-
-A l'exception du III de l'article L. 145-3, les dispositions de la section première du présent chapitre et les dispositions
-du chapitre II du titre IV du livre III du code du tourisme sont applicables aux unités touristiques nouvelles. "
-
-" Art. L. 145-11 du code de l'urbanisme. 
-
-Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension d'unités
-touristiques nouvelles sont soumises à autorisation. Le projet est préalablement mis à la disposition du public. 
-
-I.-L'autorisation est délivrée par le préfet coordonnateur de massif, après avis de la commission spécialisée du comité de
-massif, lorsqu'elle porte sur des remontées mécaniques qui ont pour effet la création d'un nouveau domaine skiable ou
-l'extension du domaine skiable existant au-delà d'un seuil fixé par décret en Conseil d'Etat, ou sur une opération qui
-présente un intérêt régional ou interrégional en raison de sa surface ou de sa capacité d'accueil. 
-
-II.-L'autorisation est délivrée par le représentant de l'Etat dans le département, après avis d'une formation spécialisée de
-la commission départementale compétente en matière de nature, de paysages et des sites, lorsqu'elle porte sur une remontée
-mécanique ayant pour effet l'extension d'un domaine skiable existant au-delà d'un seuil fixé par décret en Conseil d'Etat, ou
-sur une opération qui présente un intérêt local en raison de sa situation, de sa surface ou de sa capacité d'accueil. 
-
-Le décret prévu à l'article L. 145-13 fixe notamment les seuils applicables au I et au présent II en fonction du type
-d'opération. Une autorisation n'est pas illégale du seul fait qu'elle a été délivrée par le préfet coordonnateur de massif,
-alors qu'elle porte sur un projet d'unité touristique nouvelle d'une taille inférieure au seuil fixé pour l'application du
-présent II. 
-
-III.-La création ou l'extension d'unités touristiques nouvelles autres que celles mentionnées aux I et II n'est pas soumise à
-autorisation. 
-
-IV.-L'autorisation peut imposer la réalisation de logements destinés aux salariés de la station, notamment aux travailleurs
-saisonniers, et prévoir des dispositions pour l'accueil et l'accès aux pistes des skieurs non résidents. 
-
-Elle devient caduque si, dans un délai de quatre ans à compter de la notification au bénéficiaire, les équipements et les
-constructions autorisés n'ont pas été entrepris. En cas de recours, le délai de caducité est suspendu pendant la durée des
-instances. Pour les opérations autorisées antérieurement à l'entrée en vigueur de la loi n° 85-30 du 9 janvier 1985 relative
-au développement et à la protection de la montagne, la date de notification à prendre en compte pour le calcul du délai de
-validité de l'autorisation est fixée au 1er janvier 1986. 
-
-L'autorisation devient également caduque, à l'égard des équipements et constructions qui n'ont pas été engagés, lorsque les
-travaux d'aménagement ou de construction ont été interrompus pendant un délai supérieur à quatre ans. Ce délai peut être
-prorogé de quatre ans renouvelables, par délibération du conseil municipal. Ce délai s'applique aux opérations autorisées
-antérieurement à la date de publication de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires
-ruraux. 
-
-Les autorisations d'occupation du sol nécessaires à la réalisation de l'une des unités touristiques nouvelles prévues au I ne
-peuvent être délivrées que dans les communes dotées d'un plan local d'urbanisme. 
-
-Les autorisations d'occupation du sol nécessaires à la réalisation de l'une des unités touristiques nouvelles prévues au II
-ne peuvent être délivrées que dans les communes dotées d'une carte communale ou d'un plan local d'urbanisme. "
-
-" Art. L. 145-12 du code de l'urbanisme. 
-
-Lorsqu'un projet d'unité touristique nouvelle concerne un territoire couvert par un schéma de cohérence territoriale ou un
-schéma de secteur approuvé et que ce schéma n'en prévoit pas la création, le représentant de l'Etat dans le département peut,
-à la demande de la commune ou du groupement de communes concerné et après avis de la commission spécialisée du comité de
-massif, demander la modification du schéma. "
-
-" Art. L. 145-13 du code de l'urbanisme. 
-
-Un décret en Conseil d'Etat précise les conditions d'application de la présente section. "
+Les règles relatives aux unités touristiques nouvelles sont fixées par les articles L. 122-15 à L. 122-23 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 24 février 2006
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
-	**Liens**:
+	**Cite**:
 
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L145-10 (V)
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L145-11 (V)
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L145-12 (V)
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L145-13 (V)
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L145-3 (V)
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L145-9 (V)
+	  - Code de l'urbanisme - art. L122-15 (VD)
 
 
 ##### Section 3 : Remontées mécaniques et pistes de ski.
@@ -5386,11 +5275,10 @@ Les conditions d'application du présent article sont précisées par un décret
 ###### Article L342-18
 
 La servitude prévue aux articles L. 342-20 à L. 342-23 ne peut être établie qu'à l'intérieur des zones et des secteurs
-délimités dans les plans locaux d'urbanisme ou dans les plans d'occupation des sols en application du 1° du III de l'article
-L. 123-1-5 du code de l'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de faciliter la
-pratique du ski de fond ou l'accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de nature au sens de
-l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et
-sportives ainsi que l'accès aux refuges de montagne.
+délimités dans les plans locaux d'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de
+faciliter la pratique du ski de fond ou l'accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de nature
+au sens de l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités
+physiques et sportives ainsi que l'accès aux refuges de montagne.
 
 **Liens relatifs à cet article**
 
@@ -5398,11 +5286,10 @@ sportives ainsi que l'accès aux refuges de montagne.
 
 	  - Loi n°84-610 du 16 juillet 1984 - art. 50-1
 	  - Code du tourisme. - art. L342-20
-	  - Code de l'urbanisme - art. L123-1-5
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cité par**:
 
@@ -5525,9 +5412,9 @@ l'enneigement et du cours des travaux agricoles, la servitude s'applique partiel
 ###### Article L342-23
 
 La servitude ne peut grever les terrains situés à moins de vingt mètres des bâtiments à usage d'habitation ou professionnel
-édifiés ou dont la construction a été autorisée avant la date de délimitation des zones et secteurs prévus au 1° du IV de
-l'article L. 123-1-5 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de
-cette délimitation sauf :
+édifiés ou dont la construction a été autorisée avant la date de délimitation des zones et secteurs prévus à l'article L.
+151-38 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de cette
+délimitation sauf :
 
 - dans le cas où la construction desdits bâtiments est postérieure à l'existence effective de la piste ou des équipements ;
 
@@ -5547,11 +5434,12 @@ législation.
 
 	  - Loi n°2005-157 du 23 février 2005
 	  - Code du tourisme. - art. L342-20
-	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. L151-38 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 157 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 
 ###### Article L342-24
@@ -5993,17 +5881,17 @@ Les règles relatives à l'accueil du public en forêt sont fixées par les arti
 
 Les règles relatives aux conventions entre collectivités locales et leurs groupements et propriétaires de bois, parcs et
 espaces naturels situés sur leur territoire tendant à l'ouverture au public desdits bois, parcs et espaces naturels sont
-fixées par l'article L. 130-5 du code de l'urbanisme.
+fixées par l'article L. 113-6 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Anciens textes**:
 
@@ -6011,7 +5899,7 @@ fixées par l'article L. 130-5 du code de l'urbanisme.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-5 (V)
+	  - Code de l'urbanisme - art. L113-6 (VD)
 
 
 ### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.
@@ -6078,17 +5966,21 @@ L'article L. 343-8 n'est pas applicable à la Guyane.
 ###### Article L361-3
 
 Les règles relatives à l'affectation à des équipements touristiques et hôteliers dans la bande littorale sont fixées par les
-articles L. 156-2 à L. 156-4 du code de l'urbanisme.
+articles L. 121-45 à L. 121-49 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L156-2 (V)
+	  - Code de l'urbanisme - art. L121-45 (VD)
 
 
 #### Chapitre 2 : Dispositions relatives à Saint-Pierre-et-Miquelon
@@ -7006,19 +6898,19 @@ exerçant une activité à caractère saisonnier sont fixées au V de l'article 
 ###### Article L422-2
 
 Les règles relatives à l'exonération de la cotisation foncière des entreprises applicable aux personnes qui louent en meublé
-des locaux classés dans les conditions de l'article L. 324-1 ou des gîtes ruraux sont fixées par l'article 1459 du code
-général des impôts.
+des locaux classés dans les conditions de l'article L. 324-1  sont fixées par l'article 1459 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 91 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1459 (V)
-	  - Code du tourisme. - art. L324-1 (V)
+	  - Code général des impôts, CGI. - art. 1459
+	  - Code du tourisme. - art. L324-1
 
 	**Cité par**:
 
@@ -12547,131 +12439,9 @@ la recherche.
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.
 
-#### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.
-
-##### Section 3 : Conduite de voitures de tourisme avec chauffeur.
-
-
-
-
-##### Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur
-
-###### Article D231-7
-
-Les chauffeurs de voiture de tourisme au sens du présent chapitre doivent justifier :
-
-- soit de la réalisation d'un stage de formation professionnelle effectué auprès d'un centre de formation agréé, dans des
-conditions fixées par arrêté du ministre chargé du tourisme ;
-
-- soit d'une expérience professionnelle d'une durée minimale d'un an dans des fonctions de chauffeur professionnel de
-personnes au cours des dix années précédant la demande de carte professionnelle.
-
-Le stage de formation professionnelle mentionné au deuxième alinéa doit comporter des cours d'au moins une langue étrangère.
-
-**Nota:**
-
-Conformément à l'article 7 III 4° du décret n° 2014-1725 du 30 décembre 2014, entrent en vigueur à une date fixée par un
-arrêté des ministres chargés, respectivement, de l'économie et des transports et du ministre de l'intérieur et au plus tard
-au 1er janvier 2016, l'abrogation des dispositions de l'article D. 231-7 du code du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 23 décembre 2009 - art. 1 (Ab)
-	  - Arrêté du 23 décembre 2009 - art. 2 (Ab)
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 7 (V)
-	  - Arrêté du 2 février 2016 - art. 9 (Ab)
-	  - Code du tourisme. - art. D231-11 (V)
-	  - Code du tourisme. - art. D231-12 (VD)
-
-	**Modifié par**:
-
-	  - Décret n°2013-691 du 30 juillet 2013 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-
-###### Article D231-8
-
-Pour l'application du premier alinéa de l'article L. 231-2, les chauffeurs doivent être titulaires d'un permis B en cours de
-validité, non affecté par le délai probatoire prévu à l'article L. 223-1 du code de la route.
-
-**Nota:**
-
-Conformément à l'article 7 III 4° du décret n° 2014-1725 du 30 décembre  2014, entrent en vigueur à une date fixée par un
-arrêté des ministres  chargés, respectivement, de l'économie et des transports et du ministre  de l'intérieur et au plus tard
-au 1er janvier 2016, l'abrogation des  dispositions du premier alinéa de l'article D.  231-8 du code du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Modifié par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cité par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 7 (V)
-	  - Code du tourisme. - art. D231-12 (VD)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L231-2
-	  - Code de la route. - art. L223-1
-	  - Code de la route. - art. R221-10
-
-
-###### Article D231-11
-
-L'aptitude professionnelle prévue à l'article L. 231-2 est réputée acquise pour tout ressortissant d'un autre Etat membre de
-la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dès lors qu'il justifie : 
-
-- soit de la réalisation d'un stage de formation professionnelle effectué dans un autre Etat membre de la Communauté
-européenne ou dans un Etat partie à l'accord sur l'Espace économique européen permettant l'exercice de la profession de
-chauffeur professionnel dans le cadre de l'activité mentionnée à l'article L. 231-1 et dont l'attestation est délivrée par
-une autorité compétente de cet Etat ; 
-
-- soit d'une expérience professionnelle d'une durée minimale d'un an dans l'un de ces Etats au cours des dix années précédant
-la présentation de la demande de carte professionnelle dans des fonctions de chauffeur professionnel de personnes.
-
-**Nota:**
-
-Conformément à l'article 7 III 4° du décret n° 2014-1725 du 30 décembre 2014, entrent en vigueur à une date fixée par un
-arrêté des ministres chargés, respectivement, de l'économie et des transports et du ministre de l'intérieur et au plus tard
-au 1er janvier 2016, l'abrogation des dispositions de l'article D. 231-11 du code du tourisme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-691 du 30 juillet 2013 - art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
-
-	**Cité par**:
-
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 7 (V)
-	  - Code du tourisme. - art. D231-12 (VD)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L231-1
-	  - Code du tourisme. - art. L231-2
-
-
 #### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.
+
+#### Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs
 
 ###### Article R233-1
 
@@ -14906,20 +14676,18 @@ l'article D. 332-1.
 
 ###### Article D331-5
 
-Les règles relatives à l'aménagement d'un terrain de camping et à l'installation des caravanes sont fixées par les articles
-R. * 111-30, R. * 111-37 à R. * 111-45, R. * 421-19 et R. * 421-23 du code de l'urbanisme.
+Les règles relatives à l'aménagement d'un terrain de camping et à l'installation des caravanes sont fixées par
+les articles R. 111-32 à R. 111-35 et R. 111-47 à R. 111-50, R. * 421-19 et R. * 421-23 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. *R421-23
-	  - Code de l'urbanisme - art. R*111-30
-	  - Code de l'urbanisme - art. R*111-37
 	  - Code de l'urbanisme - art. R421-19
 
 
@@ -15377,18 +15145,17 @@ invité à se faire entendre personnellement ou par mandataire.
 
 ###### Article D333-1
 
-Les règles relatives aux habitations légères de loisirs sont fixées par les articles R. * 111-30 à R. * 111-32, R. * 421-2 et
-R. * 421-9 du code de l'urbanisme.
+Les règles relatives aux habitations légères de loisirs sont fixées par              les articles R. 111-37 à R. 111-40 , R.
+* 421-2 et R. * 421-9 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*111-30
 	  - Code de l'urbanisme - art. R421-2
 	  - Code de l'urbanisme - art. R421-9
 
@@ -15399,8 +15166,8 @@ R. * 421-9 du code de l'urbanisme.
 
 ###### Article D333-3
 
-Un parc résidentiel de loisirs est un terrain aménagé au sens du 1° de l'article R. * 111-32 du code de l'urbanisme et soumis
-à des normes en application de l'article R. * 111-46 du même code.
+Un parc résidentiel de loisirs est un terrain aménagé et soumis à des normes en application de l'article R. 111-36 du même
+code.
 
 **Liens relatifs à cet article**
 
@@ -15410,12 +15177,7 @@ Un parc résidentiel de loisirs est un terrain aménagé au sens du 1° de l'art
 
 	**Modifié par**:
 
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*111-32
-	  - Code de l'urbanisme - art. R*111-46
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
 ###### Article D333-3-1
@@ -15647,19 +15409,14 @@ invité à se faire entendre personnellement ou par mandataire.
 
 ###### Article D333-7
 
-Les règles relatives à l'installation des résidences mobiles de loisirs sont fixées par les articles R. * 111-30 et R. *
-111-33 à R. * 111-36 du code de l'urbanisme.
+Les règles relatives à l'installation des résidences mobiles de loisirs sont fixées par les articles R. 111-41 à R. 111-46 du
+code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-813 du 21 août 2008 - art. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*111-30
-	  - Code de l'urbanisme - art. R*111-33
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
 ### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.
@@ -15818,21 +15575,13 @@ En cas de récidive, il sera fait application des peines d'amende prévues pour 
 ###### Article D341-6
 
 Les règles relatives aux servitudes de passage affectant les propriétés privées riveraines du domaine public maritime sont
-fixées par les dispositions des articles R. 160-8 à R. 160-33 du code de l'urbanisme.
+fixées par les dispositions des articles R. 121-9 et suivants  du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. D341-3 (T)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*160-8
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
 #### Chapitre II : Montagne.
@@ -15841,18 +15590,18 @@ fixées par les dispositions des articles R. 160-8 à R. 160-33 du code de l'urb
 
 ###### Article D342-1
 
-Les règles relatives aux unités touristiques nouvelles sont fixées par les articles R. 145-1 à R. 145-10 du code de
+Les règles relatives aux unités touristiques nouvelles sont fixées par les articles R. 122-4 et suivants du code de
 l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. R145-1 (V)
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
 ##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.
