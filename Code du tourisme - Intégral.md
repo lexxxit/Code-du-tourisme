@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -4825,28 +4825,27 @@ l'échéancier des recettes et des dépenses.
 
 ###### Article L342-3
 
-Conformément aux dispositions de l'article L. 1411-2 du code général des collectivités territoriales, la durée de ces
-contrats est modulée en fonction de la nature et de l'importance des investissements consentis par l'aménageur ou
-l'exploitant. 
+Conformément aux dispositions de l'article 34 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de
+concession, la durée de ces contrats est modulée en fonction de la nature et de l'importance des investissements consentis
+par l'aménageur ou l'exploitant. 
 
 Lorsque la durée résiduelle d'un contrat portant sur le service des remontées mécaniques défini à l'article L. 342-9 est
 insuffisante pour permettre l'amortissement normal d'investissements supplémentaires demandés par la personne publique
-délégante pour moderniser les infrastructures existantes, y compris lorsque cette durée peut être prolongée en application
-des deuxième à dixième alinéas de l'article L. 1411-2 du code général des collectivités territoriales, les parties peuvent
-convenir, par voie d'avenant, des conditions d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas
-amortis au terme du contrat. La personne publique peut se faire rembourser tout ou partie du montant de cette indemnisation
-par le nouveau cocontractant désigné pour poursuivre l'exploitation du service.
+délégante pour moderniser les infrastructures existantes, les parties peuvent convenir, par voie d'avenant, des conditions
+d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas amortis au terme du contrat. La personne
+publique peut se faire rembourser tout ou partie du montant de cette indemnisation par le nouveau cocontractant désigné pour
+poursuivre l'exploitation du service.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 85
-
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-2 (V)
-	  - Code du tourisme. - art. L342-9 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 34
+	  - Code du tourisme. - art. L342-9
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 73
 
 
 ###### Article L342-4
@@ -4957,7 +4956,7 @@ b) Le titre II du livre VI de la première partie ;
 c) Le titre Ier du livre II de la deuxième partie ; 
 
 d) Les articles L. 1000-2, L. 1111-1, L. 1211-4, L. 1211-5, 
-L. 1221-3, L. 1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L. 1611-1.
+L. 1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L. 1611-1.
 
 **Liens relatifs à cet article**
 
@@ -4971,19 +4970,19 @@ L. 1221-3, L. 1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 6
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 73
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L342-1 (V)
-	  - Code des transports - art. L1000-2 (V)
-	  - Code des transports - art. L1111-1 (V)
-	  - Code des transports - art. L1211-4 (V)
-	  - Code des transports - art. L1221-3 (V)
-	  - Code des transports - art. L1221-9 (V)
-	  - Code des transports - art. L1311-3 (V)
-	  - Code des transports - art. L1431-2 (V)
-	  - Code des transports - art. L1521-1 (V)
+	  - Code du tourisme. - art. L342-1
+	  - Code des transports - art. L1000-2
+	  - Code des transports - art. L1111-1
+	  - Code des transports - art. L1211-4
+	  - Code des transports - art. L1221-4
+	  - Code des transports - art. L1221-9
+	  - Code des transports - art. L1311-3
+	  - Code des transports - art. L1431-2
+	  - Code des transports - art. L1521-1
 
 
 ###### Article L342-9
@@ -12439,8 +12438,6 @@ la recherche.
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.
 
-#### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.
-
 #### Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs
 
 ###### Article R233-1
@@ -12868,20 +12865,21 @@ par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du m
 
 ###### Article D311-10
 
-Selon des modalités fixées par arrêté, les exploitants des établissements relevant de l'industrie hôtelière doivent assurer à
-l'égard du client la publicité des prix de leurs prestations de services, notamment par affichage aux bureaux de réception et
-de caisse, dans chaque chambre et dans leurs salles de restaurants et, en outre, à l'extérieur de l'établissement pour ce qui
-concerne les prix des repas et prestations assurées par le restaurant.
+La décision de classement mentionnée à l'article D. 311-8 peut être abrogée ou modifiée pour la durée restant à courir de la
+décision initiale de classement lorsqu'au terme d'une procédure contradictoire initiée par l'organisme mentionné à l'article
+L. 141-2 à la suite d'une réclamation, l'exploitant n'établit pas la conformité au tableau de classement sur ou plusieurs
+critères au regard desquels le classement a été prononcé. 
+
+Un arrêté du ministre chargé du tourisme précise les conditions et modalités de modification ou d'abrogation d'une décision
+de classement et notamment les conditions dans lesquelles un certificat de contre-visite établi par un organisme évaluateur
+accrédité peut être requis, à peine d'abrogation de la décision de classement, afin de vérifier que les écarts de conformité
+par rapport aux critères de classement contestés ont été rectifiés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R311-12 (T)
+	  - Décret n°2016-51 du 27 janvier 2016 - art. 1
 
 
 ###### Article D311-11
@@ -15608,28 +15606,17 @@ l'urbanisme.
 
 ##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.
 
-###### Article D342-2
+###### Article R342-2
 
-Les dispositions des chapitres 1er et 3 du décret n° 2004-85 du 26 janvier 2004 relatif au enquêtes techniques après
-événements de mer, accident ou incident de transport terrestre s'appliquent aux remontées mécaniques et aux tapis roulants
-mentionnés à l'article L. 342-17-1.
+Les nouvelles remontées mécaniques, les nouveaux tapis roulants, ainsi que leurs modifications substantielles, sont conçus et
+réalisés de telle sorte que le niveau global de sécurité de leur exploitation pour les usagers, les personnels et les tiers
+soit au moins équivalent à celui des équipements assurant des services comparables, en tenant compte de l'évolution des
+règles de l'art et du retour d'expérience. Ces installations sont exploitées et entretenues dans des conditions permettant de
+maintenir ce niveau de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2004-85 du 26 janvier 2004
-	  - Code du tourisme. - art. L342-17-1
-
-	**Codifié par**:
-
-	  - Décret n°2006-1229 du 6 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
@@ -15762,7 +15749,8 @@ Le contrôle technique et de sécurité de l'Etat sur les remontées mécaniques
 
 2° Leur conformité à la réglementation technique et de sécurité ;
 
-3° L'exploitation, les règlements d'exploitation et de police ;
+3° L'exploitation, y compris la gestion de la sécurité et la maintenance de l'installation, ainsi que le règlement de
+police  ;
 
 4° Les accidents et incidents d'exploitation.
 
@@ -15774,20 +15762,17 @@ Le contrôle technique et de sécurité de l'Etat sur les remontées mécaniques
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
 
 ###### Article R342-8
 
 Le contrôle du respect de la réglementation technique et de sécurité prévue à l'article R. 342-3 est exercé, sous l'autorité
-du préfet, par les agents du ministère chargé des transports affectés à ces missions. 
-
-Lorsqu'une installation excède les limites territoriales d'un département, un arrêté conjoint des préfets concernés coordonne
-l'action des services de contrôle.
+du préfet, par les agents du ministère chargé des transports affectés à ces missions.
 
 **Liens relatifs à cet article**
 
@@ -15797,11 +15782,7 @@ l'action des services de contrôle.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
@@ -15815,9 +15796,13 @@ l'action des services de contrôle.
 	  - Arrêté du 12 avril 2016 - art. 8 (V)
 	  - Code du tourisme. - art. R342-13 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R342-3 (V)
+	  - Code du tourisme. - art. R342-3
 
 
 ###### Article R342-9
@@ -15849,19 +15834,22 @@ peuvent obtenir communication de tous documents ou pièces nécessaires à l'acc
 
 ###### Article R342-10
 
+Les accidents et incidents survenus lors de l'exploitation d'une remontée mécanique ou d'un tapis roulant font l'objet
+d'enquêtes dans les conditions prévues par les articles R. 1621-1 à R. 1621-26 du code des transports. 
+
 Tout accident grave est porté sans délai par l'exploitant de la remontée mécanique ou du tapis roulant en cause à la
 connaissance du préfet et du bureau d'enquêtes sur les accidents de transport terrestre. Cette information porte notamment
 sur les circonstances de l'accident. En outre, l'exploitant adresse au préfet, dans un délai de deux mois, un compte rendu
 sur cet accident qui précise les causes et les conséquences constatées de cet accident. Si la gravité ou les circonstances de
-l'accident l'exigent, le préfet peut soumettre la poursuite de l'exploitation à la production préalable du compte rendu.
+l'accident l'exigent, le préfet peut soumettre la poursuite de l'exploitation à la production préalable du compte rendu. 
 
-L'exploitant porte sans délai à la connaissance du préfet tout autre événement affectant la sécurité de l'exploitation.
+L'exploitant porte sans délai à la connaissance du préfet tout autre événement affectant la sécurité de l'exploitation. 
 
 Le préfet peut demander à l'exploitant d'analyser tout événement lié à la sécurité dont il a connaissance. En outre,
 lorsqu'il estime que cet événement aurait pu conduire à un accident grave, le préfet transmet le rapport d'analyse de cet
-événement établi par l'exploitant au bureau d'enquêtes sur les accidents de transport terrestre.
+événement établi par l'exploitant au bureau d'enquêtes sur les accidents de transport terrestre. 
 
-Dans tous les cas prévus par cet article, le préfet peut demander tout élément complémentaire d'information.
+Dans tous les cas prévus par cet article, le préfet peut demander tout élément complémentaire d'information. 
 
 Un arrêté du ministre chargé des transports précise les dispositions du présent article, notamment la nature des accidents
 graves et des événements mentionnés au troisième alinéa.
@@ -15874,11 +15862,7 @@ graves et des événements mentionnés au troisième alinéa.
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
@@ -15886,12 +15870,19 @@ graves et des événements mentionnés au troisième alinéa.
 	  - Arrêté du 26 juillet 2010 - art. 2 (V)
 	  - Arrêté du 26 juillet 2010 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. R1621-1
+
 
 ###### Article R342-11
 
-Toute modification du règlement d'exploitation, du règlement de police et, le cas échéant, du plan d'évacuation des usagers
-d'une remontée mécanique ou d'un tapis roulant fait l'objet, préalablement à son entrée en vigueur, d'un avis conforme du
-préfet. L'avis du préfet intervient dans un délai de deux mois après réception de la demande de modification.
+Toute modification du règlement de police d'une remontée mécanique ou d'un tapis roulant fait l'objet, préalablement à son
+entrée en vigueur, d'une approbation par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -15901,11 +15892,7 @@ préfet. L'avis du préfet intervient dans un délai de deux mois après récept
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
@@ -15915,20 +15902,31 @@ préfet. L'avis du préfet intervient dans un délai de deux mois après récept
 	  - Décret n°2016-29 du 19 janvier 2016 - art. 2 (VD)
 	  - Arrêté du 17 janvier 2017 - art. 1
 
+	**Modifié par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 
 ###### Article R342-12
 
-L'exploitant désigne un chef d'exploitation chargé d'assurer la direction technique d'une ou plusieurs remontées mécaniques
-ou tapis roulants et en informe le préfet. 
+L'exploitant veille à ce que, durant toute la durée de l'exploitation de ses installations, la sécurité des usagers, des
+personnels et des tiers soit assurée. 
 
-L'exploitant prend les mesures appropriées pour que l'organisation du travail respecte la réglementation technique et de
-sécurité prévue à l'article R. 342-3 et que le personnel affecté aux tâches de sécurité soit en nombre suffisant et
-correctement formé. 
+A cet effet, il élabore un système de gestion de la sécurité de son exploitation pour chaque groupe d'installations relevant
+d'une même collectivité organisatrice du service des remontées mécaniques qu'il gère. Un même système de gestion de la
+sécurité peut couvrir les installations relevant de plusieurs collectivités organisatrices du service des remontées
+mécaniques. 
 
-Pour chaque remontée mécanique ou tapis roulant, l'exploitant tient à jour un registre d'exploitation dans lequel sont
-notamment consignées les interventions effectuées en exploitation sur l'installation. 
+Le système de gestion de la sécurité de l'exploitation précise l'organisation mise en place par l'exploitant afin de
+respecter la réglementation technique et de sécurité mentionnée à l'article R. 342-3. Il prévoit les mesures de maintenance
+et les règles d'exploitation nécessaires pour assurer la sécurité pendant l'exploitation ainsi qu'un dispositif permanent de
+contrôle de leur respect. Il précise les spécifications à mettre en œuvre pour l'exécution des tâches de sécurité, notamment
+les mesures de nature à garantir la compétence du personnel. 
 
-Un arrêté du ministre chargé des transports précise, en tant que de besoin, les dispositions du présent article.
+Un arrêté du ministre chargé des transports précise le contenu du système de gestion de la sécurité. Il fixe la liste
+minimale des documents qu'il comprend, parmi lesquels figurent en particulier ceux énumérés au 5° de l'article R. 472-15 du
+code de l'urbanisme, à l'exception du règlement de police. Il détermine, parmi les documents de cette liste, ceux qui doivent
+être transmis au préfet ainsi que leurs modifications, avant leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -15938,11 +15936,7 @@ Un arrêté du ministre chargé des transports précise, en tant que de besoin, 
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
@@ -15963,18 +15957,139 @@ Un arrêté du ministre chargé des transports précise, en tant que de besoin, 
 	  - Décret n°2017-694 du 2 mai 2017 - art. 44 (VD)
 	  - Code du tourisme. - art. R342-12-4 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R342-3 (V)
+	  - Code du tourisme. - art. R342-3
+	  - Code de l'urbanisme - art. R472-15
+
+
+###### Article R342-12-1
+
+Sauf lorsque le système de gestion de la sécurité est soumis à un contrôle périodique dans les conditions prévues à l'article
+R. 342-12-2, ses orientations et leurs modifications doivent être approuvées par le préfet du département dans lequel est
+implantée l'installation concernée avant le début de son exploitation ou avant la mise en œuvre de la modification. Le préfet
+peut autoriser temporairement des dérogations aux orientations du système de gestion de la sécurité. 
+
+Les modalités d'application du présent article sont précisées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2016 - art. 3 (V)
+	  - Code du tourisme. - art. R342-12-2 (VD)
+
+
+###### Article R342-12-2
+
+Le contrôle périodique mentionné à l'article R. 342-12-1 porte sur l'adéquation du système de gestion de la sécurité aux
+enjeux de sécurité de l'exploitation. 
+
+L'exploitant le fait effectuer tous les deux ans au moins : 
+
+a) Soit par un organisme d'inspection accrédité, sur la base de la norme NF pertinente ou d'une norme équivalente, qui
+s'engage auprès de l'exploitant à remettre son rapport de contrôle dans les conditions prévues à l'article R. 342-12-4 et à
+informer annuellement le service technique des remontées mécaniques et des transports guidés des conclusions qu'il tire de
+son activité d'évaluation des systèmes de gestion de la sécurité ; 
+
+b) Soit par un organisme d'inspection agréé pour une durée de cinq ans par le service technique des remontées mécaniques et
+des transports guidés, au regard de sa compétence et de son indépendance, ainsi que de son engagement à respecter les
+principes d'impartialité et de confidentialité, à remettre ses rapports de contrôle dans les conditions prévues à l'article
+R. 342-12-4, à transmettre à ce service un rapport annuel d'activité et à l'informer de toute modification des éléments au vu
+desquels l'agrément a été délivré ; 
+
+c) Soit par une personne physique agréée comme auditeur de système de gestion de la sécurité dans les mêmes conditions. 
+
+Dans le cas où un exploitant ne disposant d'aucun téléphérique ou chemin de fer funiculaire ou à crémaillère choisit de se
+soumettre au contrôle périodique, l'intervalle entre les contrôles est d'au plus trois ans. 
+
+Un arrêté du ministre chargé des transports précise le contenu du dossier de demande des agréments mentionnés aux b et c et
+les conditions dans lesquelles un agrément peut être retiré si l'une des conditions ayant présidé à sa délivrance n'est plus
+remplie ou si les engagements pris ne sont pas respectés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+	  - Arrêté du 3 mars 2016 - art. 1
+	  - Arrêté du 12 avril 2016 - art. 11 (V)
+	  - Arrêté du 12 avril 2016 - art. 12 (V)
+	  - Arrêté du 12 avril 2016 - art. 6 (V)
+	  - Arrêté du 12 avril 2016 - art. 9 (V)
+	  - Arrêté du 30 décembre 2016 - art. 6 (V)
+	  - Code du tourisme. - art. R342-12-3 (VD)
+
+
+###### Article R342-12-3
+
+Lorsqu'ils choisissent de soumettre leur système de gestion de la sécurité au contrôle périodique dans les conditions prévues
+par l'article R. 342-12-2, les exploitants en informent le préfet. Ils font effectuer un premier contrôle dans un délai
+maximum de six mois à compter de cette information. 
+
+Le contrôle périodique est obligatoire pour les exploitants disposant d'un nombre de téléphériques ou de chemins de fer
+funiculaires ou à crémaillère supérieur à un nombre fixé par arrêté du ministre chargé des transports. Tout exploitant
+nouvellement soumis à cette obligation fait procéder au premier contrôle de son système de gestion de la sécurité dans un
+délai maximum de six mois à compter de la date à laquelle il commence à exploiter des installations dont le nombre excède le
+seuil fixé par cet arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. R342-12-2
+
+
+###### Article R342-12-4
+
+Chaque contrôle donne lieu à un rapport indiquant les non-conformités constatées et les améliorations souhaitables, qui est
+transmis par son auteur à l'exploitant et au préfet dans les deux mois suivant le contrôle. 
+
+Dans les deux mois suivant sa réception, l'exploitant informe le préfet des dispositions prises pour garantir le respect de
+l'objectif de sécurité mentionné au premier alinéa de l'article R. 342-12. 
+
+Si l'exploitant ne fait pas réaliser le contrôle périodique dans les délais prévus, le préfet peut mettre en œuvre les
+mesures prévues au IV de l'article L. 342-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-17
+	  - Code du tourisme. - art. R342-12
 
 
 ###### Article R342-13
 
 Afin de vérifier leur état de fonctionnement et d'entretien, les remontées mécaniques et les tapis roulants font l'objet de
 contrôles réalisés par l'exploitant et de vérifications réalisées par les personnes mentionnées à l'article R. 342-14. Pour
-chaque type d'installation, un arrêté du ministre précise la périodicité et le contenu de ces contrôles et vérifications
-ainsi que les modalités suivant lesquelles les services de contrôle mentionnés à l'article R. 342-8 sont préalablement
-informés. 
+chaque type d'installation, un arrêté du ministre     chargé des transports précise les modalités de ces contrôles et
+vérifications ainsi que les modalités suivant lesquelles les services de contrôle mentionnés à l'article R. 342-8 sont
+préalablement informés. 
 
 L'exploitant transmet au préfet le compte rendu des contrôles et vérifications effectués et les attestations correspondantes.
 
@@ -15986,11 +16101,7 @@ L'exploitant transmet au préfet le compte rendu des contrôles et vérification
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-	**Modifié par**:
-
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2006-1229 du 6 octobre 2006
 
 	**Cité par**:
 
@@ -16001,9 +16112,13 @@ L'exploitant transmet au préfet le compte rendu des contrôles et vérification
 	  - Arrêté du 9 août 2011 - art. 60 (V)
 	  - Code du tourisme. - art. R342-14 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 	**Cite**:
 
-	  - Code du tourisme. - art. R342-8 (V)
+	  - Code du tourisme. - art. R342-8
 
 
 ###### Article R342-14
@@ -16159,6 +16274,9 @@ semblables, le préfet peut, après consultation du service technique des remont
 prononcer dans les mêmes conditions que celles prévues au IV de l'article L. 342-17 précité, la suspension ou l'arrêt des
 installations concernées. 
 
+Si la menace pour la sécurité est due à un défaut du système de gestion de la sécurité de l'exploitation ou de sa mise en
+œuvre, le préfet peut suspendre l'activité de l'exploitant sur tout ou partie de ses installations. 
+
 En cas d'implantation d'installations techniquement semblables sur plusieurs départements, le ministre chargé des transports
 est l'autorité compétente de l'Etat visée au III et IV de l'article L. 342-17.
 
@@ -16166,11 +16284,11 @@ est l'autorité compétente de l'Etat visée au III et IV de l'article L. 342-17
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
 	**Cité par**:
 
@@ -16178,12 +16296,7 @@ est l'autorité compétente de l'Etat visée au III et IV de l'article L. 342-17
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L342-17 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
-	  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+	  - Code du tourisme. - art. L342-17
 
 
 ###### Article R342-19
@@ -16210,6 +16323,19 @@ de remontées mécaniques et de tapis roulants.
 	**Créé par**:
 
 	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+
+###### Article R342-19-1
+
+Un arrêté du ministre chargé des transports peut écarter l'application de certaines dispositions de la présente sous-section
+aux remontées mécaniques transfrontalières, ou y déroger, dès lors que l'encadrement juridique de l'exploitation de ces
+installations est de nature à garantir un niveau de sécurité équivalent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
 
 ###### Article R342-20
