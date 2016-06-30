@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-05-06
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -3126,22 +3126,24 @@ premier ressort par la juridiction saisie.
 
 III.-Tout manquement à la section 2 du présent chapitre est passible d'une amende administrative dont le montant ne peut
 excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions
-prévues à l'article L. 141-1-2 du code de la consommation.
+prévues au chapitre II du titre II du livre V du code de la consommation.
+
+Ces manquements sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la
+consommation, dans les conditions prévues à l'article L. 511-7 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 55
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 19
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-60
-	  - Code de la consommation - art. L141-1-2
-	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. L211-1
 	  - Code du tourisme. - art. L211-18
 	  - Code du tourisme. - art. L211-24
-	  - Code du tourisme. - art. L211-4 (V)
+	  - Code du tourisme. - art. L211-4
 
 
 ##### Section 8 : Contrat de jouissance d'immeuble à temps partagé
