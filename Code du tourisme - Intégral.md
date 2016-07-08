@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-09
 
 # Partie législative
 
@@ -3195,9 +3195,11 @@ conditions de la rémunération du mandataire sont définis par décret en Conse
 
 ###### Article L221-1
 
-Pour la conduite de visites commentées dans les musées et les monuments historiques, les personnes physiques ou morales
-titulaires d'une licence immatriculées au registre mentionné au I de l'article L. 211-18 ne peuvent utiliser que les services
-de personnes qualifiées remplissant les conditions fixées par décret en Conseil d'Etat.
+Pour la conduite de visites guidées dans les musées de France et les monuments historiques, les personnes physiques ou
+morales réalisant, y compris à titre accessoire, les opérations mentionnées au I de l'article L. 211-1 ne peuvent utiliser
+que les services de personnes qualifiées titulaires de la carte professionnelle de guide-conférencier délivrée dans des
+conditions fixées par décret en Conseil d'Etat. Les personnes morales mentionnées au III de l'article L. 211-18 ne sont pas
+soumises à cette obligation.
 
 **Liens relatifs à cet article**
 
@@ -3216,10 +3218,11 @@ de personnes qualifiées remplissant les conditions fixées par décret en Conse
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 2
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 109
 
 	**Cite**:
 
+	  - Code du tourisme. - art. L211-1 (VT)
 	  - Code du tourisme. - art. L211-18 (V)
 
 
