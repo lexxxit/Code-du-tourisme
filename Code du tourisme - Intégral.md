@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -5710,19 +5710,18 @@ prévues aux articles L. 331-2 et L. 331-3 du code de l'environnement.
 
 ###### Article L343-3
 
-Les règles relatives à la circulation des véhicules à moteur sur les voies et chemins de chaque commune comprise en tout ou
-partie dans le coeur d'un parc national ou adhérente à la charte du parc sont fixées par l'article L. 362-1 du code de
-l'environnement.
+Les règles relatives à la circulation des véhicules à moteur sur les voies et chemins dans les parcs nationaux  sont fixées
+par l'article L. 362-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - Loi n°2016-1087 du 8 août 2016 - art. 54 (V)
 
 	**Anciens textes**:
 
@@ -5734,49 +5733,45 @@ l'environnement.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L362-1 (V)
+	  - Code de l'environnement - art. L362-1
 
 
 ##### Sous-section 2 : Parcs naturels régionaux.
 
 ###### Article L343-4
 
-Les règles relatives aux parcs naturels régionaux sont fixées par les articles L. 333-2 à L. 333-4 du code de
+Les règles relatives aux parcs naturels régionaux sont fixées par les articles L. 333-1 à L. 333-3 du code de
 l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - Loi n°2016-1087 du 8 août 2016 - art. 54 (V)
 
 	**Anciens textes**:
 
 	  - Code du tourisme. - art. L343-3 (T)
 
-	**Cite**:
-
-	  - Code de l'environnement - art. L333-2 (V)
-
 
 ###### Article L343-5
 
-Les règles relatives à la circulation des véhicules à moteur sur les voies et chemins de chaque commune adhérente du parc
-sont fixées par l'article L. 362-1 du code de l'environnement.
+Les règles relatives à la circulation des véhicules à moteur sur les voies et chemins dans les parcs naturels régionaux  sont
+fixées par l'article L. 362-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 26 () JORF 15 avril 2006
+	  - Loi n°2016-1087 du 8 août 2016 - art. 54 (V)
 
 	**Anciens textes**:
 
