@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -2354,7 +2354,7 @@ présent I.
 
 II.-Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 peuvent réaliser sous
 forme électronique les opérations mentionnées au I du présent article dans les conditions prévues par le présent chapitre et
-par les articles 1369-4 à 1369-6 du code civil, L. 121-15-1 à L. 121-15-3 du code de la consommation et la section 2 du
+par les articles 1127-1 à 1127-3 du code civil, L. 121-15-1 à L. 121-15-3 du code de la consommation et la section 2 du
 chapitre Ier du titre II du livre Ier du même code, à l'exception des dispositions prévues au premier alinéa de l'article L.
 121-19-4. 
 
@@ -2368,11 +2368,6 @@ qu'en faveur de leurs membres.
 
 V.-Le présent chapitre s'applique aux personnes physiques ou morales qui émettent des bons permettant d'acquitter le prix de
 l'une des prestations mentionnées au présent article et à l'article L. 211-2.
-
-**Nota:**
-
-Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
-s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -2439,13 +2434,13 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-15-1
-	  - Code de la consommation - art. L121-19-4 (V)
-	  - Code civil - art. 1369-4
+	  - Code de la consommation - art. L121-19-4
+	  - Code civil - art. 1127-1 (VD)
 	  - Code du tourisme. - art. L211-2
 
 
@@ -10250,20 +10245,22 @@ sont faites par les dispositions réglementaires de la présente section.
 ###### Article R211-3-1
 
 L'échange d'informations précontractuelles ou la mise à disposition des conditions contractuelles est effectué par écrit. Ils
-peuvent se faire par voie électronique dans les conditions de validité et d'exercice prévues aux articles 1369-1 à 1369-11 du
-code civil. Sont mentionnés le nom ou la raison sociale et l'adresse du vendeur ainsi que l'indication de son immatriculation
-au registre prévu au a de l'article L. 141-3 ou, le cas échéant, le nom, l'adresse et l'indication de l'immatriculation de la
-fédération ou de l'union mentionnées au deuxième alinéa de l'article R. 211-2.
+peuvent se faire par voie électronique dans les conditions de validité et d'exercice prévues aux articles 1125 à 1127-6, 1176
+et 1177 du code civil. Sont mentionnés le nom ou la raison sociale et l'adresse du vendeur ainsi que l'indication de son
+immatriculation au registre prévu au a de l'article L. 141-3 ou, le cas échéant, le nom, l'adresse et l'indication de
+l'immatriculation de la fédération ou de l'union mentionnées au deuxième alinéa de l'article R. 211-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1369-1
+	  - Code civil - art. 1125
+	  - Code civil - art. 1176
+	  - Code civil - art. 1177
 	  - Code du tourisme. - art. L141-3
 	  - Code du tourisme. - art. R211-2
 
@@ -10362,7 +10359,7 @@ la conclusion du contrat.
 
 Le contrat conclu entre le vendeur et l'acheteur doit être écrit, établi en double exemplaire dont l'un est remis à
 l'acheteur, et signé par les deux parties. Lorsque le contrat est conclu par voie électronique, il est fait application des
-articles 1369-1 à 1369-11 du code civil. Le contrat doit comporter les clauses suivantes : 
+articles 1125 à 1127-6, 1176 et 1177 du code civil. Le contrat doit comporter les clauses suivantes : 
 
 1° Le nom et l'adresse du vendeur, de son garant et de son assureur ainsi que le nom et l'adresse de l'organisateur ; 
 
@@ -10436,15 +10433,15 @@ d'arrivée.
 	**Anciens textes**:
 
 	  - Décret n°94-490 du 15 juin 1994 - art. 96 (Ab)
-	  - Code du tourisme. - art. R211-8 (T)
 
 	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1369-1
+	  - Code civil - art. 1125
+	  - Code civil - art. 1176
 	  - Code du tourisme. - art. R211-4
 	  - Code du tourisme. - art. R211-9
 
@@ -11843,7 +11840,7 @@ peuvent être transférés à un autre compte de même nature que s'ils sont cou
 
 La mention de tous les versements ou remises faits à l'opérateur de voyages doit être immédiatement portée, par ordre
 chronologique, sur un registre des versements ou remises, qui peut être tenu sous forme électronique dans les conditions
-définies aux articles 1316-1 à 1316-4 du code civil et qui est conservé pendant dix ans.
+définies aux articles 1366 et 1367 du code civil et qui est conservé pendant dix ans.
 
 L'opérateur de voyages est tenu de faire ouvrir, à son nom, dans un établissement de crédit, un compte qui est exclusivement
 affecté à la réception des versements ou remises. Il ne peut être ouvert à son nom qu'un seul compte de cette nature. 
@@ -11855,23 +11852,20 @@ Les modalités d'application du présent article sont fixées par arrêté du mi
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1316-1
+	  - Code civil - art. 1366
+	  - Code civil - art. 1367
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R211-45 (V)
 	  - Code du tourisme. - art. R211-46 (V)
 	  - Code du tourisme. - art. R211-47 (V)
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-10 (T)
 
 
 ###### Article R211-49
@@ -11885,31 +11879,27 @@ les parties ou l'une d'entre elles en supportent la charge. Le mandat indique ex
 application de l'article L. 121-66 du code de la consommation, exiger ou recevoir, directement ou indirectement, aucun bien,
 effet, valeur, somme d'argent, représentatif de commissions ou de frais de recherche, de démarche, de publicité ou
 d'entremise avant l'expiration du délai de rétractation. Le mandataire ne peut exiger ou percevoir d'autres sommes que celles
-prévues par le contrat de jouissance d'immeuble à temps partagé.
+prévues par le contrat de jouissance d'immeuble à temps partagé. 
 
 L'opérateur de voyages mentionne par ordre chronologique chaque mandat sur un registre, qui peut être tenu sous forme
-électronique dans les conditions définies aux articles 1316-1 à 1316-4 du code civil et qui est conservé pendant dix ans. Le
+électronique dans les conditions définies aux articles 1366 et 1367 du code civil et qui est conservé pendant dix ans. Le
 numéro d'inscription sur ce registre est reporté sur chaque exemplaire du mandat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-66
-	  - Code civil - art. 1316-1
+	  - Code civil - art. 1366
 	  - Code du tourisme. - art. L211-24
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. R211-45 (V)
-
-	**Anciens textes**:
-
-	  - Code du tourisme. - art. R212-11 (T)
 
 
 ##### Section 10 : Liberté d'établissement et libre prestation de service. 
