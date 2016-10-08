@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -4056,18 +4056,36 @@ L'organisme qui a effectué la visite de classement transmet sa décision de cla
 
 ###### Article L324-1-1
 
-Toute personne qui offre à la location un meublé de tourisme, que celui-ci soit classé ou non au sens du présent code, doit
-en avoir préalablement fait la déclaration auprès du maire de la commune où est situé le meublé. 
+I.-Toute personne qui offre à la location un meublé de tourisme, que celui-ci soit classé ou non au sens du présent code,
+doit en avoir préalablement fait la déclaration auprès du maire de la commune où est situé le meublé. 
 
 Cette déclaration préalable n'est pas obligatoire lorsque le local à usage d'habitation constitue la résidence principale du
 loueur, au sens de l'article 2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
-modification de la loi n° 86-1290 du 23 décembre 1986.
+modification de la loi n° 86-1290 du 23 décembre 1986. 
+
+II.-Dans les communes où le changement d'usage des locaux destinés à l'habitation est soumis à autorisation préalable au sens
+des articles L. 631-7 et L. 631-9 du code de la construction et de l'habitation une délibération du conseil municipal peut
+décider de soumettre à une déclaration préalable soumise à enregistrement auprès de la commune toute location pour de courtes
+durées d'un local meublé en faveur d'une clientèle de passage qui n'y élit pas domicile. 
+
+Lorsqu'elle est mise en œuvre, cette déclaration soumise à enregistrement se substitue à la déclaration mentionnée au I du
+présent article. 
+
+Un téléservice permet d'effectuer la déclaration. La déclaration peut également être faite par tout autre moyen de dépôt
+prévu par la délibération susmentionnée. 
+
+Dès réception, la déclaration donne lieu à la délivrance sans délai par la commune d'un accusé-réception comprenant un numéro
+de déclaration. 
+
+Un décret détermine les informations qui peuvent être exigées pour l'enregistrement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°89-462 du 6 juillet 1989 - art. 2 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 2
+	  - Code de la construction et de l'habitation. - art. L631-7 (V)
+	  - Code de la construction et de l'habitation. - art. L631-9 (V)
 
 	**Cité par**:
 
@@ -4075,12 +4093,12 @@ modification de la loi n° 86-1290 du 23 décembre 1986.
 	  - Décret n°2017-678 du 28 avril 2017 (V)
 	  - Code du tourisme. - art. D324-1 (V)
 	  - Code du tourisme. - art. D324-1-1 (V)
-	  - Code du tourisme. - art. L324-2-1 (M)
+	  - Code du tourisme. - art. L324-2-1 (V)
 	  - Code du tourisme. - art. R324-1-2 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 10
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 51
 
 
 ###### Article L324-2
@@ -4088,40 +4106,54 @@ modification de la loi n° 86-1290 du 23 décembre 1986.
 Toute offre ou contrat de location saisonnière doit revêtir la forme écrite et contenir l'indication du prix demandé ainsi
 qu'un état descriptif des lieux.
 
+Toute offre de location mentionnée au II de l'article L. 324-1-1 contient le numéro de déclaration mentionné à cet article.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°65-997 1965-11-29 art. 58-1, III
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 2006-04-14 art. 21 I, II JORF 15 avril 2006
-	  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 51
 
 
 ###### Article L324-2-1
 
-Toute personne qui se livre ou prête son concours contre rémunération, par une activité d'entremise ou de négociation ou par
-la mise à disposition d'une plateforme numérique, à la mise en location d'un logement soumis à l'article L. 324-1-1 du
+I. - Toute personne qui se livre ou prête son concours contre rémunération, par une activité d'entremise ou de négociation ou
+par la mise à disposition d'une plateforme numérique, à la mise en location d'un logement soumis à l'article L. 324-1-1 du
 présent code et aux articles L. 631-7 et suivants du code de la construction et de l'habitation informe le loueur des
 obligations de déclaration ou d'autorisation préalables prévues par ces articles et obtient de lui, préalablement à la
-location du bien, une déclaration sur l'honneur attestant du respect de ces obligations.
+location du bien, une déclaration sur l'honneur attestant du respect de ces obligations, indiquant si le logement constitue
+ou non sa résidence principale au sens de l'article 2 de la loi n° 89-462 du 6 juillet 1989, ainsi que, le cas échéant, le
+numéro de déclaration du logement, obtenu en application du II de l'article L. 324-1-1 du présent code.
+
+II. - Toute personne qui se livre ou prête son concours contre rémunération, par une activité d'entremise ou de négociation
+ou par la mise à disposition d'une plateforme numérique, à la mise en location d'un local meublé soumis au II de l'article L.
+324-1-1 et aux articles L. 631-7 et suivants du code de la construction et de l'habitation publie dans l'annonce relative au
+local, son numéro de déclaration, obtenu en application du II de l'article L. 324-1-1 du présent code.
+
+Elle veille à ce que le logement proposé à la location ou à la sous-location ne soit pas loué plus de cent vingt jours par an
+par son intermédiaire lorsque le logement constitue la résidence principale du loueur au sens de l'article 2 de la loi n°
+89-462 du 6 juillet 1989 précitée. A cette fin, lorsqu'elle en a connaissance, elle décompte le nombre de nuits faisant
+l'objet d'une occupation, et en informe, à sa demande, annuellement, la commune du logement loué. Au-delà de cent vingt jours
+de location, le logement ne peut plus faire l'objet d'une offre de location par son intermédiaire jusqu'à la fin de l'année
+en cours.
+
+III. - Les modalités de contrôle et de sanction aux manquements aux obligations prévues par le II du présent article sont
+fixées par décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 11
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 51
 
 	**Cite**:
 
 	  - Code du tourisme. - art. L324-1-1 (V)
-	  - Code de la construction et de l'habitation. - art. L631-7 (V)
+	  - Code de la construction et de l'habitation. - art. L631-7
 
 
 ##### Section 2 : Chambres d'hôtes
