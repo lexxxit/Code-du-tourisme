@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2016-12-30
 
 # Partie législative
 
@@ -1196,8 +1196,9 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 ###### Article L134-1
 
 La communauté de communes, la communauté d'agglomération, la communauté urbaine, la métropole ou la métropole de Lyon exerce
-de plein droit, en lieu et place de ses communes membres, dans les conditions prévues, respectivement, aux articles L.
-5214-16, L. 5216-5, L. 5215-20 et L. 5215-20-1, L. 5217-2 et L. 3641-1 du code général des collectivités territoriales :
+de plein droit, en lieu et place de ses communes membres, dans les conditions et sous les réserves prévues, respectivement,
+aux articles L. 5214-16, L. 5216-5, L. 5215-20 et L. 5215-20-1, L. 5217-2 et L. 3641-1 du code général des collectivités
+territoriales :
 
 1° La compétence en matière de création, d'aménagement, d'entretien et de gestion de zones d'activité touristique ;
 
@@ -1211,15 +1212,15 @@ de plein droit, en lieu et place de ses communes membres, dans les conditions pr
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 69
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3641-1 (VD)
-	  - Code général des collectivités territoriales - art. L5214-16
-	  - Code général des collectivités territoriales - art. L5215-20 (M)
+	  - Code général des collectivités territoriales - art. L3641-1
+	  - Code général des collectivités territoriales - art. L5214-16 (M)
+	  - Code général des collectivités territoriales - art. L5215-20
 	  - Code général des collectivités territoriales - art. L5215-20-1
-	  - Code général des collectivités territoriales - art. L5216-5
+	  - Code général des collectivités territoriales - art. L5216-5 (M)
 	  - Code général des collectivités territoriales - art. L5217-2
 
 	**Cité par**:
@@ -3914,83 +3915,26 @@ chargé du tourisme.
 
 ###### Article L322-1
 
-Les règles relatives aux opérations de réhabilitation de l'immobilier de loisir sont fixées par l'article L. 318-5 du code de
-l'urbanisme ci-après reproduit : 
-
-" Art. L. 318-5 du code de l'urbanisme. 
-
-Les opérations de réhabilitation de l'immobilier de loisir ont pour objet l'amélioration du parc immobilier touristique et
-l'amélioration des espaces publics, du stationnement, des équipements d'infrastructures et du traitement de l'environnement. 
-
-Elles tendent à améliorer l'offre qualitative des logements locatifs à destination de la clientèle touristique et du
-personnel saisonnier ainsi qu'à maintenir ou à développer l'offre de services de proximité. 
-
-Elles sont créées par délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
-intercommunale compétent. 
-
-La délibération créant une opération de réhabilitation de l'immobilier de loisir précise :
-
-- le périmètre de l'opération ;
-
-- les conditions de financement de l'opération, le cas échéant les aides susceptibles d'être accordées par les collectivités
-territoriales ou leurs groupements ;
-
-- l'objectif et le délai maximal de réhabilitation de logements ;
-
-- les actions d'accompagnement et d'amélioration du cadre de vie prévues. 
-
-La même délibération précise en outre les bénéficiaires des aides, qui sont :
-
-- les propriétaires bailleurs engagés contractuellement pour une durée équivalente ou supérieure à neuf ans dans une mise en
-marché locatif auprès d'un professionnel ou d'un organisme local de tourisme agréé ;
-
-- les personnes physiques ou morales ayant la charge des travaux de réhabilitation et la mise en marché locatif durable ;
-
-- la copropriété ayant la charge des travaux relatifs aux parties communes. "
+Les règles relatives aux opérations de réhabilitation de l'immobilier de loisir sont fixées à l'article L. 318-5 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-
-#### Chapitre 3 : Villages résidentiels de tourisme
-
-###### Article L323-1
-
-L'Etat détermine les procédures de classement des villages résidentiels de tourisme selon des modalités fixées par décret. 
-
-L'établissement est classé par l'organisme mentionné à l'article L. 141-2 dans une catégorie en fonction de critères fixés
-par un tableau de classement élaboré par ce même organisme et homologué par arrêté du ministre chargé du tourisme. 
-
-S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
-Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
-domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
-2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
-cadre de la coordination européenne des organismes d'accréditation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 137
-	  - Code du tourisme. - art. L141-2
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
-	  - Loi n°2012-387 du 22 mars 2012 - art. 94
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 80
 
-	**Cité par**:
+	**Liens**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
-	  - Arrêté du 2 août 2010 - art. 2 (VD)
-	  - Code du tourisme. - art. D323-5 (V)
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L318-5
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Loi n°2016-1888 du 28 décembre 2016 - art. 82 (V)
+	  - Code de l'urbanisme - art. L318-5 (V)
 
 
 #### Chapitre 4 : Meublés de tourisme et chambres d'hôtes
@@ -4266,18 +4210,22 @@ publication de la présente loi.
 
 ###### Article L326-1
 
-Un refuge est un établissement recevant du public, en site isolé de montagne, gardé ou non gardé. Ses caractéristiques sont
-définies par décret.
+Un refuge est un établissement en site isolé de montagne, gardé ou non gardé, recevant du public. 
+
+Les mineurs peuvent être hébergés dans un refuge gardé ou, lorsqu'ils sont accompagnés, dans un refuge non gardé. 
+
+Un décret fixe les conditions d'application du présent article et adapte les normes de sécurité et d'hygiène aux spécificités
+des zones de montagne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 22 () JORF 15 avril 2006
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 83
 
 	**Cité par**:
 
@@ -5309,19 +5257,19 @@ Les conditions d'application du présent article sont précisées par un décret
 La servitude prévue aux articles L. 342-20 à L. 342-23 ne peut être établie qu'à l'intérieur des zones et des secteurs
 délimités dans les plans locaux d'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de
 faciliter la pratique du ski de fond ou l'accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de nature
-au sens de l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités
-physiques et sportives ainsi que l'accès aux refuges de montagne.
+au sens de L. 311-1 du code du sport ainsi que l'accès aux refuges de montagne.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 50-1
-	  - Code du tourisme. - art. L342-20
-
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 68
+
+	**Cite**:
+
+	  - Code du sport. - art. L311-1 (V)
+	  - Code du tourisme. - art. L342-20
 
 	**Cité par**:
 
@@ -5353,26 +5301,21 @@ l'approbation de la modification ou de la révision de ce plan.
 
 Les propriétés privées ou faisant partie du domaine privé d'une collectivité publique peuvent être grevées, au profit de la
 commune, du groupement de communes, du département ou du syndicat mixte concerné, d'une servitude destinée à assurer le
-passage, l'aménagement et l'équipement des pistes de ski et des sites nordiques destinés à accueillir des loisirs de neige
-non motorisés organisés, le survol des terrains où doivent être implantées des remontées mécaniques, l'implantation des
+passage, l'aménagement et l'équipement des pistes de ski alpin et des sites nordiques destinés à accueillir des loisirs de
+neige non motorisés organisés, le survol des terrains où doivent être implantées des remontées mécaniques, l'implantation des
 supports de lignes dont l'emprise au sol est inférieure à quatre mètres carrés, le passage des pistes de montée, les accès
-nécessaires à l'implantation, l'entretien et la protection des pistes et des installations de remontée mécanique, et, lorsque
-la situation géographique le nécessite, les accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de
-nature au sens de l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 précitée ainsi que les accès aux refuges de
-montagne. 
+nécessaires à l'implantation, l'entretien et la protection des pistes et des installations de remontée mécanique. 
 
-Une servitude peut être instituée pour assurer, dans le périmètre d'un site nordique, le passage, l'aménagement et
-l'équipement de pistes de loisirs non motorisés en dehors des périodes d'enneigement.
+Après avis consultatif de la chambre d'agriculture, une servitude peut être instituée pour assurer, dans le périmètre d'un
+site nordique ou d'un domaine skiable, le passage, l'aménagement et l'équipement de pistes de loisirs non motorisés en dehors
+des périodes d'enneigement. Cet avis est réputé favorable s'il n'intervient pas dans un délai de deux mois à compter de la
+transmission de la demande d'institution de la servitude. 
+
+Lorsque la situation géographique le nécessite, une servitude peut être instituée pour assurer les accès aux sites
+d'alpinisme, d'escalade en zone de montagne et de sports de nature, au sens de l'article L. 311-1 du code du sport, ainsi que
+les accès aux refuges de montagne.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 50-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°85-30 1985-01-09 art. 53, al
 
 	**Cité par**:
 
@@ -5390,11 +5333,15 @@ l'équipement de pistes de loisirs non motorisés en dehors des périodes d'enne
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 	**Modifié par**:
 
-	  - Loi n°2006-437 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 68
+
+	**Cite**:
+
+	  - Code du sport. - art. L311-1 (V)
 
 
 ###### Article L342-21
@@ -5558,12 +5505,41 @@ la servitude, un état des lieux, demandé par la partie la plus diligente, sera
 	  - Code du tourisme. - art. L342-25 (VT)
 
 
-##### Section 4 : Ski de fond.
+###### Article L342-26-1
+
+Lorsque la servitude instituée en application des articles L. 342-20 à L. 342-23 est susceptible de compromettre gravement
+l'exploitation agricole ou sylvicole d'un terrain grevé, son ou ses propriétaires peuvent, à compter de la publication de
+l'acte créant la servitude, mettre en demeure son bénéficiaire de procéder à l'acquisition du terrain grevé dans les
+conditions et délais prévus aux articles L. 230-1 et suivants du code de l'urbanisme. 
+
+A défaut d'accord amiable, le prix est fixé selon les règles énoncées aux articles L. 342-25 et L. 342-26 du présent code.
+Si, trois mois après l'expiration du délai mentionné au premier alinéa de l'article L. 230-3 du code de l'urbanisme, le juge
+de l'expropriation n'a pas été saisi, la servitude n'est plus opposable au propriétaire comme aux tiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 68
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-20 (V)
+	  - Code du tourisme. - art. L342-25 (V)
+	  - Code de l'urbanisme - art. L230-1 (V)
+	  - Code de l'urbanisme - art. L230-3 (V)
+
+
+##### Section 4 : Ski de fond et loisirs de neige non motorisés autres que le ski alpin
 
 ###### Article L342-27
 
 Sur proposition du ou des conseils départementaux ou du conseil régional concernés, il peut être créé dans les départements
-de montagne une association départementale, interdépartementale ou régionale pour la promotion du ski de fond.
+de montagne une association départementale, interdépartementale ou régionale pour la promotion du ski de fond et des loisirs
+de neige non motorisés autres que le ski alpin.
+
+Les associations créées en application du premier alinéa peuvent se  regrouper au sein d'une association nationale en vue de
+coordonner leurs  activités.
 
 **Nota:**
 
@@ -5577,7 +5553,7 @@ de montagne une association départementale, interdépartementale ou régionale 
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 70
 
 	**Cité par**:
 
@@ -5589,40 +5565,51 @@ de montagne une association départementale, interdépartementale ou régionale 
 
 ###### Article L342-28
 
-Cette association peut regrouper les régions et les départements concernés, les communes ou syndicats de communes dont le
-territoire supporte ou peut supporter des équipements, installations ou pistes pour la pratique du ski de fond, les
-gestionnaires de ces équipements et, le cas échéant, à leur demande, des associations représentatives des usagers.
+L'association mentionnée au premier alinéa de l'article L. 342-27 peut regrouper les régions et les départements concernés,
+les communes ou syndicats de communes dont le territoire supporte ou peut supporter des équipements, installations ou pistes
+pour la pratique du ski de fond et des loisirs de neige non motorisés autres que le ski alpin, les gestionnaires de ces
+équipements et, le cas échéant, à leur demande, des associations représentatives des usagers.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 2
-	  - Loi n°85-30 1985-01-09 art. 84, al
-	  - Loi n°85-30 du 9 janvier 1985 - art. 84 (M)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 70
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-27 (V)
 
 
 ###### Article L342-29
 
-L'association départementale, interdépartementale ou régionale ainsi créée a pour objet de contribuer sur le territoire des
-départements concernés à toutes actions propres à faciliter la pratique du ski de fond et notamment le développement des
-équipements, la coordination des actions de promotion et l'harmonisation du montant des redevances.
+En liaison avec l'association nationale mentionnée au second alinéa de l'article L. 342-27, l'association départementale,
+interdépartementale ou régionale créée en application du premier alinéa du même article L. 342-27 a pour objet de contribuer
+sur le territoire des départements concernés à toutes actions propres à faciliter la pratique du ski de fond et des loisirs
+de neige non motorisés autres que le ski alpin et notamment le développement des équipements, la coordination des actions de
+promotion et l'harmonisation du montant des redevances. 
+
+L'association nationale mentionnée au second alinéa dudit article L. 342-27 a pour objet d'assurer la promotion et le
+développement de la pratique du ski de fond et des loisirs de neige non motorisés autres que le ski alpin et des équipements
+nécessaires à leur déploiement ainsi que l'organisation de la formation des professionnels des sites nordiques.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - 3
-	  - Loi n°85-30 1985-01-09 art. 84, al
-	  - Loi n°85-30 du 9 janvier 1985 - art. 84 (M)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+	  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 70
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-27 (V)
 
 
 ##### Section 5 : Dépose de passagers en montagne.
