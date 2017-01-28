@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -4208,6 +4208,43 @@ publication de la présente loi.
 	  - Code du tourisme. - art. D325-5 (VD)
 
 
+#### Chapitre 5 : Villages de vacances et auberges de jeunesse
+
+##### Section 1 : Villages de vacances
+
+##### Section 2 : Auberges de jeunesse
+
+###### Article L325-2
+
+Une auberge de jeunesse est un établissement agréé au titre de sa mission d'intérêt général dans le domaine de l'éducation
+populaire et de la jeunesse, exploité par des personnes morales de droit public ou des organismes de droit privé
+bénéficiaires de l'agrément prévu à l'article 8 de la loi n° 2001-624 du 17 juillet 2001 portant diverses dispositions
+d'ordre social, éducatif et culturel, en vue d'accueillir principalement des jeunes pour une ou plusieurs nuitées, de
+faciliter leur mobilité dans des conditions qui assurent l'accessibilité de tous et de leur proposer des activités éducatives
+de découverte culturelle, des programmes d'éducation non formelle destinés à favoriser les échanges interculturels ainsi que
+la mixité sociale, dans le respect des principes de liberté de conscience et de non-discrimination.
+
+**Nota:**
+
+Conformément à l'article 65 II de la loi n° 2017-86 du 27 janvier 2017, les organismes constitués avant la publication de la
+présente loi qui utilisent dans leur dénomination les mots : "auberge de jeunesse" doivent se conformer aux articles L. 325-2
+et L. 412-3 du code du tourisme dans les six mois suivant la publication du décret prévu au même article L. 412-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 8
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 65 (V)
+
+	**Cité par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 65 (V)
+
+
 #### Chapitre 6 : Refuges de montagne
 
 ###### Article L326-1
@@ -6761,6 +6798,31 @@ pénal, les peines prévues par les 2°, 4° et 9° de l'article 131-39 du même
 	  - Code de l'action sociale et des familles - art. L313-1
 	  - Code du tourisme. - art. L211-1
 	  - Code du tourisme. - art. L211-2
+
+
+#####  Section 3 : Agrément délivré aux auberges de jeunesse pour leurs activités d'intérêt général
+
+
+###### Article L412-3
+
+L'agrément prévu à l'article L. 325-2 est délivré par l'Etat dans des conditions et selon des modalités fixées par décret en
+Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 65 II de la loi n° 2017-86 du 27 janvier  2017, les organismes constitués avant la publication de la
+présente loi  qui utilisent dans leur dénomination les mots : "auberge de jeunesse"  doivent se conformer aux articles L.
+325-2 et L. 412-3 du code du  tourisme dans les six mois suivant la publication du décret prévu au  même article L. 412-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 65 (V)
+
+	**Cité par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 65 (V)
 
 
 ### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.
