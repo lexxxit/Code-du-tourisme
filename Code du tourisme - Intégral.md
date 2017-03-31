@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-03-11
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -16567,29 +16567,24 @@ transports.
 ###### Article R342-24
 
 Lorsqu'une remontée mécanique emprunte un tunnel d'une longueur de plus de 300 mètres, l'avis sur la sécurité mentionné à
-l'article R. 472-4-5° du code de l'urbanisme est émis par un expert ou organisme qualifié agréé en application de l'article 7
-du décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés, indépendant du maître d'ouvrage, du
-maître d'oeuvre, du ou des constructeurs et de l'exploitant de l'installation.
+l'article R. 472-4-5° du code de l'urbanisme est émis par un organisme qualifié mentionné à l'article 4 du décret n° 2017-440
+du 30 mars 2017 relatif à la sécurité des transports publics guidés, indépendant du maître d'ouvrage, du maître d'oeuvre, du
+ou des constructeurs et de l'exploitant de l'installation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
-	  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
-
 	**Cite**:
 
-	  - Décret n°2003-425 du 9 mai 2003 (V)
+	  - Décret n°2003-425 du 9 mai 2003
 	  - Code de l'urbanisme - art. R472-4 (V)
 
 	**Codifié par**:
 
-	  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+	  - Décret n°2006-1229 du 6 octobre 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+	  - Décret n°2017-440 du 30 mars 2017 - art. 101
 
 
 ###### Article R342-25
