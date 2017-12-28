@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-12-29
 
 # Partie législative
 
@@ -4904,18 +4904,19 @@ Les conditions d'application de la présente section sont, en tant que de besoin
 
 ###### Article L342-6
 
-Les règles relatives aux unités touristiques nouvelles sont fixées par les articles L. 122-15 à L. 122-23 du code de
+Les règles relatives aux unités touristiques nouvelles sont fixées par les articles L. 122-15 à L. 122-25 du code de
 l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-15 (VD)
+	  - Code de l'urbanisme - art. L122-15
+	  - Code de l'urbanisme - art. L122-25
 
 
 ##### Section 3 : Remontées mécaniques et pistes de ski.
